@@ -1,188 +1,199 @@
-// ERC-8004 Registry
-const PER_PAGE = 50;
-let agents = [];
-let filtered = [];
-let page = 1;
+/**
+ * ERC-8004 Catalog Frontend
+ * Fetches from /api/* endpoints with edge caching
+ */
 
-const $ = s => document.querySelector(s);
-const $$ = s => document.querySelectorAll(s);
+const API_BASE = '/api';
+const PAGE_SIZE = 50;
 
-async function loadAgents() {
-  const agentsEl = $('#agents');
-  
-  try {
-    // Load all agent files from the data directory
-    const indexRes = await fetch('data/index.json');
-    const index = await indexRes.json();
-    
-    // Update count
-    $('#total-count').textContent = `${index.agents?.length || 0} agents`;
-    
-    if (!index.agents?.length) {
-      agentsEl.innerHTML = '<div class="empty">No agents found.</div>';
-      return;
-    }
-    
-    // Load agents in batches
-    agentsEl.innerHTML = '<div class="loading">Loading...</div>';
-    
-    const batchSize = 100;
-    for (let i = 0; i < index.agents.length; i += batchSize) {
-      const batch = index.agents.slice(i, i + batchSize);
-      const results = await Promise.all(
-        batch.map(id => 
-          fetch(`data/agents/${id}.json`)
-            .then(r => r.json())
-            .catch(() => null)
-        )
-      );
-      agents.push(...results.filter(Boolean));
-      
-      // Update loading progress
-      const pct = Math.round((agents.length / index.agents.length) * 100);
-      agentsEl.innerHTML = `<div class="loading">Loading ${agents.length}/${index.agents.length} (${pct}%)</div>`;
-    }
-    
-    filtered = [...agents];
-    render();
-    
-  } catch (err) {
-    console.error(err);
-    agentsEl.innerHTML = '<div class="empty">Failed to load agents.</div>';
-  }
-}
+let currentPage = 1;
+let currentQuery = '';
+let currentChain = '';
+let totalPages = 1;
 
-function render() {
-  const agentsEl = $('#agents');
-  const start = (page - 1) * PER_PAGE;
-  const pageAgents = filtered.slice(start, start + PER_PAGE);
+// DOM Elements
+const agentsContainer = document.getElementById('agents');
+const searchInput = document.getElementById('search');
+const totalCount = document.getElementById('total-count');
+const pagination = document.getElementById('pagination');
+
+// Initialize
+document.addEventListener('DOMContentLoaded', async () => {
+  await loadStats();
+  await loadAgents();
   
-  if (pageAgents.length === 0) {
-    agentsEl.innerHTML = '<div class="empty">No agents match your search.</div>';
-    $('#pagination').innerHTML = '';
-    return;
-  }
-  
-  agentsEl.innerHTML = pageAgents.map(a => `
-    <div class="agent" data-id="${a.id}">
-      <div class="agent-main">
-        <div class="agent-name">
-          ${esc(a.name || 'Unnamed')}
-          <code>#${a.id}</code>
-        </div>
-        <div class="agent-desc">${esc(a.description || '—')}</div>
-      </div>
-      <div class="agent-meta">
-        <span class="agent-chain">${a.chain || 'eth'}</span>
-        <span>${truncAddr(a.owner)}</span>
-      </div>
-    </div>
-  `).join('');
-  
-  // Add click handlers
-  $$('.agent').forEach(el => {
-    el.addEventListener('click', () => showModal(el.dataset.id));
+  // Search with debounce
+  let searchTimeout;
+  searchInput.addEventListener('input', (e) => {
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(() => {
+      currentQuery = e.target.value.trim();
+      currentPage = 1;
+      loadAgents();
+    }, 300);
   });
   
-  renderPagination();
-}
-
-function renderPagination() {
-  const totalPages = Math.ceil(filtered.length / PER_PAGE);
-  if (totalPages <= 1) {
-    $('#pagination').innerHTML = '';
-    return;
+  // Handle URL params
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('q')) {
+    searchInput.value = params.get('q');
+    currentQuery = params.get('q');
   }
-  
-  $('#pagination').innerHTML = `
-    <button ${page === 1 ? 'disabled' : ''} onclick="goPage(${page - 1})">← Prev</button>
-    <span class="page-info">${page} / ${totalPages}</span>
-    <button ${page === totalPages ? 'disabled' : ''} onclick="goPage(${page + 1})">Next →</button>
-  `;
-}
-
-function goPage(p) {
-  page = p;
-  render();
-  window.scrollTo({ top: 0, behavior: 'smooth' });
-}
-
-function search(q) {
-  q = q.toLowerCase().trim();
-  if (!q) {
-    filtered = [...agents];
-  } else {
-    filtered = agents.filter(a => {
-      const searchable = [a.name, a.description, a.owner, a.id?.toString()].join(' ').toLowerCase();
-      return searchable.includes(q);
-    });
+  if (params.get('chain')) {
+    currentChain = params.get('chain');
   }
-  page = 1;
-  render();
-}
-
-function showModal(id) {
-  const agent = agents.find(a => a.id == id);
-  if (!agent) return;
-  
-  const modal = document.createElement('div');
-  modal.className = 'modal-overlay active';
-  modal.innerHTML = `
-    <div class="modal">
-      <div class="modal-header">
-        <h2>${esc(agent.name || 'Unnamed')} #${agent.id}</h2>
-        <button class="modal-close" onclick="this.closest('.modal-overlay').remove()">×</button>
-      </div>
-      <div class="modal-body">
-        <dl>
-          <dt>Owner</dt>
-          <dd><a href="https://etherscan.io/address/${agent.owner}" target="_blank">${agent.owner}</a></dd>
-          <dt>Description</dt>
-          <dd>${esc(agent.description || '—')}</dd>
-          ${agent.services?.length ? `
-            <dt>Services</dt>
-            <dd>${agent.services.map(s => esc(s.name || s.type)).join(', ')}</dd>
-          ` : ''}
-        </dl>
-        <h3 style="margin: 1rem 0 0.5rem; font-size: 0.875rem;">Raw</h3>
-        <pre>${esc(JSON.stringify(agent, null, 2))}</pre>
-      </div>
-    </div>
-  `;
-  modal.addEventListener('click', e => {
-    if (e.target === modal) modal.remove();
-  });
-  document.body.appendChild(modal);
-}
-
-function esc(s) {
-  if (!s) return '';
-  const d = document.createElement('div');
-  d.textContent = s;
-  return d.innerHTML;
-}
-
-function truncAddr(a) {
-  if (!a) return '';
-  return a.slice(0, 6) + '…' + a.slice(-4);
-}
-
-// Debounce helper
-function debounce(fn, ms) {
-  let t;
-  return (...args) => {
-    clearTimeout(t);
-    t = setTimeout(() => fn(...args), ms);
-  };
-}
-
-// Init
-$('#search').addEventListener('input', debounce(e => search(e.target.value), 200));
-document.addEventListener('keydown', e => {
-  if (e.key === 'Escape') {
-    document.querySelector('.modal-overlay')?.remove();
+  if (params.get('page')) {
+    currentPage = parseInt(params.get('page'));
   }
 });
 
-window.goPage = goPage;
-loadAgents();
+async function loadStats() {
+  try {
+    const res = await fetch(`${API_BASE}/stats`);
+    const data = await res.json();
+    totalCount.textContent = `${data.total.toLocaleString()} agents`;
+  } catch (err) {
+    console.error('Failed to load stats:', err);
+  }
+}
+
+async function loadAgents() {
+  agentsContainer.innerHTML = '<div class="loading">Loading agents...</div>';
+  
+  const params = new URLSearchParams();
+  params.set('page', currentPage);
+  params.set('limit', PAGE_SIZE);
+  if (currentQuery) params.set('q', currentQuery);
+  if (currentChain) params.set('chain', currentChain);
+  
+  // Update URL
+  const url = new URL(window.location);
+  url.search = params.toString();
+  window.history.replaceState({}, '', url);
+  
+  try {
+    const res = await fetch(`${API_BASE}/agents?${params}`);
+    const data = await res.json();
+    
+    if (data.error) {
+      agentsContainer.innerHTML = `<div class="error">${data.error}</div>`;
+      return;
+    }
+    
+    totalPages = data.pagination.pages;
+    
+    if (data.agents.length === 0) {
+      agentsContainer.innerHTML = '<div class="empty">No agents found</div>';
+      pagination.innerHTML = '';
+      return;
+    }
+    
+    renderAgents(data.agents);
+    renderPagination(data.pagination);
+  } catch (err) {
+    agentsContainer.innerHTML = `<div class="error">Failed to load agents: ${err.message}</div>`;
+  }
+}
+
+function renderAgents(agents) {
+  agentsContainer.innerHTML = agents.map(agent => {
+    const meta = agent.metadata || {};
+    const name = meta.name || agent.name || `Agent #${agent.token_id}`;
+    const description = meta.description || '';
+    const chainLabel = agent.chain === 'base' ? '🔵 Base' : '🔷 Ethereum';
+    
+    return `
+      <article class="agent-card" data-id="${agent.token_id}">
+        <div class="agent-header">
+          <h3 class="agent-name">${escapeHtml(name)}</h3>
+          <span class="agent-chain">${chainLabel}</span>
+        </div>
+        ${description ? `<p class="agent-desc">${escapeHtml(truncate(description, 200))}</p>` : ''}
+        <div class="agent-footer">
+          <code class="agent-id">#${agent.token_id}</code>
+          <span class="agent-owner" title="${agent.owner}">${truncateAddress(agent.owner)}</span>
+        </div>
+      </article>
+    `;
+  }).join('');
+}
+
+function renderPagination({ page, pages, total }) {
+  if (pages <= 1) {
+    pagination.innerHTML = '';
+    return;
+  }
+  
+  let html = '<div class="pagination-inner">';
+  
+  // Prev
+  if (page > 1) {
+    html += `<button onclick="goToPage(${page - 1})">← Prev</button>`;
+  }
+  
+  // Page numbers
+  const range = getPageRange(page, pages);
+  for (const p of range) {
+    if (p === '...') {
+      html += '<span class="ellipsis">...</span>';
+    } else {
+      html += `<button class="${p === page ? 'active' : ''}" onclick="goToPage(${p})">${p}</button>`;
+    }
+  }
+  
+  // Next
+  if (page < pages) {
+    html += `<button onclick="goToPage(${page + 1})">Next →</button>`;
+  }
+  
+  html += `<span class="page-info">Page ${page} of ${pages}</span>`;
+  html += '</div>';
+  
+  pagination.innerHTML = html;
+}
+
+function goToPage(page) {
+  currentPage = page;
+  loadAgents();
+  window.scrollTo(0, 0);
+}
+
+function getPageRange(current, total) {
+  if (total <= 7) {
+    return Array.from({ length: total }, (_, i) => i + 1);
+  }
+  
+  const range = [];
+  range.push(1);
+  
+  if (current > 3) range.push('...');
+  
+  for (let i = Math.max(2, current - 1); i <= Math.min(total - 1, current + 1); i++) {
+    range.push(i);
+  }
+  
+  if (current < total - 2) range.push('...');
+  
+  range.push(total);
+  
+  return range;
+}
+
+// Utilities
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+function truncate(str, len) {
+  return str.length > len ? str.slice(0, len) + '...' : str;
+}
+
+function truncateAddress(addr) {
+  if (!addr) return '';
+  return `${addr.slice(0, 6)}...${addr.slice(-4)}`;
+}
+
+// Expose for onclick handlers
+window.goToPage = goToPage;

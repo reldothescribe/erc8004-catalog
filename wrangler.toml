@@ -1,0 +1,8 @@
+name = "erc8004-catalog"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "erc8004-catalog"
+database_id = "ebe77813-bf19-40d1-bb7a-d11a23fa7414"

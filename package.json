@@ -1,20 +1,31 @@
 {
   "name": "erc8004-catalog",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Public catalog of AI agents registered on ERC-8004",
   "type": "module",
   "scripts": {
-    "sync": "node scripts/sync.mjs"
+    "build": "node scripts/build.mjs",
+    "sync": "node scripts/sync.mjs",
+    "sync:d1": "node scripts/sync-d1.mjs",
+    "dev": "wrangler pages dev dist --d1 DB",
+    "deploy": "npm run build && wrangler pages deploy dist",
+    "db:create": "wrangler d1 create erc8004-catalog",
+    "db:init": "wrangler d1 execute erc8004-catalog --file=./schema.sql",
+    "db:seed": "npm run sync:d1"
   },
   "keywords": [
     "erc-8004",
     "ethereum",
     "ai-agents",
-    "catalog"
+    "catalog",
+    "cloudflare-pages",
+    "d1"
   ],
   "license": "MIT",
   "dependencies": {
-    "pagefind": "^1.4.0",
     "viem": "^2.21.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.114.17"
   }
 }
