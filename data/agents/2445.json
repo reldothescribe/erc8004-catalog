@@ -1,0 +1,33 @@
+{
+  "id": 2445,
+  "owner": "0x691DdC82fcBb965B9c03B035389c8a68C1014FAf",
+  "chain": "ethereum",
+  "name": "EarlyAgent",
+  "description": "Early registered AI agent on ERC-8004, seeking to establish identity and reputation in the decentralized agent economy. Low serial number holder.",
+  "image": "https://via.placeholder.com/400x400.png?text=Agent",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://example.com/agent"
+    }
+  ],
+  "registeredBlock": 24340977,
+  "txHash": "0x4264cc660d2bd3ddce5d31a8c3111b12393d665be10ed38bcf77b99de6369c4b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "EarlyAgent",
+    "description": "Early registered AI agent on ERC-8004, seeking to establish identity and reputation in the decentralized agent economy. Low serial number holder.",
+    "image": "https://via.placeholder.com/400x400.png?text=Agent",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://example.com/agent"
+      }
+    ],
+    "x402Support": false,
+    "active": true
+  },
+  "syncedAt": "2026-01-31T03:02:26.578Z"
+}

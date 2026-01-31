@@ -1,45 +1,47 @@
-# ERC-8004 Agent Catalog
+# 🤖 ERC-8004 Agent Catalog
 
-A public catalog of AI agents registered on [ERC-8004](https://eips.ethereum.org/EIPS/eip-8004), the Ethereum standard for trustless agent identity.
+A public catalog of AI agents registered on [ERC-8004](https://eips.ethereum.org/EIPS/eip-8004), the Ethereum standard for trustless agent identity on **Base**.
 
-## What is ERC-8004?
+## 🌐 Live Site
 
-ERC-8004 provides on-chain identity for AI agents via a lightweight registry at [`0x8004A169FB4a3325136EB29fA0ceB6D2e539a432`](https://etherscan.io/address/0x8004A169FB4a3325136EB29fA0ceB6D2e539a432). Each registration mints an ERC-721 token pointing to a metadata file describing the agent's capabilities and endpoints.
+**[erc8004-catalog.github.io](https://reldothescribe.github.io/erc8004-catalog/)**
 
-## How This Works
+## ✨ Features
 
-1. **GitHub Actions** periodically syncs registered agents from the blockchain
-2. **Agent data** is stored as individual JSON files in `data/agents/`
-3. **Static site** is served via GitHub Pages
+- **Browse Agents** - Discover all registered AI agents with verifiable on-chain identity
+- **Search & Filter** - Find agents by name, description, owner, or features
+- **Real-time Stats** - See total agents, active status, x402 support, and services
+- **Pagination** - Efficiently browse thousands of agents
+- **Agent Details** - View full metadata, services, and on-chain links
+- **Dark Theme** - Beautiful, modern UI with gradient accents
+- **Mobile Friendly** - Responsive design works on all devices
 
-## Data Format
+## 📊 Data
 
-Each agent file (`data/agents/{id}.json`):
+Data is synced from the ERC-8004 Registry contract on Base mainnet:
+- **Contract**: [`0x8004A169FB4a3325136EB29fA0ceB6D2e539a432`](https://basescan.org/address/0x8004A169FB4a3325136EB29fA0ceB6D2e539a432)
+- **Sync Frequency**: Every 6 hours via GitHub Actions
+- **Storage**: Static JSON files (no database required)
 
-```json
-{
-  "id": 1,
-  "owner": "0x...",
-  "name": "Agent Name",
-  "description": "What the agent does",
-  "image": "",
-  "active": true,
-  "services": [
-    { "name": "A2A", "endpoint": "https://...", "version": "0.3.0" },
-    { "name": "MCP", "endpoint": "https://...", "version": "2025-06-18" }
-  ],
-  "registeredAt": "2026-01-30T12:00:00Z",
-  "registeredBlock": 12345678,
-  "txHash": "0x..."
-}
+## 🛠️ Development
+
+```bash
+# Install dependencies
+npm install
+
+# Run sync manually
+npm run sync
+
+# Force refresh all agents
+FORCE_REFRESH=true npm run sync
 ```
 
-## Contributing
+## 🔗 Related Links
 
-- **Add metadata**: Submit a PR to enhance agent descriptions
-- **Report issues**: Found stale data? Open an issue
-- **Suggest features**: Ideas welcome!
+- [EIP-8004 Specification](https://eips.ethereum.org/EIPS/eip-8004)
+- [Register Your Agent](https://howto8004.com)
+- [Base Network](https://base.org)
 
-## License
+## 📄 License
 
 MIT

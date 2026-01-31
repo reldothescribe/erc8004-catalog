@@ -3,45 +3,94 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ERC-8004 Agent Catalog</title>
-  <meta name="description" content="Public catalog of AI agents registered on ERC-8004, the Ethereum standard for trustless agent identity.">
+  <title>ERC-8004 Agent Catalog | Discover AI Agents on Base</title>
+  <meta name="description" content="Browse and discover AI agents registered on ERC-8004, the standard for trustless agent identity on Base.">
+  <meta property="og:title" content="ERC-8004 Agent Catalog">
+  <meta property="og:description" content="Discover AI agents with on-chain identity on Base">
+  <meta property="og:type" content="website">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
 </head>
 <body>
   <header>
-    <h1>🤖 ERC-8004 Agent Catalog</h1>
-    <p>Discover AI agents registered on <a href="https://eips.ethereum.org/EIPS/eip-8004" target="_blank">ERC-8004</a></p>
+    <div class="logo">🤖</div>
+    <h1>ERC-8004 Agent Catalog</h1>
+    <p>Discover AI agents with verifiable on-chain identity on <a href="https://base.org" target="_blank">Base</a></p>
   </header>
   
   <main>
-    <section class="stats">
-      <div class="stat">
-        <span class="stat-value" id="total-agents">-</span>
-        <span class="stat-label">Registered Agents</span>
+    <section class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-value" id="stat-total">-</div>
+        <div class="stat-label">Total Agents</div>
       </div>
-      <div class="stat">
-        <span class="stat-value" id="last-sync">-</span>
-        <span class="stat-label">Last Sync</span>
+      <div class="stat-card success">
+        <div class="stat-value" id="stat-active">-</div>
+        <div class="stat-label">Active</div>
+      </div>
+      <div class="stat-card warning">
+        <div class="stat-value" id="stat-x402">-</div>
+        <div class="stat-label">x402 Enabled</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="stat-services">-</div>
+        <div class="stat-label">With Services</div>
       </div>
     </section>
 
-    <section class="search">
-      <input type="text" id="search" placeholder="Search agents by name or description..." />
+    <section class="controls">
+      <div class="search-box">
+        <input type="text" id="search" placeholder="Search agents by name, description, or address..." />
+      </div>
+      
+      <div class="filter-group">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="active">Active</button>
+        <button class="filter-btn" data-filter="x402">x402</button>
+        <button class="filter-btn" data-filter="services">Services</button>
+      </div>
+      
+      <select class="sort-select" id="sort">
+        <option value="newest">Newest First</option>
+        <option value="oldest">Oldest First</option>
+        <option value="name">Name A-Z</option>
+        <option value="name-desc">Name Z-A</option>
+      </select>
     </section>
 
-    <section class="agents" id="agents-grid">
-      <p class="loading">Loading agents...</p>
+    <section class="agents-grid" id="agents-grid">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        <p>Loading agents from Base...</p>
+      </div>
     </section>
+
+    <div class="pagination" id="pagination"></div>
   </main>
 
   <footer>
-    <p>
-      Data sourced from <a href="https://etherscan.io/address/0x8004A169FB4a3325136EB29fA0ceB6D2e539a432" target="_blank">ERC-8004 Registry</a> on Ethereum Mainnet.
-      <br>
-      <a href="https://github.com/YOUR_USERNAME/erc8004-catalog" target="_blank">View on GitHub</a> · 
-      <a href="https://howto8004.com" target="_blank">Register Your Agent</a>
-    </p>
+    <div class="footer-links">
+      <a href="https://basescan.org/address/0x8004A169FB4a3325136EB29fA0ceB6D2e539a432" target="_blank">📜 Registry Contract</a>
+      <a href="https://eips.ethereum.org/EIPS/eip-8004" target="_blank">📋 EIP-8004</a>
+      <a href="https://howto8004.com" target="_blank">➕ Register Agent</a>
+      <a href="https://github.com/reldothescribe/erc8004-catalog" target="_blank">⭐ GitHub</a>
+    </div>
+    <p>Data synced from Base mainnet every 6 hours · Last sync: <span id="last-sync">-</span></p>
   </footer>
+
+  <!-- Agent Detail Modal -->
+  <div class="modal-overlay" id="modal">
+    <div class="modal">
+      <div class="modal-header">
+        <h2 id="modal-title">Agent Details</h2>
+        <button class="modal-close" onclick="closeModal()">×</button>
+      </div>
+      <div class="modal-body" id="modal-body"></div>
+    </div>
+  </div>
 
   <script src="assets/app.js"></script>
 </body>

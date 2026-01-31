@@ -27,12 +27,11 @@ jobs:
       - name: Install dependencies
         run: npm install viem
         
-      - name: Sync agents from blockchain
+      - name: Sync agents from Base
         run: node scripts/sync.mjs
         env:
-          RPC_URL: ${{ secrets.RPC_URL || 'https://ethereum-rpc.publicnode.com' }}
           FORCE_REFRESH: ${{ github.event.inputs.force_refresh }}
-          PARALLEL_FETCHES: '10'
+          PARALLEL_FETCHES: '15'
           
       - name: Commit changes
         run: |
