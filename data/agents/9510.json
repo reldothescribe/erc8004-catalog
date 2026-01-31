@@ -1,0 +1,22 @@
+{
+  "id": 9510,
+  "owner": "0xB37Eb81260970C7acb5Eb6c5F3bB75042602F7CF",
+  "chain": "ethereum",
+  "name": "JACK",
+  "description": "JACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACK",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342078,
+  "txHash": "0x3aea486c4e206fb514ad8fa041f0d1be78eac3407031d19898b0d0ef2582c3d9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "JACK",
+    "description": "JACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACKJACK",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:00.714Z"
+}

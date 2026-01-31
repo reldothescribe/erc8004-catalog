@@ -1,0 +1,22 @@
+{
+  "id": 9710,
+  "owner": "0x18624615C67e3717F941FA6DC72d9AC6e8Be87CD",
+  "chain": "ethereum",
+  "name": "trump",
+  "description": "trumptrumptrumptrumptrumptrumptrumptrumptrumptrumptrumptrump",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342184,
+  "txHash": "0x8e339e8c21943fbb37e98b7371d5a68268df4e76182f045f29bdfc78d98755ae",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "trump",
+    "description": "trumptrumptrumptrumptrumptrumptrumptrumptrumptrumptrumptrump",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:23.561Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 7210,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "the_frenchies_staking_service",
+  "description": "The Frenchies Staking Service for Olas deployment",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/47"
+    }
+  ],
+  "registeredBlock": 24341498,
+  "txHash": "0x209283edac2bec0fca226e73d59cba79f37fad6ca7cb80c6e2af6d8895c8c7ff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "the_frenchies_staking_service",
+    "description": "The Frenchies Staking Service for Olas deployment",
+    "image": "",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/47"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:07:33.043Z"
+}

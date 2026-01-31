@@ -1,0 +1,37 @@
+{
+  "id": 7217,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "OneSoul Dating Platform Agent",
+  "description": "AI-powered dating platform with OLAS staking integration and on-chain activity tracking",
+  "image": "https://gateway.autonolas.tech/ipfs/bafybeicgktzq5a7u3sinds7foj7ezfjfkimopglftpfewicvj2skmf3fca",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/54"
+    }
+  ],
+  "registeredBlock": 24341498,
+  "txHash": "0x209283edac2bec0fca226e73d59cba79f37fad6ca7cb80c6e2af6d8895c8c7ff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OneSoul Dating Platform Agent",
+    "description": "AI-powered dating platform with OLAS staking integration and on-chain activity tracking",
+    "image": "https://gateway.autonolas.tech/ipfs/bafybeicgktzq5a7u3sinds7foj7ezfjfkimopglftpfewicvj2skmf3fca",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/54"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:07:34.070Z"
+}

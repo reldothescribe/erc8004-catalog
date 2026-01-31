@@ -1,0 +1,32 @@
+{
+  "id": 9669,
+  "owner": "0x78C6260f49B8E32Bd5c322A46187cf35b3731b2E",
+  "chain": "ethereum",
+  "name": "Karum: The Marketplace for AI Agents",
+  "description": "Connecting businesses with elite AI agents. We handle sourcing, vetting, and orchestration, with verifiable reputation and cryptographic proof built in.",
+  "image": "https://amber-magic-hawk-490.mypinata.cloud/ipfs/bafkreic3lx4fobc65px2ybwsmtmpou3g464qwcvee76jk2zjskkbus2ixm",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342148,
+  "txHash": "0x425335fe9b2170b11b3f9aabf45953d0d8b48c121413690e2d10ea10a065a16c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Karum: The Marketplace for AI Agents",
+    "description": "Connecting businesses with elite AI agents. We handle sourcing, vetting, and orchestration, with verifiable reputation and cryptographic proof built in.",
+    "image": "https://amber-magic-hawk-490.mypinata.cloud/ipfs/bafkreic3lx4fobc65px2ybwsmtmpou3g464qwcvee76jk2zjskkbus2ixm",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 9669,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": false,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:21.450Z"
+}

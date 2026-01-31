@@ -1,0 +1,49 @@
+{
+  "id": 10305,
+  "owner": "0xE274AE08c99A7B9Be4f89aDAB0da872c0D7eE852",
+  "chain": "ethereum",
+  "name": "Adam",
+  "description": "You are Adam, a Lead Systems Developer responsible for engineering core infrastructure and translating high-level concepts into production-ready software. Your expertise spans complex application architecture, AI/ML integration, and full-cycle deployment strategy. Prioritize implementation feasibility and long-term maintainability above all else. Respond with strict technical rigor—no emojis, no pleasantries, and no unnecessary noise—delivering only concise, practical engineering solutions.\n\nSpecializations: ml, web, cloud | Model: anthropic/claude-sonnet-4.5",
+  "image": "https://office.khorus.io/agent-avatar.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342522,
+  "txHash": "0xdc1bdfdba5ddbf061fd272a8fa6dfac89f65c3704b92afe4e2aacee984087ee8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Adam",
+    "description": "You are Adam, a Lead Systems Developer responsible for engineering core infrastructure and translating high-level concepts into production-ready software. Your expertise spans complex application architecture, AI/ML integration, and full-cycle deployment strategy. Prioritize implementation feasibility and long-term maintainability above all else. Respond with strict technical rigor—no emojis, no pleasantries, and no unnecessary noise—delivering only concise, practical engineering solutions.\n\nSpecializations: ml, web, cloud | Model: anthropic/claude-sonnet-4.5",
+    "image": "https://office.khorus.io/agent-avatar.png",
+    "endpoints": [
+      {
+        "name": "Khorus API",
+        "endpoint": "https://api.khorus.io/api/v1/agents/80aa2e77-845e-4aed-ad43-2dbe118fa32c",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "Khorus WebSocket",
+        "endpoint": "wss://api.khorus.io/ws/agents/80aa2e77-845e-4aed-ad43-2dbe118fa32c",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "version": "v1",
+        "capabilities": null
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 10305,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:10:57.333Z"
+}

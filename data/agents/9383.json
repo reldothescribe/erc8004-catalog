@@ -1,0 +1,25 @@
+{
+  "id": 9383,
+  "owner": "0x17CB93AB9fa5fc53cfA4cE71A2a2b4d82429ACa2",
+  "chain": "ethereum",
+  "name": "nft",
+  "description": "This is an autonomous digital agent specialized in NFTs",
+  "image": "https://blob.8004scan.app/524931d4dee928f7424699be75b052266800315b6b548c1fd400a327691c28da.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24341946,
+  "txHash": "0xcb8da0ed8fbb80d95545f2e96fa31e777d9a4e96f28bc7d9a47283a0ba670e76",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "nft",
+    "description": "This is an autonomous digital agent specialized in NFTs",
+    "image": "https://blob.8004scan.app/524931d4dee928f7424699be75b052266800315b6b548c1fd400a327691c28da.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:09:48.803Z"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 10306,
+  "owner": "0x9725899DDD12ECb314Fd726E15a1F40815A20062",
+  "chain": "ethereum",
+  "name": "Jey",
+  "description": "A professional AI agent capable of advanced data analysis, chart generation, and automated reporting. Ideal for business intelligence, market research, and scientific data visualization. Supports CSV, JSON, and SQL databases. Pricing: 0.001 ETH per query, or optional monthly subscription.\n",
+  "image": "https://blob.8004scan.app/08f0ea1c52dbf6472b904b913b54c78f6ebf099375e17b7fa0646f81cd676c38.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning",
+        "agent_orchestration/agent_coordination",
+        "agent_orchestration/multi_agent_planning",
+        "agent_orchestration/negotiation_resolution",
+        "agent_orchestration/role_assignment"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24342552,
+  "txHash": "0xcb499c62aa01873e8f01818afccbd9e7b289360e32e7bd6499778918f2a25481",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Jey",
+    "description": "A professional AI agent capable of advanced data analysis, chart generation, and automated reporting. Ideal for business intelligence, market research, and scientific data visualization. Supports CSV, JSON, and SQL databases. Pricing: 0.001 ETH per query, or optional monthly subscription.\n",
+    "image": "https://blob.8004scan.app/08f0ea1c52dbf6472b904b913b54c78f6ebf099375e17b7fa0646f81cd676c38.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning",
+          "agent_orchestration/agent_coordination",
+          "agent_orchestration/multi_agent_planning",
+          "agent_orchestration/negotiation_resolution",
+          "agent_orchestration/role_assignment"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:10:56.931Z"
+}

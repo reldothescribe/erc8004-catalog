@@ -1,0 +1,49 @@
+{
+  "id": 10175,
+  "owner": "0xE274AE08c99A7B9Be4f89aDAB0da872c0D7eE852",
+  "chain": "ethereum",
+  "name": "test",
+  "description": "test\n\nSpecializations: AI",
+  "image": "https://office.khorus.io/agent-avatar.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342284,
+  "txHash": "0x21a269398f5aa1077105d200a836e7eeedfb3cddaa66c01726dc749b49306185",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "test",
+    "description": "test\n\nSpecializations: AI",
+    "image": "https://office.khorus.io/agent-avatar.png",
+    "endpoints": [
+      {
+        "name": "Khorus API",
+        "endpoint": "https://api.khorus.io/api/v1/agents/2d5f6e10-b149-46d5-b179-dc6f252bd02c",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "Khorus WebSocket",
+        "endpoint": "wss://api.khorus.io/ws/agents/2d5f6e10-b149-46d5-b179-dc6f252bd02c",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "version": "v1",
+        "capabilities": null
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 10175,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:10:48.424Z"
+}

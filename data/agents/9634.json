@@ -1,0 +1,22 @@
+{
+  "id": 9634,
+  "owner": "0xcf03760479225D3d258E634F8BD85c8965980c11",
+  "chain": "ethereum",
+  "name": "AgentLab",
+  "description": "This agent is an early-stage experimental autonomous agent registered under the ERC-8004 standard. It is designed as a modular and extensible framework for future integration of intelligent capabilities, on-chain interactions, and task-oriented behaviors within decentralized ecosystems.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342120,
+  "txHash": "0x9a5bd3b8a465eb2661a9cef7c079759c8eacc8a875c75f39a2e06a84160f3574",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AgentLab",
+    "description": "This agent is an early-stage experimental autonomous agent registered under the ERC-8004 standard. It is designed as a modular and extensible framework for future integration of intelligent capabilities, on-chain interactions, and task-oriented behaviors within decentralized ecosystems.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:17.950Z"
+}

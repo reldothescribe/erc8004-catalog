@@ -1,0 +1,22 @@
+{
+  "id": 10296,
+  "owner": "0x2205f4F9a93a83befADb2757194F8ABC065EA67C",
+  "chain": "ethereum",
+  "name": "Yilai",
+  "description": "MAGICMAGICMAGICMAGICMAGICMAGICMAGICMAGICMAGICMAGIC",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342471,
+  "txHash": "0x97d042ef26e51ad3d4114c59a38219ef790d048d63c43bea67ef33e21ffbf137",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Yilai",
+    "description": "MAGICMAGICMAGICMAGICMAGICMAGICMAGICMAGICMAGICMAGIC",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:55.869Z"
+}

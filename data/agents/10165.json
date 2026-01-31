@@ -1,0 +1,27 @@
+{
+  "id": 10165,
+  "owner": "0x4059E94F431b2C48373c3CF962b257b7A4b1dc63",
+  "chain": "ethereum",
+  "name": "moer8",
+  "description": "6666979976646976616979661667994676691976619997666499",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24342228,
+  "txHash": "0xfeb0dd0405a8357c73e6efe53522fda0d9ee18b99595c85a12317ae15b8993a6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "moer8",
+    "description": "6666979976646976616979661667994676691976619997666499",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:10:46.706Z"
+}

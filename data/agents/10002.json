@@ -1,0 +1,22 @@
+{
+  "id": 10002,
+  "owner": "0x91a208A102D75E2B83bDBE1741957d325Ea42AFe",
+  "chain": "ethereum",
+  "name": "777",
+  "description": "ASKDAKSJAHDUIQWHEIDHASKJCNZKJXBZKXCJIKAJIJQWNKLNDC",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342224,
+  "txHash": "0x21144bfe733a23b151ed25a04324a6115545594c4fa5157020dfe92f3f4795a9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "777",
+    "description": "ASKDAKSJAHDUIQWHEIDHASKJCNZKJXBZKXCJIKAJIJQWNKLNDC",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:38.192Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 9656,
+  "owner": "0xcf03760479225D3d258E634F8BD85c8965980c11",
+  "chain": "ethereum",
+  "name": "ProtoAgent",
+  "description": "This agent is an early-stage experimental autonomous agent registered under the ERC-8004 standard. It is designed as a modular and extensible framework for future integration of intelligent capabilities, on-chain interactions, and task-oriented behaviors within decentralized ecosystems.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342139,
+  "txHash": "0x20b4ddd0911319d0675d65bb1d589da0956b179d005718ddd41b9a38c6d68a11",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ProtoAgent",
+    "description": "This agent is an early-stage experimental autonomous agent registered under the ERC-8004 standard. It is designed as a modular and extensible framework for future integration of intelligent capabilities, on-chain interactions, and task-oriented behaviors within decentralized ecosystems.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:19.140Z"
+}

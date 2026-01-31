@@ -1,0 +1,56 @@
+{
+  "id": 9402,
+  "owner": "0x9E2218375567BB466b81E38E1a8b599b6250408C",
+  "chain": "ethereum",
+  "name": "EthosAgent",
+  "description": "An autonomous reputation and trust verification agent for X (Twitter) powered by the Ethos Network. Instantly check any user's credibility score to identify potential grifters, retrieve detailed reputation profiles, and permanently save tweets as onchain reviews. Features natural language processing—just mention the agent conversationally without memorizing commands. Core functions: credibility checks (\"is this person a grifter?\"), profile lookups, and immutable tweet archiving on the blockchain. Ranked #5 among AI agents on Ethos with 88% credibility.",
+  "image": "https://blob.8004scan.app/b236ca3ed1039836909ffc475291926ba2e089f5f0699c04c0753c78123b580b.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://x.com/ethosAgent"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "natural_language_processing/analytical_reasoning/inference_deduction",
+        "natural_language_processing/information_retrieval_synthesis/information_retrieval_synthesis"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24342051,
+  "txHash": "0x7ecfc99a7ff98b88b6d0d6b42c4d74627de868e91484806a5ad932a8432533c4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "EthosAgent",
+    "description": "An autonomous reputation and trust verification agent for X (Twitter) powered by the Ethos Network. Instantly check any user's credibility score to identify potential grifters, retrieve detailed reputation profiles, and permanently save tweets as onchain reviews. Features natural language processing—just mention the agent conversationally without memorizing commands. Core functions: credibility checks (\"is this person a grifter?\"), profile lookups, and immutable tweet archiving on the blockchain. Ranked #5 among AI agents on Ethos with 88% credibility.",
+    "image": "https://blob.8004scan.app/b236ca3ed1039836909ffc475291926ba2e089f5f0699c04c0753c78123b580b.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://x.com/ethosAgent"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "natural_language_processing/analytical_reasoning/inference_deduction",
+          "natural_language_processing/information_retrieval_synthesis/information_retrieval_synthesis"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:09:49.946Z"
+}

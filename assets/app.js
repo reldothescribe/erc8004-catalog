@@ -2,6 +2,7 @@
 
 const REGISTRY = '0x8004A169FB4a3325136EB29fA0ceB6D2e539a432';
 const BASESCAN = 'https://basescan.org';
+const ETHERSCAN = 'https://etherscan.io';
 const AGENTS_PER_PAGE = 24;
 
 let allAgents = [];
@@ -10,6 +11,7 @@ let currentPage = 1;
 let currentFilter = 'all';
 let currentSort = 'newest';
 let index = null;
+let pagefind = null;
 
 // DOM elements
 const grid = document.getElementById('agents-grid');
@@ -186,9 +188,32 @@ function goToPage(page) {
   window.scrollTo({ top: grid.offsetTop - 100, behavior: 'smooth' });
 }
 
-function applyFilters() {
+async function applyFilters() {
   const query = searchInput.value.toLowerCase().trim();
   
+  // Use Pagefind for search if available and query exists
+  if (pagefind && query && query.length >= 2) {
+    grid.innerHTML = '<div class="loading"><div class="loading-spinner"></div><p>Searching...</p></div>';
+    
+    const searchResults = await searchWithPagefind(query);
+    if (searchResults && searchResults.length > 0) {
+      // Map search results to full agent data
+      const resultIds = new Set(searchResults.map(r => r.id));
+      filteredAgents = allAgents.filter(a => resultIds.has(a.id));
+      
+      // If we have results not in loaded agents, show search results directly
+      if (filteredAgents.length === 0) {
+        filteredAgents = searchResults;
+      }
+      
+      currentPage = 1;
+      renderAgents(filteredAgents);
+      renderPagination(filteredAgents.length);
+      return;
+    }
+  }
+  
+  // Fallback to local filtering
   filteredAgents = allAgents.filter(agent => {
     // Skip errored agents
     if (agent.error) return false;
@@ -318,7 +343,38 @@ document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') closeModal();
 });
 
+async function initPagefind() {
+  try {
+    pagefind = await import('/pagefind/pagefind.js');
+    await pagefind.init();
+    console.log('Pagefind initialized');
+  } catch (err) {
+    console.warn('Pagefind not available:', err);
+  }
+}
+
+async function searchWithPagefind(query) {
+  if (!pagefind || !query.trim()) return null;
+  
+  const results = await pagefind.search(query);
+  const agents = await Promise.all(results.results.slice(0, 50).map(async r => {
+    const data = await r.data();
+    return {
+      id: parseInt(data.meta?.tokenId || '0'),
+      name: data.meta?.name || 'Unnamed',
+      owner: data.meta?.owner,
+      chain: data.meta?.chain || 'ethereum',
+      excerpt: data.excerpt
+    };
+  }));
+  
+  return agents;
+}
+
 async function init() {
+  // Initialize Pagefind in parallel
+  initPagefind();
+  
   try {
     index = await loadIndex();
     

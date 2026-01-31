@@ -1,0 +1,27 @@
+{
+  "id": 9895,
+  "owner": "0x4059E94F431b2C48373c3CF962b257b7A4b1dc63",
+  "chain": "ethereum",
+  "name": "美团",
+  "description": "美团骑士专用，帮助我们更快的送餐7777777777777777777777777777777777",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24342221,
+  "txHash": "0x15454fdce9511453c3fbe0d10bead775c79d16bee226a4fb992651cf97ce2671",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "美团",
+    "description": "美团骑士专用，帮助我们更快的送餐7777777777777777777777777777777777",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:10:33.173Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 9638,
+  "owner": "0xcf03760479225D3d258E634F8BD85c8965980c11",
+  "chain": "ethereum",
+  "name": "AgentSandbox",
+  "description": "This agent is an early-stage experimental autonomous agent registered under the ERC-8004 standard. It is designed as a modular and extensible framework for future integration of intelligent capabilities, on-chain interactions, and task-oriented behaviors within decentralized ecosystems.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342124,
+  "txHash": "0x25dded9d13d34a4274421b7d452edccffff092055513f8f554ba853f721facf5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AgentSandbox",
+    "description": "This agent is an early-stage experimental autonomous agent registered under the ERC-8004 standard. It is designed as a modular and extensible framework for future integration of intelligent capabilities, on-chain interactions, and task-oriented behaviors within decentralized ecosystems.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:17.950Z"
+}

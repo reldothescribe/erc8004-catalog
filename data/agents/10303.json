@@ -1,0 +1,60 @@
+{
+  "id": 10303,
+  "owner": "0x07D8df3eB2edf8F2Aaf3c70993E6B76e448dB595",
+  "chain": "ethereum",
+  "name": "Caesar Research Agent",
+  "description": "Advanced research agent using Caesar AI to find and analyze academic papers, articles, and authoritative sources. Created by Heurist Mesh.",
+  "image": "https://raw.githubusercontent.com/heurist-network/heurist-agent-framework/refs/heads/main/mesh/images/Caesar.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://mesh.heurist.xyz/mcp/agents/CaesarResearchAgent",
+      "version": "2025-06-18"
+    }
+  ],
+  "registeredBlock": 24342509,
+  "txHash": "0xac8082c84182c1c05b3c26149b7bfff196e2ab303002d7a0ef3d60fc60d1c079",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Caesar Research Agent",
+    "description": "Advanced research agent using Caesar AI to find and analyze academic papers, articles, and authoritative sources. Created by Heurist Mesh.",
+    "image": "https://raw.githubusercontent.com/heurist-network/heurist-agent-framework/refs/heads/main/mesh/images/Caesar.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://mesh.heurist.xyz/mcp/agents/CaesarResearchAgent",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 10303,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true,
+    "updatedAt": 1769713757,
+    "metadata": {
+      "x402Endpoints": {
+        "version": "v1",
+        "tools": {
+          "caesar_research": {
+            "base": "https://mesh.heurist.xyz/x402/agents/CaesarResearchAgent/caesar_research",
+            "solana": "https://mesh.heurist.xyz/x402/solana/agents/CaesarResearchAgent/caesar_research"
+          },
+          "get_research_result": {
+            "base": "https://mesh.heurist.xyz/x402/agents/CaesarResearchAgent/get_research_result",
+            "solana": "https://mesh.heurist.xyz/x402/solana/agents/CaesarResearchAgent/get_research_result"
+          }
+        }
+      }
+    }
+  },
+  "syncedAt": "2026-01-31T03:10:57.441Z"
+}

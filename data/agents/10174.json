@@ -1,0 +1,22 @@
+{
+  "id": 10174,
+  "owner": "0x009EEccC7DdF0C83a70a3eDA38fDF9A125fD132d",
+  "chain": "ethereum",
+  "name": "buy the dip",
+  "description": "99999999999999999999999999999999999999999999999999",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342267,
+  "txHash": "0x5cb2a91229317be072aa57026499ceecd033b93d055f61fdc19f8b04a63203eb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "buy the dip",
+    "description": "99999999999999999999999999999999999999999999999999",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:47.408Z"
+}

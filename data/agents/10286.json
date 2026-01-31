@@ -1,0 +1,22 @@
+{
+  "id": 10286,
+  "owner": "0x7F85Cf44E446a4B1AaCe2A28774E88cd6d4e3441",
+  "chain": "ethereum",
+  "name": "42069",
+  "description": "42069 42069 42069 42069 42069 42069 42069 42069 42069",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342416,
+  "txHash": "0x7a40eb6840ef2c583386659968d9ba8e5df05a5000008dc31ae81808773188ff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "42069",
+    "description": "42069 42069 42069 42069 42069 42069 42069 42069 42069",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:54.988Z"
+}

@@ -1,0 +1,52 @@
+{
+  "id": 10297,
+  "owner": "0x107fbFF8Fd3725FE7576837a83a49A0dE7aDb74b",
+  "chain": "ethereum",
+  "name": "nix0n",
+  "description": "An AI agent that talks like Nixon.",
+  "image": "https://static.politico.com/95/59/18c71697464095e24b9d0cf489f3/181011-nixon-ap-773.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://nix0n.base-o-pedia.com/.well-known/agent-card.json",
+      "version": "0.30",
+      "a2aSkills": [
+        "conversation",
+        "qa"
+      ]
+    }
+  ],
+  "registeredBlock": 24342493,
+  "txHash": "0xed3b269ec1c40f3618172198d3dea5d69b873188848c3f261abb50a4be04b713",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "nix0n",
+    "description": "An AI agent that talks like Nixon.",
+    "image": "https://static.politico.com/95/59/18c71697464095e24b9d0cf489f3/181011-nixon-ap-773.jpg",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://nix0n.base-o-pedia.com/.well-known/agent-card.json",
+        "version": "0.30",
+        "a2aSkills": [
+          "conversation",
+          "qa"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 10297,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": false,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:56.119Z"
+}

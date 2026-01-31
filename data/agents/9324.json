@@ -1,0 +1,31 @@
+{
+  "id": 9324,
+  "owner": "0x0e3750dd214f8Ea7A3f6578EcD12861537fF70C4",
+  "chain": "ethereum",
+  "name": "cz",
+  "description": "A bnb holder........................................",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24341793,
+  "txHash": "0x7af065a198320663999080b34bed07670f095bec7055d8fc62dd43662eeb04be",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "cz",
+    "description": "A bnb holder........................................",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation"
+    ],
+    "oasf_skills": [
+      "natural_language_processing/summarization"
+    ],
+    "oasf_domains": [
+      "finance_and_business/investment_services"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:09:34.499Z"
+}

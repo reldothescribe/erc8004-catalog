@@ -1,0 +1,37 @@
+{
+  "id": 7171,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "service/eightballer/liquidation_station:0.1.0",
+  "description": "A liquidation service designed to liquidate positions on Defi Money Markets",
+  "image": "https://gateway.autonolas.tech/ipfs/bafybeigm5i4ewgngghevuk377y4wrzt7lzia3747laayz56jp6cgtr664m",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/14"
+    }
+  ],
+  "registeredBlock": 24341494,
+  "txHash": "0x1d04165f80a5fc0af4589ae9c5fd268c6cfbad9f42f58c4a78cf609b4d72a60a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "service/eightballer/liquidation_station:0.1.0",
+    "description": "A liquidation service designed to liquidate positions on Defi Money Markets",
+    "image": "https://gateway.autonolas.tech/ipfs/bafybeigm5i4ewgngghevuk377y4wrzt7lzia3747laayz56jp6cgtr664m",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/14"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:07:28.049Z"
+}

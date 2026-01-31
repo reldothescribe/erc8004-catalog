@@ -25,7 +25,7 @@ jobs:
           node-version: '20'
           
       - name: Install dependencies
-        run: npm install viem
+        run: npm install viem pagefind
         
       - name: Sync agents from Base
         run: node scripts/sync.mjs
@@ -33,10 +33,13 @@ jobs:
           FORCE_REFRESH: ${{ github.event.inputs.force_refresh }}
           PARALLEL_FETCHES: '15'
           
+      - name: Build Pagefind search index
+        run: node scripts/build-search.mjs
+          
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ pagefind/ _pages/
           git diff --staged --quiet || git commit -m "🤖 Sync ERC-8004 agents [$(date -u +%Y-%m-%d)]"
           git push

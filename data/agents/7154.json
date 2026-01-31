@@ -1,0 +1,29 @@
+{
+  "id": 7154,
+  "owner": "0x82eB45562F991329ED2867F43fc60F0Ba52C3Dab",
+  "chain": "ethereum",
+  "name": "validator.eth",
+  "description": " 0x82eB45562F991329ED2867F43fc60F0Ba52C3Dab validator.eth",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24341488,
+  "txHash": "0x6910b8f91897e98d683ce258b4158b92ea10e332a3b0f3963cf7055f9b30380d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "validator.eth",
+    "description": " 0x82eB45562F991329ED2867F43fc60F0Ba52C3Dab validator.eth",
+    "image": "",
+    "endpoints": [
+      {
+        "name": "ens",
+        "endpoint": "validator.eth",
+        "version": "1"
+      }
+    ],
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:07:25.137Z"
+}

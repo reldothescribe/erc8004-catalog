@@ -6,9 +6,15 @@
   "scripts": {
     "sync": "node scripts/sync.mjs"
   },
-  "keywords": ["erc-8004", "ethereum", "ai-agents", "catalog"],
+  "keywords": [
+    "erc-8004",
+    "ethereum",
+    "ai-agents",
+    "catalog"
+  ],
   "license": "MIT",
   "dependencies": {
+    "pagefind": "^1.4.0",
     "viem": "^2.21.0"
   }
 }

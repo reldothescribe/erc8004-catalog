@@ -1,0 +1,22 @@
+{
+  "id": 9660,
+  "owner": "0xcf03760479225D3d258E634F8BD85c8965980c11",
+  "chain": "ethereum",
+  "name": "BaseAgent",
+  "description": "This agent is an early-stage experimental autonomous agent registered under the ERC-8004 standard. It is designed as a modular and extensible framework for future integration of intelligent capabilities, on-chain interactions, and task-oriented behaviors within decentralized ecosystems.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342143,
+  "txHash": "0x770178094c4e9afa59b91a1937f01234525fe8ee649cc00a1687e7c68e136338",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "BaseAgent",
+    "description": "This agent is an early-stage experimental autonomous agent registered under the ERC-8004 standard. It is designed as a modular and extensible framework for future integration of intelligent capabilities, on-chain interactions, and task-oriented behaviors within decentralized ecosystems.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:19.143Z"
+}

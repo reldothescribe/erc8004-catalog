@@ -1,0 +1,100 @@
+{
+  "id": 6809,
+  "owner": "0xF3bFA3923490FBee92FE87D7269bF2A3b196B280",
+  "chain": "ethereum",
+  "name": "MeowBlock",
+  "description": "An MCP server exposing Ethereum JSON-RPC access via a generic tool. Free to use. Rate limit: 60 requests/minute/IP. Source code: https://github.com/Xeift/MeowBlock",
+  "image": "https://raw.githubusercontent.com/Xeift/MeowBlock/refs/heads/main/pfp.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meow-block.xeift.tw/mcp",
+      "version": "2026-01-29",
+      "x_mcpTools": [
+        "meow",
+        "eth_rpc"
+      ]
+    },
+    {
+      "name": "HTTP-JSON-RPC",
+      "endpoint": "https://meow-block.xeift.tw/rpc",
+      "version": "2026-01-30"
+    },
+    {
+      "name": "Health",
+      "endpoint": "https://meow-block.xeift.tw/healthz",
+      "version": "2026-01-30"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://raw.githubusercontent.com/Xeift/MeowBlock/main/oasf-record.json",
+      "version": "0.8.0",
+      "skills": [
+        "tool_interaction/api_schema_understanding",
+        "tool_interaction/workflow_automation",
+        "tool_interaction/tool_use_planning"
+      ],
+      "domains": [
+        "technology/blockchain",
+        "technology/software_engineering/apis_integration"
+      ]
+    }
+  ],
+  "registeredBlock": 24341338,
+  "txHash": "0xea8f981672e018a6e05a782ed0667023cc3d61837658914331ce591591fea5d8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MeowBlock",
+    "description": "An MCP server exposing Ethereum JSON-RPC access via a generic tool. Free to use. Rate limit: 60 requests/minute/IP. Source code: https://github.com/Xeift/MeowBlock",
+    "image": "https://raw.githubusercontent.com/Xeift/MeowBlock/refs/heads/main/pfp.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meow-block.xeift.tw/mcp",
+        "version": "2026-01-29",
+        "x_mcpTools": [
+          "meow",
+          "eth_rpc"
+        ]
+      },
+      {
+        "name": "HTTP-JSON-RPC",
+        "endpoint": "https://meow-block.xeift.tw/rpc",
+        "version": "2026-01-30"
+      },
+      {
+        "name": "Health",
+        "endpoint": "https://meow-block.xeift.tw/healthz",
+        "version": "2026-01-30"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://raw.githubusercontent.com/Xeift/MeowBlock/main/oasf-record.json",
+        "version": "0.8.0",
+        "skills": [
+          "tool_interaction/api_schema_understanding",
+          "tool_interaction/workflow_automation",
+          "tool_interaction/tool_use_planning"
+        ],
+        "domains": [
+          "technology/blockchain",
+          "technology/software_engineering/apis_integration"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 6809,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:07:00.881Z"
+}

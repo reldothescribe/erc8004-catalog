@@ -1,0 +1,37 @@
+{
+  "id": 7205,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "olas_assistant",
+  "description": "Ai assistant that chats in Telegram",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeiby5k63mavhmtcscveb7vxrvm3f7erxbsr73xpp2b65s4tb3uc2tq",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/42"
+    }
+  ],
+  "registeredBlock": 24341498,
+  "txHash": "0x209283edac2bec0fca226e73d59cba79f37fad6ca7cb80c6e2af6d8895c8c7ff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "olas_assistant",
+    "description": "Ai assistant that chats in Telegram",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeiby5k63mavhmtcscveb7vxrvm3f7erxbsr73xpp2b65s4tb3uc2tq",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/42"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:07:33.058Z"
+}

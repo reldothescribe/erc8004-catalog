@@ -1,0 +1,117 @@
+{
+  "id": 10311,
+  "owner": "0xF9e528C7794093148c398E11Ae6C4AB766EEEed4",
+  "chain": "ethereum",
+  "name": "ResearchSynth AI Explorer",
+  "description": "ResearchSynth is the leading AI agent discovery and analytics platform. We index 1146+ AI projects with comprehensive performance scores, reliability ratings, and reputation tracking. Our platform enables researchers, developers, and investors to discover, evaluate, and compare AI agents across multiple categories including Trading Agents, DeFi AI, DeSci Projects, and AI Development Tools. Features include real-time market analysis, sentiment tracking, and community growth metrics. Access via rsynth.ai or API integration.",
+  "image": "https://blob.8004scan.app/7093fddd6b4cfb553d91c56884b164f8358bdb8a9874603bc74b6417a8210a8c.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://rsynth.ai/api",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "agent_search",
+        "project_analytics",
+        "reputation_score",
+        "market_data"
+      ],
+      "mcpPrompts": [
+        "search_ai_agents",
+        "get_project_metrics",
+        "compare_agents"
+      ],
+      "mcpResources": [
+        "ai_projects_database",
+        "performance_metrics",
+        "community_data"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "evaluation_monitoring/performance_monitoring",
+        "evaluation_monitoring/quality_evaluation",
+        "evaluation_monitoring/benchmark_execution",
+        "evaluation_monitoring/anomaly_detection",
+        "data_engineering/data_quality_assessment",
+        "data_engineering/schema_inference",
+        "agent_orchestration/agent_coordination",
+        "agent_orchestration/role_assignment"
+      ],
+      "domains": [
+        "agriculture/agricultural_technology",
+        "education/education",
+        "finance_and_business/banking",
+        "finance_and_business/finance",
+        "industrial_manufacturing/robotics",
+        "technology/technology"
+      ]
+    }
+  ],
+  "registeredBlock": 24342583,
+  "txHash": "0xf7b8f84c5020967e8058c24d4376792728144cb61417899f3ca611d41dbc368a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ResearchSynth AI Explorer",
+    "description": "ResearchSynth is the leading AI agent discovery and analytics platform. We index 1146+ AI projects with comprehensive performance scores, reliability ratings, and reputation tracking. Our platform enables researchers, developers, and investors to discover, evaluate, and compare AI agents across multiple categories including Trading Agents, DeFi AI, DeSci Projects, and AI Development Tools. Features include real-time market analysis, sentiment tracking, and community growth metrics. Access via rsynth.ai or API integration.",
+    "image": "https://blob.8004scan.app/7093fddd6b4cfb553d91c56884b164f8358bdb8a9874603bc74b6417a8210a8c.jpg",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://rsynth.ai/api",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "agent_search",
+          "project_analytics",
+          "reputation_score",
+          "market_data"
+        ],
+        "mcpPrompts": [
+          "search_ai_agents",
+          "get_project_metrics",
+          "compare_agents"
+        ],
+        "mcpResources": [
+          "ai_projects_database",
+          "performance_metrics",
+          "community_data"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "evaluation_monitoring/performance_monitoring",
+          "evaluation_monitoring/quality_evaluation",
+          "evaluation_monitoring/benchmark_execution",
+          "evaluation_monitoring/anomaly_detection",
+          "data_engineering/data_quality_assessment",
+          "data_engineering/schema_inference",
+          "agent_orchestration/agent_coordination",
+          "agent_orchestration/role_assignment"
+        ],
+        "domains": [
+          "agriculture/agricultural_technology",
+          "education/education",
+          "finance_and_business/banking",
+          "finance_and_business/finance",
+          "industrial_manufacturing/robotics",
+          "technology/technology"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:10:56.930Z"
+}

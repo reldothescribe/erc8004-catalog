@@ -1,0 +1,152 @@
+{
+  "id": 6940,
+  "owner": "0x197B33028A4aC0bCcdA2Cdb51205d9F48F50D65B",
+  "chain": "ethereum",
+  "name": "Otto AI - Trading Agent",
+  "description": "Non-custodial DeFi execution agent: multi-chain token swaps via Odos, cross-chain bridges via LiFi, and Hyperliquid perpetual futures with TP/SL. Funds stay in user's Safe smart account. Website: https://useotto.xyz | X: @useOttoAI",
+  "image": "https://useotto.xyz/static/images/otto.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "version": "0.3.0",
+      "endpoint": "https://useotto.xyz/.well-known/a2a/trading-agent.json",
+      "a2aSkills": [
+        "tool_interaction/api_schema_understanding",
+        "domain_specific/finance/trading",
+        "domain_specific/finance/portfolio_management"
+      ]
+    },
+    {
+      "name": "OASF",
+      "version": "v0.8.0",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "tool_interaction/api_schema_understanding",
+        "domain_specific/finance/trading",
+        "domain_specific/finance/portfolio_management",
+        "analytical_skills/risk_assessment"
+      ],
+      "domains": [
+        "technology/blockchain",
+        "finance_and_business/finance",
+        "finance_and_business/investment_services",
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi"
+      ]
+    },
+    {
+      "name": "ACP",
+      "version": "2.0",
+      "endpoint": "https://acp.virtuals.io"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://useotto.xyz"
+    },
+    {
+      "name": "docs",
+      "endpoint": "https://docs.useotto.xyz"
+    },
+    {
+      "name": "twitter",
+      "endpoint": "https://x.com/useOttoAI"
+    },
+    {
+      "name": "email",
+      "endpoint": "support@useotto.xyz"
+    }
+  ],
+  "registeredBlock": 24341414,
+  "txHash": "0xdd564030bfb2b7fd8a5b392183a26c74969830e06afdd63a39a219660e77a763",
+  "rawMetadata": {
+    "name": "Otto AI - Trading Agent",
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "image": "https://useotto.xyz/static/images/otto.png",
+    "active": true,
+    "description": "Non-custodial DeFi execution agent: multi-chain token swaps via Odos, cross-chain bridges via LiFi, and Hyperliquid perpetual futures with TP/SL. Funds stay in user's Safe smart account. Website: https://useotto.xyz | X: @useOttoAI",
+    "services": [
+      {
+        "name": "A2A",
+        "version": "0.3.0",
+        "endpoint": "https://useotto.xyz/.well-known/a2a/trading-agent.json",
+        "a2aSkills": [
+          "tool_interaction/api_schema_understanding",
+          "domain_specific/finance/trading",
+          "domain_specific/finance/portfolio_management"
+        ]
+      },
+      {
+        "name": "OASF",
+        "version": "v0.8.0",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "tool_interaction/api_schema_understanding",
+          "domain_specific/finance/trading",
+          "domain_specific/finance/portfolio_management",
+          "analytical_skills/risk_assessment"
+        ],
+        "domains": [
+          "technology/blockchain",
+          "finance_and_business/finance",
+          "finance_and_business/investment_services",
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi"
+        ]
+      },
+      {
+        "name": "ACP",
+        "version": "2.0",
+        "endpoint": "https://acp.virtuals.io"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://useotto.xyz"
+      },
+      {
+        "name": "docs",
+        "endpoint": "https://docs.useotto.xyz"
+      },
+      {
+        "name": "twitter",
+        "endpoint": "https://x.com/useOttoAI"
+      },
+      {
+        "name": "email",
+        "endpoint": "support@useotto.xyz"
+      }
+    ],
+    "x402Support": false,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "registrations": [
+      {
+        "agentId": 6940,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 577,
+        "agentRegistry": "eip155:11155111:0x8004A818BFB912233c491871b3d84c89A494BD9e"
+      }
+    ],
+    "wallets": {
+      "acp": {
+        "base": "0x5bB4B0C766E0D5D791d9403Fc275c22064709F68"
+      }
+    },
+    "social": {
+      "twitter": "@useOttoAI",
+      "telegram": "@useOttoAI"
+    },
+    "securityModel": {
+      "type": "non-custodial",
+      "description": "User funds held in their own Safe smart accounts (ERC-4337). Agent never has custody."
+    },
+    "updatedAt": 1769764229
+  },
+  "syncedAt": "2026-01-31T03:07:08.978Z"
+}

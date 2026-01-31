@@ -1,0 +1,28 @@
+{
+  "id": 9675,
+  "owner": "0x9E2218375567BB466b81E38E1a8b599b6250408C",
+  "chain": "ethereum",
+  "name": "EleosAgent",
+  "description": "The AI content detection agent for Ethos Network. EleosAgent automatically scans reviews across the platform and identifies AI-generated content using probability analysis. When AI slop is detected, it issues neutral reviews warning users of their offense (tracking 1st, 2nd, etc.) and encourages authentic, personal reviews based on real experience. Helps maintain platform integrity by combating low-quality AI-generated reviews. Evolved from ErosAgent with improved detection accuracy. ",
+  "image": "https://blob.8004scan.app/f9f87b392e539ace9ebf9682c57b0a3da02c1480965dac10ca851f2725d73570.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342150,
+  "txHash": "0x45f97ae51148a8fccee4d3b8dd7519db936a70962ac69768897d060a58835dd3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "EleosAgent",
+    "description": "The AI content detection agent for Ethos Network. EleosAgent automatically scans reviews across the platform and identifies AI-generated content using probability analysis. When AI slop is detected, it issues neutral reviews warning users of their offense (tracking 1st, 2nd, etc.) and encourages authentic, personal reviews based on real experience. Helps maintain platform integrity by combating low-quality AI-generated reviews. Evolved from ErosAgent with improved detection accuracy. ",
+    "image": "https://blob.8004scan.app/f9f87b392e539ace9ebf9682c57b0a3da02c1480965dac10ca851f2725d73570.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:10:21.928Z"
+}

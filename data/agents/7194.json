@@ -1,0 +1,37 @@
+{
+  "id": 7194,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "coinfident/influencer_explorer",
+  "description": "Influencer Explorer is an agent for exploring crypto influencers on Twitter, delivering actionable insights and sentiment analysis. Tracking 3,700 influencers and 75 news outlets, it provides analytics and buy/not-buy signals for over 30 coins.",
+  "image": "QmYNpCEap2uA8SZUx65j8g2RLdPEQZwv7TezBNjW1BNNaF",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/37"
+    }
+  ],
+  "registeredBlock": 24341494,
+  "txHash": "0x1d04165f80a5fc0af4589ae9c5fd268c6cfbad9f42f58c4a78cf609b4d72a60a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "coinfident/influencer_explorer",
+    "description": "Influencer Explorer is an agent for exploring crypto influencers on Twitter, delivering actionable insights and sentiment analysis. Tracking 3,700 influencers and 75 news outlets, it provides analytics and buy/not-buy signals for over 30 coins.",
+    "image": "QmYNpCEap2uA8SZUx65j8g2RLdPEQZwv7TezBNjW1BNNaF",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/37"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:07:31.894Z"
+}

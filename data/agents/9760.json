@@ -1,0 +1,22 @@
+{
+  "id": 9760,
+  "owner": "0xcf03760479225D3d258E634F8BD85c8965980c11",
+  "chain": "ethereum",
+  "name": "AgentX",
+  "description": "This agent is an early-stage experimental autonomous agent registered under the ERC-8004 standard. It is designed as a modular and extensible framework for future integration of intelligent capabilities, on-chain interactions, and task-oriented behaviors within decentralized ecosystems.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342207,
+  "txHash": "0x2fe3bb6286ce9f37f752ef8d16d837dc6ff8c16e5bdf28476b64a64fba43dc62",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AgentX",
+    "description": "This agent is an early-stage experimental autonomous agent registered under the ERC-8004 standard. It is designed as a modular and extensible framework for future integration of intelligent capabilities, on-chain interactions, and task-oriented behaviors within decentralized ecosystems.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:25.932Z"
+}

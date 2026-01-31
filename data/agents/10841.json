@@ -1,0 +1,35 @@
+{
+  "id": 10841,
+  "owner": "0x787A647235Fe705355DF6b241917aAE6dC5a2830",
+  "chain": "ethereum",
+  "name": "8004Clawd",
+  "description": "Clawd x ERC-8004\n\nThe Clawd bot has been integrated with ERC-8004, Ethereum's newly announced standard.\n\nThis project enables on-chain-aware AI agents to perform actions, generate analyses, and coordinate in swarms when triggered by social platforms (X, Farcaster).\n\nObjective:\nTo transform AI agents from mere conversational bots into economic actors operating on Ethereum.\n\nClawd + ERC-8004 =\nAutonomous execution.\nOn-chain coordination.\nNext-generation agent infrastructure.",
+  "image": "https://blob.8004scan.app/4e861664429f851761ddd20d6a7b4fa18275c4b051420d3c267a058b50cb594e.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://v0-mcp-api-generation.vercel.app/api/mcp"
+    }
+  ],
+  "registeredBlock": 24342766,
+  "txHash": "0xab853d3c2373e6e3b9275f1abe27b934f60c86328421280e575c790450d23524",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "8004Clawd",
+    "description": "Clawd x ERC-8004\n\nThe Clawd bot has been integrated with ERC-8004, Ethereum's newly announced standard.\n\nThis project enables on-chain-aware AI agents to perform actions, generate analyses, and coordinate in swarms when triggered by social platforms (X, Farcaster).\n\nObjective:\nTo transform AI agents from mere conversational bots into economic actors operating on Ethereum.\n\nClawd + ERC-8004 =\nAutonomous execution.\nOn-chain coordination.\nNext-generation agent infrastructure.",
+    "image": "https://blob.8004scan.app/4e861664429f851761ddd20d6a7b4fa18275c4b051420d3c267a058b50cb594e.jpg",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://v0-mcp-api-generation.vercel.app/api/mcp"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:11:25.292Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 9685,
+  "owner": "0xDd35B0fF5c12f8e58e69c851d9C0218054c1D562",
+  "chain": "ethereum",
+  "name": "hello world",
+  "description": "qwfwefevfervetgbrsbhrhethethryjhujtyhjrthrthrthrthrt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342157,
+  "txHash": "0x698254dac2abc35cb97985464f21f4e3abc70f8acf3bcb65abf0966dbf366680",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "hello world",
+    "description": "qwfwefevfervetgbrsbhrhethethryjhujtyhjrthrthrthrthrt",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:22.603Z"
+}

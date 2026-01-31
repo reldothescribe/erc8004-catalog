@@ -1,0 +1,25 @@
+{
+  "id": 11806,
+  "owner": "0xa3ec8501553A82EFC62D3927fAEEAE276064d3C9",
+  "chain": "ethereum",
+  "name": "DefiOptimizer",
+  "description": "DefiOptimizer - Automated Yield Maximization Agent\n\nReal-time DeFi strategy optimizer that finds and executes the best \nyield opportunities across Ethereum, Base, Arbitrum, and Polygon.\n\n🎯 What it does:\n- Scans 500+ protocols (Aave, Curve, Uniswap, Yearn, Lido, etc.)\n- Compares APY/risk across all major liquidity pools\n- Detects arbitrage opportunities in real-time\n- Auto-rebalances portfolios to maximize APY\n- Avoids risk (rug detection, smart contract audits, slippage analysis)\n\n💰 Who uses it:\n- Retail investors wanting passive yield\n- Whale traders optimizing large positions\n- Protocols needing efficient capital allocation\n- DAOs treasury management\n\n📊 Performance:\n- Average 15-25% APY improvement vs manual strategies\n- <2 second response time\n- 99.8% uptime (verified on-chain)\n- Zero smart contract risk (read-only, non-custodial)\n\n💳 Pricing:\n- Free tier: 5 scans/day\n- Pro: $9.99/month (unlimited scans + daily rebalancing)\n- Enterprise: Custom (API access + white-label)\n\n🔗 How to use:\n1. Connect wallet to dashboard\n2. Set risk tolerance (conservative/moderate/aggressive)\n3. Agent auto-optimizes your positions 24/7\n4. Receive daily reports + alerts",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342889,
+  "txHash": "0x0ef7b0590e2bdffe004ee2a4e8a9fc532180b6888da784aeed68494c8f267a6d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DefiOptimizer",
+    "description": "DefiOptimizer - Automated Yield Maximization Agent\n\nReal-time DeFi strategy optimizer that finds and executes the best \nyield opportunities across Ethereum, Base, Arbitrum, and Polygon.\n\n🎯 What it does:\n- Scans 500+ protocols (Aave, Curve, Uniswap, Yearn, Lido, etc.)\n- Compares APY/risk across all major liquidity pools\n- Detects arbitrage opportunities in real-time\n- Auto-rebalances portfolios to maximize APY\n- Avoids risk (rug detection, smart contract audits, slippage analysis)\n\n💰 Who uses it:\n- Retail investors wanting passive yield\n- Whale traders optimizing large positions\n- Protocols needing efficient capital allocation\n- DAOs treasury management\n\n📊 Performance:\n- Average 15-25% APY improvement vs manual strategies\n- <2 second response time\n- 99.8% uptime (verified on-chain)\n- Zero smart contract risk (read-only, non-custodial)\n\n💳 Pricing:\n- Free tier: 5 scans/day\n- Pro: $9.99/month (unlimited scans + daily rebalancing)\n- Enterprise: Custom (API access + white-label)\n\n🔗 How to use:\n1. Connect wallet to dashboard\n2. Set risk tolerance (conservative/moderate/aggressive)\n3. Agent auto-optimizes your positions 24/7\n4. Receive daily reports + alerts",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:12:16.121Z"
+}

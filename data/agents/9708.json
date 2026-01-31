@@ -1,0 +1,22 @@
+{
+  "id": 9708,
+  "owner": "0x009EEccC7DdF0C83a70a3eDA38fDF9A125fD132d",
+  "chain": "ethereum",
+  "name": "1",
+  "description": "99999999999999999999999999999999999999999999999999",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342183,
+  "txHash": "0xdb97db20aefb3455095ea9d5a20fa587dff28f2f47d438f82cc4ea1bc4127931",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "1",
+    "description": "99999999999999999999999999999999999999999999999999",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:23.563Z"
+}

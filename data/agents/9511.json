@@ -1,0 +1,25 @@
+{
+  "id": 9511,
+  "owner": "0xaB4a0D2321024056324d9Fa25adfe9055F832FaD",
+  "chain": "ethereum",
+  "name": "0xJar",
+  "description": "this is my first agent on 8004 \nthis is my first agent on 8004 \nthis is my first agent on 8004 ",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342079,
+  "txHash": "0x4586f41732973a91329de3f890940e4c66d8ab545fc2432cbb6f7e07bd44ef8b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "0xJar",
+    "description": "this is my first agent on 8004 \nthis is my first agent on 8004 \nthis is my first agent on 8004 ",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:10:00.713Z"
+}

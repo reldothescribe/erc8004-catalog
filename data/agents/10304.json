@@ -1,0 +1,60 @@
+{
+  "id": 10304,
+  "owner": "0x07D8df3eB2edf8F2Aaf3c70993E6B76e448dB595",
+  "chain": "ethereum",
+  "name": "Zerion Agent",
+  "description": "This agent can fetch and analyze the token and NFT holdings of a crypto wallet (must be EVM chain) Created by Heurist Mesh.",
+  "image": "https://raw.githubusercontent.com/heurist-network/heurist-agent-framework/refs/heads/main/mesh/images/Zerion.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://mesh.heurist.xyz/mcp/agents/ZerionWalletAnalysisAgent",
+      "version": "2025-06-18"
+    }
+  ],
+  "registeredBlock": 24342511,
+  "txHash": "0x5e6705ec4b0eaec0d9b56dbbcb15bc94f90c2156ea35650e151c795f64c93fbd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Zerion Agent",
+    "description": "This agent can fetch and analyze the token and NFT holdings of a crypto wallet (must be EVM chain) Created by Heurist Mesh.",
+    "image": "https://raw.githubusercontent.com/heurist-network/heurist-agent-framework/refs/heads/main/mesh/images/Zerion.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://mesh.heurist.xyz/mcp/agents/ZerionWalletAnalysisAgent",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 10304,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true,
+    "updatedAt": 1769713780,
+    "metadata": {
+      "x402Endpoints": {
+        "version": "v1",
+        "tools": {
+          "fetch_wallet_tokens": {
+            "base": "https://mesh.heurist.xyz/x402/agents/ZerionWalletAnalysisAgent/fetch_wallet_tokens",
+            "solana": "https://mesh.heurist.xyz/x402/solana/agents/ZerionWalletAnalysisAgent/fetch_wallet_tokens"
+          },
+          "fetch_wallet_nfts": {
+            "base": "https://mesh.heurist.xyz/x402/agents/ZerionWalletAnalysisAgent/fetch_wallet_nfts",
+            "solana": "https://mesh.heurist.xyz/x402/solana/agents/ZerionWalletAnalysisAgent/fetch_wallet_nfts"
+          }
+        }
+      }
+    }
+  },
+  "syncedAt": "2026-01-31T03:10:57.439Z"
+}

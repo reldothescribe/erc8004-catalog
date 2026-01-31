@@ -1,0 +1,25 @@
+{
+  "id": 9670,
+  "owner": "0xF360ff7bB130521E55a094127F2D49C6ae68607e",
+  "chain": "ethereum",
+  "name": "Ezreal",
+  "description": "Ezreal is an intelligent data processing agent tailored for business and scientific research scenarios. It can connect to CSV, JSON, and SQL data sources, automatically performing advanced data analysis, generating visual charts, and producing professional reports. It empowers you to quickly uncover business insights, validate market trends, and reveal patterns in scientific research data—no complex technical expertise is required. Priced at just 0.001 ETH per query or monthly subscription, you can trigger fully automated end-to-end analysis simply by uploading data or entering commands.",
+  "image": "https://blob.8004scan.app/25bd17e66319570657fd32e85024381597cd0909cc20543984ae65f153a95301.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342148,
+  "txHash": "0xdaa646e3869f07da4ee5367f34af977d1a13ca1d95086e341d6022b93d08fb1b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Ezreal",
+    "description": "Ezreal is an intelligent data processing agent tailored for business and scientific research scenarios. It can connect to CSV, JSON, and SQL data sources, automatically performing advanced data analysis, generating visual charts, and producing professional reports. It empowers you to quickly uncover business insights, validate market trends, and reveal patterns in scientific research data—no complex technical expertise is required. Priced at just 0.001 ETH per query or monthly subscription, you can trigger fully automated end-to-end analysis simply by uploading data or entering commands.",
+    "image": "https://blob.8004scan.app/25bd17e66319570657fd32e85024381597cd0909cc20543984ae65f153a95301.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:10:19.627Z"
+}

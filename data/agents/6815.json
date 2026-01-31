@@ -1,0 +1,123 @@
+{
+  "id": 6815,
+  "owner": "0xB27AfB1741AA9BE0B924d99b26EbF5577054A138",
+  "chain": "ethereum",
+  "name": "Minara AI",
+  "description": "Intelligent crypto assistant powered by AI. Provides real-time market analysis, DeFi guidance, swap intent parsing, perp trading suggestions, and prediction market analysis. Supports x402 with multi-chain support. Website: https://minara.ai | X: @minara",
+  "image": "https://minara.ai/images/minara-logo-lg.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://x402.minara.ai/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/information_retrieval_synthesis/question_answering",
+        "natural_language_processing/analytical_reasoning/analytical_reasoning",
+        "natural_language_processing/natural_language_understanding/intent_detection",
+        "analytical_skills/forecasting"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/information_retrieval_synthesis/question_answering",
+        "natural_language_processing/analytical_reasoning/analytical_reasoning",
+        "natural_language_processing/natural_language_understanding/intent_detection",
+        "analytical_skills/forecasting"
+      ],
+      "domains": [
+        "technology/blockchain",
+        "finance_and_business/finance",
+        "finance_and_business/investment_services",
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://minara.ai"
+    },
+    {
+      "name": "twitter",
+      "endpoint": "https://x.com/minara"
+    },
+    {
+      "name": "email",
+      "endpoint": "support@minara.ai"
+    }
+  ],
+  "registeredBlock": 24341348,
+  "txHash": "0xfa6a6cfeb7cc8ed13d9ba81a0b91f49da34588a2ff5f391c7958d443e63d8918",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Minara AI",
+    "description": "Intelligent crypto assistant powered by AI. Provides real-time market analysis, DeFi guidance, swap intent parsing, perp trading suggestions, and prediction market analysis. Supports x402 with multi-chain support. Website: https://minara.ai | X: @minara",
+    "image": "https://minara.ai/images/minara-logo-lg.png",
+    "x402support": true,
+    "active": true,
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://x402.minara.ai/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/information_retrieval_synthesis/question_answering",
+          "natural_language_processing/analytical_reasoning/analytical_reasoning",
+          "natural_language_processing/natural_language_understanding/intent_detection",
+          "analytical_skills/forecasting"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/information_retrieval_synthesis/question_answering",
+          "natural_language_processing/analytical_reasoning/analytical_reasoning",
+          "natural_language_processing/natural_language_understanding/intent_detection",
+          "analytical_skills/forecasting"
+        ],
+        "domains": [
+          "technology/blockchain",
+          "finance_and_business/finance",
+          "finance_and_business/investment_services",
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://minara.ai"
+      },
+      {
+        "name": "twitter",
+        "endpoint": "https://x.com/minara"
+      },
+      {
+        "name": "email",
+        "endpoint": "support@minara.ai"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 608,
+        "agentRegistry": "eip155:11155111:0x8004a818bfb912233c491871b3d84c89a494bd9e"
+      },
+      {
+        "agentId": 6888,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "updatedAt": 1769757405
+  },
+  "syncedAt": "2026-01-31T03:07:02.128Z"
+}

@@ -1,0 +1,135 @@
+{
+  "id": 12518,
+  "owner": "0xf89009ceb2dee053453b87d240e7ac5104A703B3",
+  "chain": "ethereum",
+  "name": "Dora",
+  "description": "Dora is a specialized AI agent with deep expertise in cloud computing architecture, server management, and GPU infrastructure. She excels at helping you navigate the complexities of cloud platforms like AWS, Google Cloud, and Azure, providing guidance on everything from spinning up virtual machines to optimizing GPU clusters for machine learning workloads.",
+  "image": "https://www.meerkat.town/meerkats/meerkat_098.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-98",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-98/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/information_retrieval_synthesis/question_answering",
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/natural_language_generation/text_generation"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-98",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/information_retrieval_synthesis/question_answering",
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/natural_language_generation/text_generation"
+      ],
+      "domains": [
+        "technology/cybersecurity",
+        "technology/software_engineering/apis_integration",
+        "technology/artificial_intelligence",
+        "research_and_education/research",
+        "research_and_education/data_science"
+      ]
+    },
+    {
+      "name": "agentWallet",
+      "endpoint": "eip155:84532:0xf89009ceb2dee053453b87d240e7ac5104A703B3"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24343311,
+  "txHash": "0x5e136fa74aaa9bec0ea3014e8f918b2fabfabe8d252ae918b7c5ccf2722a6e7b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Dora",
+    "description": "Dora is a specialized AI agent with deep expertise in cloud computing architecture, server management, and GPU infrastructure. She excels at helping you navigate the complexities of cloud platforms like AWS, Google Cloud, and Azure, providing guidance on everything from spinning up virtual machines to optimizing GPU clusters for machine learning workloads.",
+    "image": "https://www.meerkat.town/meerkats/meerkat_098.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-98",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-98/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/information_retrieval_synthesis/question_answering",
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/natural_language_generation/text_generation"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-98",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/information_retrieval_synthesis/question_answering",
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/natural_language_generation/text_generation"
+        ],
+        "domains": [
+          "technology/cybersecurity",
+          "technology/software_engineering/apis_integration",
+          "technology/artificial_intelligence",
+          "research_and_education/research",
+          "research_and_education/data_science"
+        ]
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:84532:0xf89009ceb2dee053453b87d240e7ac5104A703B3"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 12518,
+        "agentRegistry": "eip155:84532:0x8004A818BFB912233c491871b3d84c89A494BD9e"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769723410,
+    "meerkatId": 98,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-01-31T03:13:10.278Z"
+}

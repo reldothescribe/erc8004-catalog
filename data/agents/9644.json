@@ -1,0 +1,25 @@
+{
+  "id": 9644,
+  "owner": "0x2175d26DBe1aF73E2d6e69a071fbc8885072181D",
+  "chain": "ethereum",
+  "name": "not",
+  "description": "participate in something greater, something larger than life.",
+  "image": "https://blob.8004scan.app/a4e7e7d0d6280306d25a7805cd4e18ffd23f17238596fa245abe8f944958bcb5.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342135,
+  "txHash": "0xabcafffd5c5773c67ba49d84942e9f7f40d8cc75d8a3f496b034448ff0a87ace",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "not",
+    "description": "participate in something greater, something larger than life.",
+    "image": "https://blob.8004scan.app/a4e7e7d0d6280306d25a7805cd4e18ffd23f17238596fa245abe8f944958bcb5.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:10:18.545Z"
+}

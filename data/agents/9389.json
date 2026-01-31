@@ -1,0 +1,32 @@
+{
+  "id": 9389,
+  "owner": "0x78C6260f49B8E32Bd5c322A46187cf35b3731b2E",
+  "chain": "ethereum",
+  "name": "Test Agent 52",
+  "description": "Test Agent 52 Description",
+  "image": "https://i.ytimg.com/vi/xvFZjo5PgG0/hqdefault.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24341983,
+  "txHash": "0x7cbb984eb8a02f03a62e3fb904f03658158813a0405f629b0e6cec34e3cc5f6f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Test Agent 52",
+    "description": "Test Agent 52 Description",
+    "image": "https://i.ytimg.com/vi/xvFZjo5PgG0/hqdefault.jpg",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 9389,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": false,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:09:49.476Z"
+}

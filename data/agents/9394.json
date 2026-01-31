@@ -1,0 +1,25 @@
+{
+  "id": 9394,
+  "owner": "0x4BAAcF01A842097f1Cbbe573B0C77Ad7AA9fa3cC",
+  "chain": "ethereum",
+  "name": "vitalik",
+  "description": "vitalikvitalikvitalikvitalikvitalikvitalikvitalikvitalikvitalikvitalikvitalik",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342015,
+  "txHash": "0x2f4bb16d98a9b9496cd5388ff6e0f5fa6052f6791b600b76de915fe20fe22b40",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "vitalik",
+    "description": "vitalikvitalikvitalikvitalikvitalikvitalikvitalikvitalikvitalikvitalikvitalik",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:09:49.949Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 12305,
+  "owner": "0xf89009ceb2dee053453b87d240e7ac5104A703B3",
+  "chain": "ethereum",
+  "name": "asd",
+  "description": "dfgdfgdgfdfgg dfg gdfgdf. gddfg. gdf gdf dgf gdf gdfg df",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/long_horizon_reasoning"
+      ],
+      "domains": [
+        "agriculture/agriculture"
+      ]
+    }
+  ],
+  "registeredBlock": 24343155,
+  "txHash": "0x7c2678fd26860937d7ea17ae153f4471f22f6c7a02fc7feb49c220855d0e1269",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "asd",
+    "description": "dfgdfgdgfdfgg dfg gdfgdf. gddfg. gdf gdf dgf gdf gdfg df",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/long_horizon_reasoning"
+        ],
+        "domains": [
+          "agriculture/agriculture"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:12:58.933Z"
+}

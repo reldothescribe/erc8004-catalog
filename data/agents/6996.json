@@ -1,0 +1,160 @@
+{
+  "id": 6996,
+  "owner": "0x197B33028A4aC0bCcdA2Cdb51205d9F48F50D65B",
+  "chain": "ethereum",
+  "name": "Otto AI - Tools Agent",
+  "description": "AI-powered creative and research tools: image/meme generation via Gemini 3 Pro, video generation via Sora 2, and AI research assistant with live web search. Website: https://useotto.xyz | X: @useOttoAI",
+  "image": "https://useotto.xyz/static/images/otto.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "A2A",
+      "version": "0.3.0",
+      "endpoint": "https://useotto.xyz/.well-known/a2a/tools-agent.json",
+      "a2aSkills": [
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "creative/image_generation",
+        "creative/video_generation"
+      ]
+    },
+    {
+      "name": "OASF",
+      "version": "v0.8.0",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "creative/image_generation",
+        "creative/video_generation",
+        "natural_language_processing/analytical_reasoning/analytical_reasoning"
+      ],
+      "domains": [
+        "technology/artificial_intelligence",
+        "arts_and_entertainment/visual_arts",
+        "arts_and_entertainment/media_production",
+        "technology/blockchain/cryptocurrency"
+      ]
+    },
+    {
+      "name": "x402",
+      "version": "v2",
+      "endpoint": "https://x402.ottoai.services"
+    },
+    {
+      "name": "ACP",
+      "version": "2.0",
+      "endpoint": "https://acp.virtuals.io"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://useotto.xyz"
+    },
+    {
+      "name": "docs",
+      "endpoint": "https://docs.useotto.xyz"
+    },
+    {
+      "name": "twitter",
+      "endpoint": "https://x.com/useOttoAI"
+    },
+    {
+      "name": "email",
+      "endpoint": "support@useotto.xyz"
+    }
+  ],
+  "registeredBlock": 24341418,
+  "txHash": "0x96ad95898a7801553015ae7143e75d3c5ff4407ebdf4f2aad6c69008e383ba95",
+  "rawMetadata": {
+    "name": "Otto AI - Tools Agent",
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "image": "https://useotto.xyz/static/images/otto.png",
+    "active": true,
+    "description": "AI-powered creative and research tools: image/meme generation via Gemini 3 Pro, video generation via Sora 2, and AI research assistant with live web search. Website: https://useotto.xyz | X: @useOttoAI",
+    "services": [
+      {
+        "name": "A2A",
+        "version": "0.3.0",
+        "endpoint": "https://useotto.xyz/.well-known/a2a/tools-agent.json",
+        "a2aSkills": [
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "creative/image_generation",
+          "creative/video_generation"
+        ]
+      },
+      {
+        "name": "OASF",
+        "version": "v0.8.0",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "creative/image_generation",
+          "creative/video_generation",
+          "natural_language_processing/analytical_reasoning/analytical_reasoning"
+        ],
+        "domains": [
+          "technology/artificial_intelligence",
+          "arts_and_entertainment/visual_arts",
+          "arts_and_entertainment/media_production",
+          "technology/blockchain/cryptocurrency"
+        ]
+      },
+      {
+        "name": "x402",
+        "version": "v2",
+        "endpoint": "https://x402.ottoai.services"
+      },
+      {
+        "name": "ACP",
+        "version": "2.0",
+        "endpoint": "https://acp.virtuals.io"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://useotto.xyz"
+      },
+      {
+        "name": "docs",
+        "endpoint": "https://docs.useotto.xyz"
+      },
+      {
+        "name": "twitter",
+        "endpoint": "https://x.com/useOttoAI"
+      },
+      {
+        "name": "email",
+        "endpoint": "support@useotto.xyz"
+      }
+    ],
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "registrations": [
+      {
+        "agentId": 6996,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 578,
+        "agentRegistry": "eip155:11155111:0x8004A818BFB912233c491871b3d84c89A494BD9e"
+      }
+    ],
+    "wallets": {
+      "x402": {
+        "base": "0x0E84dDEdAaE6A779c462C22a59F301EC31B6b808",
+        "solana": "6XcSfqJHr9vNW2vbiRaMqUYVm7shDgLepca54wUTDPN5"
+      },
+      "acp": {
+        "base": "0x98CB7E5AB8050043152D9953e29cE0e1De3ba0C1"
+      }
+    },
+    "social": {
+      "twitter": "@useOttoAI",
+      "telegram": "@useOttoAI"
+    },
+    "updatedAt": 1769764238
+  },
+  "syncedAt": "2026-01-31T03:07:12.720Z"
+}

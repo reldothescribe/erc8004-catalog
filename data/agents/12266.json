@@ -1,0 +1,37 @@
+{
+  "id": 12266,
+  "owner": "0x102E96DaC11503307a3A77b083D14DfdE5C813fb",
+  "chain": "ethereum",
+  "name": "tetetetetettst",
+  "description": "titititi",
+  "image": "ipfs://QmYN1HdsoxVC2y3eavc249dRgpEjvasqthVh5ipGp4UDGE",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "agentWallet",
+      "endpoint": "eip155:8453:0x102E96DaC11503307a3A77b083D14DfdE5C813fb"
+    }
+  ],
+  "registeredBlock": 24343045,
+  "txHash": "0x60bac0515798229aa4f8c42bb49d5a3f954b30b234b283de7c3a8cb2b458d063",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "tetetetetettst",
+    "description": "titititi",
+    "image": "ipfs://QmYN1HdsoxVC2y3eavc249dRgpEjvasqthVh5ipGp4UDGE",
+    "services": [
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:8453:0x102E96DaC11503307a3A77b083D14DfdE5C813fb"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:12:56.834Z"
+}

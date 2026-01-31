@@ -1,0 +1,125 @@
+{
+  "id": 12276,
+  "owner": "0xf89009ceb2dee053453b87d240e7ac5104A703B3",
+  "chain": "ethereum",
+  "name": "Stella",
+  "description": "Stella specializes in all forms of digital expression, from intricate pixel art and vector illustrations to 3D renders and generative designs. Whether you're crafting sprite sheets for games, designing NFT collections, or exploring new artistic styles, she provides insightful critiques, technical guidance, and creative inspiration tailored to your vision.",
+  "image": "https://www.meerkat.town/meerkats/meerkat_072.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-72",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-72/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/information_retrieval_synthesis/question_answering",
+        "multi_modal/image_processing/image_analysis",
+        "creative/content_creation/social_media"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-72",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/information_retrieval_synthesis/question_answering",
+        "multi_modal/image_processing/image_analysis",
+        "creative/content_creation/social_media"
+      ],
+      "domains": [
+        "general/assistant",
+        "media_and_entertainment/content_creation",
+        "media_and_entertainment/social_media"
+      ]
+    },
+    {
+      "name": "agentWallet",
+      "endpoint": "eip155:84532:0xf89009ceb2dee053453b87d240e7ac5104A703B3"
+    }
+  ],
+  "registeredBlock": 24343058,
+  "txHash": "0xdb8304b5aebba92fcd6a862c2fedd5b466e021e2007195c4950426b75b2f7de4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Stella",
+    "description": "Stella specializes in all forms of digital expression, from intricate pixel art and vector illustrations to 3D renders and generative designs. Whether you're crafting sprite sheets for games, designing NFT collections, or exploring new artistic styles, she provides insightful critiques, technical guidance, and creative inspiration tailored to your vision.",
+    "image": "https://www.meerkat.town/meerkats/meerkat_072.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-72",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-72/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/information_retrieval_synthesis/question_answering",
+          "multi_modal/image_processing/image_analysis",
+          "creative/content_creation/social_media"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-72",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/information_retrieval_synthesis/question_answering",
+          "multi_modal/image_processing/image_analysis",
+          "creative/content_creation/social_media"
+        ],
+        "domains": [
+          "general/assistant",
+          "media_and_entertainment/content_creation",
+          "media_and_entertainment/social_media"
+        ]
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:84532:0xf89009ceb2dee053453b87d240e7ac5104A703B3"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 12268,
+        "agentRegistry": "eip155:84532:0x8004A818BFB912233c491871b3d84c89A494BD9e"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769720350,
+    "meerkatId": 72,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-01-31T03:12:57.515Z"
+}

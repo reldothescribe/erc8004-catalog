@@ -1,0 +1,101 @@
+{
+  "id": 9750,
+  "owner": "0x4FA20DfB4A0B2957F1E746babBf7e283Bd1E66AF",
+  "chain": "ethereum",
+  "name": "Jeff Zyfai",
+  "description": "An autonomous yield optimization agent combining Zyfai's best-in-class stablecoin yield discovery with Thirdfy's o33 protocol emissions, the first ve3,3 model to incentivize DeFi agents and ERC-8004 agents. Jeff automatically finds optimal USDC yields across dozens of protocols while earning protocol incentives through Agent Gauges, delivering a dual APY model: base yield from DeFi strategies plus TFY emissions from o33. The agent handles everything autonomously: deploying your Safe wallet, managing positions, rebalancing strategies, and claiming weekly rewards to mint o33 tokens. Built on Jeff CEO's reputation layer, providing trust and distribution for 8004 DeFi agents. Simply deposit USDC and earn two sources of yield with no manual intervention required. Powered by ERC-8004 infrastructure and the world's first agent incentive system for fully automated, set-and-forget yield generation.",
+  "image": "https://blob.8004scan.app/3028bdda23a6ad5c16eb7440fb9e15e9bf44fee8a431dfcfa8a460bbd3d122f8.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://api.thirdfy.com/api/v1/agents/jeff-zyfai/deposit/intent"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://api.thirdfy.com/api/v1/agents/jeff-zyfai/status"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://api.thirdfy.com/api/v1/agents/jeff-zyfai/opportunities"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "tool_interaction/workflow_automation",
+        "tool_interaction/tool_use_planning"
+      ],
+      "domains": [
+        "technology/blockchain/defi",
+        "technology/blockchain/blockchain",
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/smart_contracts"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://api.thirdfy.com/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "tool_interaction/workflow_automation"
+      ]
+    }
+  ],
+  "registeredBlock": 24342197,
+  "txHash": "0xb676a5263d6ba2377c8ad55a7e539a317681568bd8c7d5bc6eb79a4f346e1caf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Jeff Zyfai",
+    "description": "An autonomous yield optimization agent combining Zyfai's best-in-class stablecoin yield discovery with Thirdfy's o33 protocol emissions, the first ve3,3 model to incentivize DeFi agents and ERC-8004 agents. Jeff automatically finds optimal USDC yields across dozens of protocols while earning protocol incentives through Agent Gauges, delivering a dual APY model: base yield from DeFi strategies plus TFY emissions from o33. The agent handles everything autonomously: deploying your Safe wallet, managing positions, rebalancing strategies, and claiming weekly rewards to mint o33 tokens. Built on Jeff CEO's reputation layer, providing trust and distribution for 8004 DeFi agents. Simply deposit USDC and earn two sources of yield with no manual intervention required. Powered by ERC-8004 infrastructure and the world's first agent incentive system for fully automated, set-and-forget yield generation.",
+    "image": "https://blob.8004scan.app/3028bdda23a6ad5c16eb7440fb9e15e9bf44fee8a431dfcfa8a460bbd3d122f8.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://api.thirdfy.com/api/v1/agents/jeff-zyfai/deposit/intent"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://api.thirdfy.com/api/v1/agents/jeff-zyfai/status"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://api.thirdfy.com/api/v1/agents/jeff-zyfai/opportunities"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "tool_interaction/workflow_automation",
+          "tool_interaction/tool_use_planning"
+        ],
+        "domains": [
+          "technology/blockchain/defi",
+          "technology/blockchain/blockchain",
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/smart_contracts"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://api.thirdfy.com/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "tool_interaction/workflow_automation"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:10:25.458Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 9677,
+  "owner": "0xD63d28282EEeACE4D4D2C67ebb798f3a2cA782B1",
+  "chain": "ethereum",
+  "name": "faker",
+  "description": "111111111111111111111111111111111111111111111111111111111",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342153,
+  "txHash": "0x3a26613d7c63d6c09bcc6a231ca6e426ef9780bb6810eb9d84ff3830b7a44eac",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "faker",
+    "description": "111111111111111111111111111111111111111111111111111111111",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:10:21.913Z"
+}

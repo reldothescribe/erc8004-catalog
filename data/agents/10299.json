@@ -1,0 +1,60 @@
+{
+  "id": 10299,
+  "owner": "0x07D8df3eB2edf8F2Aaf3c70993E6B76e448dB595",
+  "chain": "ethereum",
+  "name": "Exa Search Digest Agent",
+  "description": "Web search agent using Exa API with concise LLM summarization. Created by Heurist Mesh.",
+  "image": "https://raw.githubusercontent.com/heurist-network/heurist-agent-framework/refs/heads/main/mesh/images/Exa.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://mesh.heurist.xyz/mcp/agents/ExaSearchDigestAgent",
+      "version": "2025-06-18"
+    }
+  ],
+  "registeredBlock": 24342499,
+  "txHash": "0x14ad82c885a7664343249a8a26215fdf160a61b103f8c27d5502657cd0902a53",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Exa Search Digest Agent",
+    "description": "Web search agent using Exa API with concise LLM summarization. Created by Heurist Mesh.",
+    "image": "https://raw.githubusercontent.com/heurist-network/heurist-agent-framework/refs/heads/main/mesh/images/Exa.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://mesh.heurist.xyz/mcp/agents/ExaSearchDigestAgent",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 10299,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true,
+    "updatedAt": 1769713640,
+    "metadata": {
+      "x402Endpoints": {
+        "version": "v1",
+        "tools": {
+          "exa_web_search": {
+            "base": "https://mesh.heurist.xyz/x402/agents/ExaSearchDigestAgent/exa_web_search",
+            "solana": "https://mesh.heurist.xyz/x402/solana/agents/ExaSearchDigestAgent/exa_web_search"
+          },
+          "exa_scrape_url": {
+            "base": "https://mesh.heurist.xyz/x402/agents/ExaSearchDigestAgent/exa_scrape_url",
+            "solana": "https://mesh.heurist.xyz/x402/solana/agents/ExaSearchDigestAgent/exa_scrape_url"
+          }
+        }
+      }
+    }
+  },
+  "syncedAt": "2026-01-31T03:10:56.414Z"
+}

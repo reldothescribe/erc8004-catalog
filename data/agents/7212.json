@@ -1,0 +1,37 @@
+{
+  "id": 7212,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "service/xiuxiuxar/dyor_service:0.1.0",
+  "description": "An agent service for DYOR agent, providing timely and concise research reports for crypto assets, leveraging Trendmoon APIs and associated data sources.",
+  "image": "https://gateway.autonolas.tech/ipfs/bafybeiep5a6tqd7awmot3ccv3eihl364jkz5wp5jztzvgci6mgfu7xdz74",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/49"
+    }
+  ],
+  "registeredBlock": 24341498,
+  "txHash": "0x209283edac2bec0fca226e73d59cba79f37fad6ca7cb80c6e2af6d8895c8c7ff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "service/xiuxiuxar/dyor_service:0.1.0",
+    "description": "An agent service for DYOR agent, providing timely and concise research reports for crypto assets, leveraging Trendmoon APIs and associated data sources.",
+    "image": "https://gateway.autonolas.tech/ipfs/bafybeiep5a6tqd7awmot3ccv3eihl364jkz5wp5jztzvgci6mgfu7xdz74",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/49"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:07:33.046Z"
+}

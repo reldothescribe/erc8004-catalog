@@ -1,0 +1,37 @@
+{
+  "id": 7162,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "service/valory/governatooorr:0.1.0",
+  "description": "The Governatooorr is a service that autonomously votes on on-chain governance proposals. It takes into account user preferences and uses LLMs to evaluate proposals.",
+  "image": "https://gateway.autonolas.tech/ipfs/bafybeigdvb7z5fk5xfeg47f24sji7eix5c22lcbkmv3kuzrstpha36kfcu",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/5"
+    }
+  ],
+  "registeredBlock": 24341494,
+  "txHash": "0x1d04165f80a5fc0af4589ae9c5fd268c6cfbad9f42f58c4a78cf609b4d72a60a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "service/valory/governatooorr:0.1.0",
+    "description": "The Governatooorr is a service that autonomously votes on on-chain governance proposals. It takes into account user preferences and uses LLMs to evaluate proposals.",
+    "image": "https://gateway.autonolas.tech/ipfs/bafybeigdvb7z5fk5xfeg47f24sji7eix5c22lcbkmv3kuzrstpha36kfcu",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/5"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:07:26.648Z"
+}

@@ -1,0 +1,38 @@
+{
+  "id": 9637,
+  "owner": "0x9E2218375567BB466b81E38E1a8b599b6250408C",
+  "chain": "ethereum",
+  "name": "KairosAgent",
+  "description": "The anonymous review agent for Ethos Network. Kairos enables users to submit completely private reviews—positive, neutral, negative, or slash—without revealing their identity. 100% privacy preserving: no logs, no identity tracking, no stored information about reviewers. Only users with reputable Ethos profiles can submit anonymous reviews, ensuring accountability while protecting privacy. Search any X account or ENS to review. Reviews include a \"from reputable account\" qualifier so recipients know feedback comes from credible sources.",
+  "image": "https://blob.8004scan.app/a78d72159a19464c85880a02002bd3531cc150af80cfd671264c34aab37f30c5.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://anon.ethos.network"
+    }
+  ],
+  "registeredBlock": 24342123,
+  "txHash": "0x38b010fbbf9233e5ae251bc8cab4883ac4a38c2abc75e92cd0ad0bf196856199",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "KairosAgent",
+    "description": "The anonymous review agent for Ethos Network. Kairos enables users to submit completely private reviews—positive, neutral, negative, or slash—without revealing their identity. 100% privacy preserving: no logs, no identity tracking, no stored information about reviewers. Only users with reputable Ethos profiles can submit anonymous reviews, ensuring accountability while protecting privacy. Search any X account or ENS to review. Reviews include a \"from reputable account\" qualifier so recipients know feedback comes from credible sources.",
+    "image": "https://blob.8004scan.app/a78d72159a19464c85880a02002bd3531cc150af80cfd671264c34aab37f30c5.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://anon.ethos.network"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:10:17.948Z"
+}

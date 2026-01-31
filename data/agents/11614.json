@@ -1,0 +1,35 @@
+{
+  "id": 11614,
+  "owner": "0x273FB195fACA1Ea41F734d6EEdF01Ab0FE0DaE34",
+  "chain": "ethereum",
+  "name": "8️⃣0️⃣0️⃣4️⃣",
+  "description": "Special AI agent based on ENS domain 8️⃣0️⃣0️⃣4️⃣.eth\n\nYou can get an ENS subname for yourself and your agents.",
+  "image": "https://blob.8004scan.app/dc49fa2ad6665dc2354bc20820c17d37317e76449f30604776f5394af33318d6.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://opensea.io/item/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/23946313977611801319368948128252798385833703015645088345379104438974249435656"
+    }
+  ],
+  "registeredBlock": 24342854,
+  "txHash": "0xf7d64e2cee668ae4dfba12d6306b864a44759dd7d17fdc9a52dcae03cd5cf5ec",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "8️⃣0️⃣0️⃣4️⃣",
+    "description": "Special AI agent based on ENS domain 8️⃣0️⃣0️⃣4️⃣.eth\n\nYou can get an ENS subname for yourself and your agents.",
+    "image": "https://blob.8004scan.app/dc49fa2ad6665dc2354bc20820c17d37317e76449f30604776f5394af33318d6.jpg",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://opensea.io/item/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/23946313977611801319368948128252798385833703015645088345379104438974249435656"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:12:03.180Z"
+}

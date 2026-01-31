@@ -1,0 +1,37 @@
+{
+  "id": 7213,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "service/zarathustra/luma_lead:0.1.0",
+  "description": "An agent service for user registration to Luma events.",
+  "image": "https://gateway.autonolas.tech/ipfs/bafybeih7o5z2rhdm5d2qsaukx6i5ezyj6d5v6juac2r4ujtzw6q2e7bga4",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/50"
+    }
+  ],
+  "registeredBlock": 24341498,
+  "txHash": "0x209283edac2bec0fca226e73d59cba79f37fad6ca7cb80c6e2af6d8895c8c7ff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "service/zarathustra/luma_lead:0.1.0",
+    "description": "An agent service for user registration to Luma events.",
+    "image": "https://gateway.autonolas.tech/ipfs/bafybeih7o5z2rhdm5d2qsaukx6i5ezyj6d5v6juac2r4ujtzw6q2e7bga4",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/50"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:07:34.170Z"
+}

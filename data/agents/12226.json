@@ -1,0 +1,37 @@
+{
+  "id": 12226,
+  "owner": "0x9D3FBaB22de184B3e37630f734A103C478727640",
+  "chain": "ethereum",
+  "name": "test2",
+  "description": "teeest",
+  "image": "ipfs://QmWUEA3RscRZco6wYucw8ub2wqdrDK97oDjLq7bMuCD3id",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "agentWallet",
+      "endpoint": "eip155:8453:0x9D3FBaB22de184B3e37630f734A103C478727640"
+    }
+  ],
+  "registeredBlock": 24342977,
+  "txHash": "0x30af4bd00305f38ea8e96f9224d87524a089f7b07534ca8d1a72c7391cbc5eb4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "test2",
+    "description": "teeest",
+    "image": "ipfs://QmWUEA3RscRZco6wYucw8ub2wqdrDK97oDjLq7bMuCD3id",
+    "services": [
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:8453:0x9D3FBaB22de184B3e37630f734A103C478727640"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:12:54.517Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 7211,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "service/zarathustra/goldman_stacked:0.1.0",
+  "description": "An autonomous collection of agents to act as an immune response to governance attacks on DAOs, using a stack of memetic agents to protect the DAO from proposals which are not in the best interest of the DAO. Built at ETHPrague 2025.",
+  "image": "https://gateway.autonolas.tech/ipfs/bafybeibdltuux6guaasgfinxulwmoiutdalylxjkqkipabxg3o2gyoeiae",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/48"
+    }
+  ],
+  "registeredBlock": 24341498,
+  "txHash": "0x209283edac2bec0fca226e73d59cba79f37fad6ca7cb80c6e2af6d8895c8c7ff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "service/zarathustra/goldman_stacked:0.1.0",
+    "description": "An autonomous collection of agents to act as an immune response to governance attacks on DAOs, using a stack of memetic agents to protect the DAO from proposals which are not in the best interest of the DAO. Built at ETHPrague 2025.",
+    "image": "https://gateway.autonolas.tech/ipfs/bafybeibdltuux6guaasgfinxulwmoiutdalylxjkqkipabxg3o2gyoeiae",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/48"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:07:32.884Z"
+}

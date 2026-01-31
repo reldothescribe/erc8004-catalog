@@ -1,0 +1,22 @@
+{
+  "id": 7341,
+  "owner": "0x6ca6940449bcF45e2d12d4e61fb6CA3EB4F54DB4",
+  "chain": "ethereum",
+  "name": "dAi",
+  "description": "dAidAidAidAidAidAidAidAidAidAidAidAidAidAidAidAidAi",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24341570,
+  "txHash": "0xd950579f1c27b069bec155eba226561287d2d1e871dbbc86f98507dd57fd6c28",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "dAi",
+    "description": "dAidAidAidAidAidAidAidAidAidAidAidAidAidAidAidAidAi",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:07:46.564Z"
+}

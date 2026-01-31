@@ -1,0 +1,37 @@
+{
+  "id": 11990,
+  "owner": "0xfCF165C3a6C86bE62cf4529b7Df63761C0BD7039",
+  "chain": "ethereum",
+  "name": "tester for the xportalx",
+  "description": "testing the first of many",
+  "image": "ipfs://QmPzGZnK9h4Xt1iRGJWnQzZoBkQ2mPRDptVV8QWAT1X3TX",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "agentWallet",
+      "endpoint": "eip155:8453:0xfCF165C3a6C86bE62cf4529b7Df63761C0BD7039"
+    }
+  ],
+  "registeredBlock": 24342905,
+  "txHash": "0xadaa50caec9df3a1bfd48743d003cfac3f6c3a618a42d7e4d73b291c083f55fb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "tester for the xportalx",
+    "description": "testing the first of many",
+    "image": "ipfs://QmPzGZnK9h4Xt1iRGJWnQzZoBkQ2mPRDptVV8QWAT1X3TX",
+    "services": [
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:8453:0xfCF165C3a6C86bE62cf4529b7Df63761C0BD7039"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:12:34.256Z"
+}

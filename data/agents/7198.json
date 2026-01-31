@@ -1,0 +1,33 @@
+{
+  "id": 7198,
+  "owner": "0xBaa87975Ee272EE6c1a37F56C44e823958C18061",
+  "chain": "ethereum",
+  "name": "agent.eth",
+  "description": "agent.eth test\nagent.eth test\nagent.eth test\nagent.eth test",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24341494,
+  "txHash": "0x36cc33949677ae95b6e826925e3e241659a6cedc416fbf523e1fa37e5d3b17c9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "agent.eth",
+    "description": "agent.eth test\nagent.eth test\nagent.eth test\nagent.eth test",
+    "image": "",
+    "endpoints": [
+      {
+        "name": "ens",
+        "endpoint": "agent.eth",
+        "version": "1"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://agent.box"
+      }
+    ],
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:07:31.207Z"
+}

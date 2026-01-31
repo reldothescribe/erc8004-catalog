@@ -1,0 +1,164 @@
+{
+  "id": 6817,
+  "owner": "0x197B33028A4aC0bCcdA2Cdb51205d9F48F50D65B",
+  "chain": "ethereum",
+  "name": "Otto AI - Market Alpha Agent",
+  "description": "AI agent providing crypto market intelligence: real-time news, KOL sentiment analysis, token alpha, yield opportunities, and AI-powered trade suggestions. 10 specialized services via ACP and x402. Website: https://useotto.xyz | X: @useOttoAI",
+  "image": "https://useotto.xyz/static/images/otto.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "A2A",
+      "version": "0.3.0",
+      "endpoint": "https://useotto.xyz/.well-known/a2a/market-alpha-agent.json",
+      "a2aSkills": [
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/natural_language_generation/summarization",
+        "domain_specific/finance/market_analysis",
+        "domain_specific/finance/trading_signals"
+      ]
+    },
+    {
+      "name": "OASF",
+      "version": "v0.8.0",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/natural_language_generation/summarization",
+        "natural_language_processing/analytical_reasoning/analytical_reasoning",
+        "analytical_skills/forecasting"
+      ],
+      "domains": [
+        "technology/blockchain",
+        "finance_and_business/finance",
+        "finance_and_business/investment_services",
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi"
+      ]
+    },
+    {
+      "name": "x402",
+      "version": "v2",
+      "endpoint": "https://x402.ottoai.services"
+    },
+    {
+      "name": "ACP",
+      "version": "2.0",
+      "endpoint": "https://acp.virtuals.io"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://useotto.xyz"
+    },
+    {
+      "name": "docs",
+      "endpoint": "https://docs.useotto.xyz"
+    },
+    {
+      "name": "twitter",
+      "endpoint": "https://x.com/useOttoAI"
+    },
+    {
+      "name": "email",
+      "endpoint": "support@useotto.xyz"
+    }
+  ],
+  "registeredBlock": 24341365,
+  "txHash": "0x54bada79418f0c0d786013db5d721693fa42320c80b25b7802a63f8519afd175",
+  "rawMetadata": {
+    "name": "Otto AI - Market Alpha Agent",
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "image": "https://useotto.xyz/static/images/otto.png",
+    "active": true,
+    "description": "AI agent providing crypto market intelligence: real-time news, KOL sentiment analysis, token alpha, yield opportunities, and AI-powered trade suggestions. 10 specialized services via ACP and x402. Website: https://useotto.xyz | X: @useOttoAI",
+    "services": [
+      {
+        "name": "A2A",
+        "version": "0.3.0",
+        "endpoint": "https://useotto.xyz/.well-known/a2a/market-alpha-agent.json",
+        "a2aSkills": [
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/natural_language_generation/summarization",
+          "domain_specific/finance/market_analysis",
+          "domain_specific/finance/trading_signals"
+        ]
+      },
+      {
+        "name": "OASF",
+        "version": "v0.8.0",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/natural_language_generation/summarization",
+          "natural_language_processing/analytical_reasoning/analytical_reasoning",
+          "analytical_skills/forecasting"
+        ],
+        "domains": [
+          "technology/blockchain",
+          "finance_and_business/finance",
+          "finance_and_business/investment_services",
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi"
+        ]
+      },
+      {
+        "name": "x402",
+        "version": "v2",
+        "endpoint": "https://x402.ottoai.services"
+      },
+      {
+        "name": "ACP",
+        "version": "2.0",
+        "endpoint": "https://acp.virtuals.io"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://useotto.xyz"
+      },
+      {
+        "name": "docs",
+        "endpoint": "https://docs.useotto.xyz"
+      },
+      {
+        "name": "twitter",
+        "endpoint": "https://x.com/useOttoAI"
+      },
+      {
+        "name": "email",
+        "endpoint": "support@useotto.xyz"
+      }
+    ],
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "registrations": [
+      {
+        "agentId": 6817,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 576,
+        "agentRegistry": "eip155:11155111:0x8004A818BFB912233c491871b3d84c89A494BD9e"
+      }
+    ],
+    "wallets": {
+      "x402": {
+        "base": "0x0E84dDEdAaE6A779c462C22a59F301EC31B6b808",
+        "solana": "6XcSfqJHr9vNW2vbiRaMqUYVm7shDgLepca54wUTDPN5"
+      },
+      "acp": {
+        "base": "0xe5B38F112b92Ce8F2103eDAbA7E9a9842f12d5f6"
+      }
+    },
+    "social": {
+      "twitter": "@useOttoAI",
+      "telegram": "@useOttoAI"
+    },
+    "updatedAt": 1769764195
+  },
+  "syncedAt": "2026-01-31T03:07:01.642Z"
+}

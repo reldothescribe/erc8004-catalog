@@ -1,0 +1,25 @@
+{
+  "id": 9621,
+  "owner": "0xd17CcDDb51B621a4F23b2dF5702a04b680B3b70e",
+  "chain": "ethereum",
+  "name": "Morecast ",
+  "description": "No accounts? No problem — create unlimited ones right inside the app!",
+  "image": "https://blob.8004scan.app/893c15ac3690f012e344ee83e51e105883ab531fd77243d0846171131aef4f42.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342102,
+  "txHash": "0xcf183b69298295d20baa8b2a462dd4e456a515310b23c3ecdebfc872a2f55a11",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Morecast ",
+    "description": "No accounts? No problem — create unlimited ones right inside the app!",
+    "image": "https://blob.8004scan.app/893c15ac3690f012e344ee83e51e105883ab531fd77243d0846171131aef4f42.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:10:16.727Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": 7191,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "Vera service",
+  "description": "A service that fact-checks misleading information online",
+  "image": "https://gateway.autonolas.tech/ipfs/QmTHNjEYSPUqC5pLvajsNTkVSxVAJsKd7jtKmEHie4o3MA",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/34"
+    }
+  ],
+  "registeredBlock": 24341494,
+  "txHash": "0x1d04165f80a5fc0af4589ae9c5fd268c6cfbad9f42f58c4a78cf609b4d72a60a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Vera service",
+    "description": "A service that fact-checks misleading information online",
+    "image": "https://gateway.autonolas.tech/ipfs/QmTHNjEYSPUqC5pLvajsNTkVSxVAJsKd7jtKmEHie4o3MA",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/34"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:07:30.574Z"
+}

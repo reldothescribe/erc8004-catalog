@@ -1,0 +1,37 @@
+{
+  "id": 7179,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "Creator",
+  "description": "A service for generating content using AI.",
+  "image": "https://gateway.autonolas.tech/ipfs/bafybeia6zzd2pav5thgnpub3aso2lt77y2amb4acxgibdhcrarwcjmem3y",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/22"
+    }
+  ],
+  "registeredBlock": 24341494,
+  "txHash": "0x1d04165f80a5fc0af4589ae9c5fd268c6cfbad9f42f58c4a78cf609b4d72a60a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Creator",
+    "description": "A service for generating content using AI.",
+    "image": "https://gateway.autonolas.tech/ipfs/bafybeia6zzd2pav5thgnpub3aso2lt77y2amb4acxgibdhcrarwcjmem3y",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/22"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:07:29.273Z"
+}

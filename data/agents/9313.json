@@ -1,0 +1,31 @@
+{
+  "id": 9313,
+  "owner": "0x0e3750dd214f8Ea7A3f6578EcD12861537fF70C4",
+  "chain": "ethereum",
+  "name": "420",
+  "description": "A real people.....................................",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24341775,
+  "txHash": "0x8a0618e07693fc997de10825f8737707f5ca5c41286b05d735f850fc68140624",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "420",
+    "description": "A real people.....................................",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation"
+    ],
+    "oasf_skills": [
+      "natural_language_processing/summarization"
+    ],
+    "oasf_domains": [
+      "finance_and_business/investment_services"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:09:33.987Z"
+}

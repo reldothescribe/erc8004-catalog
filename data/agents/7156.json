@@ -1,0 +1,22 @@
+{
+  "id": 7156,
+  "owner": "0xECA8369889BaF45F92cad9C5EB4d149Da9e1343C",
+  "chain": "ethereum",
+  "name": "Agent",
+  "description": "AgentAgentAgentAgentAgentAgentAgentAgentAgentAgentAgentAgentAgentAgent",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24341491,
+  "txHash": "0x9d67a87ad90d3e57784d88d09947bb8bbe059092c101c7b48dca5eb57755b4dd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent",
+    "description": "AgentAgentAgentAgentAgentAgentAgentAgentAgentAgentAgentAgentAgentAgent",
+    "image": "",
+    "active": false,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:07:25.138Z"
+}

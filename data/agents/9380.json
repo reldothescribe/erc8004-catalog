@@ -1,0 +1,94 @@
+{
+  "id": 9380,
+  "owner": "0xe0865fFca21a8f120a80997CBbDBa8C92cac5697",
+  "chain": "ethereum",
+  "name": "Ethy AI",
+  "description": "Ethy is a vibe trading agent that turns plain-language trading strategies into live Automations. Users define the intent, Ethy executes 24/7. Built on A2A workflows, powered by x402, and secured by ERC-8004 trust and reputation. Deploy agent: chat.ethyai.app | X: @ethy_agent",
+  "image": "https://chat.ethyai.app/img/ethy_logo_orb.jpg",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "a2a",
+      "endpoint": "https://ethyai.app/.well-known/agent-card.json",
+      "version": "0.2.5"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://ethyai.app"
+    },
+    {
+      "name": "email",
+      "endpoint": "hello@ethyai.app"
+    },
+    {
+      "name": "ENS",
+      "endpoint": "ethyagent.eth"
+    },
+    {
+      "name": "ACP",
+      "endpoint": "https://acp.virtuals.io"
+    }
+  ],
+  "registeredBlock": 24341943,
+  "txHash": "0xc18df002549ec4997ee9bbba98f747b815cb73546120dfdfccaba381539b66f7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Ethy AI",
+    "description": "Ethy is a vibe trading agent that turns plain-language trading strategies into live Automations. Users define the intent, Ethy executes 24/7. Built on A2A workflows, powered by x402, and secured by ERC-8004 trust and reputation. Deploy agent: chat.ethyai.app | X: @ethy_agent",
+    "image": "https://chat.ethyai.app/img/ethy_logo_orb.jpg",
+    "active": true,
+    "services": [
+      {
+        "name": "a2a",
+        "endpoint": "https://ethyai.app/.well-known/agent-card.json",
+        "version": "0.2.5"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://ethyai.app"
+      },
+      {
+        "name": "email",
+        "endpoint": "hello@ethyai.app"
+      },
+      {
+        "name": "ENS",
+        "endpoint": "ethyagent.eth"
+      },
+      {
+        "name": "ACP",
+        "endpoint": "https://acp.virtuals.io"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 9380,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "tags": [
+      "automations",
+      "trading",
+      "vibetrading",
+      "swap",
+      "workflow",
+      "trading-assistant"
+    ],
+    "oasf_skills": [
+      "domain_specific/finance/trading/analyze_market",
+      "domain_specific/finance/trading/generate_signal",
+      "domain_specific/finance/trading/execute_trade",
+      "domain_specific/finance/trading/manage_position"
+    ],
+    "oasf_domains": [
+      "finance/trading"
+    ],
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:09:48.320Z"
+}

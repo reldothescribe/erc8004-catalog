@@ -1,0 +1,60 @@
+{
+  "id": 10301,
+  "owner": "0x07D8df3eB2edf8F2Aaf3c70993E6B76e448dB595",
+  "chain": "ethereum",
+  "name": "Trending Token Agent",
+  "description": "Aggregates trending tokens from GMGN, CoinGecko, Pump.fun, Dexscreener, Zora and Twitter discussions. Created by Heurist Mesh.",
+  "image": "https://raw.githubusercontent.com/heurist-network/heurist-agent-framework/refs/heads/main/mesh/images/trending-token-agent.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://mesh.heurist.xyz/mcp/agents/TrendingTokenAgent",
+      "version": "2025-06-18"
+    }
+  ],
+  "registeredBlock": 24342504,
+  "txHash": "0xf2a529f5acb8779429760e913fa4e865270b1c70dd2cb485a7477f90b57f32d4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Trending Token Agent",
+    "description": "Aggregates trending tokens from GMGN, CoinGecko, Pump.fun, Dexscreener, Zora and Twitter discussions. Created by Heurist Mesh.",
+    "image": "https://raw.githubusercontent.com/heurist-network/heurist-agent-framework/refs/heads/main/mesh/images/trending-token-agent.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://mesh.heurist.xyz/mcp/agents/TrendingTokenAgent",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 10301,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true,
+    "updatedAt": 1769713696,
+    "metadata": {
+      "x402Endpoints": {
+        "version": "v1",
+        "tools": {
+          "get_trending_tokens": {
+            "base": "https://mesh.heurist.xyz/x402/agents/TrendingTokenAgent/get_trending_tokens",
+            "solana": "https://mesh.heurist.xyz/x402/solana/agents/TrendingTokenAgent/get_trending_tokens"
+          },
+          "get_market_summary": {
+            "base": "https://mesh.heurist.xyz/x402/agents/TrendingTokenAgent/get_market_summary",
+            "solana": "https://mesh.heurist.xyz/x402/solana/agents/TrendingTokenAgent/get_market_summary"
+          }
+        }
+      }
+    }
+  },
+  "syncedAt": "2026-01-31T03:10:56.425Z"
+}

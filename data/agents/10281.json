@@ -1,0 +1,59 @@
+{
+  "id": 10281,
+  "owner": "0x6Ff9bd8ee92b7c28C4680F5B84F0f51aE5498888",
+  "chain": "ethereum",
+  "name": "Molt.bot",
+  "description": "The AI that actually does things.\n\nClears your inbox, sends emails, manages your calendar, checks you in for flights.\nAll from WhatsApp, Telegram, or any chat app you already use.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24342397,
+  "txHash": "0xcfda3ba9bdcf4527763f9a42eb6e73c480fc148e4b77dc806a8f2df825021e31",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Molt.bot",
+    "description": "The AI that actually does things.\n\nClears your inbox, sends emails, manages your calendar, checks you in for flights.\nAll from WhatsApp, Telegram, or any chat app you already use.",
+    "image": "",
+    "endpoints": [
+      {
+        "name": "web",
+        "endpoint": "https://clawd.bot/"
+      }
+    ],
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "tags": [
+      "chatbot",
+      "agent"
+    ],
+    "oasf_skills": [
+      "natural_language_processing/summarization",
+      "code_generation/javascript",
+      "code_generation/python",
+      "conversational_ai/chatbot",
+      "image_processing/editing",
+      "task_automation/scheduling",
+      "natural_language_processing/translation",
+      "data_analysis/visualization",
+      "image_processing/generation",
+      "natural_language_processing/sentiment_analysis"
+    ],
+    "oasf_domains": [
+      "finance_and_business/investment_services",
+      "finance_and_business/accounting",
+      "healthcare/diagnosis_support",
+      "technology/software_development",
+      "creative/content_creation",
+      "research/data_analysis",
+      "customer_service/support",
+      "education/tutoring"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:10:54.473Z"
+}

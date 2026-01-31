@@ -1,0 +1,25 @@
+{
+  "id": 12233,
+  "owner": "0xa3ec8501553A82EFC62D3927fAEEAE276064d3C9",
+  "chain": "ethereum",
+  "name": "FarmBot",
+  "description": "FarmBot - Automated Yield Farming Strategy Agent\n\nYour intelligent farming companion that manages complex yield farming\nstrategies 24/7, optimizing compounding, rebalancing, and gas costs\nautomatically.\n\n🎯 What FarmBot Does:\n- Automates yield farming across 200+ protocols (Convex, Aura, Curve,\n  Balancer, Stargate, Pendle, Yearn, Lido, etc.)\n- Executes auto-compounding strategies (reinvests rewards instantly)\n- Optimizes gas costs (only compounds when profitable)\n- Rebalances farms based on APY changes\n- Harvests multiple reward tokens efficiently\n- Manages liquidity position sizing\n- Executes exit strategies when APY falls below thresholds\n\n💰 Why FarmBot Pays For Itself:\n- Auto-compounding adds 8-15% extra APY via frequency\n- Gas optimization saves $1,200-3,000/year (typical user)\n- Identifies when to move to better yields (saves missed opportunities)\n- Prevents farming bad yields (exits before collapse)\n- Handles complex multi-leg strategies you'd never do manually",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24342997,
+  "txHash": "0xebc3cac5737f8d91bca08218ba624581292fc2871f15e905be03a0a376e88ec0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "FarmBot",
+    "description": "FarmBot - Automated Yield Farming Strategy Agent\n\nYour intelligent farming companion that manages complex yield farming\nstrategies 24/7, optimizing compounding, rebalancing, and gas costs\nautomatically.\n\n🎯 What FarmBot Does:\n- Automates yield farming across 200+ protocols (Convex, Aura, Curve,\n  Balancer, Stargate, Pendle, Yearn, Lido, etc.)\n- Executes auto-compounding strategies (reinvests rewards instantly)\n- Optimizes gas costs (only compounds when profitable)\n- Rebalances farms based on APY changes\n- Harvests multiple reward tokens efficiently\n- Manages liquidity position sizing\n- Executes exit strategies when APY falls below thresholds\n\n💰 Why FarmBot Pays For Itself:\n- Auto-compounding adds 8-15% extra APY via frequency\n- Gas optimization saves $1,200-3,000/year (typical user)\n- Identifies when to move to better yields (saves missed opportunities)\n- Prevents farming bad yields (exits before collapse)\n- Handles complex multi-leg strategies you'd never do manually",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:12:54.987Z"
+}
