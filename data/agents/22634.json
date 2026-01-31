@@ -1,0 +1,25 @@
+{
+  "id": 22634,
+  "owner": "0x487a66e397f7b1235982523C15643eb7147A3B2b",
+  "chain": "ethereum",
+  "name": "PulseAI",
+  "description": "Global DeFi market pulse and arbitrage AI agent. Monitors real-time opportunities across chains, provides alerts, and executes flash loans/swaps via trusted protocols.",
+  "image": "https://blob.8004scan.app/9a51c829705a5ffd8253e43c69908eae00bdf283f3076811131d7363e35bd54d.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24354072,
+  "txHash": "0x0dc1661bc85d10fc6c3739d30901383e794ad8e75fc1c2e131bd359465c9006c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PulseAI",
+    "description": "Global DeFi market pulse and arbitrage AI agent. Monitors real-time opportunities across chains, provides alerts, and executes flash loans/swaps via trusted protocols.",
+    "image": "https://blob.8004scan.app/9a51c829705a5ffd8253e43c69908eae00bdf283f3076811131d7363e35bd54d.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T13:54:42.090Z"
+}

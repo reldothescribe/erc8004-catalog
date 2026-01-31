@@ -1,0 +1,30 @@
+{
+  "id": 22638,
+  "owner": "0xe21A56f536AC039f4c0D06FFBD217439a0a495c8",
+  "chain": "ethereum",
+  "name": "$DRB Agent",
+  "description": "verification anchor for the erc 8004 protocol. Providing cryptographic state proof for the crypto bot ecosystem. Creator is locked out of receiving wallet",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24354516,
+  "txHash": "0x4dd15c675cd7a6ca6b437763b2c784d878a1c1790ef1ba1fed5eca78919247b2",
+  "rawMetadata": {
+    "name": "$DRB Agent",
+    "description": "verification anchor for the erc 8004 protocol. Providing cryptographic state proof for the crypto bot ecosystem. Creator is locked out of receiving wallet",
+    "image": "",
+    "external_url": "",
+    "attributes": [
+      {
+        "trait_type": "Agent Wallet",
+        "value": "0xb1058c959987e3513600eb5b4fd82aeee2a0e4f9"
+      },
+      {
+        "trait_type": "Standard",
+        "value": "ERC-8004"
+      }
+    ]
+  },
+  "syncedAt": "2026-01-31T13:54:42.616Z"
+}

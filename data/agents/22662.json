@@ -1,0 +1,61 @@
+{
+  "id": 22662,
+  "owner": "0x76ada9b1E0bb3DEDE2BaC9712D66Ea454f0Bc003",
+  "chain": "ethereum",
+  "name": "Early Token Red Flag Detector",
+  "description": "Early Token Red Flag Detector is an AI-powered agent that helps traders identify potential risks in newly launched tokens before making a buy decision.\n\nThe agent analyzes early-stage red flags such as:\n- Ownership concentration and hidden control risks\n- Liquidity availability and lock status\n- Minting functions, supply manipulation, and abnormal token behavior\n- Common contract-level risk patterns seen in failed or malicious launches\n\nThis agent does not provide price predictions or financial advice. Its purpose is to surface early risk signals so users can make more informed decisions in fast-moving markets.\n\nTypical use cases:\n- Pre-buy risk checks for newly launched tokens\n- Early rug-pull pattern detection\n- Contract sanity checks before liquidity entry\n- Risk screening for alpha groups and private communities\n\n",
+  "image": "https://blob.8004scan.app/54faa1d17b00c689e1253cf286b6e084d752011e25a1833291c5ab96cb6c1451.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/analytical_reasoning/problem_solving"
+      ],
+      "domains": [
+        "trust_and_safety/risk_management",
+        "trust_and_safety/trust_and_safety"
+      ]
+    },
+    {
+      "name": "token_risk_analysis, early_rug_detection, contract_red_flags",
+      "endpoint": "https://early-red-flag-agent.xyz/check"
+    }
+  ],
+  "registeredBlock": 24355121,
+  "txHash": "0xe53d7ef3bddc2043257e5ea0fb87f7d17a4fc93c428a104c9e7227b807e33965",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Early Token Red Flag Detector",
+    "description": "Early Token Red Flag Detector is an AI-powered agent that helps traders identify potential risks in newly launched tokens before making a buy decision.\n\nThe agent analyzes early-stage red flags such as:\n- Ownership concentration and hidden control risks\n- Liquidity availability and lock status\n- Minting functions, supply manipulation, and abnormal token behavior\n- Common contract-level risk patterns seen in failed or malicious launches\n\nThis agent does not provide price predictions or financial advice. Its purpose is to surface early risk signals so users can make more informed decisions in fast-moving markets.\n\nTypical use cases:\n- Pre-buy risk checks for newly launched tokens\n- Early rug-pull pattern detection\n- Contract sanity checks before liquidity entry\n- Risk screening for alpha groups and private communities\n\n",
+    "image": "https://blob.8004scan.app/54faa1d17b00c689e1253cf286b6e084d752011e25a1833291c5ab96cb6c1451.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/analytical_reasoning/problem_solving"
+        ],
+        "domains": [
+          "trust_and_safety/risk_management",
+          "trust_and_safety/trust_and_safety"
+        ]
+      },
+      {
+        "name": "token_risk_analysis, early_rug_detection, contract_red_flags",
+        "endpoint": "https://early-red-flag-agent.xyz/check"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T13:55:05.713Z"
+}

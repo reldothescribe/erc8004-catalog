@@ -1,0 +1,111 @@
+{
+  "id": 22628,
+  "owner": "0xc10561C1c0d718B3D362df9D510A1b4e4331a4Ee",
+  "chain": "ethereum",
+  "name": "GinsengSwap Gift Cards",
+  "description": "AI-powered gift card marketplace with 600+ brands worldwide. Search, browse, and purchase gift cards using USDC via x402 protocol. Features include brand search, country/currency filtering, real-time pricing with FX conversion, and instant voucher delivery via email. Pricing: Card value + 1.5% FX buffer in USDC.",
+  "image": "https://ginsengswap.org/icons/gift-card.svg",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://ginsengswap.org/api/mcp/manifest/cards-mainnet",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "search_giftcards",
+        "get_brand_details",
+        "list_countries",
+        "list_currencies",
+        "purchase_giftcard",
+        "check_order_status"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://ginsengswap.org/.well-known/gift-cards/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "gift_card_search",
+        "gift_card_purchase",
+        "brand_catalog",
+        "order_tracking"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://schema.oasf.outshift.com/0.8.0",
+      "version": "v0.8.0",
+      "skills": [
+        "retrieval_augmented_generation",
+        "tool_interaction",
+        "natural_language_processing"
+      ],
+      "domains": [
+        "retail_and_ecommerce",
+        "finance_and_business"
+      ]
+    }
+  ],
+  "registeredBlock": 24353445,
+  "txHash": "0x5f4ecb7541763fc1edfa9272eed9513b2afaf6744c1ebf511dfc2d9864afdabe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "GinsengSwap Gift Cards",
+    "description": "AI-powered gift card marketplace with 600+ brands worldwide. Search, browse, and purchase gift cards using USDC via x402 protocol. Features include brand search, country/currency filtering, real-time pricing with FX conversion, and instant voucher delivery via email. Pricing: Card value + 1.5% FX buffer in USDC.",
+    "image": "https://ginsengswap.org/icons/gift-card.svg",
+    "external_url": "https://ginsengswap.org",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://ginsengswap.org/api/mcp/manifest/cards-mainnet",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "search_giftcards",
+          "get_brand_details",
+          "list_countries",
+          "list_currencies",
+          "purchase_giftcard",
+          "check_order_status"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://ginsengswap.org/.well-known/gift-cards/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "gift_card_search",
+          "gift_card_purchase",
+          "brand_catalog",
+          "order_tracking"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://schema.oasf.outshift.com/0.8.0",
+        "version": "v0.8.0",
+        "skills": [
+          "retrieval_augmented_generation",
+          "tool_interaction",
+          "natural_language_processing"
+        ],
+        "domains": [
+          "retail_and_ecommerce",
+          "finance_and_business"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22628,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T13:54:42.448Z"
+}

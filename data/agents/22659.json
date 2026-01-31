@@ -1,0 +1,22 @@
+{
+  "id": 22659,
+  "owner": "0xaa8C336fF3F882B8DE3D3BDf9C1DEf68C55DB5BA",
+  "chain": "ethereum",
+  "name": "HenryClient",
+  "description": "Test client for validating Henry's reputation",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24354826,
+  "txHash": "0x73a9be21b2247a0332b7dc409cd76133cbe4cb9db5250798b2442c775799cc02",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HenryClient",
+    "description": "Test client for validating Henry's reputation",
+    "services": [],
+    "active": true,
+    "registrations": []
+  },
+  "syncedAt": "2026-01-31T13:55:05.710Z"
+}

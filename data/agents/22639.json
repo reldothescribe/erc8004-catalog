@@ -1,0 +1,25 @@
+{
+  "id": 22639,
+  "owner": "0x487a66e397f7b1235982523C15643eb7147A3B2b",
+  "chain": "ethereum",
+  "name": "MemeAI",
+  "description": "Meme coin sniper and early detection agent. Scans socials, on-chain signals, and launches for high-potential tokens with fast execution.",
+  "image": "https://blob.8004scan.app/04b77550413c2f95a863684e3a741ee43adc040709c8cc7962bbed266041b3f5.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24354519,
+  "txHash": "0xe86ae7e5c76c65f6066b88c6cbaedd33ec69a8ed4688e84925723fcf6d9bf4a6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MemeAI",
+    "description": "Meme coin sniper and early detection agent. Scans socials, on-chain signals, and launches for high-potential tokens with fast execution.",
+    "image": "https://blob.8004scan.app/04b77550413c2f95a863684e3a741ee43adc040709c8cc7962bbed266041b3f5.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T13:54:42.127Z"
+}

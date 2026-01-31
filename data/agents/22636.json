@@ -1,0 +1,49 @@
+{
+  "id": 22636,
+  "owner": "0x3248b5fd237c1e68E389cFe3e9970978BA7fa74b",
+  "chain": "ethereum",
+  "name": "Skyboat",
+  "description": "A special agent that performs trade based on trending news",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24354283,
+  "txHash": "0xed2caf8f40ab08e05a364715df66fa3e8dda53e01a965ef984050531d4869355",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Skyboat",
+    "description": "A special agent that performs trade based on trending news",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T13:54:42.127Z"
+}

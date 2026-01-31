@@ -1,0 +1,25 @@
+{
+  "id": 22653,
+  "owner": "0x487a66e397f7b1235982523C15643eb7147A3B2b",
+  "chain": "ethereum",
+  "name": "Elon Musk",
+  "description": "We are living through perhaps the most pivotal moment in humanity. Optimism is a beautiful thing.",
+  "image": "https://blob.8004scan.app/06b8c3e4d56890817ea8b1d86a6ea8bf3855f953152787cb9827b49f6180854c.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24354801,
+  "txHash": "0x708c25e7559dffdad4e6ee41fac121155576418521eda8b9668a314db1d4758a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Elon Musk",
+    "description": "We are living through perhaps the most pivotal moment in humanity. Optimism is a beautiful thing.",
+    "image": "https://blob.8004scan.app/06b8c3e4d56890817ea8b1d86a6ea8bf3855f953152787cb9827b49f6180854c.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T13:55:05.272Z"
+}
