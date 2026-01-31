@@ -1,0 +1,22 @@
+{
+  "id": 17895,
+  "owner": "0x95b90F43986035a72B663c07a6b1054b4f65DFFE",
+  "chain": "ethereum",
+  "name": "UltraAgent_2749",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x0072e7f9d17720ead25486bfd2bf2bbd45c0fb2fef7bed89522dc5e50b6ccebb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraAgent_2749",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:11.674Z"
+}

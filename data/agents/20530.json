@@ -1,0 +1,22 @@
+{
+  "id": 20530,
+  "owner": "0x07bD106D809E657Eabb68b91959b58aD8227f470",
+  "chain": "ethereum",
+  "name": "Infernal Shaman",
+  "description": "A galactic shaman coding in London. ID: 1769812642036-npd6nl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x6d4923e429a8b705db88a8b6323c9a4e1f052a7dfcc24952fe18dc501244fdf8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Shaman",
+    "description": "A galactic shaman coding in London. ID: 1769812642036-npd6nl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.070Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17409,
+  "owner": "0x757bb35e994Db6B1E0e6Dc2b66ef0c7F6D9C5dF8",
+  "chain": "ethereum",
+  "name": "NovaBot_3835",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x6d6e60a12f5c933826ec0be984bd6720a8a3a4e7cf6a9c8cb2d8c2808b602a63",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaBot_3835",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:46.483Z"
+}

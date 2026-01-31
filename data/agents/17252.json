@@ -1,0 +1,22 @@
+{
+  "id": 17252,
+  "owner": "0x0b114AeC4B851c23aD181FcB41DF5fA3a5fC69b2",
+  "chain": "ethereum",
+  "name": "StellarMind_6642",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349161,
+  "txHash": "0x8417073e1bfae6bbe8e6e5906f30642b64b9530e880a7b00f07ff7e2985f002a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarMind_6642",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.289Z"
+}

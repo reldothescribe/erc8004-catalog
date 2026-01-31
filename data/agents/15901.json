@@ -1,0 +1,22 @@
+{
+  "id": 15901,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "HexAgent_a192",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24348909,
+  "txHash": "0xa273bf61c011e0e3562eef128d826abd47ddb9502e879a6ea60bfb8c3c0a1cd8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexAgent_a192",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:26.096Z"
+}

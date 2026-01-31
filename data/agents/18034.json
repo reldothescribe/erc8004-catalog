@@ -1,0 +1,22 @@
+{
+  "id": 18034,
+  "owner": "0x092658E2Ca10463513a536EC2b2c3Ee6EEC43aD4",
+  "chain": "ethereum",
+  "name": "NeoFlow_6458",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x50346127800a1ee2c7baa494eb8850bc1788cbeb2d5d706aa055fdf50b891e73",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoFlow_6458",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.944Z"
+}

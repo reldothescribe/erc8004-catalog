@@ -1,0 +1,22 @@
+{
+  "id": 19770,
+  "owner": "0x0c890A7F4AC5B8AEC2fF9F449125EC42BE00d371",
+  "chain": "ethereum",
+  "name": "Golden Gate",
+  "description": "A secret gate waking in Space. ID: 1769802538351-pq5mym",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349878,
+  "txHash": "0xd0df5d70b0b21b103ea77702c1dc1c6140c182ea133c8c2f41d049c3099ae73d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Gate",
+    "description": "A secret gate waking in Space. ID: 1769802538351-pq5mym",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.026Z"
+}

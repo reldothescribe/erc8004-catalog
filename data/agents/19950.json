@@ -1,0 +1,22 @@
+{
+  "id": 19950,
+  "owner": "0xD8F566eA0dcD7F98D5b5d72C300a8f5Cc707fa1b",
+  "chain": "ethereum",
+  "name": "Ether Mystic Road",
+  "description": "A mystic road starting in Mars. ID: 1769806688156-ovlikp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350221,
+  "txHash": "0xe55bb31f75830f31cc22bce48406d50da379c490859c81977a72e0201e2099d1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Mystic Road",
+    "description": "A mystic road starting in Mars. ID: 1769806688156-ovlikp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.597Z"
+}

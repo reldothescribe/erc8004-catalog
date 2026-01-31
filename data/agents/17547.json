@@ -1,0 +1,22 @@
+{
+  "id": 17547,
+  "owner": "0xda9Fc2a04888d1A858f1611ac6a01AEf36962129",
+  "chain": "ethereum",
+  "name": "MetaCore_3977",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x10f2ab9880e45800165b6306df5d79f594352d3891d8b2efea72a99a2f579c1c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaCore_3977",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:53.651Z"
+}

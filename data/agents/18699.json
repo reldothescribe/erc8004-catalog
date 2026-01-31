@@ -1,0 +1,22 @@
+{
+  "id": 18699,
+  "owner": "0x9dc65f0F82Add8f27eaeFA417B31cAdf9271A129",
+  "chain": "ethereum",
+  "name": "Agents 18688",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349300,
+  "txHash": "0x694e1bc8542c6310bf74019715e4b03f4cfe4e638c406e80b2b7b93f940e3291",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agents 18688",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:54.548Z"
+}

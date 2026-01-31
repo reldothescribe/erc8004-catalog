@@ -1,0 +1,22 @@
+{
+  "id": 17624,
+  "owner": "0x3740b274f5b2BD16cc8C9e2ca633fdF84DeFce7f",
+  "chain": "ethereum",
+  "name": "PrimeNode_2894",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x237d1e2ae75f3765a1f7e3e3d10fdb674c3c52c4015a92cf527a067848abfe05",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeNode_2894",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:57.544Z"
+}

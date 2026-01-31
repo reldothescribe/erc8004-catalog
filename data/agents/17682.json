@@ -1,0 +1,22 @@
+{
+  "id": 17682,
+  "owner": "0x194a271af0A451D4Fe81a90dCfE5163606365ab6",
+  "chain": "ethereum",
+  "name": "NeoSync_4790",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x32f694be2f047a37ed30f80b8f0d5d590846f68b124e62aa321e8e7c6e1494bb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoSync_4790",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:00.102Z"
+}

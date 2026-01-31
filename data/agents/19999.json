@@ -1,0 +1,22 @@
+{
+  "id": 19999,
+  "owner": "0x9879f025CCdD2F6678815Aa20a26A52B6921A36d",
+  "chain": "ethereum",
+  "name": "Silver Druid 1775",
+  "description": "A silent druid walking in the Blockchain. ID: 1769807811788-59zld8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350316,
+  "txHash": "0x7d1fc38e0bbbabe62cf7ecad5976645909ba83e2c94c9c92ea73bc87565f0ad5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silver Druid 1775",
+    "description": "A silent druid walking in the Blockchain. ID: 1769807811788-59zld8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.158Z"
+}

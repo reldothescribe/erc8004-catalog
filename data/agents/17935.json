@@ -1,0 +1,22 @@
+{
+  "id": 17935,
+  "owner": "0x1f1bcB5ABd003C50303DcBc7deB38166BE712890",
+  "chain": "ethereum",
+  "name": "PrimeCore_7491",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x267a2b4b22c7cf962a65cec254ca15aad6dc6b5e20b383d6bc6e5f3ad047c623",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeCore_7491",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:13.724Z"
+}

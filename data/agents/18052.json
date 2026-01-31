@@ -1,0 +1,22 @@
+{
+  "id": 18052,
+  "owner": "0x3595422426fc6e6CB052Ba9Cd02706D041B812d5",
+  "chain": "ethereum",
+  "name": "CyberNet_2567",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x2cdb10c5ae3b11307b9d1dd55ac9021d5b29ebf5981e795da7458f93f5ed659f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberNet_2567",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:19.456Z"
+}

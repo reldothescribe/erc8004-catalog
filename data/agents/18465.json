@@ -1,0 +1,22 @@
+{
+  "id": 18465,
+  "owner": "0xA26358409F7F1681151340Abfa3E5a5ee885FAE8",
+  "chain": "ethereum",
+  "name": "LuxAgent_5473",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349261,
+  "txHash": "0x3cefa1197429bbbdd182f24d4326057c449c7a51502cf083063b731a306baf3c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxAgent_5473",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:42.497Z"
+}

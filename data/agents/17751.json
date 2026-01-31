@@ -1,0 +1,22 @@
+{
+  "id": 17751,
+  "owner": "0x40E232263267408D205945618a1114ac2adec08c",
+  "chain": "ethereum",
+  "name": "MetaNode_8042",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0xb81baa293ef78b85a3351cae60e01ec88dd2e5d925bf051de6112c7dd9112920",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNode_8042",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:03.685Z"
+}

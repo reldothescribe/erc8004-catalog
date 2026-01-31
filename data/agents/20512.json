@@ -1,0 +1,22 @@
+{
+  "id": 20512,
+  "owner": "0x7b14b4B5E38B98733d0A89cA09C5a2323DBA4d72",
+  "chain": "ethereum",
+  "name": "Phantom Door 7330",
+  "description": "A onyx door fighting in the Ledger. ID: 1769812640102-vxvp81",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x4505f9b199fb90af08d0c9ed2c97fcc0667c1a359a9f73b810bdfe58cba7445f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Door 7330",
+    "description": "A onyx door fighting in the Ledger. ID: 1769812640102-vxvp81",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.101Z"
+}

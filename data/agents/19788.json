@@ -1,0 +1,22 @@
+{
+  "id": 19788,
+  "owner": "0x98BE22d9711C7B3B1Ec15FBF297F71283Ce11E98",
+  "chain": "ethereum",
+  "name": "Serene Traveler",
+  "description": "A wise traveler keeping in the Frontier. ID: 1769802604426-mww5pm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349883,
+  "txHash": "0xf96016337f094a8b2f3079da08171d3ac43072111bf3dfa4a4cedd6ee641a144",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Serene Traveler",
+    "description": "A wise traveler keeping in the Frontier. ID: 1769802604426-mww5pm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.156Z"
+}

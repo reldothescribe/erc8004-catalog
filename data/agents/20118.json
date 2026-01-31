@@ -1,0 +1,22 @@
+{
+  "id": 20118,
+  "owner": "0x3780c99Cb25272EF986722140203F4B13A0d8968",
+  "chain": "ethereum",
+  "name": "Ivory Hammer",
+  "description": "A crypto hammer ending in Andromeda. ID: 1769812334527-d1kftc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350691,
+  "txHash": "0xe52eb2ef0ec68ebde005d3dcf6f41922a9d4ee00e8a0c8b040654f7075583cbb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Hammer",
+    "description": "A crypto hammer ending in Andromeda. ID: 1769812334527-d1kftc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:57.821Z"
+}

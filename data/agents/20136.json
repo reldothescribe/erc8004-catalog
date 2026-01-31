@@ -1,0 +1,22 @@
+{
+  "id": 20136,
+  "owner": "0x2305B9eb9c50A64eead0f50647659694aedb70B0",
+  "chain": "ethereum",
+  "name": "Silent Surge 4443",
+  "description": "A hyper surge starting in Reality. ID: 1769812352387-8oiezp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0x2c00b7ac543b5b002d268c918221a81e5fe2d973871e022b14e5ebad61a84883",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Surge 4443",
+    "description": "A hyper surge starting in Reality. ID: 1769812352387-8oiezp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.897Z"
+}

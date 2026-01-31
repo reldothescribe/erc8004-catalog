@@ -1,0 +1,22 @@
+{
+  "id": 18503,
+  "owner": "0x2B925f3185b086Ad4349c2f99cb52dbB9C4173BF",
+  "chain": "ethereum",
+  "name": "PyrChain_2864",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349265,
+  "txHash": "0x85edfd190f0f256ba4643e733cd4ba1101d537cb11c049263e26afe540158169",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PyrChain_2864",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:44.545Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 15810,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "SynPulse_fc5d",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24348908,
+  "txHash": "0xd836eb56861df3753c5e7792f881728c8c83b9ec6117b50ad8c187ffbc9d4ea6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynPulse_fc5d",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:21.488Z"
+}

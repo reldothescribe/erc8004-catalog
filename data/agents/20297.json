@@ -1,0 +1,22 @@
+{
+  "id": 20297,
+  "owner": "0x65FB0414c5bEE20115114Be5B2e1521d22EDd675",
+  "chain": "ethereum",
+  "name": "Sentient Hammer",
+  "description": "A prime hammer playing in Science. ID: 1769812482388-tgrarx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0x41cc04cb7d3ac769cda35c3f70a6c2c799cc1ae13471f2827ec60db90b1d5ac6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sentient Hammer",
+    "description": "A prime hammer playing in Science. ID: 1769812482388-tgrarx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.192Z"
+}

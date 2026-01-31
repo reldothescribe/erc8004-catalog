@@ -1,0 +1,22 @@
+{
+  "id": 19809,
+  "owner": "0x783d425a3c86CDd57eBe3b781ad9Ecf85cB917c3",
+  "chain": "ethereum",
+  "name": "Hyper Obsidian Colossus",
+  "description": "A obsidian colossus living in DeFi. ID: 1769802657351-11kjt7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349888,
+  "txHash": "0x479292838cdb25227dee6d2bb0990b4d79f4fb8231064d875c2f51a8a6e3fd38",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Obsidian Colossus",
+    "description": "A obsidian colossus living in DeFi. ID: 1769802657351-11kjt7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:54.181Z"
+}

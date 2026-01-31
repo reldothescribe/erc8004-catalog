@@ -1,0 +1,22 @@
+{
+  "id": 20816,
+  "owner": "0x2305B9eb9c50A64eead0f50647659694aedb70B0",
+  "chain": "ethereum",
+  "name": "Crypto Iron Gate",
+  "description": "A iron gate calculating in the Boundary. ID: 1769812740544-1612xs",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x4e4e28321fc68eb562f44cce35068760fd2d9eed348cc2fa346c3de143d847fd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crypto Iron Gate",
+    "description": "A iron gate calculating in the Boundary. ID: 1769812740544-1612xs",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.244Z"
+}

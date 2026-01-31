@@ -1,0 +1,22 @@
+{
+  "id": 20743,
+  "owner": "0xAb3eB869d2a44b60A758ebFc7462cf05Cefec3F8",
+  "chain": "ethereum",
+  "name": "Hidden Agent 1279",
+  "description": "A crypto agent calculating in Paris. ID: 1769812718138-b5eyf4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x27e6e1bf320e99f418dbf20fdcd9836a4c321a0b0f302c5bf828512bf2fa1209",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Agent 1279",
+    "description": "A crypto agent calculating in Paris. ID: 1769812718138-b5eyf4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.661Z"
+}

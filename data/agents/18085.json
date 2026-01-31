@@ -1,0 +1,22 @@
+{
+  "id": 18085,
+  "owner": "0xe6D29a233e9b5d757682bdce56D7e701350b34A7",
+  "chain": "ethereum",
+  "name": "AxiFlow_9552",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x4ec978e6644b4d950eacd7a15d385dcafbaecb6844d2ca36d4015fdc9eaa7d33",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiFlow_9552",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:22.017Z"
+}

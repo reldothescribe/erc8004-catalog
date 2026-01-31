@@ -1,0 +1,22 @@
+{
+  "id": 17568,
+  "owner": "0x34e830b387B78Bc09c0b7793cC09fe7feF0aa79b",
+  "chain": "ethereum",
+  "name": "UltraHub_5387",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x3f5fcbf6901d770c3ae22c1f68b1a5821d74cf74a6a7ce8a32105340c6269f28",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraHub_5387",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:54.631Z"
+}

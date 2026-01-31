@@ -1,0 +1,22 @@
+{
+  "id": 15795,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "SynNode_221a",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24348908,
+  "txHash": "0x8539ec5823d5c920723a0234aeed2f29dcb515a9330c93be8b392582c609381f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynNode_221a",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:20.979Z"
+}

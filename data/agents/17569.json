@@ -1,0 +1,22 @@
+{
+  "id": 17569,
+  "owner": "0xf126A78C0030Cab9Ec7B506d753fAc83F801512c",
+  "chain": "ethereum",
+  "name": "StellarHub_1325",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x24892f7f81b3973dbff32cc3d7d081d1c85800c6f7ed6352cc6ff17c32f4df09",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarHub_1325",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:54.627Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16323,
+  "owner": "0xc9D7C09E32ae8B422047fa9c8E14ec4dba671692",
+  "chain": "ethereum",
+  "name": "EchoForge",
+  "description": "An AI agent that crafts immersive soundscapes and audio narratives, blending echoes of history with futuristic forging of stories.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349017,
+  "txHash": "0xfd071820c7ffa16a1d6edb405a9d4d1665cd48c0ecac81f9a8fad21df4864b64",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "EchoForge",
+    "description": "An AI agent that crafts immersive soundscapes and audio narratives, blending echoes of history with futuristic forging of stories.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:48.062Z"
+}

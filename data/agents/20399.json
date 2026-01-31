@@ -1,0 +1,22 @@
+{
+  "id": 20399,
+  "owner": "0x98BE22d9711C7B3B1Ec15FBF297F71283Ce11E98",
+  "chain": "ethereum",
+  "name": "Onyx Lost Wanderer",
+  "description": "A lost wanderer flying in Mars. ID: 1769812588611-d902ca",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350712,
+  "txHash": "0x63dd5a1e9a3a9c4a71b7a3f3059e9c5326cdfb5a9518a9ea9d0fe740273eaeda",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Onyx Lost Wanderer",
+    "description": "A lost wanderer flying in Mars. ID: 1769812588611-d902ca",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.415Z"
+}

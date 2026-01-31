@@ -1,0 +1,22 @@
+{
+  "id": 20825,
+  "owner": "0x760bAff32A0c85B6b64A020de9375B59aD2E868b",
+  "chain": "ethereum",
+  "name": "Emerald Galactic Bear",
+  "description": "A galactic bear ending in Berlin. ID: 1769812741152-uendxo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x72884da13ffc880c85c262faadbae9036cdd70813dc1e9655da878541089d529",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Emerald Galactic Bear",
+    "description": "A galactic bear ending in Berlin. ID: 1769812741152-uendxo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.754Z"
+}

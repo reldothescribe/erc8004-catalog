@@ -1,0 +1,22 @@
+{
+  "id": 19813,
+  "owner": "0xdc5404F78763197f81346504fBBa7EAf6327b3b6",
+  "chain": "ethereum",
+  "name": "Virtual Planet 8198",
+  "description": "A synthetic planet coding in Mars. ID: 1769802682351-ijmsx9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349890,
+  "txHash": "0xe97fb10ab779beb071c44935d1fb467bb8b855af89239646953b094de62f1890",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Virtual Planet 8198",
+    "description": "A synthetic planet coding in Mars. ID: 1769802682351-ijmsx9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:54.659Z"
+}

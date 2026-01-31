@@ -1,0 +1,22 @@
+{
+  "id": 20599,
+  "owner": "0x38447282160C1cc96F43855225A1867d6E095B2c",
+  "chain": "ethereum",
+  "name": "Cunning Sun",
+  "description": "A radiant sun singing in Nature. ID: 1769812676108-ipe06c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xfff1e407418d1b67176ef8d550eca027a8b08e11e4a9da531c1be546cd25e661",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Sun",
+    "description": "A radiant sun singing in Nature. ID: 1769812676108-ipe06c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.654Z"
+}

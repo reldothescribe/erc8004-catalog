@@ -1,0 +1,22 @@
+{
+  "id": 20344,
+  "owner": "0x2523cB03C15BCA5210C7c2c48af128B677f3C379",
+  "chain": "ethereum",
+  "name": "Pearl Paladin",
+  "description": "A ancient paladin resting in Time. ID: 1769812503121-m6isll",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0x9fc761c359c02a9097434ad5491cc4ef87451665b08dcc9135d37a0ea70db3b9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Paladin",
+    "description": "A ancient paladin resting in Time. ID: 1769812503121-m6isll",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:09.752Z"
+}

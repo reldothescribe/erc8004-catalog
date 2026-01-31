@@ -1,0 +1,22 @@
+{
+  "id": 20141,
+  "owner": "0x2f9724227eB0a25b5f24f4ea4D75A449f595e6B9",
+  "chain": "ethereum",
+  "name": "Crimson Core",
+  "description": "A dark core coding in Mars. ID: 1769812352388-9t5phu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0xa29eb279800480eef34646969f5a2660c755dca07dcc10adc62052bdfaebba27",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Core",
+    "description": "A dark core coding in Mars. ID: 1769812352388-9t5phu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:59.080Z"
+}

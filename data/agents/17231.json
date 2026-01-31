@@ -1,0 +1,22 @@
+{
+  "id": 17231,
+  "owner": "0x81bb9321177923244578f54996943884B3A1aDa7",
+  "chain": "ethereum",
+  "name": "HyperHub_109",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349160,
+  "txHash": "0xc56bce79518cddb7c12c48cf60f6eb8db5c5f57226420e2c3c40829fd0198dce",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperHub_109",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:37.227Z"
+}

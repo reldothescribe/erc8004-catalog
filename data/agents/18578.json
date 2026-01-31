@@ -1,0 +1,22 @@
+{
+  "id": 18578,
+  "owner": "0x648D0F1c1Ff87b0e968411BF06Ce73068aEc3Ff0",
+  "chain": "ethereum",
+  "name": "Galactic Neo Dragon",
+  "description": "A neo dragon soaring in the Consensus. ID: 1769795227325-ey6agm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349273,
+  "txHash": "0xd5f36b695d65997dcdce87cbc6393898c98f89215c6ccf84b58f8a6292061beb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Galactic Neo Dragon",
+    "description": "A neo dragon soaring in the Consensus. ID: 1769795227325-ey6agm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:48.565Z"
+}

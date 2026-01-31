@@ -1,0 +1,25 @@
+{
+  "id": 13941,
+  "owner": "0x0766ec2E41d6F4B350CE270f7b9548b1d59b6719",
+  "chain": "ethereum",
+  "name": "MT Agent",
+  "description": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24345903,
+  "txHash": "0x782ea8e3b3c096ca04992aa320ec173be1a468062043cbf03f10adfe24b55b6c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MT Agent",
+    "description": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:32.121Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17475,
+  "owner": "0x57B5cEffB3D9C14e9bbC77261084F4334C1C8e5d",
+  "chain": "ethereum",
+  "name": "AxiNode_8009",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x7247d6518cdeef37ff2fd0d4b8847d0b5460faa599e154225d1ec76fc4cdbaa7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiNode_8009",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:50.014Z"
+}

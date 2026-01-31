@@ -1,0 +1,22 @@
+{
+  "id": 15416,
+  "owner": "0xd0cb82946fF53C247F1029cC47155A4Fd14d6492",
+  "chain": "ethereum",
+  "name": "222",
+  "description": "11111111111111111111111111111111111111111111111111",
+  "image": "1",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348736,
+  "txHash": "0xfd6b6cbbce2bec218599173ae75225c4ded8ab9fcf633c08a2eb461035941a5f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "222",
+    "description": "11111111111111111111111111111111111111111111111111",
+    "image": "1",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:15:52.098Z"
+}

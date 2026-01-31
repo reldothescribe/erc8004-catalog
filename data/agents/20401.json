@@ -1,0 +1,22 @@
+{
+  "id": 20401,
+  "owner": "0x65FB0414c5bEE20115114Be5B2e1521d22EDd675",
+  "chain": "ethereum",
+  "name": "Valiant Wolf",
+  "description": "A random wolf coding in Space. ID: 1769812588611-tru1wl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350712,
+  "txHash": "0x478f688efd1844cf12fa7936facea5ce81690e3914851686be2cb06a572d2cf8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Wolf",
+    "description": "A random wolf coding in Space. ID: 1769812588611-tru1wl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.415Z"
+}

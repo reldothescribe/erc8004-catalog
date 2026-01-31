@@ -1,0 +1,22 @@
+{
+  "id": 19824,
+  "owner": "0x529dcaC260b5118e1Eaf82D195620Af3554D9c59",
+  "chain": "ethereum",
+  "name": "Sapphire Chimera",
+  "description": "A jade chimera working in the Grid. ID: 1769802714352-p9g1wa",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349892,
+  "txHash": "0x891a8458596d276aa87af514bce6421222871a3cc4ae5ab585652ee9f406b0bb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sapphire Chimera",
+    "description": "A jade chimera working in the Grid. ID: 1769802714352-p9g1wa",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:55.153Z"
+}

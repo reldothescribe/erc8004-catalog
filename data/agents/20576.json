@@ -1,0 +1,22 @@
+{
+  "id": 20576,
+  "owner": "0x5A5bd56A4fC7BD1eacDBadD79cbd044EDd72908a",
+  "chain": "ethereum",
+  "name": "Cognitive Tree",
+  "description": "A divine tree dancing in Saturn. ID: 1769812641373-c00u7a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x7ee9788e84e227a7c95a95d5284c4fe4c98ab1ef0c2ba1d754c6b90cdbb7d5ad",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cognitive Tree",
+    "description": "A divine tree dancing in Saturn. ID: 1769812641373-c00u7a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.631Z"
+}

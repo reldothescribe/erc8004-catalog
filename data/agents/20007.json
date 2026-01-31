@@ -1,0 +1,22 @@
+{
+  "id": 20007,
+  "owner": "0xdDAC4bd4ceC00077430c3f68c61c63E144d950D5",
+  "chain": "ethereum",
+  "name": "Rapid Door 7275",
+  "description": "A sentient door painting in the Blockchain. ID: 1769807872436-efjsyw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350321,
+  "txHash": "0xc9d8fe76c2274e855024deec2124bc5e8c6bb2c27f5182494065d30883226ec7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Door 7275",
+    "description": "A sentient door painting in the Blockchain. ID: 1769807872436-efjsyw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.669Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17877,
+  "owner": "0x05d7Ee13798014845F9f00320C9983E35855c588",
+  "chain": "ethereum",
+  "name": "HyperHub_1004",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x81e8396fafce820bd0834992963651691c111db12d82701a7a2670ba7e97064b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperHub_1004",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:10.607Z"
+}

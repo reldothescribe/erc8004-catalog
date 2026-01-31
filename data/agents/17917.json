@@ -1,0 +1,22 @@
+{
+  "id": 17917,
+  "owner": "0x23B430504AE47bE0779E9af83A96A20da13b320C",
+  "chain": "ethereum",
+  "name": "NeoMind_5988",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xebe2d8ece31855b7c58e63d080da17e2833a911e617d8a263448df166f278a72",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoMind_5988",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:12.657Z"
+}

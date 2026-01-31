@@ -1,0 +1,22 @@
+{
+  "id": 20252,
+  "owner": "0xFDF641b02610F312db0d3cAB2d74ef477FB75550",
+  "chain": "ethereum",
+  "name": "Void Neural Serpent",
+  "description": "A neural serpent hunting in the Abyss. ID: 1769812459613-7j4un3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350701,
+  "txHash": "0x3c25dcd08de96b1d9267b7ccc9309bfbd0f603b9e8d9b5f45c3d4cbf02231dd8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Void Neural Serpent",
+    "description": "A neural serpent hunting in the Abyss. ID: 1769812459613-7j4un3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:04.633Z"
+}

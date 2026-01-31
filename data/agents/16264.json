@@ -1,0 +1,22 @@
+{
+  "id": 16264,
+  "owner": "0xa05Ec35F7D1eBa823cff2ED26AeAED419683742f",
+  "chain": "ethereum",
+  "name": "erc8004",
+  "description": "8004800480048004800480048004800480048004800480048004800480048004800480048004",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348936,
+  "txHash": "0xd22616f9d8d3555c38cd1b26e5d0378bd6b7fe86a25ebd1b7c89a384bf1fcb50",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "erc8004",
+    "description": "8004800480048004800480048004800480048004800480048004800480048004800480048004",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:45.044Z"
+}

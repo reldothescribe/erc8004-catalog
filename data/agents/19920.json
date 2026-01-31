@@ -1,0 +1,22 @@
+{
+  "id": 19920,
+  "owner": "0xF8454c35dA7A16001cb82fbA9e27BE6510304CDd",
+  "chain": "ethereum",
+  "name": "Future Tower 9020",
+  "description": "A savage tower flying in Berlin. ID: 1769806600744-sx8cyn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350214,
+  "txHash": "0x687cf51363373d347b439a5946835a6a4f322403f4c1d5c75845135daafa2117",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Tower 9020",
+    "description": "A savage tower flying in Berlin. ID: 1769806600744-sx8cyn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:34.013Z"
+}

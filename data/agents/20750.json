@@ -1,0 +1,22 @@
+{
+  "id": 20750,
+  "owner": "0x18952b5bb759df25D7871d18d4D293b5dD1bBDe9",
+  "chain": "ethereum",
+  "name": "Pearl Guardian",
+  "description": "A alpha guardian painting in the Abyss. ID: 1769812718750-lga30l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x2c55a5f767d4f8c6c9c01972b79c07e94217648fae192f6d08c1c8ff0d642ba4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Guardian",
+    "description": "A alpha guardian painting in the Abyss. ID: 1769812718750-lga30l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.661Z"
+}

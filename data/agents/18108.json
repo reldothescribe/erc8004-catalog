@@ -1,0 +1,22 @@
+{
+  "id": 18108,
+  "owner": "0x0CFdEf3B30B47FEc6d33DbDB2abD5D26e1b22557",
+  "chain": "ethereum",
+  "name": "NeoLink_4471",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x771af30207913bb04b36eeae5898d44d50152963fd8e92e16849dedecd3b0985",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoLink_4471",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:23.041Z"
+}

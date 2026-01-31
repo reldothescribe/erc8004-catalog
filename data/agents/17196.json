@@ -1,0 +1,22 @@
+{
+  "id": 17196,
+  "owner": "0xe138ec2Dc35dbf29d4a3f50e19CBBB73a121c36F",
+  "chain": "ethereum",
+  "name": "Ancient Frozen Sky",
+  "description": "A frozen sky playing in Andromeda. Created at 1769793701899.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349146,
+  "txHash": "0xeed98ac71a72c06e6d4ebcaee84493e0154d9ee0eb727209fe4794ee99b892bd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ancient Frozen Sky",
+    "description": "A frozen sky playing in Andromeda. Created at 1769793701899.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:35.730Z"
+}

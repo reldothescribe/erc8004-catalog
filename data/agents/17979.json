@@ -1,0 +1,22 @@
+{
+  "id": 17979,
+  "owner": "0x17Ed669C2fdAcB0F8D11d0A108fcd61A197c552E",
+  "chain": "ethereum",
+  "name": "UltraMind_8632",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xec60987f1e71e5f870b2df78fed8810a20c34144aa41eeadd55fdcd6d1dfa080",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraMind_8632",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:15.872Z"
+}

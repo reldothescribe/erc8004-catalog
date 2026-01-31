@@ -1,0 +1,22 @@
+{
+  "id": 18440,
+  "owner": "0x935d072E04cdB43D5BA38322465B02622D684B7e",
+  "chain": "ethereum",
+  "name": "SynMind_15b3",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349258,
+  "txHash": "0x6e7045db2cffff6ac6b65303a555e2592a9fcc8e3f5244940a6821400e847f60",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynMind_15b3",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:40.961Z"
+}

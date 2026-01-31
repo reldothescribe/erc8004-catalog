@@ -1,0 +1,22 @@
+{
+  "id": 17656,
+  "owner": "0x25bd4DC6531A27BbAAb599E6d2151735a0bFF21b",
+  "chain": "ethereum",
+  "name": "AxiHub_241",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349184,
+  "txHash": "0x82b19b003e8eb36ec77d95266ebf821c9eae7367060cddca0f6a09bc7a53eaba",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiHub_241",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:59.077Z"
+}

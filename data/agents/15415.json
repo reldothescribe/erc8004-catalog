@@ -1,0 +1,22 @@
+{
+  "id": 15415,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "OracleX",
+  "description": "Web3 meets AI: intelligent agents that read smart contracts, analyze market data, and make decentralized decisions in real time.\n",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348733,
+  "txHash": "0xd77959eca059501706cad1fe95d45b1fc23f34f7f8213d5c4cd5cf3fc6a6163e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OracleX",
+    "description": "Web3 meets AI: intelligent agents that read smart contracts, analyze market data, and make decentralized decisions in real time.\n",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:15:52.098Z"
+}

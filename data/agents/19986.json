@@ -1,0 +1,22 @@
+{
+  "id": 19986,
+  "owner": "0x5a03a38249f1D45121Ae5F47b803c990b4651B11",
+  "chain": "ethereum",
+  "name": "Blazing Rogue 1396",
+  "description": "A iron rogue exploring in the Heights. ID: 1769807766439-4srj8r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350312,
+  "txHash": "0x38803c8dcf0e907a70efb459c43131e2ee1cc1e4cddb9f01d9de9841d64ddcff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Rogue 1396",
+    "description": "A iron rogue exploring in the Heights. ID: 1769807766439-4srj8r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.645Z"
+}

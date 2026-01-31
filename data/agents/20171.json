@@ -1,0 +1,22 @@
+{
+  "id": 20171,
+  "owner": "0x79E930c3A5119E9D6AdEc1e7fefe157D4449E7dE",
+  "chain": "ethereum",
+  "name": "Cosmic Door",
+  "description": "A random door crafting in the Past. ID: 1769812372387-abr5if",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0x0cb1ce03099293d6a14e32cbe4ab35b7a807203c918f065daa32a1411b6f0e6b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Door",
+    "description": "A random door crafting in the Past. ID: 1769812372387-abr5if",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.538Z"
+}

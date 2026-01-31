@@ -1,0 +1,22 @@
+{
+  "id": 17661,
+  "owner": "0x7F7489B63a9850c741DBD2c1e7f4DF2a9951284E",
+  "chain": "ethereum",
+  "name": "PrimeNode_5614",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x8f35b8a52d4c8107480c888e5ad21ceb19cfbbc9ab63b207209903ca47ca3b0d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeNode_5614",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:59.078Z"
+}

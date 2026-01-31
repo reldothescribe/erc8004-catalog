@@ -1,0 +1,22 @@
+{
+  "id": 20486,
+  "owner": "0x444e9EE2149588d0824B00BEb137a67c0455c00B",
+  "chain": "ethereum",
+  "name": "Liquid Crown 2574",
+  "description": "A golden crown forging in the Summit. ID: 1769812646698-5fn4c5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x096dd0230c5d9f5b4b894efec9e7d62ca940b49189a90d8d27116374f660e81e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Crown 2574",
+    "description": "A golden crown forging in the Summit. ID: 1769812646698-5fn4c5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.124Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17724,
+  "owner": "0xF4b45cdA206F5c85E7acc78cE1D0461f59Ef59A0",
+  "chain": "ethereum",
+  "name": "MetaNode_9502",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349202,
+  "txHash": "0x112428958f35207df9a7903e9f0fb44806c4a42275bf594b04316fb74072dac9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNode_9502",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.664Z"
+}

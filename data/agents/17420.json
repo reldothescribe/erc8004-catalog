@@ -1,0 +1,22 @@
+{
+  "id": 17420,
+  "owner": "0xb5139f2dcA04Ce739c1005CeE0997E54dBeC11B2",
+  "chain": "ethereum",
+  "name": "HyperLink_9457",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x37852a6f4d37ebb49b02b69b84e89f3b27fd0744bc578a106b4e877068c86f86",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperLink_9457",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:46.996Z"
+}

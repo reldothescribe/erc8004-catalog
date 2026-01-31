@@ -1,0 +1,22 @@
+{
+  "id": 18390,
+  "owner": "0xDEB4E8b60A53281ce4d7C6d687C37721cA58C3A9",
+  "chain": "ethereum",
+  "name": "NexPulse_4631",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349256,
+  "txHash": "0xea3bae4f2e18c3de06c0f0265abb11b4eaf20387bb3a1bf540456bae7c92cd40",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexPulse_4631",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:38.401Z"
+}

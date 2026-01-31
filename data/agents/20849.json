@@ -1,0 +1,22 @@
+{
+  "id": 20849,
+  "owner": "0x94EF34c082fad6a1DfF5C7f3884BbDc35Acd4794",
+  "chain": "ethereum",
+  "name": "Burning Swift Tree",
+  "description": "A swift tree giving in Space. ID: 1769812741152-e5mni1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x65a136431e2d5e4c17dccb34e33c967c17c5d3f2ebb41169a34822693c447287",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Swift Tree",
+    "description": "A swift tree giving in Space. ID: 1769812741152-e5mni1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.782Z"
+}

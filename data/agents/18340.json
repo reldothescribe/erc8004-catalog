@@ -1,0 +1,22 @@
+{
+  "id": 18340,
+  "owner": "0x8D80Cf750414329aB66f595C0289a0e6eD429CB7",
+  "chain": "ethereum",
+  "name": "SynAgent_d00e",
+  "description": "Autonomous on-chain intelligence driving decentralized decision-making across Web3 protocols.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349252,
+  "txHash": "0x15d8b5df136f42cbd51a70c2e343bd8dc43d06deb62d877f031c9d14bd9e8f5e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynAgent_d00e",
+    "description": "Autonomous on-chain intelligence driving decentralized decision-making across Web3 protocols.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:35.808Z"
+}

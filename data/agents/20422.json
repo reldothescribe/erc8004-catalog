@@ -1,0 +1,22 @@
+{
+  "id": 20422,
+  "owner": "0x2290c10FfBC4fE1d0936d4EA08Ddd4bC29281a5F",
+  "chain": "ethereum",
+  "name": "Wise Bot",
+  "description": "A prime bot forging in Cyberspace. ID: 1769812601824-gmrfyn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350713,
+  "txHash": "0x3d9ffc9c536aabdfc7bf40b25729ed00c70e76975d9cc7a8685939e445d4db2c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Wise Bot",
+    "description": "A prime bot forging in Cyberspace. ID: 1769812601824-gmrfyn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.438Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16403,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_5490",
+  "description": "Smart autonomous agent handling Web3 operations with permissionless access.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0x7d421826577cced3379b44417d4f3e3bb113509ea302c8b037b88056f980a06d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_5490",
+    "description": "Smart autonomous agent handling Web3 operations with permissionless access.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:52.108Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19776,
+  "owner": "0xeAEEf21647AB21110AA174B819893ff4995Bfd4b",
+  "chain": "ethereum",
+  "name": "Kinetic Cipher 8646",
+  "description": "A emerald cipher guarding in the Boundary. ID: 1769802569939-qptxq7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349880,
+  "txHash": "0x2f9585032e77790d0a6fe105b5a862a59ba202f9df7449fbfbd417525a24e9f6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Cipher 8646",
+    "description": "A emerald cipher guarding in the Boundary. ID: 1769802569939-qptxq7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.645Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17500,
+  "owner": "0x0f84779bCc1083C65fc764d09D238b07812EE268",
+  "chain": "ethereum",
+  "name": "CyberAgent_1714",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xd397c12f86267b979a4ac893c6469f5733d4d3e9253b66a1bc4abc716281b6d6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberAgent_1714",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:51.056Z"
+}

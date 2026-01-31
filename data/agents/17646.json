@@ -1,0 +1,22 @@
+{
+  "id": 17646,
+  "owner": "0xed7554eB25639919768a760cF27b146B85C1f775",
+  "chain": "ethereum",
+  "name": "HyperCore_3886",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x9661a9c9437080c547a1252eafa6b90e12491746dd04ed4cfe519519b85d5aa7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperCore_3886",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:58.516Z"
+}

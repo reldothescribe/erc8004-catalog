@@ -1,0 +1,22 @@
+{
+  "id": 20635,
+  "owner": "0xa485F12123EdBaCEFae4E74D6F3ffdd37ddF34D1",
+  "chain": "ethereum",
+  "name": "Nexus Galactic Dolphin",
+  "description": "A galactic dolphin diving in Pluto. ID: 1769812676750-m6yv4q",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x66df4189478dce14e83e67d327a5e5e1bd702e3927fb60ce8ea4d37c6d736569",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Galactic Dolphin",
+    "description": "A galactic dolphin diving in Pluto. ID: 1769812676750-m6yv4q",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.703Z"
+}

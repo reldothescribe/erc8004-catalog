@@ -1,0 +1,22 @@
+{
+  "id": 17850,
+  "owner": "0x43c9Fa104B0B3eD5E5dACfB70350Ab535E4004e7",
+  "chain": "ethereum",
+  "name": "HyperMind_3189",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xd7a62e6cc44a9afdce6b5f23e75d5efd47c6a0200586fd61eacfc5f1eea5ef46",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperMind_3189",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:09.113Z"
+}

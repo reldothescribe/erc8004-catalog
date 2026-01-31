@@ -1,0 +1,22 @@
+{
+  "id": 17706,
+  "owner": "0xE764D33236C05eD1fAb5501F9037d4058515c29D",
+  "chain": "ethereum",
+  "name": "QuantumLink_1019",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349188,
+  "txHash": "0x3b15f6b69c0be8d64c6f7e8687c072d0e4bf87ed4ab9fa349462e789af8d18d4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumLink_1019",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:01.636Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20293,
+  "owner": "0x23f5ae384043f6c653d7922C9fB0Bf2D487cc4B1",
+  "chain": "ethereum",
+  "name": "Sonic Shadow Core",
+  "description": "A shadow core destroying in History. ID: 1769812482387-jxcrq0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0x9735ed60e54d311852eb26c2be5a2b11d4c938b60cdc6e99969373028f5562ac",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Shadow Core",
+    "description": "A shadow core destroying in History. ID: 1769812482387-jxcrq0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.192Z"
+}

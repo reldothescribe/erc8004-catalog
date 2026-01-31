@@ -1,0 +1,22 @@
+{
+  "id": 20332,
+  "owner": "0x4371c3f7b6390108ad6d71844C6d62af1Fa2E207",
+  "chain": "ethereum",
+  "name": "Future Explorer 8786",
+  "description": "A void explorer soaring in Reality. ID: 1769812503121-uxsntj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0x581dd4c5c384a8e003ed973739812af71749eb902ab02d9615e61efb2ddf7771",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Explorer 8786",
+    "description": "A void explorer soaring in Reality. ID: 1769812503121-uxsntj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.729Z"
+}

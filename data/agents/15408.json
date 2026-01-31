@@ -1,0 +1,55 @@
+{
+  "id": 15408,
+  "owner": "0x5aBD186e2DA1DeE05c06F2D5cF313a927F058d4F",
+  "chain": "ethereum",
+  "name": "MIA",
+  "description": "a girl with big ball，hahahahahahahahahahahahaha\ndone",
+  "image": "https://blob.8004scan.app/7111fc207fef21c8df902835c28a7fc6ed62622ce7a30b8c2bb4c0da8fcec81e.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning",
+        "advanced_reasoning_planning/hypothesis_generation"
+      ],
+      "domains": [
+        "agriculture/agriculture"
+      ]
+    }
+  ],
+  "registeredBlock": 24348696,
+  "txHash": "0x8535b2e6dd0ba5d3cc5658d21eb9d775876fae512b113e799893c2667bb9161f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MIA",
+    "description": "a girl with big ball，hahahahahahahahahahahahaha\ndone",
+    "image": "https://blob.8004scan.app/7111fc207fef21c8df902835c28a7fc6ed62622ce7a30b8c2bb4c0da8fcec81e.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning",
+          "advanced_reasoning_planning/hypothesis_generation"
+        ],
+        "domains": [
+          "agriculture/agriculture"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:15:51.537Z"
+}

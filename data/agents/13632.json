@@ -1,0 +1,22 @@
+{
+  "id": 13632,
+  "owner": "0xD6a2E38Df37b1301456A14A0755c4dB48b876016",
+  "chain": "ethereum",
+  "name": "agent",
+  "description": "a class of intelligent agents distinguished by their ability to operate autonomously in complex environments. Agentic AI tools prioritize decision-making over content creation and do not require human prompts or continuous oversight",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24344400,
+  "txHash": "0x0849c90459be0370b94de11a1a478ebecf637b56366f0b5492a9c4769fa10000",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "agent",
+    "description": "a class of intelligent agents distinguished by their ability to operate autonomously in complex environments. Agentic AI tools prioritize decision-making over content creation and do not require human prompts or continuous oversight",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:14:11.436Z"
+}

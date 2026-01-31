@@ -1,0 +1,22 @@
+{
+  "id": 17548,
+  "owner": "0xc8E9E5dDAfbA7CB42f7E2eb7A8977DB4147b9556",
+  "chain": "ethereum",
+  "name": "CyberFlow_5732",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x0127d3fb392a37c8247606e5a7a4bfa3d237673747f9b101462de8c72a3ce830",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberFlow_5732",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:53.650Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16340,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_1f48",
+  "description": "Web3 native AI agent performing DeFi strategies with immutable audit trails.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349045,
+  "txHash": "0x6eed11a3e3b041eaac640de53742c1442fa110fe58602075d5929f18fa0d4a48",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_1f48",
+    "description": "Web3 native AI agent performing DeFi strategies with immutable audit trails.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:48.630Z"
+}

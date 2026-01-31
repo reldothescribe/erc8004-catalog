@@ -1,0 +1,22 @@
+{
+  "id": 20744,
+  "owner": "0x5f66Ab37c9Ffc78E6f79A62816173f637A1E5D1A",
+  "chain": "ethereum",
+  "name": "Ethereal Rogue 2702",
+  "description": "A onyx rogue starting in the Edge. ID: 1769812718750-jim9pv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x0d080b0257d20ef21e1bbbe2a91b5645db63c5046cbb1e55e3d49ad17d83b554",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Rogue 2702",
+    "description": "A onyx rogue starting in the Edge. ID: 1769812718750-jim9pv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.661Z"
+}

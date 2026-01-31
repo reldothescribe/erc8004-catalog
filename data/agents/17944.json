@@ -1,0 +1,22 @@
+{
+  "id": 17944,
+  "owner": "0x11B48F811A09dddF9d62B1e15e2A3c12C0159181",
+  "chain": "ethereum",
+  "name": "QuantumLink_6175",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x694823bec18f97722209f2bd8ea4a128fd60820a3d339d3fd7c97e5bb2e66267",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumLink_6175",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:14.234Z"
+}

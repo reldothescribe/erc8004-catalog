@@ -1,0 +1,22 @@
+{
+  "id": 18464,
+  "owner": "0x9112FaC756AaDF1434530A61c9b08BEd6e379Df0",
+  "chain": "ethereum",
+  "name": "SolWave_6ec2",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349261,
+  "txHash": "0xc414f623b2f7b2ccdf713ca5095411c270e952b4e98441ff078fccd91086fce5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolWave_6ec2",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:42.497Z"
+}

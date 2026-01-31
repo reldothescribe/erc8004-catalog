@@ -1,0 +1,22 @@
+{
+  "id": 20305,
+  "owner": "0xB194614F3b7953D97f01c80C7A15fc0e867b57c3",
+  "chain": "ethereum",
+  "name": "Crimson Mage 700",
+  "description": "A autonomous mage watching in the Network. ID: 1769812492822-g2ln7v",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0x27022f5604f20038b462e0acd6ca8262ca83475d2d3ad9a07afeb922eb83fec7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Mage 700",
+    "description": "A autonomous mage watching in the Network. ID: 1769812492822-g2ln7v",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.703Z"
+}

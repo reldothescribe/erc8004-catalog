@@ -1,0 +1,22 @@
+{
+  "id": 20109,
+  "owner": "0xD4cb3981f23c51fC0DE2E27fda9Be9c37ecD6c65",
+  "chain": "ethereum",
+  "name": "Celestial Electric Guardian",
+  "description": "A electric guardian forging in the Block. ID: 1769812334527-pchqbq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350691,
+  "txHash": "0x5bfe0809a0436a47148db0960f74bcc22485d9ca78444fb243acbde5a11ab5d6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Celestial Electric Guardian",
+    "description": "A electric guardian forging in the Block. ID: 1769812334527-pchqbq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:57.364Z"
+}

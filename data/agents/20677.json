@@ -1,0 +1,22 @@
+{
+  "id": 20677,
+  "owner": "0x65FB0414c5bEE20115114Be5B2e1521d22EDd675",
+  "chain": "ethereum",
+  "name": "Ivory Hydra 2765",
+  "description": "A magnetic hydra gathering in the Depths. ID: 1769812702394-gnqpfy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xd633c3137cd7d01e73336551089bf3d7cb51e114cf9a7522841c4d96bcc4f401",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Hydra 2765",
+    "description": "A magnetic hydra gathering in the Depths. ID: 1769812702394-gnqpfy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.751Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18083,
+  "owner": "0x0f77d532E6102CdFE223020119Ef70222a821265",
+  "chain": "ethereum",
+  "name": "NeoBot_5459",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x189972cbad460b861c1b1f18af59b0ddcd6a49502bfef53521136b0b666a6688",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoBot_5459",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:22.017Z"
+}

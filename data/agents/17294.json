@@ -1,0 +1,22 @@
+{
+  "id": 17294,
+  "owner": "0x9C86D74Dd8B2bb2708f78977E4CCa703cE0A3917",
+  "chain": "ethereum",
+  "name": "AxiFlow_9000",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349163,
+  "txHash": "0x8f6b31dc2d2bef466ccf63e9b265dad04ffb1711aa9bc7b99044ff247526a7eb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiFlow_9000",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:40.851Z"
+}

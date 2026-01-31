@@ -1,0 +1,22 @@
+{
+  "id": 19815,
+  "owner": "0x2B5422652266aF9c6F6CFfa13CAd603afA8A2642",
+  "chain": "ethereum",
+  "name": "Emerald Surge",
+  "description": "A autonomous surge ending in DeFi. ID: 1769802682351-jbd4ay",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349890,
+  "txHash": "0x025255448cf0ed976b34eea10ccccb0b1ca591a6a863229107dafb30101043f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Emerald Surge",
+    "description": "A autonomous surge ending in DeFi. ID: 1769802682351-jbd4ay",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:54.659Z"
+}

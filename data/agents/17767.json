@@ -1,0 +1,22 @@
+{
+  "id": 17767,
+  "owner": "0xc9bf32c5f51ee176999D98457f8707B0bC44eFE0",
+  "chain": "ethereum",
+  "name": "NovaHub_5385",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0x570417662f3cba5e67cf285a30c0fd6baf5622fd1caae5bb33235c45386f6ca5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaHub_5385",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.657Z"
+}

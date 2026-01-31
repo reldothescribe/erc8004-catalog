@@ -1,0 +1,22 @@
+{
+  "id": 20616,
+  "owner": "0x558c9Ad37d48Bb174b5CFa2bbfbfC1589986bbC0",
+  "chain": "ethereum",
+  "name": "Electric Bot",
+  "description": "A gentle bot crafting in History. ID: 1769812677397-uilc91",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xa712df7865c44d83a53581826778951b08a80b962780c3368ea5cc7986d0abc6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Electric Bot",
+    "description": "A gentle bot crafting in History. ID: 1769812677397-uilc91",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.677Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20425,
+  "owner": "0xB8df88BfC3908311dA69b89D2d47912369277811",
+  "chain": "ethereum",
+  "name": "Organic Frozen Wolf",
+  "description": "A frozen wolf processing in the Past. ID: 1769812610950-utuk8o",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350714,
+  "txHash": "0xb336d7fb6dcaad8a980130050a58ddb3405d8ff6d016ac5fb650cd4f10b88e45",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Organic Frozen Wolf",
+    "description": "A frozen wolf processing in the Past. ID: 1769812610950-utuk8o",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.950Z"
+}

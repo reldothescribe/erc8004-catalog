@@ -1,0 +1,22 @@
+{
+  "id": 20369,
+  "owner": "0x348BB547e67DBf0Beab7a0B5dA0F7b3F0C582DF2",
+  "chain": "ethereum",
+  "name": "Ethereal Sun 4501",
+  "description": "A divine sun losing in Mars. ID: 1769812567748-55u606",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350710,
+  "txHash": "0x11331d070739deda4b75c00cc578398119e53b4ca88301c702a73504b14e0e7c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Sun 4501",
+    "description": "A divine sun losing in Mars. ID: 1769812567748-55u606",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:10.724Z"
+}

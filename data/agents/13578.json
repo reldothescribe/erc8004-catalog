@@ -1,0 +1,25 @@
+{
+  "id": 13578,
+  "owner": "0x0FD606e0A47a7A4cc87A2D1a482D83610ae46D34",
+  "chain": "ethereum",
+  "name": "elonai",
+  "description": "Trading agent, capable of buying and selling tokens and monitoring",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24344265,
+  "txHash": "0x9989687ab87554719b101443d2dd917249b95ac55ef3013f326b1a903ffd36f6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "elonai",
+    "description": "Trading agent, capable of buying and selling tokens and monitoring",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:08.875Z"
+}

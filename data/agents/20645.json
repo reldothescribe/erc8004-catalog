@@ -1,0 +1,22 @@
+{
+  "id": 20645,
+  "owner": "0xC832657277a616286B231AD764f4D8370a797A00",
+  "chain": "ethereum",
+  "name": "Divine Orderly Griffin",
+  "description": "A orderly griffin waiting in Tokyo. ID: 1769812675498-v2ipex",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x4fe9b7351d23db3efe99c4cbf034418056fef14e23ace9e594a8f1402d15a7b7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Divine Orderly Griffin",
+    "description": "A orderly griffin waiting in Tokyo. ID: 1769812675498-v2ipex",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.215Z"
+}

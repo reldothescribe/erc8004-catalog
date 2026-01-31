@@ -1,0 +1,22 @@
+{
+  "id": 17269,
+  "owner": "0x7f64C3Bd8D8805aB7fcC7C32901ef9cfaa916d96",
+  "chain": "ethereum",
+  "name": "CyberAgent_7267",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349162,
+  "txHash": "0x2fb11b8fa369cc38a097c87729afbb9d40219dd850403691606e978837899083",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberAgent_7267",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:39.316Z"
+}

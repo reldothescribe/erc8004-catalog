@@ -1,0 +1,22 @@
+{
+  "id": 17268,
+  "owner": "0x869e49155a95E0e87419C194DDb88139AcB677d4",
+  "chain": "ethereum",
+  "name": "UltraCore_5151",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349162,
+  "txHash": "0x74f87826d41d8949b3015943f42ac25e6289938ad9d2ccea285bd8a337821d0f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraCore_5151",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:39.317Z"
+}

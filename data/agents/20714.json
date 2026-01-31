@@ -1,0 +1,22 @@
+{
+  "id": 20714,
+  "owner": "0xc9D349736BC96Cc1Ab36741072D709761E327a85",
+  "chain": "ethereum",
+  "name": "Mystic Navigator",
+  "description": "A astral navigator sleeping in Legend. ID: 1769812703051-k74a6l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x3b0175b113b744623eb1651f08697b0c61c3132abcc60df9135222561205f4d3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Mystic Navigator",
+    "description": "A astral navigator sleeping in Legend. ID: 1769812703051-k74a6l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.125Z"
+}

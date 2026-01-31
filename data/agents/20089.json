@@ -1,0 +1,22 @@
+{
+  "id": 20089,
+  "owner": "0x0F929C8ac2695b7e8ebb44FA44e7B38C883CFF95",
+  "chain": "ethereum",
+  "name": "test",
+  "description": "only test This is just an AI test, please do not disturb.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350680,
+  "txHash": "0x7b0865933d6c19aca4b62cefd9a3cd5b64d4864941685390dd02141c184db903",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "test",
+    "description": "only test This is just an AI test, please do not disturb.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:20:56.387Z"
+}

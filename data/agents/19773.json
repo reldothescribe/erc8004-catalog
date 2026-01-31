@@ -1,0 +1,22 @@
+{
+  "id": 19773,
+  "owner": "0x91892DfF15c1a731B5837305889f8717BFaad93B",
+  "chain": "ethereum",
+  "name": "Solar Network",
+  "description": "A spectral network seeking in New York. ID: 1769802557353-lonm58",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349879,
+  "txHash": "0x969f2b1cf80c21a56468a581220ce6b8963203c0f4cd24319a21e62faab605d1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Network",
+    "description": "A spectral network seeking in New York. ID: 1769802557353-lonm58",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.644Z"
+}

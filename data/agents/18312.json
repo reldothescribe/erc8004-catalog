@@ -1,0 +1,22 @@
+{
+  "id": 18312,
+  "owner": "0xD33252A6423FD43eDfaF718A1Fc17A2dCBdeFCaA",
+  "chain": "ethereum",
+  "name": "SynNode_4ed3",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349249,
+  "txHash": "0x487c3731b94eb02a9b28dc865a78d6bea831867fbc6dd7a01e097ba1d698f478",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynNode_4ed3",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:34.311Z"
+}

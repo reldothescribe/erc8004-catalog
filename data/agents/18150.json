@@ -1,0 +1,22 @@
+{
+  "id": 18150,
+  "owner": "0xCE14706721E65b90746cD21D02B5EdA4Ff8691EE",
+  "chain": "ethereum",
+  "name": "MetaBot_4615",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0x106d180d5051f4620b98318d7871085429ea2891144d427c33ce15adbaa737a1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaBot_4615",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:25.118Z"
+}

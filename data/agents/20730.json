@@ -1,0 +1,22 @@
+{
+  "id": 20730,
+  "owner": "0x93027780E6EFD6Fd80C9101357f47865abd49625",
+  "chain": "ethereum",
+  "name": "Astral Forge 8291",
+  "description": "A cosmic forge learning in the Heights. ID: 1769812719367-zacgu7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x0c5e1684902f2d4844e5d897a87a7e437702b8ac8b129728f38c9a2f365ffa81",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Forge 8291",
+    "description": "A cosmic forge learning in the Heights. ID: 1769812719367-zacgu7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.636Z"
+}

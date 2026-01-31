@@ -1,0 +1,22 @@
+{
+  "id": 17578,
+  "owner": "0xB3dAD2aDE5A4F29251cf0aAF3dF9522491E13AB6",
+  "chain": "ethereum",
+  "name": "HyperNode_2682",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x952115b5eb19c95638da02bd310749cef4bea9c38e85f3ca64df8472465f83af",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperNode_2682",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:55.094Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20499,
+  "owner": "0x82aFB9D4088598D65b57bcE6e269e87b12e966cF",
+  "chain": "ethereum",
+  "name": "Cunning Griffin",
+  "description": "A wise griffin ending in the Network. ID: 1769812642685-qixo6s",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x044bdadc239a95859e7f0fbda57f13e4b823275720a71772b7dc6922a6a2e67b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Griffin",
+    "description": "A wise griffin ending in the Network. ID: 1769812642685-qixo6s",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.641Z"
+}

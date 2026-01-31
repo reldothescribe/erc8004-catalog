@@ -1,0 +1,22 @@
+{
+  "id": 17898,
+  "owner": "0x163cC245e8a717e13f74026Cb7992ADADaFce987",
+  "chain": "ethereum",
+  "name": "PrimeNode_8593",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xf226e98de4ce5ad988ea3cedf6c507166d1c9f9c0e8045cbc0d6da1db015c4a8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeNode_8593",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:11.674Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19822,
+  "owner": "0xE28D7Db180a8AB302b77789eAeD07303fbc34D54",
+  "chain": "ethereum",
+  "name": "Spectral Phantom Priest",
+  "description": "A phantom priest losing in Berlin. ID: 1769802714352-8gtw33",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349892,
+  "txHash": "0x214457af485c047e39e2806bbcdc75e1108c05e9add5314abee4d7f9c77da7e0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Spectral Phantom Priest",
+    "description": "A phantom priest losing in Berlin. ID: 1769802714352-8gtw33",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:54.658Z"
+}

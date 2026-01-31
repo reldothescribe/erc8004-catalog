@@ -1,0 +1,22 @@
+{
+  "id": 17713,
+  "owner": "0xbF11fAbAf7634Be0946c639a537d6B1172A06fCA",
+  "chain": "ethereum",
+  "name": "CyberNet_2813",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349188,
+  "txHash": "0x560e9dbaf5c567b3c50bd7bffd45e147169e6c8e4de9e6ef6b1e423a40d4a7d6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberNet_2813",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.102Z"
+}

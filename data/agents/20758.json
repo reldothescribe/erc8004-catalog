@@ -1,0 +1,22 @@
+{
+  "id": 20758,
+  "owner": "0x648D0F1c1Ff87b0e968411BF06Ce73068aEc3Ff0",
+  "chain": "ethereum",
+  "name": "Silver Whale 6848",
+  "description": "A cosmic whale moving in the Block. ID: 1769812718138-ptj1ue",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xea2223cc54df57cff26fc2599adeee6a511f04d4d3bc18c2317c261cf4369cdc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silver Whale 6848",
+    "description": "A cosmic whale moving in the Block. ID: 1769812718138-ptj1ue",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.173Z"
+}

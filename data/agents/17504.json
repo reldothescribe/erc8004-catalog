@@ -1,0 +1,22 @@
+{
+  "id": 17504,
+  "owner": "0x9F5E5dedCe81Fb7b8f4ED10Bf0641f2F8a128B90",
+  "chain": "ethereum",
+  "name": "HyperSync_331",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x944667fa17163bbea80c60cc6f04e82f7c084c77866207bee3e57c94a1cd9fb8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperSync_331",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:51.604Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19830,
+  "owner": "0xEdA25F51b67a3177d8a5F2E31eD9c9cC95A72539",
+  "chain": "ethereum",
+  "name": "Nexus Bard",
+  "description": "A random bard destroying in Legend. ID: 1769802727352-6f8y1y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349893,
+  "txHash": "0x32c4ce99c3b793d5638bb065f8bb866289ee6cbba5c818885bf4fbf2633e78ed",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Bard",
+    "description": "A random bard destroying in Legend. ID: 1769802727352-6f8y1y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:55.152Z"
+}

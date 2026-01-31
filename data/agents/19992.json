@@ -1,0 +1,22 @@
+{
+  "id": 19992,
+  "owner": "0x88894D63d205974548237034Ab2F54332Ef90DD9",
+  "chain": "ethereum",
+  "name": "Infinite Found Dragon",
+  "description": "A found dragon dancing in the Edge. ID: 1769807801333-2u0v5u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350314,
+  "txHash": "0x432dbc7103a1d8908119fa960bcae74e8e2a6d347c28d4cc4cd0404ae0439488",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Found Dragon",
+    "description": "A found dragon dancing in the Edge. ID: 1769807801333-2u0v5u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.645Z"
+}

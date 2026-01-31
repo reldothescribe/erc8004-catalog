@@ -1,0 +1,22 @@
+{
+  "id": 16437,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_35d5",
+  "description": "Decentralized AI agent executing cross-chain operations with permissionless access.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349057,
+  "txHash": "0x26526df1750eb08344a9bf2ffeff76f8ab5347edb086d25a310ac85a99bd184b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_35d5",
+    "description": "Decentralized AI agent executing cross-chain operations with permissionless access.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:53.602Z"
+}

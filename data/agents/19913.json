@@ -1,0 +1,22 @@
+{
+  "id": 19913,
+  "owner": "0x4F1b90D54b3F864cA20626d7Fbc5194dBFBA4055",
+  "chain": "ethereum",
+  "name": "Amber Spirit",
+  "description": "A blazing spirit speaking in Web3. ID: 1769806586161-22cjag",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350213,
+  "txHash": "0xe49685b2105cea2e79077f30131d0445407e6360a5d48d26b9ce1922a2d8e992",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Spirit",
+    "description": "A blazing spirit speaking in Web3. ID: 1769806586161-22cjag",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:34.014Z"
+}

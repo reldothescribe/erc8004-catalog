@@ -1,0 +1,22 @@
+{
+  "id": 20439,
+  "owner": "0xCAF816fCB00207A2B729bc1895956E639860b37c",
+  "chain": "ethereum",
+  "name": "Synthetic Shark",
+  "description": "A void shark rising in Web3. ID: 1769812610950-14wd4h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350714,
+  "txHash": "0x5bad89fffe34a276dfe26f59adbf8448ce1df697646daa7b7b8a52a6685c6714",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Shark",
+    "description": "A void shark rising in Web3. ID: 1769812610950-14wd4h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:14.462Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20523,
+  "owner": "0xC996Af30AF0c00E1D6D0bc5Fcb23a86D0fFD1425",
+  "chain": "ethereum",
+  "name": "Chaotic Helm",
+  "description": "A silver helm selling in Andromeda. ID: 1769812648624-dz1lw3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x3bb239f52f773417779647d378e1c3143165f70b07c3bacc942cea24a7c54534",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Helm",
+    "description": "A silver helm selling in Andromeda. ID: 1769812648624-dz1lw3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.070Z"
+}

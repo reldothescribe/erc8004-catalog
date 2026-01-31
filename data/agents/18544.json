@@ -1,0 +1,22 @@
+{
+  "id": 18544,
+  "owner": "0x175e910319C5836bCbE1AfFCe0a5d23d5002AD5B",
+  "chain": "ethereum",
+  "name": "AxiAgent_3db9",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349269,
+  "txHash": "0x9a798883c5a44bff23d38e4f389ee82c13e55a7e00dc336325b2d1ee09f89cc4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiAgent_3db9",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:47.105Z"
+}

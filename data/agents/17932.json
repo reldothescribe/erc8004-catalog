@@ -1,0 +1,22 @@
+{
+  "id": 17932,
+  "owner": "0x3293abF251F89ECF1618D44D0cE0ea6d48Bb8EFe",
+  "chain": "ethereum",
+  "name": "NovaNet_2191",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xe8ab7729d19624b94e52772c8a6c0bd64c39d36bdcce15e76d3a28c492934daf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaNet_2191",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:13.211Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18202,
+  "owner": "0x70d34155FDD3905Df6E34462F20662Da16023a0A",
+  "chain": "ethereum",
+  "name": "NeoMind_1811",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0x1d0a97c680c700f66d589a2b7a502897b285f458aede357caf50d369ac753cbe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoMind_1811",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.821Z"
+}

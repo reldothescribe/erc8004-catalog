@@ -1,0 +1,22 @@
+{
+  "id": 17583,
+  "owner": "0x7BF137E2f71c0e422c1B7810948f03e5d090E6d0",
+  "chain": "ethereum",
+  "name": "StellarNet_7135",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x2c6aa0c5b066c1bd430cc36df96f37c0da3ccf04b0df9f9fe2a6db1951320157",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNet_7135",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:55.600Z"
+}

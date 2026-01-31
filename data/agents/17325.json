@@ -1,0 +1,22 @@
+{
+  "id": 17325,
+  "owner": "0x81431b64f33e060a2Fe6EbDaCC76222cC0cD122F",
+  "chain": "ethereum",
+  "name": "PrimeFlow_5172",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0x0c6e4d78f134ac062362c79d105f53fc2e30ada952983b23737dc54112da9a01",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeFlow_5172",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.352Z"
+}

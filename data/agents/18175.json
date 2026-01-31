@@ -1,0 +1,22 @@
+{
+  "id": 18175,
+  "owner": "0x6668381677dfBFc8CFdba86578c481A54B3fC98E",
+  "chain": "ethereum",
+  "name": "PrimeAgent_2856",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xb11baa30e013f78e1691433968591eb3a5064a42877435eebb9a1f2eb7bb0635",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeAgent_2856",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:27.858Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17834,
+  "owner": "0x5198C669661B27e4acABF99768Ff6AFc6ef8f653",
+  "chain": "ethereum",
+  "name": "CyberMind_3025",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349211,
+  "txHash": "0x4e102b1d77fb21dd3c7978b84142dbcad9921fc1d1a1176ad08d4be09896f300",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberMind_3025",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:08.601Z"
+}

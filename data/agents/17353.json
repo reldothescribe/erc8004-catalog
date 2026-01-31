@@ -1,0 +1,22 @@
+{
+  "id": 17353,
+  "owner": "0x445e6c3b2DE7D8bE75f9f5059981b7bec18415Ad",
+  "chain": "ethereum",
+  "name": "NovaCore_1813",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x45c4f1f9c62bc032acd90aa502fc6443b93a966c6bd2547d78b5d03ba4e24ed6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaCore_1813",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:43.923Z"
+}

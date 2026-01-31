@@ -1,0 +1,22 @@
+{
+  "id": 19804,
+  "owner": "0x7C784D71dE2811930D68bc6B9ca2F5F9DcEB9ECf",
+  "chain": "ethereum",
+  "name": "Onyx Unicorn",
+  "description": "A nexus unicorn weaving in Science. ID: 1769802639738-d0xg3r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349886,
+  "txHash": "0x354e0cae373a1b0de8b7f6ac5db580c92f4c02a3559915140002b3071b5ce71e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Onyx Unicorn",
+    "description": "A nexus unicorn weaving in Science. ID: 1769802639738-d0xg3r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:54.180Z"
+}

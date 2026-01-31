@@ -1,0 +1,22 @@
+{
+  "id": 17311,
+  "owner": "0xd50E33a8cA55A0CabAa06439843625F0bf9A3094",
+  "chain": "ethereum",
+  "name": "OrbCore_0aa8",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349169,
+  "txHash": "0x83fdb903fc4bae5d0ffd194b1d8c87e11feacf9f7b30e4a3ef0e08383d89e803",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbCore_0aa8",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:41.361Z"
+}

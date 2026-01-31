@@ -1,0 +1,22 @@
+{
+  "id": 17778,
+  "owner": "0x5c8349b671614255E1A972cD5DaAFdA54f113c1E",
+  "chain": "ethereum",
+  "name": "UltraLink_8207",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0xf298426f73726f5680710c8f0d12438cb6eef1dc318200b785917cf081e0120c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraLink_8207",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:05.222Z"
+}

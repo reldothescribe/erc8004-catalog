@@ -1,0 +1,22 @@
+{
+  "id": 13653,
+  "owner": "0xcF111740bA4F07Af2bf5efc7DF383eE7CC7b6500",
+  "chain": "ethereum",
+  "name": "eth",
+  "description": "ethethethethethethethethethethethethethethethethethethetheth",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24344741,
+  "txHash": "0xcf5ba2f5a4a4fc7980ee2ca5330591be2c279e25dfcfa2ed9b912c7a167ae8a2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "eth",
+    "description": "ethethethethethethethethethethethethethethethethethethetheth",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:14:14.304Z"
+}

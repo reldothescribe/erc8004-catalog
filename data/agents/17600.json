@@ -1,0 +1,22 @@
+{
+  "id": 17600,
+  "owner": "0x8bFA5e15122ffd23330E7F8287E7d72361b03e36",
+  "chain": "ethereum",
+  "name": "PrimeMind_7186",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x49993a6ad872db4dae6b305aea17fbc82c03b327a2caf03ccfddafb95b4cff79",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeMind_7186",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:56.062Z"
+}

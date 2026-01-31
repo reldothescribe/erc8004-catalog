@@ -1,0 +1,22 @@
+{
+  "id": 17232,
+  "owner": "0x2745ED9BC8A12a890dDbe8bA4370A4F6e80Cc7D7",
+  "chain": "ethereum",
+  "name": "UltraNet_770",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349160,
+  "txHash": "0x99d0563762480830ddcdb64b48d0894f501b3ad029488277f19586659cb4ba2b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNet_770",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:37.222Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16346,
+  "owner": "0x5aebcd50d5Ca699680b350A7088dC9f6C7f9a1D5",
+  "chain": "ethereum",
+  "name": "mino",
+  "description": "minominominominominominominominominominominominomino",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349049,
+  "txHash": "0xce5ea3c993103cbd81f9ef973dddbe1d270dec0e8b59219b3c63321aac246543",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "mino",
+    "description": "minominominominominominominominominominominominomino",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:49.136Z"
+}

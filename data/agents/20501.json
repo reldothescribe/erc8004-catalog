@@ -1,0 +1,22 @@
+{
+  "id": 20501,
+  "owner": "0x13CeBf4C857a1DF6fDA8D080d09aC58455e19A47",
+  "chain": "ethereum",
+  "name": "Lost Eagle",
+  "description": "A ivory eagle calculating in the Boundary. ID: 1769812642685-lngxnt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x1df5319259341e1dfb173eb03935589378cd37c3796884b90ca199b9c9636cba",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Eagle",
+    "description": "A ivory eagle calculating in the Boundary. ID: 1769812642685-lngxnt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.641Z"
+}

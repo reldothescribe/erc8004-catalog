@@ -1,0 +1,22 @@
+{
+  "id": 20270,
+  "owner": "0x2305B9eb9c50A64eead0f50647659694aedb70B0",
+  "chain": "ethereum",
+  "name": "Chaotic Algorithm 7646",
+  "description": "A golden algorithm working in the Chain. ID: 1769812468812-55avpo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0x2b2ba4e6e2d98748933aed5e6f041ff157d5f4de21612d02a7b9814a54123751",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Algorithm 7646",
+    "description": "A golden algorithm working in the Chain. ID: 1769812468812-55avpo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.655Z"
+}

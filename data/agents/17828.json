@@ -1,0 +1,22 @@
+{
+  "id": 17828,
+  "owner": "0x4d5f5B26E43d17cCA9B04817686C95466Ce37c0b",
+  "chain": "ethereum",
+  "name": "NeoHub_8611",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x1b5a0252452e358df717d432600fb3cbab9ec84203f8990cdfa5604b41172bb1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoHub_8611",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:08.088Z"
+}

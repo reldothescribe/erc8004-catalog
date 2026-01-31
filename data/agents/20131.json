@@ -1,0 +1,22 @@
+{
+  "id": 20131,
+  "owner": "0xEFA8f080dcE7b3917ad7F3A409B52d944047BF1f",
+  "chain": "ethereum",
+  "name": "Light Cosmic Hydra",
+  "description": "A cosmic hydra learning in Legend. ID: 1769812352388-5nyd57",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0xc8d02c55be907f38812ed5ff54a1954af84e74e6c8ebc168db4d6a9e9ce171b4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Cosmic Hydra",
+    "description": "A cosmic hydra learning in Legend. ID: 1769812352388-5nyd57",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.394Z"
+}

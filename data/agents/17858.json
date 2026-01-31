@@ -1,0 +1,22 @@
+{
+  "id": 17858,
+  "owner": "0xf7114C25c502Dd0d281842B467D3CC1A82C9b48E",
+  "chain": "ethereum",
+  "name": "UltraNode_5296",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xbbc227380e632a8528107ca7ed8fce79292ec0ee72ceabfca614ea24951b83fd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNode_5296",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:09.625Z"
+}

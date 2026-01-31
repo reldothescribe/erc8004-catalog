@@ -1,0 +1,22 @@
+{
+  "id": 16928,
+  "owner": "0x21642E85A58cDf0Ea947D4768fDd8b523B293f27",
+  "chain": "ethereum",
+  "name": "Agent_da9f",
+  "description": "Web3 native AI agent performing smart contract interactions with autonomous decision-making.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349123,
+  "txHash": "0xfed21519a74828230f8057fe4e3914d6cf3b24f09c5085b392b29bbac9553e2c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_da9f",
+    "description": "Web3 native AI agent performing smart contract interactions with autonomous decision-making.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:20.473Z"
+}

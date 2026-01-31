@@ -1,0 +1,22 @@
+{
+  "id": 17230,
+  "owner": "0x8d97d818a7B2EFEC3A1b85B2Cdf23b68C677e2c6",
+  "chain": "ethereum",
+  "name": "StellarHub_1348",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349160,
+  "txHash": "0xe1a81c266fc91b7d095dc7303b523d9c6b1633680fef57623e0b29073249bd01",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarHub_1348",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:37.230Z"
+}

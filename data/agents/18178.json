@@ -1,0 +1,22 @@
+{
+  "id": 18178,
+  "owner": "0x53DC758718B241bc9f44CeB75e238f7691Ee6B03",
+  "chain": "ethereum",
+  "name": "NeoLink_9683",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0x84d5c358a5e7f01f2c23ec0ebc1f3cb2388572efd5825679630037651ba5a897",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoLink_9683",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:27.858Z"
+}

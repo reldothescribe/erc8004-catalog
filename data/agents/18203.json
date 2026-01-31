@@ -1,0 +1,22 @@
+{
+  "id": 18203,
+  "owner": "0x68CEA87457e1120a7F27cF33f8e48124F43164e3",
+  "chain": "ethereum",
+  "name": "MetaLink_3512",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xf75dbce411cc623368d27226e65fbe7fedc49567163857ddfcc9d122f7cbcabb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaLink_3512",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:29.305Z"
+}

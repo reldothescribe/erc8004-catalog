@@ -1,0 +1,22 @@
+{
+  "id": 20833,
+  "owner": "0x558c9Ad37d48Bb174b5CFa2bbfbfC1589986bbC0",
+  "chain": "ethereum",
+  "name": "Wise Atomic Bard",
+  "description": "A atomic bard healing in the Protocol. ID: 1769812742702-03s6l0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x639ab60f3b4227a17dcb4b9a57862fb819302a041c532d3b763cb1f3f4706f07",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Wise Atomic Bard",
+    "description": "A atomic bard healing in the Protocol. ID: 1769812742702-03s6l0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.268Z"
+}

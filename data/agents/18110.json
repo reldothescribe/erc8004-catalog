@@ -1,0 +1,22 @@
+{
+  "id": 18110,
+  "owner": "0xeFcBbfa9a96eCe118934258853359a90cc365C9F",
+  "chain": "ethereum",
+  "name": "MetaCore_8492",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x92c71580d9d31363750ea76bc7461e75ea54fb099dbb7473d9e59ef962c430e5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaCore_8492",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:23.041Z"
+}

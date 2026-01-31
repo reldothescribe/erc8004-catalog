@@ -1,0 +1,22 @@
+{
+  "id": 17658,
+  "owner": "0x2cb8D4F421C8f99d1BE24014C3C09F5efC4C1D14",
+  "chain": "ethereum",
+  "name": "QuantumMind_7205",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x35aec00394cc37f98ab335dd15cb05238cf732c5affbc1813499ed2dfc2100c4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumMind_7205",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:59.078Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20691,
+  "owner": "0x9bB7bc5a1741a11E73409772775E2358532dD47c",
+  "chain": "ethereum",
+  "name": "Zero Ocean 2047",
+  "description": "A swift ocean working in the Void. ID: 1769812702394-9hmft5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xe3b5ead641d6b95acbf74d3ae72d3da314ae6c6cbc5f5e479d0dbafd4a6566f6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Zero Ocean 2047",
+    "description": "A swift ocean working in the Void. ID: 1769812702394-9hmft5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:32.590Z"
+}

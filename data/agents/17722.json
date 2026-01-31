@@ -1,0 +1,22 @@
+{
+  "id": 17722,
+  "owner": "0xd0B7A3DddcE9a59910479e90C3a506980Ce2e709",
+  "chain": "ethereum",
+  "name": "CyberBot_9497",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349202,
+  "txHash": "0x4871227b6285ecbd174f8d4fbf968adda0ef8a029a481376bf1faad9c15041c7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberBot_9497",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.113Z"
+}

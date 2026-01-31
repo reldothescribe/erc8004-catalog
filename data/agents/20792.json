@@ -1,0 +1,22 @@
+{
+  "id": 20792,
+  "owner": "0x7C784D71dE2811930D68bc6B9ca2F5F9DcEB9ECf",
+  "chain": "ethereum",
+  "name": "Magnetic Nova",
+  "description": "A phantom nova watching in Mystery. ID: 1769812703051-shuj8e",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x6e995ae38db148e7d1aa32a8d6c54571884764b0e415dda10b099ebda1d7133c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Magnetic Nova",
+    "description": "A phantom nova watching in Mystery. ID: 1769812703051-shuj8e",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.708Z"
+}

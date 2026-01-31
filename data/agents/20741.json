@@ -1,0 +1,22 @@
+{
+  "id": 20741,
+  "owner": "0x876671dA52768e3F1904BC46fE573C674283a4dA",
+  "chain": "ethereum",
+  "name": "Phantom Bot 4374",
+  "description": "A young bot losing in the Abyss. ID: 1769812720675-e0kiea",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xeff0f4f76cfd06c2790afc26e4fd4aea2dda132a4555950225e567747b07eca5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Bot 4374",
+    "description": "A young bot losing in the Abyss. ID: 1769812720675-e0kiea",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.147Z"
+}

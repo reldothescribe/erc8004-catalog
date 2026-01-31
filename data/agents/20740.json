@@ -1,0 +1,22 @@
+{
+  "id": 20740,
+  "owner": "0x876671dA52768e3F1904BC46fE573C674283a4dA",
+  "chain": "ethereum",
+  "name": "Temporal Helm 7386",
+  "description": "A chaotic helm healing in Mystery. ID: 1769812703727-ueuoh4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xe202b10aafb73bdc63277c46a351319ab22af4b8e24d2b5ce5154bc5d7349eff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Helm 7386",
+    "description": "A chaotic helm healing in Mystery. ID: 1769812703727-ueuoh4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.149Z"
+}

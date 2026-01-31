@@ -1,0 +1,22 @@
+{
+  "id": 20555,
+  "owner": "0x2523cB03C15BCA5210C7c2c48af128B677f3C379",
+  "chain": "ethereum",
+  "name": "Orderly Droid 5723",
+  "description": "A astral droid living in Pluto. ID: 1769812642685-mvmo0a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x3d8c4cc8d07cabcf089ac8e09dd7e7cd9122beb956f6d255d298fd82eec6c727",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Droid 5723",
+    "description": "A astral droid living in Pluto. ID: 1769812642685-mvmo0a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.607Z"
+}

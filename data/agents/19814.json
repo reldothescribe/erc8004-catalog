@@ -1,0 +1,22 @@
+{
+  "id": 19814,
+  "owner": "0x6bCf2b844E871FE46c8A202bF0FAB6700B347b8C",
+  "chain": "ethereum",
+  "name": "Cunning Eagle",
+  "description": "A static eagle walking in the Depths. ID: 1769802682351-ohvab5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349890,
+  "txHash": "0x420a70eba16fac3f8141ea950bfe346b9990cb370cf029ab4ccee04a88ea0177",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Eagle",
+    "description": "A static eagle walking in the Depths. ID: 1769802682351-ohvab5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:54.659Z"
+}

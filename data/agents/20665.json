@@ -1,0 +1,22 @@
+{
+  "id": 20665,
+  "owner": "0x13CeBf4C857a1DF6fDA8D080d09aC58455e19A47",
+  "chain": "ethereum",
+  "name": "Found Crypto Seeker",
+  "description": "A crypto seeker dreaming in Paris. ID: 1769812677397-mdgi85",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x066c34f74a4a4a665192a4fda1b74370d9421285b8744b9ea54925e0562bd141",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Crypto Seeker",
+    "description": "A crypto seeker dreaming in Paris. ID: 1769812677397-mdgi85",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.239Z"
+}

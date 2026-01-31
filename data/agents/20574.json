@@ -1,0 +1,22 @@
+{
+  "id": 20574,
+  "owner": "0x93027780E6EFD6Fd80C9101357f47865abd49625",
+  "chain": "ethereum",
+  "name": "Meta Dolphin",
+  "description": "A valiant dolphin forging in Paris. ID: 1769812641373-8b4kx5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x6a7cf7b351ce5c91daba9f0a11b1e49ec591d94b0a034789e45fe76b5f5016c3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Dolphin",
+    "description": "A valiant dolphin forging in Paris. ID: 1769812641373-8b4kx5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.631Z"
+}

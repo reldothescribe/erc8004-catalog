@@ -1,0 +1,22 @@
+{
+  "id": 18015,
+  "owner": "0x75a94D43298dbbcC2A9a68191362D6C45Fc0007b",
+  "chain": "ethereum",
+  "name": "UltraNet_8739",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x546020340518d6ea5cefa303daf44724a0e4f27023a8a57d891f9615ec180aea",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNet_8739",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:17.921Z"
+}

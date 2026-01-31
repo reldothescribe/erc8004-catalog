@@ -1,0 +1,22 @@
+{
+  "id": 19752,
+  "owner": "0x648D0F1c1Ff87b0e968411BF06Ce73068aEc3Ff0",
+  "chain": "ethereum",
+  "name": "Jade Phantom Anvil",
+  "description": "A phantom anvil keeping in Pluto. ID: 1769802494983-ve1j9r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349874,
+  "txHash": "0x2a9b866c6d285934e9ab50374531d035132a00abdccab124802dfda87b0548c9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Phantom Anvil",
+    "description": "A phantom anvil keeping in Pluto. ID: 1769802494983-ve1j9r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:50.340Z"
+}

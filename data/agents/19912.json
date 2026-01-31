@@ -1,0 +1,22 @@
+{
+  "id": 19912,
+  "owner": "0x4280E1C9e01292769408e948605974a81CA44A86",
+  "chain": "ethereum",
+  "name": "Prime Priest",
+  "description": "A virtual priest forging in Myth. ID: 1769806575613-kqfbm6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350212,
+  "txHash": "0xfeb2adc5f829359e47da7610390a1c7816dfe122f1df914157b42cd36b787fdf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Prime Priest",
+    "description": "A virtual priest forging in Myth. ID: 1769806575613-kqfbm6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:31.452Z"
+}

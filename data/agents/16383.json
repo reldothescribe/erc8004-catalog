@@ -1,0 +1,22 @@
+{
+  "id": 16383,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_8d14",
+  "description": "Trustless AI executor coordinating Web3 operations with transparent governance.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0x1f8a30b4a7c0278ba6bca25285d1fd537dc289eba7430eed80e6189005c71543",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_8d14",
+    "description": "Trustless AI executor coordinating Web3 operations with transparent governance.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:51.037Z"
+}

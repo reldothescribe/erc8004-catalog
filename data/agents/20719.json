@@ -1,0 +1,22 @@
+{
+  "id": 20719,
+  "owner": "0x2B5422652266aF9c6F6CFfa13CAd603afA8A2642",
+  "chain": "ethereum",
+  "name": "Static Crown 4540",
+  "description": "A lunar crown shaping in the Edge. ID: 1769812703051-8gj900",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x3d88ed78c2c978fe5b219f3de52f8cef753be61663542430dccf829ef41c5ff8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Crown 4540",
+    "description": "A lunar crown shaping in the Edge. ID: 1769812703051-8gj900",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.124Z"
+}

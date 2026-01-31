@@ -1,0 +1,22 @@
+{
+  "id": 18397,
+  "owner": "0xAe86474901C2415258fbE77c047A5fB559535c02",
+  "chain": "ethereum",
+  "name": "AxiCore_f968",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349256,
+  "txHash": "0x5759e53b0dc00b507f9741da4bd25729614c25eb58c5e4212d43ed5e5a194a25",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiCore_f968",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:38.914Z"
+}

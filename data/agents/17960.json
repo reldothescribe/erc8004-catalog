@@ -1,0 +1,22 @@
+{
+  "id": 17960,
+  "owner": "0x88D6bd6a7Fb2E1Ed40372230AFe521C1577C6b3f",
+  "chain": "ethereum",
+  "name": "NovaMind_5454",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x45798476c28365a66564b6e0719c386727a8638905271408b957501cb1acedff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaMind_5454",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:14.766Z"
+}

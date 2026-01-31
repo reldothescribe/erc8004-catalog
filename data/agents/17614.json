@@ -1,0 +1,22 @@
+{
+  "id": 17614,
+  "owner": "0x5fA8Fc1422e59F9179c55F6Ff4712f5a3f3ADfE1",
+  "chain": "ethereum",
+  "name": "HyperNet_2975",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x86e91421895b03dade31d87dce08d7692fe9515fb43ff14d5de8ed65db11de86",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperNet_2975",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:57.005Z"
+}

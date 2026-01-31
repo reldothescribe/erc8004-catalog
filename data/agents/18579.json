@@ -1,0 +1,22 @@
+{
+  "id": 18579,
+  "owner": "0xAb3eB869d2a44b60A758ebFc7462cf05Cefec3F8",
+  "chain": "ethereum",
+  "name": "Astral Bear",
+  "description": "A infinite bear destroying in the Network. ID: 1769795240325-h6l7ku",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349274,
+  "txHash": "0x1377895e25bd7f50c63bd0599337b384cc689e9f400551e41d4eea90e20feae9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Bear",
+    "description": "A infinite bear destroying in the Network. ID: 1769795240325-h6l7ku",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:48.554Z"
+}

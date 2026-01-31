@@ -1,0 +1,22 @@
+{
+  "id": 17447,
+  "owner": "0x8b55EEcbECE2d9c33205984C78F98e21E7248949",
+  "chain": "ethereum",
+  "name": "NovaNet_973",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x2a31e4efd6c7095236ebc19ce8979e0c018fc99a37ada4daeef52326b45f7c18",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaNet_973",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:48.531Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20164,
+  "owner": "0xdc5404F78763197f81346504fBBa7EAf6327b3b6",
+  "chain": "ethereum",
+  "name": "Omega Lunar Tower",
+  "description": "A lunar tower shaping in Jupiter. ID: 1769812372388-gcqnlr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0xd63895b5c2f061feac1573adfd57253bcccabf2a6b9d36e637535253129cd199",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Omega Lunar Tower",
+    "description": "A lunar tower shaping in Jupiter. ID: 1769812372388-gcqnlr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.538Z"
+}

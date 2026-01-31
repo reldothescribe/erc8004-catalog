@@ -1,0 +1,22 @@
+{
+  "id": 19309,
+  "owner": "0xB0d23c5634d92c02dA810DFf1A3ace0b1188b238",
+  "chain": "ethereum",
+  "name": "Agents 19131",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349846,
+  "txHash": "0x3f68bdb7198894a92f80bc5f388ec627fa646cc85b9ea7a015c7cd879556c5a3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agents 19131",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:27.860Z"
+}

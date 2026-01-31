@@ -1,0 +1,22 @@
+{
+  "id": 18221,
+  "owner": "0x260eCE8577b7288C9eC527d3E23d228846EBFc1C",
+  "chain": "ethereum",
+  "name": "HyperFlow_9581",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349224,
+  "txHash": "0x6a21ea2c461e0466ad19a5d39d5f707436cfdfbb261de05730efffe91f98c1eb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperFlow_9581",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:29.797Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19979,
+  "owner": "0x4280E1C9e01292769408e948605974a81CA44A86",
+  "chain": "ethereum",
+  "name": "Jade Sentient Wave",
+  "description": "A sentient wave giving in the Boundary. ID: 1769807727637-l05lfr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350308,
+  "txHash": "0xe521b0b8bc321e776ec07484eb8703934cca9572d29649c85d6245fcd7fcd547",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Sentient Wave",
+    "description": "A sentient wave giving in the Boundary. ID: 1769807727637-l05lfr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.133Z"
+}

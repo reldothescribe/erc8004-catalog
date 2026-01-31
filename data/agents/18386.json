@@ -1,0 +1,22 @@
+{
+  "id": 18386,
+  "owner": "0x009f121D2b66bBf4D1b67C1d1C16D519920DFC21",
+  "chain": "ethereum",
+  "name": "SynNode_ae25",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349255,
+  "txHash": "0xae94e62d16aa7f9c26e61231916f0a6173b132089fad98e6033da7c7f7b6935f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynNode_ae25",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:38.401Z"
+}

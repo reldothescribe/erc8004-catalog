@@ -1,0 +1,22 @@
+{
+  "id": 17497,
+  "owner": "0x26e5FEce3779d041Fd7f4F71B350264f94f0c8C3",
+  "chain": "ethereum",
+  "name": "NeoBot_5172",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x5ee3ce209e5d345452deed3e47b09d0df45765cb67e97823ff291e5e367367f3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoBot_5172",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:51.048Z"
+}

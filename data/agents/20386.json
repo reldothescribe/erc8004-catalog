@@ -1,0 +1,22 @@
+{
+  "id": 20386,
+  "owner": "0x522561ADb925F9C79fE07b980175eF2E0cEf64aE",
+  "chain": "ethereum",
+  "name": "Gentle Core 9231",
+  "description": "A crystal core flying in Web3. ID: 1769812580389-op68se",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0xc091f88e35bf8572747ea133ad56b1338efe322cd2539a81121cd53c011a6fd6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Core 9231",
+    "description": "A crystal core flying in Web3. ID: 1769812580389-op68se",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.903Z"
+}

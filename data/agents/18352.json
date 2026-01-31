@@ -1,0 +1,22 @@
+{
+  "id": 18352,
+  "owner": "0xBA73C4E64588B7b021064DEFff663A3e5b620357",
+  "chain": "ethereum",
+  "name": "NexNode_abcb",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349252,
+  "txHash": "0x969dcf39d1e1e43223eec08f134e3491e6cdeae1a480b1258245c2f70bbc3067",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexNode_abcb",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:36.352Z"
+}

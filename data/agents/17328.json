@@ -1,0 +1,22 @@
+{
+  "id": 17328,
+  "owner": "0x1E8b8732fEC94bd44a882eCFEa61623B9cb22B63",
+  "chain": "ethereum",
+  "name": "QuantumMind_1162",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0x6218092de62271aa666513e1869c911ade73d3ad80090bd96b7e0e5f9991b9ab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumMind_1162",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.340Z"
+}

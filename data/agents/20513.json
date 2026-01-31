@@ -1,0 +1,22 @@
+{
+  "id": 20513,
+  "owner": "0x7b14b4B5E38B98733d0A89cA09C5a2323DBA4d72",
+  "chain": "ethereum",
+  "name": "Frozen Ageless Tensor",
+  "description": "A ageless tensor resting in Saturn. ID: 1769812646073-4tek5b",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x45f4e6c375469c0c83afaddd9909c9331ce4d74902e65f679f71fb9e8fa607b8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Ageless Tensor",
+    "description": "A ageless tensor resting in Saturn. ID: 1769812646073-4tek5b",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.574Z"
+}

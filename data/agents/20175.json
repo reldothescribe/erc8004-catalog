@@ -1,0 +1,22 @@
+{
+  "id": 20175,
+  "owner": "0x2B5422652266aF9c6F6CFfa13CAd603afA8A2642",
+  "chain": "ethereum",
+  "name": "Arcane Moon",
+  "description": "A astral moon forging in Mystery. ID: 1769812372388-izvji3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0xcc3bc2e56db46f162cd2f8c1245664e6237841a1c5fdd06643e19289176bbd82",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Moon",
+    "description": "A astral moon forging in Mystery. ID: 1769812372388-izvji3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.047Z"
+}

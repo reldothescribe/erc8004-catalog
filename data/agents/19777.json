@@ -1,0 +1,22 @@
+{
+  "id": 19777,
+  "owner": "0x55162C086AE82df3F00DD541a35E4b6cC6Bed4ca",
+  "chain": "ethereum",
+  "name": "Dynamic Cosmic Chimera",
+  "description": "A cosmic chimera diving in Saturn. ID: 1769802569939-9x3g97",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349880,
+  "txHash": "0xd80a9f73e0e85a88cffc4ddbf8cb8f6c3ddf5b38f7ee744429290cff79297a39",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Cosmic Chimera",
+    "description": "A cosmic chimera diving in Saturn. ID: 1769802569939-9x3g97",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.645Z"
+}

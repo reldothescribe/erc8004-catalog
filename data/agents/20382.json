@@ -1,0 +1,22 @@
+{
+  "id": 20382,
+  "owner": "0xEFA8f080dcE7b3917ad7F3A409B52d944047BF1f",
+  "chain": "ethereum",
+  "name": "Sonic Bear 648",
+  "description": "A magnetic bear diving in the Block. ID: 1769812580389-3cc7dm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0xdecd66f89ef43fe79eafdec717b2b0154662fcead1d2ecabab2400214e1bbfef",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Bear 648",
+    "description": "A magnetic bear diving in the Block. ID: 1769812580389-3cc7dm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.390Z"
+}

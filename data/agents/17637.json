@@ -1,0 +1,22 @@
+{
+  "id": 17637,
+  "owner": "0x2Ed96743794F092fc01bDeD5767658ee4537b44c",
+  "chain": "ethereum",
+  "name": "QuantumCore_4663",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x4d02df1e461fae8aad243f553ac8842d32a3d012413187330871f8eb647f7d32",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumCore_4663",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:58.054Z"
+}

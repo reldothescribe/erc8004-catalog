@@ -1,0 +1,22 @@
+{
+  "id": 17640,
+  "owner": "0x89C71322f901255a52546D49fd6Bda1fe7afe273",
+  "chain": "ethereum",
+  "name": "AxiSync_7303",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x4b6ebd2da3e3219b37dbc35d08ab50c3075a8e1ccda186018ea911226f24941e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiSync_7303",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:58.054Z"
+}

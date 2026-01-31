@@ -1,0 +1,22 @@
+{
+  "id": 20287,
+  "owner": "0xe51eDE7595E9c125789286Ff6A40Bd19F25E1fA1",
+  "chain": "ethereum",
+  "name": "Autonomous Helm 2110",
+  "description": "A sentient helm sleeping in Legend. ID: 1769812482387-noxmn3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0x52810fa07427053026cdb046292fd0a4decc37b0860e9a764caa3cd53af53799",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Helm 2110",
+    "description": "A sentient helm sleeping in Legend. ID: 1769812482387-noxmn3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.681Z"
+}

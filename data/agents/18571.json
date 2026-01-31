@@ -1,0 +1,22 @@
+{
+  "id": 18571,
+  "owner": "0xe14b7C6135AF17E8CaaF71BeeA8564a810D8e952",
+  "chain": "ethereum",
+  "name": "LuxBot_658b",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349270,
+  "txHash": "0x433f4d1916c9fe560763b4c2518b9913b274b8127cd1c94e576655a5c9c7327b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxBot_658b",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:48.084Z"
+}

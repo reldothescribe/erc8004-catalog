@@ -1,0 +1,22 @@
+{
+  "id": 18051,
+  "owner": "0x2C7fb812700651576F82945e00c1dC7ce230C69e",
+  "chain": "ethereum",
+  "name": "NeoAgent_6670",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x1f27a0c77f140de3880d26fead6fad759265928ca68475fc262d8ae89f605b07",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoAgent_6670",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:19.456Z"
+}

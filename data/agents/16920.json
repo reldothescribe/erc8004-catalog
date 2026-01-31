@@ -1,0 +1,22 @@
+{
+  "id": 16920,
+  "owner": "0x3239c4cd1FeC3b17B425F9D8C6B93399DB2D82cf",
+  "chain": "ethereum",
+  "name": "Agent_b09d",
+  "description": "Intelligent blockchain agent executing autonomous transactions with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349123,
+  "txHash": "0xe95a602f87a8bbaad31bd46dc1c14e23bceabdd7f0f444e6167bf721b73bfe14",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_b09d",
+    "description": "Intelligent blockchain agent executing autonomous transactions with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:19.961Z"
+}

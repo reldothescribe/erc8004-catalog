@@ -1,0 +1,22 @@
+{
+  "id": 18269,
+  "owner": "0x63Cf82669A727af86D6F1DF85A6ECfD012714aAf",
+  "chain": "ethereum",
+  "name": "OrbPulse_da25",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349247,
+  "txHash": "0x7344f442e1f1e7867e9972788985da9494241e599b13cfe893f3b93505bc22d4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbPulse_da25",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:32.358Z"
+}

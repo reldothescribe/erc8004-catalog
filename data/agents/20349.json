@@ -1,0 +1,22 @@
+{
+  "id": 20349,
+  "owner": "0xCAF816fCB00207A2B729bc1895956E639860b37c",
+  "chain": "ethereum",
+  "name": "Kinetic Crown 3074",
+  "description": "A gentle crown calculating in the Core. ID: 1769812503121-n4055k",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350707,
+  "txHash": "0x63941f2cfceb5c1b7fd1750330d96b60445e7455c897e1d5d3e6baf9cb2f9e05",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Crown 3074",
+    "description": "A gentle crown calculating in the Core. ID: 1769812503121-n4055k",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:09.752Z"
+}

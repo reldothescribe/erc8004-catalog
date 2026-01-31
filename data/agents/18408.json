@@ -1,0 +1,22 @@
+{
+  "id": 18408,
+  "owner": "0x4887a4842a302092751517661f062d0ceB4F8B7a",
+  "chain": "ethereum",
+  "name": "Radiant Crystal Spirit",
+  "description": "A crystal spirit seeking in London. ID: 1769795031559-3iege0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349257,
+  "txHash": "0x941b859bc1b298c66855861c3325d05b17a654af536a1e78ad0b132f672dd7e5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Crystal Spirit",
+    "description": "A crystal spirit seeking in London. ID: 1769795031559-3iege0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:39.424Z"
+}

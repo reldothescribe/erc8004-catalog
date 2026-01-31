@@ -1,0 +1,22 @@
+{
+  "id": 20477,
+  "owner": "0xD2E4327E395203F61B84D189dE73f09D35782751",
+  "chain": "ethereum",
+  "name": "Sapphire Sun",
+  "description": "A divine sun moving in Web3. ID: 1769812647996-9zc3cb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xb8d68be21effe79e5ae225e83f487d89374bb5ff618550badfc4ea8ba2c5b0bd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sapphire Sun",
+    "description": "A divine sun moving in Web3. ID: 1769812647996-9zc3cb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:16.613Z"
+}

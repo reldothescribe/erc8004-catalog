@@ -1,0 +1,22 @@
+{
+  "id": 17609,
+  "owner": "0xeCE95848bFbAC6818241C806F272Cb30C5945487",
+  "chain": "ethereum",
+  "name": "PrimeFlow_3367",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x84930b76b62fcf11408d10d93163ae4958b8233cf50b4adaf5613263bd8d9f35",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeFlow_3367",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:56.528Z"
+}

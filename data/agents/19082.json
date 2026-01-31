@@ -1,0 +1,22 @@
+{
+  "id": 19082,
+  "owner": "0xFa8455757281A8aF7759B2e6350a96ec8325519b",
+  "chain": "ethereum",
+  "name": "Secret Kinetic Golem",
+  "description": "A kinetic golem soaring in Jupiter. ID: 1769796677329-9e7lrh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349393,
+  "txHash": "0x346dfa19e77a67201d5d362592ae09bf9a097c5861818271a32d7923379f705b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Kinetic Golem",
+    "description": "A kinetic golem soaring in Jupiter. ID: 1769796677329-9e7lrh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:15.265Z"
+}

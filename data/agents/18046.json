@@ -1,0 +1,22 @@
+{
+  "id": 18046,
+  "owner": "0xB35a908aBdb7614626FA0ACec7168D1c9182f13A",
+  "chain": "ethereum",
+  "name": "StellarMind_1314",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0xf3e0a65ab474e2d459f3f991211997a6d0bda7142a182b9a21f96aacde185b7a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarMind_1314",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:19.456Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17384,
+  "owner": "0x1FC22971A9E5E284Cbb5275a10818d8069246d6d",
+  "chain": "ethereum",
+  "name": "StellarNet_4911",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0xdaa1ac86f9b76908131c4747d5dc5a477ab55df2121a70d165b5fcc76540c13c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNet_4911",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:45.463Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17968,
+  "owner": "0xEC28D09D4d485b8FAA3af2577F5E12066f1A8c98",
+  "chain": "ethereum",
+  "name": "AxiNode_6154",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x86852fc32c18b38e8766a435fa831f98dc83c81b531b0e1735a0c112620c3e82",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiNode_6154",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:15.360Z"
+}

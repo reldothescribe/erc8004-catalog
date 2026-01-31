@@ -1,0 +1,22 @@
+{
+  "id": 17983,
+  "owner": "0x8BaF489abdd64C28870744cB0F06eCF92885726F",
+  "chain": "ethereum",
+  "name": "UltraHub_6190",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xc836ec8dab02b376f27ec7c51d2d9ad14df7e9c1d11009344d585f7f1767d11c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraHub_6190",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:16.384Z"
+}

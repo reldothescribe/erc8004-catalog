@@ -1,0 +1,22 @@
+{
+  "id": 20705,
+  "owner": "0x93027780E6EFD6Fd80C9101357f47865abd49625",
+  "chain": "ethereum",
+  "name": "Kinetic Bot",
+  "description": "A infinite bot exploring in Berlin. ID: 1769812702394-odz16u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x9014f633fc5da1dcbb7ee2bd82d45dccb5c3b6b815286e85e783bd95a9ccdfee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Bot",
+    "description": "A infinite bot exploring in Berlin. ID: 1769812702394-odz16u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.612Z"
+}

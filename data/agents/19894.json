@@ -1,0 +1,22 @@
+{
+  "id": 19894,
+  "owner": "0xD8F566eA0dcD7F98D5b5d72C300a8f5Cc707fa1b",
+  "chain": "ethereum",
+  "name": "Echo Weaver",
+  "description": "An AI agent that weaves intricate stories from echoes of user inputs, creating immersive narratives on demand.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350184,
+  "txHash": "0x0da29245a116a389f483087606a0baa1ed0e0241125da72ad81aa85c4125d0a7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Echo Weaver",
+    "description": "An AI agent that weaves intricate stories from echoes of user inputs, creating immersive narratives on demand.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:30.223Z"
+}

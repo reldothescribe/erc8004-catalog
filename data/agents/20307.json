@@ -1,0 +1,22 @@
+{
+  "id": 20307,
+  "owner": "0xc2604c18f52341967f7b387214b166C48e518eE9",
+  "chain": "ethereum",
+  "name": "Alpha Forge",
+  "description": "A digital forge walking in the Smart Contract. ID: 1769812492823-bzgntt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0x0c65a7f59c123524410708d7f5e5f0d96f586adb76c334033417ba35d1041360",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Alpha Forge",
+    "description": "A digital forge walking in the Smart Contract. ID: 1769812492823-bzgntt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.703Z"
+}

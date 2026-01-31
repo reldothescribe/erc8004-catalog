@@ -1,0 +1,22 @@
+{
+  "id": 20692,
+  "owner": "0xB4B28fAe4c438285a38EB8f72d6C4891656736b3",
+  "chain": "ethereum",
+  "name": "Tactile Colossus",
+  "description": "A lost colossus dancing in Mystery. ID: 1769812701765-kxk0dk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x4da2677dbedd52a40ff53acc4b7cb666feb538585744fe8594ae2dcba2e93e85",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Tactile Colossus",
+    "description": "A lost colossus dancing in Mystery. ID: 1769812701765-kxk0dk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:32.588Z"
+}

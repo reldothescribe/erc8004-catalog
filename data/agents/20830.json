@@ -1,0 +1,22 @@
+{
+  "id": 20830,
+  "owner": "0x32b9DC823e3126D909C83fA1baa80Eb13dEc248a",
+  "chain": "ethereum",
+  "name": "Jade Organic Rogue",
+  "description": "A organic rogue crafting in Jupiter. ID: 1769812743422-4r4sum",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xd403a7621a7b2598a80ab1e9b37382ba3bfc6b8bf2c579550a9005f55384d91f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Organic Rogue",
+    "description": "A organic rogue crafting in Jupiter. ID: 1769812743422-4r4sum",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.754Z"
+}

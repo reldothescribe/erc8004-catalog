@@ -1,0 +1,22 @@
+{
+  "id": 17288,
+  "owner": "0xf61051c650Bfc25cb7B23b574ec69bf838504Cf8",
+  "chain": "ethereum",
+  "name": "NeoNet_6541",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349163,
+  "txHash": "0x28f84ebb54ecb621bcd3886449ccd6e7bf9f084ffcd3c349218ece369f89d44a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNet_6541",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:40.338Z"
+}

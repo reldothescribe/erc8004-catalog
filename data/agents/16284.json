@@ -1,0 +1,25 @@
+{
+  "id": 16284,
+  "owner": "0x6e39b156Ba74Ee903D2b22c8eeA8E4f19Cf05417",
+  "chain": "ethereum",
+  "name": "STORY",
+  "description": "Story StoryStoryStoryStoryStoryStoryStoryStoryStoryStory",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348941,
+  "txHash": "0x32ccbdef37c7bbc80b04ccb239fcfe15f486cbbe2c07acc5afee48b225a58bb3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "STORY",
+    "description": "Story StoryStoryStoryStoryStoryStoryStoryStoryStoryStory",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:16:46.066Z"
+}

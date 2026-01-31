@@ -1,0 +1,22 @@
+{
+  "id": 20673,
+  "owner": "0xeAEEf21647AB21110AA174B819893ff4995Bfd4b",
+  "chain": "ethereum",
+  "name": "Infinite Liquid Cipher",
+  "description": "A liquid cipher learning in Space. ID: 1769812702394-2qly93",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x6e78a5a4d9b2c6d4a8674c5339924aaf213a58fe56d695648ad963d5c880bd06",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Liquid Cipher",
+    "description": "A liquid cipher learning in Space. ID: 1769812702394-2qly93",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.751Z"
+}

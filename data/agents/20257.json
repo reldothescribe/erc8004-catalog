@@ -1,0 +1,22 @@
+{
+  "id": 20257,
+  "owner": "0xD4cb3981f23c51fC0DE2E27fda9Be9c37ecD6c65",
+  "chain": "ethereum",
+  "name": "Nexus Moon",
+  "description": "A ether moon dreaming in the Consensus. ID: 1769812459613-w4hidc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350701,
+  "txHash": "0xec4da037b5be7d7f8ed46831c74bb01f19ad6c64594f3f963a42b2af087e1792",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Moon",
+    "description": "A ether moon dreaming in the Consensus. ID: 1769812459613-w4hidc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.145Z"
+}

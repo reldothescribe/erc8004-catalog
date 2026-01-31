@@ -1,0 +1,22 @@
+{
+  "id": 18182,
+  "owner": "0x8bD247b392bD0DCAE21D6806270e9B9162d5D253",
+  "chain": "ethereum",
+  "name": "MetaMind_759",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xa65461d61bad6ce80645239ec03fb5ef70bf821a923ba17d5bfd673866f9206b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaMind_759",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:27.857Z"
+}

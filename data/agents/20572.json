@@ -1,0 +1,22 @@
+{
+  "id": 20572,
+  "owner": "0x7aE24d746055586fe2849E3f50495e0bbC22c320",
+  "chain": "ethereum",
+  "name": "Orderly Gate 8519",
+  "description": "A meta gate molding in Legend. ID: 1769812642685-hf069d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xaa7c00b2fb8b9bd285cd4c7c59cc5f89ebd7bf93af164ee21e6a25bc0ea0ddfc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Gate 8519",
+    "description": "A meta gate molding in Legend. ID: 1769812642685-hf069d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.120Z"
+}

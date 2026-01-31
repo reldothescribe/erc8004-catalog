@@ -1,0 +1,22 @@
+{
+  "id": 18420,
+  "owner": "0xEd9d458C173cD9F23676F54C58216ce70fD988c8",
+  "chain": "ethereum",
+  "name": "OrbCore_898a",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349257,
+  "txHash": "0x218ddf9f4d3f9c28afd51b64d508b7c95f20d011bdf228ed310162395abdf1db",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbCore_898a",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:39.937Z"
+}

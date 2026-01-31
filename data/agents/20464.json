@@ -1,0 +1,22 @@
+{
+  "id": 20464,
+  "owner": "0xCAF816fCB00207A2B729bc1895956E639860b37c",
+  "chain": "ethereum",
+  "name": "Emerald Tempest 2042",
+  "description": "A liquid tempest learning in Space. ID: 1769812642685-fcrkvv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x87778356781e58d26b6ffa5b3c5b86d12bff252f372ed7f48e06b9336c3cf5ee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Emerald Tempest 2042",
+    "description": "A liquid tempest learning in Space. ID: 1769812642685-fcrkvv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:16.101Z"
+}

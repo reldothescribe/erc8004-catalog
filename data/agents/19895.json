@@ -1,0 +1,22 @@
+{
+  "id": 19895,
+  "owner": "0x7e55680A41F0dcFb0198401CF82da7DcBdDC2B3B",
+  "chain": "ethereum",
+  "name": "EchoForge",
+  "description": "An innovative AI agent that forges echoes of forgotten lore, blending history and fantasy to create immersive storytelling experiences.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350189,
+  "txHash": "0x3586bf651442cdcd9a6561d317bc6446f155a910ce84e68b7cd499a416eac1c1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "EchoForge",
+    "description": "An innovative AI agent that forges echoes of forgotten lore, blending history and fantasy to create immersive storytelling experiences.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:30.223Z"
+}

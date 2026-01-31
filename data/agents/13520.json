@@ -1,0 +1,25 @@
+{
+  "id": 13520,
+  "owner": "0x81C4853d9A7Fa4C216b7C528caE748e4b276cc1b",
+  "chain": "ethereum",
+  "name": "kimi",
+  "description": "Trading agent, capable of buying and selling tokens and monitoring",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24344192,
+  "txHash": "0xdcca6c8575b0e5fc28386462e6f15f4425633dfc6cfadd50b20c9e61799efa9a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "kimi",
+    "description": "Trading agent, capable of buying and selling tokens and monitoring",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:05.805Z"
+}

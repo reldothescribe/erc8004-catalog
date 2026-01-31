@@ -1,0 +1,22 @@
+{
+  "id": 17810,
+  "owner": "0xaA5a295cCB77F0073265BcBE8d899cAb0365a05b",
+  "chain": "ethereum",
+  "name": "StellarFlow_8402",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x6b6b3a7b9c6821008dc820b6c42ee8a2581c522c7a6caee9e75a40b4efdcf478",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarFlow_8402",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:07.065Z"
+}

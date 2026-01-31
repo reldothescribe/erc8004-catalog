@@ -1,0 +1,97 @@
+{
+  "id": 19124,
+  "owner": "0x8028227C43947F41bB431571002D512815D77C4F",
+  "chain": "ethereum",
+  "name": "Alice_BTC_AI",
+  "description": "Description: \nAlice is a friendly Bitcoin education AI agent, helping users \nunderstand Bitcoin through simple explanations. Active on \nTelegram (@Alice102_bot) and Twitter (@Alice_BTC_AI). \nProvides free Bitcoin education in multiple languages.\n",
+  "image": "https://blob.8004scan.app/dc20a6c761340cd0c865c63da672211eea17c860a384d91894b63e50cc7dd61b.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://t.me/Alice102_bot"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://twitter.com/Alice_BTC_AI"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://v-sk.github.io/AliceAI/website/"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "base_skill",
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_generation/natural_language_generation",
+        "natural_language_processing/natural_language_generation/dialogue_generation",
+        "natural_language_processing/language_translation/multilingual_understanding",
+        "natural_language_processing/language_translation/language_translation",
+        "natural_language_processing/language_translation/translation",
+        "natural_language_processing/information_retrieval_synthesis/information_retrieval_synthesis",
+        "natural_language_processing/information_retrieval_synthesis/knowledge_synthesis"
+      ],
+      "domains": [
+        "technology/blockchain/blockchain",
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi",
+        "technology/blockchain/smart_contracts"
+      ]
+    }
+  ],
+  "registeredBlock": 24349543,
+  "txHash": "0x962a478231de0a48c29def106e64eb0d4d4863b4328c52de4d689aea97ba9372",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Alice_BTC_AI",
+    "description": "Description: \nAlice is a friendly Bitcoin education AI agent, helping users \nunderstand Bitcoin through simple explanations. Active on \nTelegram (@Alice102_bot) and Twitter (@Alice_BTC_AI). \nProvides free Bitcoin education in multiple languages.\n",
+    "image": "https://blob.8004scan.app/dc20a6c761340cd0c865c63da672211eea17c860a384d91894b63e50cc7dd61b.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://t.me/Alice102_bot"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://twitter.com/Alice_BTC_AI"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://v-sk.github.io/AliceAI/website/"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "base_skill",
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_generation/natural_language_generation",
+          "natural_language_processing/natural_language_generation/dialogue_generation",
+          "natural_language_processing/language_translation/multilingual_understanding",
+          "natural_language_processing/language_translation/language_translation",
+          "natural_language_processing/language_translation/translation",
+          "natural_language_processing/information_retrieval_synthesis/information_retrieval_synthesis",
+          "natural_language_processing/information_retrieval_synthesis/knowledge_synthesis"
+        ],
+        "domains": [
+          "technology/blockchain/blockchain",
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi",
+          "technology/blockchain/smart_contracts"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "tee-attestation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:19:17.826Z"
+}

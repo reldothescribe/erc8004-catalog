@@ -1,0 +1,22 @@
+{
+  "id": 18241,
+  "owner": "0xb8827C47D5E07acAb36861C831fC6EA8C6A82926",
+  "chain": "ethereum",
+  "name": "OrbCore_fe86",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349246,
+  "txHash": "0xc6ee271238db1bac2261a8907bfd7e46b14c03ff5f75d47ee9571e906ac178f6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbCore_fe86",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:30.822Z"
+}

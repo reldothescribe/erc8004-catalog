@@ -1,0 +1,22 @@
+{
+  "id": 17362,
+  "owner": "0x0121f6819246774bb26149f7D4F83B41E6aBb011",
+  "chain": "ethereum",
+  "name": "StellarMind_419",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0xb4000a9e4296d91c7d7391f7dee98ee87b521493c89d4bfef99e2c6b80722f55",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarMind_419",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:43.923Z"
+}

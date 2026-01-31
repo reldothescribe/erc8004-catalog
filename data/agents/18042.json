@@ -1,0 +1,22 @@
+{
+  "id": 18042,
+  "owner": "0x3cB61D06d1b9A6734746B54e91EFE467A5960668",
+  "chain": "ethereum",
+  "name": "UltraNode_8926",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x996ea93bf43eb9bbb69b644cb63ff4593621e92fd96481c152af3c769c88528b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNode_8926",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.944Z"
+}

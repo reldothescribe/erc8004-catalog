@@ -1,0 +1,22 @@
+{
+  "id": 14844,
+  "owner": "0x403D94405c18d9cDBC59f13f6E5D4e98aD046754",
+  "chain": "ethereum",
+  "name": "8896",
+  "description": "8896 is all in one agent. And it's always on the updating.\n",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24347622,
+  "txHash": "0x93c2dc6a070addc66ead38be1259d70e18e24fa512a70d8611ae01e4ea494f89",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "8896",
+    "description": "8896 is all in one agent. And it's always on the updating.\n",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:15:20.865Z"
+}

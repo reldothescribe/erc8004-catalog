@@ -1,0 +1,22 @@
+{
+  "id": 18253,
+  "owner": "0x187F76A7B22CF1031FC5429f2D804A31e3805D3f",
+  "chain": "ethereum",
+  "name": "SolNode_f15a",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349246,
+  "txHash": "0x71c4925f1130ae70251a4e340f89233cbbdc30e53ac75b4ca8dc48b8e74eef63",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolNode_f15a",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:31.847Z"
+}

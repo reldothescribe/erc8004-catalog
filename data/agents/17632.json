@@ -1,0 +1,22 @@
+{
+  "id": 17632,
+  "owner": "0x305CFAb12fCca5b5b154EB8600573CAA2D281F6A",
+  "chain": "ethereum",
+  "name": "StellarNode_7919",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x84219ab2839410aaa2871c1582333aca645f026a87eae9cd05a3fe7cd2f1a09e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNode_7919",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:57.544Z"
+}

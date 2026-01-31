@@ -1,0 +1,22 @@
+{
+  "id": 16283,
+  "owner": "0xC8E973E4E0dea85C26C908bf4811f39Dffb541c4",
+  "chain": "ethereum",
+  "name": "Agent #16283",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348941,
+  "txHash": "0xffeae2b65b6d2ce25695d8fcb54f437922b5b3e290a849e79c2a53aa71014d96",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "",
+    "description": "",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:46.066Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18333,
+  "owner": "0xa22F34189F6d83b7D7972Be22772b6684ED67Cc0",
+  "chain": "ethereum",
+  "name": "SynVault_220b",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349250,
+  "txHash": "0xe3cfc2c45c7102da947c43ffd6657e5a73ce95bed803cbd96b2102ae3906a4e3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynVault_220b",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:35.801Z"
+}

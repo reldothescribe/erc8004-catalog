@@ -1,0 +1,22 @@
+{
+  "id": 20807,
+  "owner": "0x18a25c72F9e4859234C3D3434e2180b63E52b2a0",
+  "chain": "ethereum",
+  "name": "Ether Crimson Storm",
+  "description": "A crimson storm working in the Grid. ID: 1769812741152-p04lyd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x92903072dcce8f2c8a8d9342aee402812d4032ea820d3c6f407c80b01c852b09",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Crimson Storm",
+    "description": "A crimson storm working in the Grid. ID: 1769812741152-p04lyd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.734Z"
+}

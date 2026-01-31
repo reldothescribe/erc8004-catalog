@@ -1,0 +1,22 @@
+{
+  "id": 18115,
+  "owner": "0x4BA58DB7E7C915b2E4B9A76EF5d21b720e7D5Ebe",
+  "chain": "ethereum",
+  "name": "UltraFlow_2721",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0xc89f7f3bc3c1b67ddd591bd8fe06491ef26f99721ce99a9b89299a5d9daced47",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraFlow_2721",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:23.551Z"
+}

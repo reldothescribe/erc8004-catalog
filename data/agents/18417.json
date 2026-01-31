@@ -1,0 +1,22 @@
+{
+  "id": 18417,
+  "owner": "0x7a7548BE4Efa63a1Cc3359558171828C70ED8822",
+  "chain": "ethereum",
+  "name": "SynVault_fe99",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349257,
+  "txHash": "0xb6aecd5405a09fa91ba1bafa38610a6551235c66010182b93960a623b19eb343",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynVault_fe99",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:39.937Z"
+}

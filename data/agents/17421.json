@@ -1,0 +1,22 @@
+{
+  "id": 17421,
+  "owner": "0x8EeDeebC5a4fAB8f22fBdfADC4e128be0C326645",
+  "chain": "ethereum",
+  "name": "StellarLink_2190",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x321efab9e84b7877c45c5b0747d46ab5c6da7bc2124d96548a50b2453b3aeb60",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarLink_2190",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:46.996Z"
+}

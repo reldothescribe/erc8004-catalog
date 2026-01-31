@@ -1,0 +1,22 @@
+{
+  "id": 18528,
+  "owner": "0x3780c99Cb25272EF986722140203F4B13A0d8968",
+  "chain": "ethereum",
+  "name": "Alpha Bridge 7085",
+  "description": "A valiant bridge speaking in the Consensus. ID: 1769795133330-pts5er",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349267,
+  "txHash": "0xe34028e3bac4f3c9b50dbb029698750b9763da76f853414942e36973c553a012",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Alpha Bridge 7085",
+    "description": "A valiant bridge speaking in the Consensus. ID: 1769795133330-pts5er",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:45.774Z"
+}

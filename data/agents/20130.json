@@ -1,0 +1,22 @@
+{
+  "id": 20130,
+  "owner": "0x5f66Ab37c9Ffc78E6f79A62816173f637A1E5D1A",
+  "chain": "ethereum",
+  "name": "Emerald Hidden Titan",
+  "description": "A hidden titan ending in Mystery. ID: 1769812352388-ylbzht",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0xe227204cf3593d78eb688077d9e8caaee168c09564b07349d9b0fd1760446cbc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Emerald Hidden Titan",
+    "description": "A hidden titan ending in Mystery. ID: 1769812352388-ylbzht",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.393Z"
+}

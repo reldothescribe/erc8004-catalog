@@ -1,0 +1,22 @@
+{
+  "id": 19787,
+  "owner": "0xe51eDE7595E9c125789286Ff6A40Bd19F25E1fA1",
+  "chain": "ethereum",
+  "name": "Ethereal Stellar Dolphin",
+  "description": "A stellar dolphin climbing in Paris. ID: 1769802604426-w2smsa",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349883,
+  "txHash": "0x8546643cce3f8d0a68b7706bd59844ad0f7482ed40bb7eac2ce2b900d0674a04",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Stellar Dolphin",
+    "description": "A stellar dolphin climbing in Paris. ID: 1769802604426-w2smsa",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.157Z"
+}

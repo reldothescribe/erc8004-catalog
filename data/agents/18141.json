@@ -1,0 +1,22 @@
+{
+  "id": 18141,
+  "owner": "0x5F023B7EFd4CFcB57a9E555527F3a62D63826F0A",
+  "chain": "ethereum",
+  "name": "StellarCore_7440",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0xa758a6399b1596dd312cc0581f4dd1c40457b79f2cdd89718a746ee599c7a69b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarCore_7440",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:24.656Z"
+}

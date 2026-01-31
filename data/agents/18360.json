@@ -1,0 +1,22 @@
+{
+  "id": 18360,
+  "owner": "0xa4DC0c8D070cF4d8878557aF23E70e363f6a685E",
+  "chain": "ethereum",
+  "name": "Autonomous Traveler 1120",
+  "description": "A meta traveler working in the DAO. ID: 1769794983287-rhdqwt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349253,
+  "txHash": "0x7dc9d25fcb62f9b87a46040cdf98a732452b9ec7e7e9ab680789ad06ccbb63b4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Traveler 1120",
+    "description": "A meta traveler working in the DAO. ID: 1769794983287-rhdqwt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:36.863Z"
+}

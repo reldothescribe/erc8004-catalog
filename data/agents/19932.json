@@ -1,0 +1,22 @@
+{
+  "id": 19932,
+  "owner": "0x44A31F5857b17Ec143e368fC2E8b5C9165Adcb3D",
+  "chain": "ethereum",
+  "name": "Void Lock 5129",
+  "description": "A ruby lock selling in Technology. ID: 1769806622283-zrj5xn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350216,
+  "txHash": "0xff92716076e3379583bcbfcdeff2d5d98fca39b9daddfe55950c183a0f894031",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Void Lock 5129",
+    "description": "A ruby lock selling in Technology. ID: 1769806622283-zrj5xn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:36.534Z"
+}

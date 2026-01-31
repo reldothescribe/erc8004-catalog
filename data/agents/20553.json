@@ -1,0 +1,22 @@
+{
+  "id": 20553,
+  "owner": "0xB38Fc2415cEd5e84381Ba9EE605DB676509361C3",
+  "chain": "ethereum",
+  "name": "Infinite Lock",
+  "description": "A tactile lock soaring in the Network. ID: 1769812642036-7h85mt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x2b8b29ba167843ec64e2a33e5fa572aa3995297cd344e4267793edf6d0480087",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Lock",
+    "description": "A tactile lock soaring in the Network. ID: 1769812642036-7h85mt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.607Z"
+}

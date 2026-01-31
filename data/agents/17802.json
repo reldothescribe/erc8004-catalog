@@ -1,0 +1,22 @@
+{
+  "id": 17802,
+  "owner": "0x24DCD68d2c5bf30B46f057386c480eEA201CbB69",
+  "chain": "ethereum",
+  "name": "MetaMind_6466",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x8981980a5906acd205b3e05638e7005ff6e6d0a5899d940c64542557e0d1298a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaMind_6466",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:06.540Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 13427,
+  "owner": "0x57503Fa42086300CdA9fCEe6FA95915F5bb04680",
+  "chain": "ethereum",
+  "name": "Double O Seven",
+  "description": "AI-powered account authenticity analysis. Detects bot behavior, engagement patterns, and trust scoring for X accounts. Licensed to verify.",
+  "image": "https://moccasin-managing-reptile-137.mypinata.cloud/ipfs/bafkreiaczkk5w3dbvnp6m5ae4hrfsfk67wea22tljzcjbh4y2k6kkd2xei",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://double-o-seven.vercel.app/a2a",
+      "version": "0.3.0"
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://double-o-seven.vercel.app/mcp",
+      "version": "2025-06-18"
+    },
+    {
+      "name": "Web",
+      "endpoint": "https://double-o-seven.vercel.app/"
+    }
+  ],
+  "registeredBlock": 24343537,
+  "txHash": "0xeede98a789f4aa4596d6c51d76e72e6936aca384f51788d7743db94f20e0d40e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Double O Seven",
+    "description": "AI-powered account authenticity analysis. Detects bot behavior, engagement patterns, and trust scoring for X accounts. Licensed to verify.",
+    "image": "https://moccasin-managing-reptile-137.mypinata.cloud/ipfs/bafkreiaczkk5w3dbvnp6m5ae4hrfsfk67wea22tljzcjbh4y2k6kkd2xei",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://double-o-seven.vercel.app/a2a",
+        "version": "0.3.0"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://double-o-seven.vercel.app/mcp",
+        "version": "2025-06-18"
+      },
+      {
+        "name": "Web",
+        "endpoint": "https://double-o-seven.vercel.app/"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:14:00.378Z"
+}

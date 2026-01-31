@@ -1,0 +1,22 @@
+{
+  "id": 20862,
+  "owner": "0x1f60e7eDf3F4a275C3588A1BbdCB1d8Aa6398c1b",
+  "chain": "ethereum",
+  "name": "Sonic Ivory Star",
+  "description": "A ivory star seeking in Time. ID: 1769812742703-3tem1v",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xf2d7bbe0c81047413c72620a4a0c6487e6256f2492297f45e85128c70dc845ad",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Ivory Star",
+    "description": "A ivory star seeking in Time. ID: 1769812742703-3tem1v",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.292Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16350,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_aec0",
+  "description": "On-chain AI assistant orchestrating trustless operations with transparent governance.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349055,
+  "txHash": "0x2e3f303e640f193afc8a94dba6268b192ad69662049bcdff077eca36f0fde563",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_aec0",
+    "description": "On-chain AI assistant orchestrating trustless operations with transparent governance.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:49.137Z"
+}

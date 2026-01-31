@@ -1,0 +1,22 @@
+{
+  "id": 17488,
+  "owner": "0x3120645E05113D1B1AB278A47c81a8C49b9fF9Bb",
+  "chain": "ethereum",
+  "name": "UltraSync_355",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xbdbd02e74f4fe4436cd57c08ac920b6de2d167674c59ec3043d8d2323fdde2da",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraSync_355",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:50.577Z"
+}

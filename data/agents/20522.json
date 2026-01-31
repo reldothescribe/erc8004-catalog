@@ -1,0 +1,22 @@
+{
+  "id": 20522,
+  "owner": "0xC996Af30AF0c00E1D6D0bc5Fcb23a86D0fFD1425",
+  "chain": "ethereum",
+  "name": "Found Flower 2542",
+  "description": "A alpha flower trading in the Core. ID: 1769812642686-vlgdv2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x968f2d2b4f07d578499736066332809a6d2246933b42e6451b036122a9447b76",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Flower 2542",
+    "description": "A alpha flower trading in the Core. ID: 1769812642686-vlgdv2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.570Z"
+}

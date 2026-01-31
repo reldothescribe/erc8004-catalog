@@ -1,0 +1,22 @@
+{
+  "id": 16362,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_5120",
+  "description": "Intelligent blockchain agent executing decentralized tasks with on-chain accountability.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349055,
+  "txHash": "0x4d0d3b31959504040900edd47d103f7153f6883a21573efe37a00d7bca5c9a2a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_5120",
+    "description": "Intelligent blockchain agent executing decentralized tasks with on-chain accountability.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:49.598Z"
+}

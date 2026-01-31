@@ -1,0 +1,22 @@
+{
+  "id": 17691,
+  "owner": "0x7Dc5e88d31B9DeA99FA5A141ea4290087feB61f0",
+  "chain": "ethereum",
+  "name": "AxiNet_8826",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x36ac7c6ca86e98d1fbf802b8aa338d7d6d7d8f01d2b84abd37ec096b8959cdc0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiNet_8826",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:00.613Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16926,
+  "owner": "0xCB3783AC81B70f96272159aaE802813F73Dad074",
+  "chain": "ethereum",
+  "name": "Agent_2214",
+  "description": "Next-gen AI operator handling cross-chain operations with on-chain accountability.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349123,
+  "txHash": "0xfcbd186041497b5be581c9273f6c9546442679a74bda55e616d503d6b80b001f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_2214",
+    "description": "Next-gen AI operator handling cross-chain operations with on-chain accountability.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:20.473Z"
+}

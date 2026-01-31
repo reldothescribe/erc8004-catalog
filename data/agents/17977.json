@@ -1,0 +1,22 @@
+{
+  "id": 17977,
+  "owner": "0x47Ca28c6B0D9f5d9949B0cC352b4bdeCdACFdDa3",
+  "chain": "ethereum",
+  "name": "StellarCore_1982",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x80e9680990c87274b0a4c95703b82ab94fa4bfb151282157da5ed0a4060000af",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarCore_1982",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:15.872Z"
+}

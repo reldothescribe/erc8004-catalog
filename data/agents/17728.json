@@ -1,0 +1,22 @@
+{
+  "id": 17728,
+  "owner": "0xa90923210bCCbe17CC6B7D071c5EF8fBe71c5B78",
+  "chain": "ethereum",
+  "name": "UltraSync_7296",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349202,
+  "txHash": "0x3634cdd38fbc650e544c9311a69b5405a86daa06badfe2c5cd8d9fd1085edf89",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraSync_7296",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.665Z"
+}

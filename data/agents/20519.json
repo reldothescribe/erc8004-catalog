@@ -1,0 +1,22 @@
+{
+  "id": 20519,
+  "owner": "0xa485F12123EdBaCEFae4E74D6F3ffdd37ddF34D1",
+  "chain": "ethereum",
+  "name": "Serene Lock",
+  "description": "A cyber lock flying in Legend. ID: 1769812647997-ossma2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x378bee65c4f235ff56d1bc78d93e4796ef37b525c21447899586025350eca558",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Serene Lock",
+    "description": "A cyber lock flying in Legend. ID: 1769812647997-ossma2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.560Z"
+}

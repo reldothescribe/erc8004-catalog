@@ -1,0 +1,22 @@
+{
+  "id": 17998,
+  "owner": "0x47c95aBAC0505B4dC805aAFb1cb1741757DaA133",
+  "chain": "ethereum",
+  "name": "NeoMind_3736",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x31354b6f4ee3d3c5a8ab02c107e91adb65eea776276681a05f82599c07154620",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoMind_3736",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:16.897Z"
+}

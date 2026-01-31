@@ -1,0 +1,22 @@
+{
+  "id": 17400,
+  "owner": "0x5615632EB5c56f5dd50E86D71B31BdDf9a82C6cB",
+  "chain": "ethereum",
+  "name": "NeoMind_4777",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x942202ce8be07e4f39f6f12842878f18d8a553f834337a44018620b3e1f68ea8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoMind_4777",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:45.972Z"
+}

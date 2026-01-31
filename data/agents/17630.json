@@ -1,0 +1,22 @@
+{
+  "id": 17630,
+  "owner": "0xFACEDbCf2D8c7AE560CacC428AFD7Ec84598A06e",
+  "chain": "ethereum",
+  "name": "UltraNode_5058",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x2303dcf62da2c2336daf63c1ca7d939a558f7895d65c2bd3aad652524c2ccb63",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNode_5058",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:57.543Z"
+}

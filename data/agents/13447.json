@@ -1,0 +1,35 @@
+{
+  "id": 13447,
+  "owner": "0xFaf6bb8F1a300130fB9dc582DC8363a50841882D",
+  "chain": "ethereum",
+  "name": "Bob",
+  "description": "Launch your AI Agent that is instantly tradeable in one click ",
+  "image": "https://blob.8004scan.app/aa060121d9a2796fcb7e14966ebba81f24121b26ea1d5ac4a5fa902a5728f35b.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://aiagentlayer.com/"
+    }
+  ],
+  "registeredBlock": 24344146,
+  "txHash": "0x964e8c3728e5483c4101905b2d4126b5dd795060dc9f151da0a0f6e3f47834f1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Bob",
+    "description": "Launch your AI Agent that is instantly tradeable in one click ",
+    "image": "https://blob.8004scan.app/aa060121d9a2796fcb7e14966ebba81f24121b26ea1d5ac4a5fa902a5728f35b.jpg",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://aiagentlayer.com/"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:02.014Z"
+}

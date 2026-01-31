@@ -1,0 +1,22 @@
+{
+  "id": 17958,
+  "owner": "0x8dbF6FefEa2E38f11905e2632267347a17018943",
+  "chain": "ethereum",
+  "name": "HyperAgent_4893",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x7409e69e93bcbcd528afb17c52dd9e6ab9a12ba0e6ab2e4890c5792ccbc2bb50",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperAgent_4893",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:14.745Z"
+}

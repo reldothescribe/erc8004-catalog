@@ -1,0 +1,22 @@
+{
+  "id": 20491,
+  "owner": "0xc2604c18f52341967f7b387214b166C48e518eE9",
+  "chain": "ethereum",
+  "name": "Found Hydra 2092",
+  "description": "A static hydra building in the Boundary. ID: 1769812642036-ekbcro",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x2689af20538912444ecedb8c6f6897e31b201da373ba039d87d8045d129b4c5a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Hydra 2092",
+    "description": "A static hydra building in the Boundary. ID: 1769812642036-ekbcro",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.124Z"
+}

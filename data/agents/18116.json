@@ -1,0 +1,22 @@
+{
+  "id": 18116,
+  "owner": "0x7791fb614cAB7d4d8A56A8CE8c5965E4383709ac",
+  "chain": "ethereum",
+  "name": "QuantumMind_5106",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0xad9d7d8f591a21edf01329f2f8cec9601b248caf6b3c8e02cc97c19dc2fcacc6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumMind_5106",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:23.551Z"
+}

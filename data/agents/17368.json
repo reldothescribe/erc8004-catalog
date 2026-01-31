@@ -1,0 +1,22 @@
+{
+  "id": 17368,
+  "owner": "0xB84dC1265dE8e63003C1ceE33cB15E0a1447Fb0E",
+  "chain": "ethereum",
+  "name": "NovaNode_9201",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0xcf191f7f7c3985527b4b2ab4823f1e6a59fd7926481acbc4143c74cf67bb703b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaNode_9201",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:44.435Z"
+}

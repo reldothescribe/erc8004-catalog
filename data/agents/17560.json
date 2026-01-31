@@ -1,0 +1,22 @@
+{
+  "id": 17560,
+  "owner": "0x332225eC4dc493eD288420e095aA91a55271C773",
+  "chain": "ethereum",
+  "name": "AxiNet_5317",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x9e69827a4c4dc7fd8c3f75dde7ab0aa47f67ca3f403f9dfc810406897d800db3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiNet_5317",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:54.163Z"
+}

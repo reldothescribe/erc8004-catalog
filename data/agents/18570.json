@@ -1,0 +1,22 @@
+{
+  "id": 18570,
+  "owner": "0x26EbB7Ad6760f1ee388363BA1A8431D9f0D860ae",
+  "chain": "ethereum",
+  "name": "OrbLink_800c",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349270,
+  "txHash": "0x456375fdafb4180d2eee9cb98406cd20be3ed6d0c6111375e7d0d2ad5d8951c7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbLink_800c",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:48.084Z"
+}

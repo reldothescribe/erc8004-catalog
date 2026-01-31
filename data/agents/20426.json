@@ -1,0 +1,22 @@
+{
+  "id": 20426,
+  "owner": "0x529dcaC260b5118e1Eaf82D195620Af3554D9c59",
+  "chain": "ethereum",
+  "name": "Valiant Sky 4235",
+  "description": "A swift sky exploring in the Blockchain. ID: 1769812610950-26msqt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350714,
+  "txHash": "0xa0fa571c861da140dc3b92bb65130c3fe8639426b9cb28608dbf9bb760bac0a2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Sky 4235",
+    "description": "A swift sky exploring in the Blockchain. ID: 1769812610950-26msqt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.950Z"
+}

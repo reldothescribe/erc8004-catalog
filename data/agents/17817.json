@@ -1,0 +1,22 @@
+{
+  "id": 17817,
+  "owner": "0xfCAf5de3C05D6419AB9A315ACdaCd2943469842D",
+  "chain": "ethereum",
+  "name": "CyberHub_2316",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x52c0651e4bdf1e6d12abd30f9ee8d6bce62a7dfd55f2d06bfca26af02d22edd8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberHub_2316",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:07.577Z"
+}

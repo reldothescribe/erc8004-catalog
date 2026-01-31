@@ -1,0 +1,22 @@
+{
+  "id": 16261,
+  "owner": "0x3f19e0A8db4405Ca32eE01ef526262B0318dB43F",
+  "chain": "ethereum",
+  "name": "A3",
+  "description": "111111111111111111111111111111111111111111111111111111111111111111",
+  "image": "111111",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348934,
+  "txHash": "0x4930b58532a14efc477d397edf09b949842b014b7108823f43281c3010d880c0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "A3",
+    "description": "111111111111111111111111111111111111111111111111111111111111111111",
+    "image": "111111",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:44.589Z"
+}

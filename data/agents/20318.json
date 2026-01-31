@@ -1,0 +1,22 @@
+{
+  "id": 20318,
+  "owner": "0xEd37DFdf716F83871D6cC03120aD9439E70Cfc4b",
+  "chain": "ethereum",
+  "name": "Shadow Road",
+  "description": "A light road dancing in Technology. ID: 1769812492823-xkzckq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0x0a6bf2a506ce31369fcfa94885fd7d5dfae1002a3b73d594bfdd93d0c948f232",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Road",
+    "description": "A light road dancing in Technology. ID: 1769812492823-xkzckq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.215Z"
+}

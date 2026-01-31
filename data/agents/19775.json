@@ -1,0 +1,22 @@
+{
+  "id": 19775,
+  "owner": "0x522561ADb925F9C79fE07b980175eF2E0cEf64aE",
+  "chain": "ethereum",
+  "name": "Celestial Rogue 5643",
+  "description": "A galactic rogue guarding in the DAO. ID: 1769802557353-a4vm1v",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349879,
+  "txHash": "0x64f7dc5309abe3722469a63aae1d887804610c53bd816ba416ad326f045eebb4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Celestial Rogue 5643",
+    "description": "A galactic rogue guarding in the DAO. ID: 1769802557353-a4vm1v",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.645Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20273,
+  "owner": "0xEFA8f080dcE7b3917ad7F3A409B52d944047BF1f",
+  "chain": "ethereum",
+  "name": "Neural Atomic Planet",
+  "description": "A atomic planet swimming in the Center. ID: 1769812468812-xqnxso",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0x7bf4462dca239b50992934c472df3072f4f4d5d077e45f3de057771dbcbba303",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neural Atomic Planet",
+    "description": "A atomic planet swimming in the Center. ID: 1769812468812-xqnxso",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.168Z"
+}

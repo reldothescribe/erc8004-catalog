@@ -1,0 +1,22 @@
+{
+  "id": 17450,
+  "owner": "0xbE926154c233ca5f3822915AEB9fea4214435Ec7",
+  "chain": "ethereum",
+  "name": "StellarBot_8656",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x7ce6bd04e0999e1d101d93b8f66fcdda3f3cadae28d417c5bb03d4061d49d4d6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarBot_8656",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:48.531Z"
+}

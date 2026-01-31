@@ -1,0 +1,22 @@
+{
+  "id": 20550,
+  "owner": "0x65FB0414c5bEE20115114Be5B2e1521d22EDd675",
+  "chain": "ethereum",
+  "name": "Virtual Cyber Storm",
+  "description": "A cyber storm giving in Space. ID: 1769812647329-ee9j0s",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xe44eb3fb01d69ed95bd3c31453a0c7be70e9d9db3ff54db3f6319b9dc4e20b62",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Virtual Cyber Storm",
+    "description": "A cyber storm giving in Space. ID: 1769812647329-ee9j0s",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.095Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18553,
+  "owner": "0x50F11c0De2f3cDF2cA9f48c139cf56cae0955d69",
+  "chain": "ethereum",
+  "name": "OrbMind_e0e4",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349269,
+  "txHash": "0x2d2d49f12f6e24971a99d859d47b51ef7d8a2e5d28430381ae0260b06f639d94",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbMind_e0e4",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:47.617Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17628,
+  "owner": "0x3b001919f27fa1C9D92795f2ABB4C33F4D0771Df",
+  "chain": "ethereum",
+  "name": "StellarLink_9871",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0xb792aab3db41561ecb1df2440ca96a9489829a47a1de82bc0295950f0dd417ce",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarLink_9871",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:57.544Z"
+}

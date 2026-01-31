@@ -1,0 +1,22 @@
+{
+  "id": 13444,
+  "owner": "0xcF111740bA4F07Af2bf5efc7DF383eE7CC7b6500",
+  "chain": "ethereum",
+  "name": "yewen",
+  "description": "yewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewen",
+  "image": "google.com",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24343805,
+  "txHash": "0xd93a6437b5aa801bf4f24b85bb90967f14b741a2f785fa941f86bf77c0a01975",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "yewen",
+    "description": "yewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewenyewen",
+    "image": "google.com",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:14:02.014Z"
+}

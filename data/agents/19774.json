@@ -1,0 +1,22 @@
+{
+  "id": 19774,
+  "owner": "0xC832657277a616286B231AD764f4D8370a797A00",
+  "chain": "ethereum",
+  "name": "Noble Forge",
+  "description": "A astral forge dreaming in the Center. ID: 1769802557353-u4g5uc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349879,
+  "txHash": "0x800380750fac4f329fa41c83a6c57e544fc96e549b1696dac1725ae91881f5d2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Noble Forge",
+    "description": "A astral forge dreaming in the Center. ID: 1769802557353-u4g5uc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.644Z"
+}

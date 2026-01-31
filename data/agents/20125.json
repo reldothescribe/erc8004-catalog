@@ -1,0 +1,22 @@
+{
+  "id": 20125,
+  "owner": "0x57E3696FBC41E612fadac8AF7a2139b1e7CbEE67",
+  "chain": "ethereum",
+  "name": "Burning Ruby Warrior",
+  "description": "A ruby warrior trading in the Void. ID: 1769812352387-89ig37",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0xc54bdfd32a153241d325a6c1a6d207469f880a93fc3398b3145e12a3b8ccc5ed",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Ruby Warrior",
+    "description": "A ruby warrior trading in the Void. ID: 1769812352387-89ig37",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.393Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16372,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_dee3",
+  "description": "Trustless AI executor coordinating decentralized tasks with transparent governance.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0x85c1757014b1f87d941533fd017b39ec308a06722fb60985cced18f416aae5d4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_dee3",
+    "description": "Trustless AI executor coordinating decentralized tasks with transparent governance.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:50.067Z"
+}

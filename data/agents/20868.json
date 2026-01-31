@@ -1,0 +1,22 @@
+{
+  "id": 20868,
+  "owner": "0xC888fBB670E61131069B0A372792487787a9b8c0",
+  "chain": "ethereum",
+  "name": "Meta Throne",
+  "description": "A solar throne ending in Mars. ID: 1769812740544-giozbk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x7348a9ea895ce4f6a3118bc353ac78b6135f200ae40b98706088e64544fcc778",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Throne",
+    "description": "A solar throne ending in Mars. ID: 1769812740544-giozbk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.805Z"
+}

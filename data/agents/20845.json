@@ -1,0 +1,22 @@
+{
+  "id": 20845,
+  "owner": "0xE28D7Db180a8AB302b77789eAeD07303fbc34D54",
+  "chain": "ethereum",
+  "name": "Radiant Planet",
+  "description": "A sentient planet losing in the Past. ID: 1769812742702-v4i4d0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x0ae65166fa038d266ae8f7be8062b52a18560c45f854037889c0efbcd0ca43c6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Planet",
+    "description": "A sentient planet losing in the Past. ID: 1769812742702-v4i4d0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.782Z"
+}

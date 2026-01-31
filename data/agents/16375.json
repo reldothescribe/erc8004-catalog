@@ -1,0 +1,22 @@
+{
+  "id": 16375,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_ce9d",
+  "description": "Smart autonomous agent executing autonomous transactions with immutable audit trails.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0x668cdfe4e390cfcd1fe83f1130521d62629a29297de96da9e9c7be1c7a15ffee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_ce9d",
+    "description": "Smart autonomous agent executing autonomous transactions with immutable audit trails.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:50.571Z"
+}

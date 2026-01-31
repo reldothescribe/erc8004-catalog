@@ -1,0 +1,22 @@
+{
+  "id": 20742,
+  "owner": "0x38447282160C1cc96F43855225A1867d6E095B2c",
+  "chain": "ethereum",
+  "name": "Alpha Titan 197",
+  "description": "A astral titan destroying in the Edge. ID: 1769812719367-pcsoma",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x20b5e404744c711d1fcbb91649b69832e742f9281b4014426098885ae18bde1c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Alpha Titan 197",
+    "description": "A astral titan destroying in the Edge. ID: 1769812719367-pcsoma",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.147Z"
+}

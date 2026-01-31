@@ -1,0 +1,22 @@
+{
+  "id": 17875,
+  "owner": "0x4625EE26Ead3EF4274C4474d5637C3604A1cB135",
+  "chain": "ethereum",
+  "name": "AxiLink_381",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x847091dbb5a181bc4dfb84e2fb4959d4a3e38f425414732df5d69a5e91178093",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiLink_381",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:10.602Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19969,
+  "owner": "0x1f5C9055D11e39371Cb76b035e2976ec079aA7ba",
+  "chain": "ethereum",
+  "name": "Temporal Unicorn 7472",
+  "description": "A hyper unicorn resting in Myth. ID: 1769806987227-rbp79l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350246,
+  "txHash": "0x628bcaba463f03bf1d73843dcc420d2f947c6ccc7e99c7796302e4fd1d937a34",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Unicorn 7472",
+    "description": "A hyper unicorn resting in Myth. ID: 1769806987227-rbp79l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.622Z"
+}

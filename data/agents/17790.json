@@ -1,0 +1,22 @@
+{
+  "id": 17790,
+  "owner": "0xB06822a327fCB3001B2737a832c0fcf10231cbe7",
+  "chain": "ethereum",
+  "name": "QuantumNet_3247",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0xb7efffcf9a6de0ebf21fc111383513d2c28f45f2245350d7d9dbe19296af915c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumNet_3247",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:06.040Z"
+}

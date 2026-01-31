@@ -1,0 +1,22 @@
+{
+  "id": 17885,
+  "owner": "0x08fA86E406e58b435266a8188De23A9fBF062288",
+  "chain": "ethereum",
+  "name": "CyberFlow_8018",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x5e471e8bfac193a576d5c9a14df0e932f75837040c65e4af6a5672e91df0de65",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberFlow_8018",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:11.160Z"
+}

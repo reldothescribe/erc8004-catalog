@@ -1,0 +1,22 @@
+{
+  "id": 17888,
+  "owner": "0x18e1636d9CA5457b0947a743f0a867A2da8dF016",
+  "chain": "ethereum",
+  "name": "CyberHub_7992",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x5453d776a57b94903894d37a6984495a310b9577f358b1da16a40409acc0f20c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberHub_7992",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:11.160Z"
+}

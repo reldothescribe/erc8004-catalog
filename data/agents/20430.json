@@ -1,0 +1,22 @@
+{
+  "id": 20430,
+  "owner": "0x53864e9aC4bD69328D545128C54AAE23D11Ce2E8",
+  "chain": "ethereum",
+  "name": "Iron Vector 4104",
+  "description": "A silent vector climbing in the Core. ID: 1769812610950-she4js",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350714,
+  "txHash": "0x5e6761dd369091b6c7bdc5ceeb7f7dfe7ef1742d1fd261168e9c29796dc3a5ea",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Vector 4104",
+    "description": "A silent vector climbing in the Core. ID: 1769812610950-she4js",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.950Z"
+}

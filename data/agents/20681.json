@@ -1,0 +1,22 @@
+{
+  "id": 20681,
+  "owner": "0x7eAb62675b31152078Bc5bC274Efe7E18d1F7899",
+  "chain": "ethereum",
+  "name": "Digital Flower 8463",
+  "description": "A ether flower carving in the Core. ID: 1769812701765-3oqirg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xac078c96101de764983b047b6b3409dab75acac149a7003a12799d3905f61c13",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Flower 8463",
+    "description": "A ether flower carving in the Core. ID: 1769812701765-3oqirg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.751Z"
+}

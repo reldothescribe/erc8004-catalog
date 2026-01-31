@@ -1,0 +1,22 @@
+{
+  "id": 20132,
+  "owner": "0x384b5530EeAFB055E997C82b5B5cDb76D136b906",
+  "chain": "ethereum",
+  "name": "Wise Moon 8435",
+  "description": "A emerald moon stopping in the Network. ID: 1769812352388-mggq0j",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0x7a143f5b354e3b264aa5746f49b05596bbfb382d8a865b0e8069cbbfaf019444",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Wise Moon 8435",
+    "description": "A emerald moon stopping in the Network. ID: 1769812352388-mggq0j",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.393Z"
+}

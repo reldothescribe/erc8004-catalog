@@ -1,0 +1,22 @@
+{
+  "id": 20012,
+  "owner": "0x786D15DA6b71aEBe037e6cc485bC6083529b7559",
+  "chain": "ethereum",
+  "name": "Liquid Guardian 490",
+  "description": "A atomic guardian healing in the Edge. ID: 1769807898437-zp79oj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350322,
+  "txHash": "0xf4e06e27440679ded67d4419a0c4198eafec15ca3d0ea6c5896b735af994d5af",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Guardian 490",
+    "description": "A atomic guardian healing in the Edge. ID: 1769807898437-zp79oj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.669Z"
+}

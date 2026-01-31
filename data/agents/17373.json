@@ -1,0 +1,22 @@
+{
+  "id": 17373,
+  "owner": "0x677dfA00174C2379063EEcbA464F679c6B8C45a4",
+  "chain": "ethereum",
+  "name": "HyperNode_2074",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x0dc337999ddddb7ca918d394e4c36c5bb86e72e995bb40618c2e8b6e77cbb03f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperNode_2074",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:44.946Z"
+}

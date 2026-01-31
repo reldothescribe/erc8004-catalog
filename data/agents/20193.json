@@ -1,0 +1,22 @@
+{
+  "id": 20193,
+  "owner": "0xE28D7Db180a8AB302b77789eAeD07303fbc34D54",
+  "chain": "ethereum",
+  "name": "Burning Way 4975",
+  "description": "A hidden way calculating in the Ledger. ID: 1769812385395-thkud5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x9f92db1efef668817c5d4a2c3c74c57e5ec93f92e146da0d9e27c89d74f1e5cf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Way 4975",
+    "description": "A hidden way calculating in the Ledger. ID: 1769812385395-thkud5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:02.023Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17487,
+  "owner": "0x8EB868bdC8d295B941f9157D1810f0a09f1BB147",
+  "chain": "ethereum",
+  "name": "MetaMind_3103",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xfd3500c5edeeecd2c2328a1010625bb4cd677261685ecb08fa8e2b45f7d7e0f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaMind_3103",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:50.578Z"
+}

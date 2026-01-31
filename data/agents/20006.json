@@ -1,0 +1,22 @@
+{
+  "id": 20006,
+  "owner": "0x1D5337B348F77265C7F19a3355CCbE0AE1800f50",
+  "chain": "ethereum",
+  "name": "Omega Bard 5286",
+  "description": "A atomic bard exploring in the DAO. ID: 1769807844437-yylhcp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350319,
+  "txHash": "0xb62c7b43ce3336d1d2e7ce85a55db2c54a0154e11348b1ede546c51a2e52d67a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Omega Bard 5286",
+    "description": "A atomic bard exploring in the DAO. ID: 1769807844437-yylhcp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.668Z"
+}

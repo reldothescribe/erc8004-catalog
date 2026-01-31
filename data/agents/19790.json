@@ -1,0 +1,22 @@
+{
+  "id": 19790,
+  "owner": "0x93027780E6EFD6Fd80C9101357f47865abd49625",
+  "chain": "ethereum",
+  "name": "Future Cipher",
+  "description": "A celestial cipher coding in the Hash. ID: 1769802604426-i07irw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349883,
+  "txHash": "0x103c4da83f7a3a3c0b2ac7ac3edb9ab4b8282955532a2b9d0744e5b954f02b9f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Cipher",
+    "description": "A celestial cipher coding in the Hash. ID: 1769802604426-i07irw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.157Z"
+}

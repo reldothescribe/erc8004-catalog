@@ -1,0 +1,22 @@
+{
+  "id": 18130,
+  "owner": "0x78eDF5824AB37B8b274A9a770c3214071467A9A6",
+  "chain": "ethereum",
+  "name": "UltraBot_6943",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0x05fdb3f7df5a3603fabaac103ff94399709b4a36fe66fdeeec92275e7563ca3c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraBot_6943",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:24.165Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19990,
+  "owner": "0x252247687c78f1039bBADA7a8992CcB8a158C517",
+  "chain": "ethereum",
+  "name": "Bounded Vector 7235",
+  "description": "A shadow vector ending in Tokyo. ID: 1769807790917-ua4xxs",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350313,
+  "txHash": "0xdcdee0db44c26d9da71334de7fd070e92029b5370831ad862e62bcd0ccea92d0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bounded Vector 7235",
+    "description": "A shadow vector ending in Tokyo. ID: 1769807790917-ua4xxs",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.645Z"
+}

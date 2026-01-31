@@ -1,0 +1,22 @@
+{
+  "id": 17275,
+  "owner": "0x53fa3172baE123cb5266661Dd5000caa7ad11530",
+  "chain": "ethereum",
+  "name": "NeoBot_1311",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349162,
+  "txHash": "0x4ccf1194853e1d266cbcb20cda8176ebfbcbd887e60988490cf381f21ce12d6b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoBot_1311",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:39.826Z"
+}

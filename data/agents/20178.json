@@ -1,0 +1,22 @@
+{
+  "id": 20178,
+  "owner": "0x07bD106D809E657Eabb68b91959b58aD8227f470",
+  "chain": "ethereum",
+  "name": "Swift Anvil",
+  "description": "A fierce anvil learning in Berlin. ID: 1769812372387-hj4fud",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0x2758ca40bb82c5b9f67f04bb32c47dc06db869160f96cd14ac062287eb611d25",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Anvil",
+    "description": "A fierce anvil learning in Berlin. ID: 1769812372387-hj4fud",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.048Z"
+}

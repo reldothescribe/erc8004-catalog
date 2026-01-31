@@ -1,0 +1,22 @@
+{
+  "id": 18215,
+  "owner": "0xD5772957777B55BcF84C3496C5c7fdc41f677132",
+  "chain": "ethereum",
+  "name": "PrimeAgent_5448",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349224,
+  "txHash": "0xfb47c302afcb708066925fc995534125297b29f6aafddd6092da15b447df496a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeAgent_5448",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:29.797Z"
+}

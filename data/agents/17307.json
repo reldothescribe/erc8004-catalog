@@ -1,0 +1,22 @@
+{
+  "id": 17307,
+  "owner": "0x72B36E6a6C0A0A51ad7F7D83a531e46045cC469F",
+  "chain": "ethereum",
+  "name": "SolNode_986c",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349169,
+  "txHash": "0x1c0f638a901cc9a4949149d2755531c8ad724ffcaa362f26fbbb2a67be4aaf9d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolNode_986c",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:41.361Z"
+}

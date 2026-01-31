@@ -1,0 +1,22 @@
+{
+  "id": 17800,
+  "owner": "0x18615F5b17f0494a9D50ef81820f622D805975D4",
+  "chain": "ethereum",
+  "name": "HyperFlow_2747",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x900e61173bcc11a0188931102f9cf8a416ddb73100a6a945c5baa1c2e49abb75",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperFlow_2747",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:06.541Z"
+}

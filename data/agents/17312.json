@@ -1,0 +1,22 @@
+{
+  "id": 17312,
+  "owner": "0x3d5899de5B2C5969E872f0C543c75A07B5Cd6823",
+  "chain": "ethereum",
+  "name": "SolBot_9d9e",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349169,
+  "txHash": "0x15ba9ef8bb2b125cc0ebabac63870ce59032ebaa4c40064c02ee760b05e42b98",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolBot_9d9e",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:41.362Z"
+}

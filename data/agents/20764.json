@@ -1,0 +1,22 @@
+{
+  "id": 20764,
+  "owner": "0x7eAb62675b31152078Bc5bC274Efe7E18d1F7899",
+  "chain": "ethereum",
+  "name": "Liquid Castle 9869",
+  "description": "A burning castle ending in Mars. ID: 1769812718750-69xid2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x2b908dc3263e75f1e027e2b81711df08b68b53871b7ca4c489af82dcec46fa02",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Castle 9869",
+    "description": "A burning castle ending in Mars. ID: 1769812718750-69xid2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.684Z"
+}

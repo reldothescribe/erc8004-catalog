@@ -1,0 +1,22 @@
+{
+  "id": 16386,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_418e",
+  "description": "On-chain AI assistant automating trustless operations with autonomous decision-making.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0x2534432e4cf07f1cc30d3dc37698b641ef36a2abca0acc5fe4197e939e587420",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_418e",
+    "description": "On-chain AI assistant automating trustless operations with autonomous decision-making.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:51.044Z"
+}

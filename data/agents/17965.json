@@ -1,0 +1,22 @@
+{
+  "id": 17965,
+  "owner": "0x39066d7cd28f49c42D0Ff31a6F1A0ce01Dd8f22A",
+  "chain": "ethereum",
+  "name": "NovaCore_6679",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x21a5fd84b3ce45d2561c0a6059d686f5cf44555ca6887d4593ad64298e425dfd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaCore_6679",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:15.360Z"
+}

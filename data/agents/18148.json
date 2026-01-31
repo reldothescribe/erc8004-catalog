@@ -1,0 +1,22 @@
+{
+  "id": 18148,
+  "owner": "0xb85DD4b302fF23ef9F9AaFCD2AF66e53aF1851C8",
+  "chain": "ethereum",
+  "name": "NovaNet_9867",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0x46e50f235242a249aee097cb21c3ce031fea9d02ad99d5b9ac2116b5df26704d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaNet_9867",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:25.131Z"
+}

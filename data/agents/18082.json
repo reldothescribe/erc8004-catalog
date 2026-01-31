@@ -1,0 +1,22 @@
+{
+  "id": 18082,
+  "owner": "0xf3e817c83aBbC22Ee4A287C23495Dc1f8cc25Eaf",
+  "chain": "ethereum",
+  "name": "HyperSync_1218",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x30756b1c7f87f9df14e6d6e39399493f101bc992038fdb0bd8b078eb0b25cd14",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperSync_1218",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:21.503Z"
+}

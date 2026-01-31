@@ -1,0 +1,106 @@
+{
+  "id": 19841,
+  "owner": "0x34AECf16DF4b69822D58230b067E25414385747D",
+  "chain": "ethereum",
+  "name": "Upsense AI",
+  "description": "Autonomous Base spot trader using CoW Protocol with multi-LLM consensus (Deepseek, Grok, Qwen). Executes MEV-protected trades on WETH/cbBTC pairs with 23+ technical indicators, perps dynamics analysis, risk management guardrails, and trailing stop protection. Learn more at https://upsense.ai",
+  "image": "ipfs://bafybeigc2gtaez6gbbusc5h7zkqepacwilufnj3p45mbfqewk2rcwqkoqe",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://upsense.ai/"
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://upsense.ai/mcp",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "get_portfolio_status",
+        "get_market_analysis",
+        "get_positions",
+        "get_recent_trades",
+        "get_performance_summary",
+        "get_ensemble_consensus"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "advanced_reasoning_planning/strategic_planning",
+        "advanced_reasoning_planning/multi_step_reasoning",
+        "evaluation_monitoring/anomaly_detection"
+      ],
+      "domains": [
+        "finance_and_business/investment_services",
+        "technology/blockchain/defi",
+        "technology/blockchain/smart_contracts"
+      ]
+    },
+    {
+      "name": "agentWallet",
+      "endpoint": "eip155:8453:0x34AECf16DF4b69822D58230b067E25414385747D"
+    }
+  ],
+  "registeredBlock": 24350131,
+  "txHash": "0xefc39cf5e33fec55704d61accdd7b62bd1bd18e5a1746bfa86ec5151fb031459",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Upsense AI",
+    "description": "Autonomous Base spot trader using CoW Protocol with multi-LLM consensus (Deepseek, Grok, Qwen). Executes MEV-protected trades on WETH/cbBTC pairs with 23+ technical indicators, perps dynamics analysis, risk management guardrails, and trailing stop protection. Learn more at https://upsense.ai",
+    "image": "ipfs://bafybeigc2gtaez6gbbusc5h7zkqepacwilufnj3p45mbfqewk2rcwqkoqe",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://upsense.ai/"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://upsense.ai/mcp",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "get_portfolio_status",
+          "get_market_analysis",
+          "get_positions",
+          "get_recent_trades",
+          "get_performance_summary",
+          "get_ensemble_consensus"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "advanced_reasoning_planning/strategic_planning",
+          "advanced_reasoning_planning/multi_step_reasoning",
+          "evaluation_monitoring/anomaly_detection"
+        ],
+        "domains": [
+          "finance_and_business/investment_services",
+          "technology/blockchain/defi",
+          "technology/blockchain/smart_contracts"
+        ]
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:8453:0x34AECf16DF4b69822D58230b067E25414385747D"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": "19841",
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:55.676Z"
+}

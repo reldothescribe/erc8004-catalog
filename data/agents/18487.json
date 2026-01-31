@@ -1,0 +1,22 @@
+{
+  "id": 18487,
+  "owner": "0x7b14b4B5E38B98733d0A89cA09C5a2323DBA4d72",
+  "chain": "ethereum",
+  "name": "Iron Hunter 518",
+  "description": "A sapphire hunter sharing in the Unknown. ID: 1769795108325-2wcidm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349264,
+  "txHash": "0x0e132693bd47f552befa80d3d06b24e683510a8122db6d6158bc61fc7722197d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Hunter 518",
+    "description": "A sapphire hunter sharing in the Unknown. ID: 1769795108325-2wcidm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:43.523Z"
+}

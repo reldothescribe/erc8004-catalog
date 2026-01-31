@@ -1,0 +1,22 @@
+{
+  "id": 15870,
+  "owner": "0x0577828DF79DB99bd967ddbee40B6BD98BF4D354",
+  "chain": "ethereum",
+  "name": "VIRTUAL",
+  "description": "Virtual Protocol Virtual Protocol Virtual Protocol Virtual Protocol",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348909,
+  "txHash": "0xc086ba0f1149d426eb48d73ae6d6252a14d7f2108d8968aab672e7774f5dfdcd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VIRTUAL",
+    "description": "Virtual Protocol Virtual Protocol Virtual Protocol Virtual Protocol",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:24.618Z"
+}

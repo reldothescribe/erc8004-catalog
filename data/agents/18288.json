@@ -1,0 +1,22 @@
+{
+  "id": 18288,
+  "owner": "0xb7d06a58995d989d7800D2B81b1B5549099EE071",
+  "chain": "ethereum",
+  "name": "OrbAgent_2c93",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349248,
+  "txHash": "0xb8750da476c2bdd600c4cf808ac49b03bc0d66997451b8e07e2bbe7f6554a762",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbAgent_2c93",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:33.297Z"
+}

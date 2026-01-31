@@ -1,0 +1,25 @@
+{
+  "id": 16107,
+  "owner": "0xba8E9B73d80D56651CC314Db66aeaDE1a133DF0C",
+  "chain": "ethereum",
+  "name": "sf",
+  "description": "sfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsf",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348912,
+  "txHash": "0xb430fb8d07315442854007956d27aceebb82b0a6309df4a0bd61b0dc1c39b5c2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "sf",
+    "description": "sfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsfsf",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:16:36.954Z"
+}

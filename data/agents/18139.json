@@ -1,0 +1,22 @@
+{
+  "id": 18139,
+  "owner": "0x035e9bda5A4889efAC33c2e7262E34e235b15915",
+  "chain": "ethereum",
+  "name": "QuantumSync_4602",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0x26b38fe8a0e216955ff60eb92602d2239920f9e78e93a6b6950bd3bf53fa3c50",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumSync_4602",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:24.657Z"
+}

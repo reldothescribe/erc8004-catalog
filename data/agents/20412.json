@@ -1,0 +1,22 @@
+{
+  "id": 20412,
+  "owner": "0x2B5422652266aF9c6F6CFfa13CAd603afA8A2642",
+  "chain": "ethereum",
+  "name": "Ancient Organic Storm",
+  "description": "A organic storm sleeping in DeFi. ID: 1769812601824-dz5tiq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350713,
+  "txHash": "0x2c418542cf0656883fc3d03d7541ada85ab23b56540c380df6a4a9908216b832",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ancient Organic Storm",
+    "description": "A organic storm sleeping in DeFi. ID: 1769812601824-dz5tiq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.927Z"
+}

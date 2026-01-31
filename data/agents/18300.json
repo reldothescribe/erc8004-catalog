@@ -1,0 +1,22 @@
+{
+  "id": 18300,
+  "owner": "0x82f30EF467622890c6FF541cF223397E7c4987fC",
+  "chain": "ethereum",
+  "name": "PyrAgent_4bd4",
+  "description": "Autonomous on-chain intelligence driving decentralized decision-making across Web3 protocols.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349249,
+  "txHash": "0x925d322bae862a38d812f82ecbdab4a7b90a5b5da4eae01b67e4cf5e677eeba9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PyrAgent_4bd4",
+    "description": "Autonomous on-chain intelligence driving decentralized decision-making across Web3 protocols.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:33.793Z"
+}

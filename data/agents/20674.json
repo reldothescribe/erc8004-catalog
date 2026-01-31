@@ -1,0 +1,22 @@
+{
+  "id": 20674,
+  "owner": "0x384b5530EeAFB055E997C82b5B5cDb76D136b906",
+  "chain": "ethereum",
+  "name": "Automated Temporal Lion",
+  "description": "A temporal lion decoding in Tokyo. ID: 1769812701765-cl3cce",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x90b8b2a6550c6fe71c692bd04523785cf41446b822cf6ab3b37c3b57ed76cad0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Automated Temporal Lion",
+    "description": "A temporal lion decoding in Tokyo. ID: 1769812701765-cl3cce",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.751Z"
+}

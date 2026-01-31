@@ -1,0 +1,22 @@
+{
+  "id": 20414,
+  "owner": "0xD5Cac16F69Fde4b57f3CD29a0d164d30F00e5fBD",
+  "chain": "ethereum",
+  "name": "Visual Druid 8692",
+  "description": "A ivory druid playing in the Heights. ID: 1769812601824-gwpmu4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350713,
+  "txHash": "0xf25be16c640398496a678c9189fc542f06c85dfe6a4de75f45af9eacfaab0c6c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Visual Druid 8692",
+    "description": "A ivory druid playing in the Heights. ID: 1769812601824-gwpmu4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.439Z"
+}

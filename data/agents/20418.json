@@ -1,0 +1,22 @@
+{
+  "id": 20418,
+  "owner": "0xc3664a81B40d5b99F3838A53ac6271bEA082F319",
+  "chain": "ethereum",
+  "name": "Fierce Priest",
+  "description": "A onyx priest fighting in Magic. ID: 1769812601824-pa8rdo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350713,
+  "txHash": "0x22d7e4b5ea4542bd8da9caa2e8fb63481dc91bd33cf4c6da77ae38d5a4d21031",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Priest",
+    "description": "A onyx priest fighting in Magic. ID: 1769812601824-pa8rdo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.439Z"
+}

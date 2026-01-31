@@ -1,0 +1,22 @@
+{
+  "id": 18018,
+  "owner": "0x492dFF827e33dd920049cF41926B6734817860C4",
+  "chain": "ethereum",
+  "name": "PrimeBot_7963",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xfec550d875e552148077793ac5bbf5e426327e83b015a14adf1e1af34383d5bc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeBot_7963",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:17.921Z"
+}

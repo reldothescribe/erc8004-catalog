@@ -1,0 +1,22 @@
+{
+  "id": 20827,
+  "owner": "0x07bD106D809E657Eabb68b91959b58aD8227f470",
+  "chain": "ethereum",
+  "name": "Stellar Paladin",
+  "description": "A virtual paladin hunting in Science. ID: 1769812741948-bjxxir",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xe5f7d5d3fd28663e663e40a4dbbdf58559177f36f446468fa1295f3665c5e149",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Paladin",
+    "description": "A virtual paladin hunting in Science. ID: 1769812741948-bjxxir",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.754Z"
+}

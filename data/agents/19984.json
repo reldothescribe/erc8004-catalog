@@ -1,0 +1,22 @@
+{
+  "id": 19984,
+  "owner": "0x1665b53FDc6069507449435a7186e876D93166Fc",
+  "chain": "ethereum",
+  "name": "Iron Cyber Mind",
+  "description": "A cyber mind calculating in the Protocol. ID: 1769807766439-ceg6q9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350312,
+  "txHash": "0xdf16c870267003debbcf5fd5a9c4bb04fd2ef84eb27a16f6ae86a102b86b1042",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Cyber Mind",
+    "description": "A cyber mind calculating in the Protocol. ID: 1769807766439-ceg6q9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.646Z"
+}

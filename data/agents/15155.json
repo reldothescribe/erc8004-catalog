@@ -1,0 +1,29 @@
+{
+  "id": 15155,
+  "owner": "0xc7777F6A5517881Df6eCDc3015aE9c4430de40Ca",
+  "chain": "ethereum",
+  "name": "VIP",
+  "description": "Everything is contained within, and the future holds infinite possibilities.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348041,
+  "txHash": "0xc967db4257c208daf0fbd55b9a782f8335da0cb0e9bb3b2477034b1a2960bb34",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VIP",
+    "description": "Everything is contained within, and the future holds infinite possibilities.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:15:37.354Z"
+}

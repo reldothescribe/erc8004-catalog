@@ -1,0 +1,22 @@
+{
+  "id": 19756,
+  "owner": "0x18952b5bb759df25D7871d18d4D293b5dD1bBDe9",
+  "chain": "ethereum",
+  "name": "Frozen Guardian",
+  "description": "A prime guardian walking in the Frontier. ID: 1769802508039-utkdst",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349875,
+  "txHash": "0xe86e712aa151d31c93f8df5db4deb84d3d4e98e73160d5f605e25f3232a1c656",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Guardian",
+    "description": "A prime guardian walking in the Frontier. ID: 1769802508039-utkdst",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:51.535Z"
+}

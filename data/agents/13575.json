@@ -1,0 +1,25 @@
+{
+  "id": 13575,
+  "owner": "0x518F1E4366BEd970bb13D6F32812DC7b177D8bDc",
+  "chain": "ethereum",
+  "name": "base",
+  "description": "Trading agent, capable of buying and selling tokens and monitoring",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24344245,
+  "txHash": "0xd7ba04915a4f91e9431b0bc7fe221328680896f1a33e853514351cafc869d55c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "base",
+    "description": "Trading agent, capable of buying and selling tokens and monitoring",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:08.876Z"
+}

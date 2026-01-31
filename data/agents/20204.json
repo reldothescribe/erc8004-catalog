@@ -1,0 +1,22 @@
+{
+  "id": 20204,
+  "owner": "0xC996Af30AF0c00E1D6D0bc5Fcb23a86D0fFD1425",
+  "chain": "ethereum",
+  "name": "Fierce Anvil",
+  "description": "A azure anvil watching in the Past. ID: 1769812385396-zqf5wi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x9032607606377b0218a7974d8503adc938ffc33fff696ac372e989b471906187",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Anvil",
+    "description": "A azure anvil watching in the Past. ID: 1769812385396-zqf5wi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:02.587Z"
+}

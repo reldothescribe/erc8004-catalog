@@ -1,0 +1,22 @@
+{
+  "id": 19940,
+  "owner": "0xe914e48E599663a6571Dd620268DCCA0C2777F35",
+  "chain": "ethereum",
+  "name": "Wise Planet 9135",
+  "description": "A lunar planet resting in New York. ID: 1769806663309-3701fz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350219,
+  "txHash": "0xce38c12ff9d15824fe293c1fa5c4b262560dcacacf04264ec97c1cb1c44cf340",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Wise Planet 9135",
+    "description": "A lunar planet resting in New York. ID: 1769806663309-3701fz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.086Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17527,
+  "owner": "0x54acf3B56Bc7e9A9fEBAEd002B304B55Aa2afC68",
+  "chain": "ethereum",
+  "name": "PrimeAgent_9664",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x0335b79a93f0a3bf5e34c2cb0eece13eb16f496e3e506f53c6a4bf9122949f0b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeAgent_9664",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:52.626Z"
+}

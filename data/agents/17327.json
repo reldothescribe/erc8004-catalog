@@ -1,0 +1,22 @@
+{
+  "id": 17327,
+  "owner": "0x21C92e5d3f353d3a22933eB547e4C282BD7BF7EB",
+  "chain": "ethereum",
+  "name": "PrimeAgent_782",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0xec281440cd637798cbb7254e28ec311c28e1f1b2025c75b3b3003d5fe06a9e7b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeAgent_782",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.348Z"
+}

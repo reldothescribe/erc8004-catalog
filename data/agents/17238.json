@@ -1,0 +1,22 @@
+{
+  "id": 17238,
+  "owner": "0xAfC9fAA92409b70cd99C31103549cf8EeCFe874A",
+  "chain": "ethereum",
+  "name": "NovaNet_5496",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349160,
+  "txHash": "0x1ee8d51a7316d8d2b829ef683e3641b15a6a688908330fc0ddea2bc99e849793",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaNet_5496",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:37.782Z"
+}

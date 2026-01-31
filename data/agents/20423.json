@@ -1,0 +1,22 @@
+{
+  "id": 20423,
+  "owner": "0xEd37DFdf716F83871D6cC03120aD9439E70Cfc4b",
+  "chain": "ethereum",
+  "name": "Pearl Key",
+  "description": "A noble key stopping in Berlin. ID: 1769812601824-3fbvrf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350713,
+  "txHash": "0xb92f5f3a3145101fbdafb7ed789b7025f1276aa7401cc6f9f6caed1688532a90",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Key",
+    "description": "A noble key stopping in Berlin. ID: 1769812601824-3fbvrf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.949Z"
+}

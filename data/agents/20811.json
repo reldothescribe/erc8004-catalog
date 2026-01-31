@@ -1,0 +1,22 @@
+{
+  "id": 20811,
+  "owner": "0xCAF816fCB00207A2B729bc1895956E639860b37c",
+  "chain": "ethereum",
+  "name": "Blazing Ruby Droid",
+  "description": "A ruby droid swimming in the Unknown. ID: 1769812742702-yopatd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x5893aa4cc4afcf4883194c8e4d3254d46e5fe1fdb5dae1fadccb7ca6f829bca4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Ruby Droid",
+    "description": "A ruby droid swimming in the Unknown. ID: 1769812742702-yopatd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.734Z"
+}

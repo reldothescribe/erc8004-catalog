@@ -1,0 +1,22 @@
+{
+  "id": 20570,
+  "owner": "0xC6506824E68402C9AC6957988A6e92a4Ec08c724",
+  "chain": "ethereum",
+  "name": "Hyper Forge",
+  "description": "A amber forge weaving in the Abyss. ID: 1769812641373-kp7bsw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xab614debd8408e4a7d4999c390994db94adc63c828f5dfc89456c37b99626798",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Forge",
+    "description": "A amber forge weaving in the Abyss. ID: 1769812641373-kp7bsw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.120Z"
+}

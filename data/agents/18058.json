@@ -1,0 +1,22 @@
+{
+  "id": 18058,
+  "owner": "0x1211A2A16dF28a8D2A450A6AC3b22CC9aB53599f",
+  "chain": "ethereum",
+  "name": "MetaHub_1578",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x542f239d5b99887df9cba4705940bd15d8330031c46e52ad18e72c4b2048f779",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaHub_1578",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:19.968Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19974,
+  "owner": "0x95773583219F331fD34aA4A5a976278f8920f74A",
+  "chain": "ethereum",
+  "name": "Neo Bard 104",
+  "description": "A dark bard seeking in Mystery. ID: 1769806794437-d9g5bs",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350273,
+  "txHash": "0x59af6567ef15ac9b783233f0a1b2916cf33994584066c6a103734afa7b22b5f0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neo Bard 104",
+    "description": "A dark bard seeking in Mystery. ID: 1769806794437-d9g5bs",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.133Z"
+}

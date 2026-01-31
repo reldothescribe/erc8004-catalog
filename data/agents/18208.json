@@ -1,0 +1,22 @@
+{
+  "id": 18208,
+  "owner": "0x42f71D3aED14586206b444432C0b16a2082f09c3",
+  "chain": "ethereum",
+  "name": "PrimeMind_643",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349224,
+  "txHash": "0x3cec12628da6115b15bccfd8018214fee95189f1b0b48fa64c6ff61c594fb9fb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeMind_643",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:29.302Z"
+}

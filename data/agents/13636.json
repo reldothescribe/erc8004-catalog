@@ -1,0 +1,22 @@
+{
+  "id": 13636,
+  "owner": "0x08b296a897b1c8A033066A34Dfde80c66A825D7B",
+  "chain": "ethereum",
+  "name": "guard",
+  "description": "AI agents possess several key attributes, including complex goal structures, natural language interfaces",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24344556,
+  "txHash": "0x59105e6d7c2207c7242868745b5e97d0fae8123e1058488f085e87f31d00126e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "guard",
+    "description": "AI agents possess several key attributes, including complex goal structures, natural language interfaces",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:14:11.950Z"
+}

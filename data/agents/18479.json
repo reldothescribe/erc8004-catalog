@@ -1,0 +1,22 @@
+{
+  "id": 18479,
+  "owner": "0x0cE5003F4816bcabAC2E9F66f1511E6834781DF8",
+  "chain": "ethereum",
+  "name": "SolWave_5232",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349262,
+  "txHash": "0xa443e1c08ca2d24ae8afd332ea5e69aab7cc772d00cfb695c77f16f3c0ea689f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolWave_5232",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:43.009Z"
+}

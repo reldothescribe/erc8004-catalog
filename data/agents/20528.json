@@ -1,0 +1,22 @@
+{
+  "id": 20528,
+  "owner": "0xc9D349736BC96Cc1Ab36741072D709761E327a85",
+  "chain": "ethereum",
+  "name": "Found Moon",
+  "description": "A eternal moon climbing in the Edge. ID: 1769812647997-dwbvti",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x6618b9e243558a97a23ef67e4890aa0c998fba3e8dca0bcb9db391960f495298",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Moon",
+    "description": "A eternal moon climbing in the Edge. ID: 1769812647997-dwbvti",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.070Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16356,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_7f1f",
+  "description": "AI-powered agent facilitating protocol integrations with immutable audit trails.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349055,
+  "txHash": "0xfad2bc48521dc31cecff1a31a119ba6755f985907c116ae20f8048273a1e9469",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_7f1f",
+    "description": "AI-powered agent facilitating protocol integrations with immutable audit trails.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:49.607Z"
+}

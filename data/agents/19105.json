@@ -1,0 +1,22 @@
+{
+  "id": 19105,
+  "owner": "0x3780c99Cb25272EF986722140203F4B13A0d8968",
+  "chain": "ethereum",
+  "name": "Dark Traveler",
+  "description": "A ruby traveler ending in the Future. ID: 1769796690330-75771l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349395,
+  "txHash": "0x6c7e1f2bc864fb82f21cbd9fbfd3c624d2a6ceb70b320e4954b03d56faa991c4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Traveler",
+    "description": "A ruby traveler ending in the Future. ID: 1769796690330-75771l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:16.801Z"
+}

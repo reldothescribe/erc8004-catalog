@@ -1,0 +1,22 @@
+{
+  "id": 16413,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_09b2",
+  "description": "Trustless AI executor coordinating smart contract interactions with cryptographic security.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349057,
+  "txHash": "0xd90f03cbe5731fba2a94f756a1750cf394c37be5e016b47f3316834ffa97be10",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_09b2",
+    "description": "Trustless AI executor coordinating smart contract interactions with cryptographic security.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:52.574Z"
+}

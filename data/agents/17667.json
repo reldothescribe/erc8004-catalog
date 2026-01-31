@@ -1,0 +1,22 @@
+{
+  "id": 17667,
+  "owner": "0x6F3C38AbB3FaCb57024A45cC5C79af19a7E45288",
+  "chain": "ethereum",
+  "name": "AxiNode_2129",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x2d20d5a5fd4b3280e287391a9ccf473c1eb061eedbe0b6d703a7b28050acc951",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiNode_2129",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:59.595Z"
+}

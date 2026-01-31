@@ -1,0 +1,22 @@
+{
+  "id": 20608,
+  "owner": "0x2305B9eb9c50A64eead0f50647659694aedb70B0",
+  "chain": "ethereum",
+  "name": "Zero Tempest",
+  "description": "A synthetic tempest exploring in the Edge. ID: 1769812675498-tv9veu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xd5fe192a2c09328feb05ea1194037d6a6faa1c90da9a2b92805fa4cec08c5730",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Zero Tempest",
+    "description": "A synthetic tempest exploring in the Edge. ID: 1769812675498-tv9veu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.169Z"
+}

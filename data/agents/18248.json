@@ -1,0 +1,22 @@
+{
+  "id": 18248,
+  "owner": "0x10BBD0762B9767381Db6153e35bEDb7AA8d5C285",
+  "chain": "ethereum",
+  "name": "AxiChain_a854",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349246,
+  "txHash": "0xa2b864744e3da07063b2a6160e2d2e1fe980558590a697e168d6ecbc9e948091",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiChain_a854",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:31.334Z"
+}

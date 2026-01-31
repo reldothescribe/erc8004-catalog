@@ -1,0 +1,22 @@
+{
+  "id": 18457,
+  "owner": "0x566E64c0078F5039B8CBf35f82ca486361990523",
+  "chain": "ethereum",
+  "name": "VorChain_47a6",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349261,
+  "txHash": "0xe3a361c0e551c78ab96df636f29864828d95f676f563a2743fdeb43cd2fe005d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VorChain_47a6",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:41.987Z"
+}

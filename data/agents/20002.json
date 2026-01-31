@@ -1,0 +1,22 @@
+{
+  "id": 20002,
+  "owner": "0xd5397Bbf7FAa50e94c0FA772067Ab401c1B881E6",
+  "chain": "ethereum",
+  "name": "Dark Autonomous Druid",
+  "description": "A autonomous druid building in the Hash. ID: 1769807844437-rx8k7d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350319,
+  "txHash": "0xe52e966c6af79ae03acc9a5f93e41f77fa8176fe1db34eecfd50cde56af9ff21",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Autonomous Druid",
+    "description": "A autonomous druid building in the Hash. ID: 1769807844437-rx8k7d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.158Z"
+}

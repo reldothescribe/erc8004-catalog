@@ -1,0 +1,22 @@
+{
+  "id": 13635,
+  "owner": "0x08b296a897b1c8A033066A34Dfde80c66A825D7B",
+  "chain": "ethereum",
+  "name": "angel",
+  "description": "an ai guard, who complex goal structures, natural language interfaces, the capacity to act independently of user supervision, and the integration of software tools or planning systems",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24344450,
+  "txHash": "0x4ed5f763922b45041666b9d46f222f916910a587103fb33313265002c7e54984",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "angel",
+    "description": "an ai guard, who complex goal structures, natural language interfaces, the capacity to act independently of user supervision, and the integration of software tools or planning systems",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:14:11.948Z"
+}

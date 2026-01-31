@@ -1,0 +1,22 @@
+{
+  "id": 20847,
+  "owner": "0xc9D7C09E32ae8B422047fa9c8E14ec4dba671692",
+  "chain": "ethereum",
+  "name": "Ageless Shark",
+  "description": "A temporal shark playing in Space. ID: 1769812739953-ru1z3b",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xf95ccdbec5c366117db2e44973d5c88fa9bfc076948cc7ab34ffbbcd9a9e5ca2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ageless Shark",
+    "description": "A temporal shark playing in Space. ID: 1769812739953-ru1z3b",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.781Z"
+}

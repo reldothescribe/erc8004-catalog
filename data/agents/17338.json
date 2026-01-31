@@ -1,0 +1,22 @@
+{
+  "id": 17338,
+  "owner": "0x3279366B7D9A1c05eAD8273ad761A3fD58fF0070",
+  "chain": "ethereum",
+  "name": "QuantumFlow_2600",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0xc68d84fac2ba9a1a23e115caba33bc0f1a53f0eaaba404efd05f38a2e55d72f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumFlow_2600",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.898Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18170,
+  "owner": "0x4b6dC5f7E20f40658A21f056bA5311E6a0A2ED78",
+  "chain": "ethereum",
+  "name": "StellarLink_3467",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0x894aad88e66e836e2f91b8a535c88dedab5f3d9ced2e5995f64fe36fa5ad0220",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarLink_3467",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:26.214Z"
+}

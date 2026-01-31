@@ -1,0 +1,22 @@
+{
+  "id": 20320,
+  "owner": "0x79E930c3A5119E9D6AdEc1e7fefe157D4449E7dE",
+  "chain": "ethereum",
+  "name": "Atomic Helm",
+  "description": "A silver helm trading in the DAO. ID: 1769812492823-o7d85s",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0xd85d88e31e332c75bcfd1b76031d544fb07d0192a883c648bffe1c642db4700a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Helm",
+    "description": "A silver helm trading in the DAO. ID: 1769812492823-o7d85s",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.215Z"
+}

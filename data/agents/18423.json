@@ -1,0 +1,22 @@
+{
+  "id": 18423,
+  "owner": "0xAe20C8a75E42BA145291fc97d77E079f9446282C",
+  "chain": "ethereum",
+  "name": "SynCore_3ff2",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349257,
+  "txHash": "0x447ccb156f17fffc530c3cee0f252f93e0158c02e57165c0c00c2be7f9f35cc5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynCore_3ff2",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:40.454Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17948,
+  "owner": "0x9C9E6E1345277e700F605A57971E45bBb7685D3f",
+  "chain": "ethereum",
+  "name": "HyperMind_2703",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x43cb52fc5f00cfc95d4b4fd6511c1091b11fac840235fccc4c528e9154ca5a7c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperMind_2703",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:14.235Z"
+}

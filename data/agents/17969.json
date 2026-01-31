@@ -1,0 +1,22 @@
+{
+  "id": 17969,
+  "owner": "0xED4878E884e21cAD3A5D96b7B853fF57d2FB9e2c",
+  "chain": "ethereum",
+  "name": "HyperMind_510",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xe20625a55db3e7d0fe24702ee59f90fe5ff7af77a755987fd468875e1cb08c05",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperMind_510",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:15.360Z"
+}

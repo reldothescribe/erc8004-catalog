@@ -1,0 +1,22 @@
+{
+  "id": 17586,
+  "owner": "0xf911551A261639fb8b1AB8569b675881E4f87567",
+  "chain": "ethereum",
+  "name": "CyberBot_5186",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x1f87a94592d7f101a6916834b6184eb7cdb70a23d58a2a3842d9ee1aad7ee01e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberBot_5186",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:55.600Z"
+}

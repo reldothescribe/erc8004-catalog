@@ -1,0 +1,22 @@
+{
+  "id": 18135,
+  "owner": "0xB8d93b8EAdeD518DaeE1D4E7455b91780a2F9366",
+  "chain": "ethereum",
+  "name": "AxiNet_4950",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0xe97cfc59229258359539b7599df3cfe7f8f8d44581590cba883c0c0ea98c3f74",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiNet_4950",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:24.656Z"
+}

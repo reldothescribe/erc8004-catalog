@@ -1,0 +1,22 @@
+{
+  "id": 17984,
+  "owner": "0xe258da6449A44bE723ca99a5E51EF703Aa5c577F",
+  "chain": "ethereum",
+  "name": "NovaMind_4183",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xb5cac1bb102f50ebc514d224358207f8d4f503890d60b6ef52ff3d8532a93c81",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaMind_4183",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:16.384Z"
+}

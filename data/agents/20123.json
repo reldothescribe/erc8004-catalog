@@ -1,0 +1,22 @@
+{
+  "id": 20123,
+  "owner": "0xC832657277a616286B231AD764f4D8370a797A00",
+  "chain": "ethereum",
+  "name": "Blazing Stellar Shark",
+  "description": "A stellar shark trading in Jupiter. ID: 1769812352388-r77mne",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0x354dc09d93f93a9f6a0801d35bf871d1377769835fd2a970173633ee61427c46",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Stellar Shark",
+    "description": "A stellar shark trading in Jupiter. ID: 1769812352388-r77mne",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.393Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20568,
+  "owner": "0xD5Cac16F69Fde4b57f3CD29a0d164d30F00e5fBD",
+  "chain": "ethereum",
+  "name": "Orderly Door",
+  "description": "A wise door hunting in the Ledger. ID: 1769812642036-nhtwsl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x17bfe92cb6dd47f41faa0aa1db5e93249bf8d372185892e33b9a8f58c7728d31",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Door",
+    "description": "A wise door hunting in the Ledger. ID: 1769812642036-nhtwsl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.121Z"
+}

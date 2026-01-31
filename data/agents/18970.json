@@ -1,0 +1,22 @@
+{
+  "id": 18970,
+  "owner": "0x71a7Ec95079C433671eA93Ed35b81ACd150d25CD",
+  "chain": "ethereum",
+  "name": "Agents 19144",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349319,
+  "txHash": "0x9cce4d618bec20e5a3e1678c58e01e46bd887c088fa67c1a4132ae2a29757225",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agents 19144",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:09.642Z"
+}

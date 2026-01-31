@@ -1,0 +1,22 @@
+{
+  "id": 20158,
+  "owner": "0xC6506824E68402C9AC6957988A6e92a4Ec08c724",
+  "chain": "ethereum",
+  "name": "Ivory Druid 1132",
+  "description": "A future druid falling in the Abyss. ID: 1769812365392-x6zhlf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0x4a1018b1b7006facb85f8a2ebd8890cd3ac98dab24b487643397eb8720b48c0b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Druid 1132",
+    "description": "A future druid falling in the Abyss. ID: 1769812365392-x6zhlf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.022Z"
+}

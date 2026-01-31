@@ -1,0 +1,22 @@
+{
+  "id": 19795,
+  "owner": "0x65FB0414c5bEE20115114Be5B2e1521d22EDd675",
+  "chain": "ethereum",
+  "name": "Infinite Node",
+  "description": "A temporal node decoding in the Chain. ID: 1769802613627-u9rrqs",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349884,
+  "txHash": "0x01e477971ecdc29b796e07d3d6d0f569808c5d9936170a4fddb8ef7cc46cf9a8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Node",
+    "description": "A temporal node decoding in the Chain. ID: 1769802613627-u9rrqs",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.666Z"
+}

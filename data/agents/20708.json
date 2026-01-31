@@ -1,0 +1,22 @@
+{
+  "id": 20708,
+  "owner": "0xD1dAF1EEcea3f7016d306e0499572BC11549C21C",
+  "chain": "ethereum",
+  "name": "Found Monk",
+  "description": "A iron monk learning in the Core. ID: 1769812701765-u4jvcg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x5df0321f7e07bb4a5544626ee48b1015680effffcac4cfd1bcc490a8af152959",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Monk",
+    "description": "A iron monk learning in the Core. ID: 1769812701765-u4jvcg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.612Z"
+}

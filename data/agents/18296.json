@@ -1,0 +1,22 @@
+{
+  "id": 18296,
+  "owner": "0x7f581916aB45C3E826AfB28f8A8cF139142d3FA3",
+  "chain": "ethereum",
+  "name": "NexChain_5d84",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349248,
+  "txHash": "0xa25a149e1e7f9c7098522ad7e6dcfff5a32c305eca55e824f177c2782ab42f4f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexChain_5d84",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:33.793Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18209,
+  "owner": "0x7bed914EF43708c25Ca4402d159251A8F7c52568",
+  "chain": "ethereum",
+  "name": "UltraFlow_4000",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349224,
+  "txHash": "0xca120a7b596408059f55550e0e3d377010764a8b556533a23fc4be04618d2d51",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraFlow_4000",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:29.317Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 13642,
+  "owner": "0xac7B1766eC12824A69207B3EfF9104071000A661",
+  "chain": "ethereum",
+  "name": "uniswap",
+  "description": "Proposed protocols for standardizing inter-agent communication",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24344600,
+  "txHash": "0x006379a74352aadda9921b49f27c8d5701f626820deffad17e2e31489d864f7f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "uniswap",
+    "description": "Proposed protocols for standardizing inter-agent communication",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:14:11.949Z"
+}

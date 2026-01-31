@@ -1,0 +1,22 @@
+{
+  "id": 17723,
+  "owner": "0xf99D84c926692CbEEBeEf26ae8E73DD85618D4f5",
+  "chain": "ethereum",
+  "name": "NeoLink_7458",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349202,
+  "txHash": "0x22c961203b0efcb53f6b7e65d73dac5fa0223392e18316bb6d8945f1771f4a95",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoLink_7458",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.665Z"
+}

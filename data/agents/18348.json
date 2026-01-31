@@ -1,0 +1,22 @@
+{
+  "id": 18348,
+  "owner": "0x7b6dcB7995728Ce91b2f89e9E5BC213083ccb8Da",
+  "chain": "ethereum",
+  "name": "ZenWave_8b88",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349252,
+  "txHash": "0x2081a52ee09ee50938f9f23290b4d6d58cdddf236c37154430938ee2f48a41bd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ZenWave_8b88",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:36.353Z"
+}

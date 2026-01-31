@@ -1,0 +1,22 @@
+{
+  "id": 20458,
+  "owner": "0xc3664a81B40d5b99F3838A53ac6271bEA082F319",
+  "chain": "ethereum",
+  "name": "Void Spectral Bridge",
+  "description": "A spectral bridge exploring in Myth. ID: 1769812647996-j84mkt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x737fcd24e2bcb9099b1fdbe12bf817095b3d59ce7f625a95e293e4a19d4f687d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Void Spectral Bridge",
+    "description": "A spectral bridge exploring in Myth. ID: 1769812647996-j84mkt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:15.554Z"
+}

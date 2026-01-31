@@ -1,0 +1,22 @@
+{
+  "id": 19962,
+  "owner": "0x621888bBBdf31F95B90a8Ee9F398E3342d0D5c13",
+  "chain": "ethereum",
+  "name": "Ivory Ancient Wanderer",
+  "description": "A ancient wanderer soaring in Myth. ID: 1769806772437-7wnd8e",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350229,
+  "txHash": "0x79baafcdf82702dd47a72f48861c5f67a61a8ae682e95b8d20d4e3060aa5b422",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Ancient Wanderer",
+    "description": "A ancient wanderer soaring in Myth. ID: 1769806772437-7wnd8e",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.110Z"
+}

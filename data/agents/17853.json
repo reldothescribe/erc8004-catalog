@@ -1,0 +1,22 @@
+{
+  "id": 17853,
+  "owner": "0x06Ca183343DA21EA9761DD15a137121887bc8138",
+  "chain": "ethereum",
+  "name": "NovaLink_2998",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xc97853be353ce542a916706a6c0b7037ee557b0138c26d8225b8f215a27cf5ca",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaLink_2998",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:09.625Z"
+}

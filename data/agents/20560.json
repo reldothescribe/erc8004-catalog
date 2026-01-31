@@ -1,0 +1,22 @@
+{
+  "id": 20560,
+  "owner": "0x03bb312c66Bf7b5D54a14e03C1C7E45b7F62DBc4",
+  "chain": "ethereum",
+  "name": "Cosmic Droid 5364",
+  "description": "A ruby droid seeking in the Network. ID: 1769812646073-xyg0hv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xfb0dee85d41457548a7dbf4020813a3f9bde9cd3e3c854b0b80c4d80c673fe54",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Droid 5364",
+    "description": "A ruby droid seeking in the Network. ID: 1769812646073-xyg0hv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.607Z"
+}

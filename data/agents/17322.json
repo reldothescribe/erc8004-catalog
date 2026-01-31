@@ -1,0 +1,22 @@
+{
+  "id": 17322,
+  "owner": "0x0B1759EA3088DcaaE125Fb1D734067e525C34A3e",
+  "chain": "ethereum",
+  "name": "NeoAgent_569",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0xe5068335b161320523717785311e76bcf0a427b65c8eada4cb197eb9f9af8d69",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoAgent_569",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:41.875Z"
+}

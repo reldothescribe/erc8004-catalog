@@ -1,0 +1,22 @@
+{
+  "id": 17592,
+  "owner": "0xBD71b40f11e5d1Cc56D9Ea6A27B051dB53eb9271",
+  "chain": "ethereum",
+  "name": "UltraSync_2608",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0xb40872c49ada955a819588aa49d13b8efe6b4eebcfeb4738e8ce29dff357945d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraSync_2608",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:55.600Z"
+}

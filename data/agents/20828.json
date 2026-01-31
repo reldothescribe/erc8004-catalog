@@ -1,0 +1,22 @@
+{
+  "id": 20828,
+  "owner": "0x38447282160C1cc96F43855225A1867d6E095B2c",
+  "chain": "ethereum",
+  "name": "Sapphire Core 9192",
+  "description": "A ageless core coding in the Edge. ID: 1769812741152-v33k99",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xc835309873469fbc877b446c35a23c4a894c15a2abb8fb0b0566c4ad5ebca5b9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sapphire Core 9192",
+    "description": "A ageless core coding in the Edge. ID: 1769812741152-v33k99",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.754Z"
+}

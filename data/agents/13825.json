@@ -1,0 +1,27 @@
+{
+  "id": 13825,
+  "owner": "0x0B109254C206A0ECfe833df2196F8f7a2f85A239",
+  "chain": "ethereum",
+  "name": "Agent #13825",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24345682,
+  "txHash": "0x480bb16d64793ed70ea9a23cd5939784e551e7747a28ec78d9b023dfae29bd0f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "",
+    "description": "",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:14:24.850Z"
+}

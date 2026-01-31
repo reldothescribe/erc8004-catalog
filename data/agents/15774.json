@@ -1,0 +1,22 @@
+{
+  "id": 15774,
+  "owner": "0x8eF49b95981af334bE4660fe8343364188628177",
+  "chain": "ethereum",
+  "name": "Agent #15774",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348908,
+  "txHash": "0x62c00b91dd94d54a053523b9dffc436c20d77ee61b4e42680612f6ad3f60bc70",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "",
+    "description": "",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:19.953Z"
+}

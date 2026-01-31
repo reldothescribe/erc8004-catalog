@@ -1,0 +1,22 @@
+{
+  "id": 17393,
+  "owner": "0xb1B16e061ddaa83DbF6cDD08A1bDef8E8F4A5158",
+  "chain": "ethereum",
+  "name": "NovaLink_7516",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0xb7de7c6fffb40d67b7a0ec67aad012b2ab83496d192093872bc129f701f3fd2e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaLink_7516",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:45.972Z"
+}

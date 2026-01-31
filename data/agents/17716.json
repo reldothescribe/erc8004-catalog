@@ -1,0 +1,22 @@
+{
+  "id": 17716,
+  "owner": "0x8736a8347107232AEc19e14905a346F0B575C487",
+  "chain": "ethereum",
+  "name": "NeoNet_6061",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349188,
+  "txHash": "0x924b6fe1ba1629ce2665c6bddee0c8917b6580fe7ac61e05c080c6dd84fb8c92",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNet_6061",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.099Z"
+}

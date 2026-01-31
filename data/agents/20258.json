@@ -1,0 +1,22 @@
+{
+  "id": 20258,
+  "owner": "0xc9D7C09E32ae8B422047fa9c8E14ec4dba671692",
+  "chain": "ethereum",
+  "name": "Ether Iron Eagle",
+  "description": "A iron eagle resting in Space. ID: 1769812459613-hlpcnz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350701,
+  "txHash": "0x4daea7ff92bd9f4847091de70ca66473536845ea766ef6d80a5014ddc43fe066",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Iron Eagle",
+    "description": "A iron eagle resting in Space. ID: 1769812459613-hlpcnz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.145Z"
+}

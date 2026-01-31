@@ -1,0 +1,22 @@
+{
+  "id": 20493,
+  "owner": "0x8037d7a491DD3B3c3A9F4199e5D9aF3c94143D5e",
+  "chain": "ethereum",
+  "name": "Shadow Digital Helm",
+  "description": "A digital helm shaping in the DAO. ID: 1769812640102-w5hlom",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x1800a8e6502ad750f00e851fcae4edcaefd58969c1a48582ae9184235aa28ede",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Digital Helm",
+    "description": "A digital helm shaping in the DAO. ID: 1769812640102-w5hlom",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.640Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17469,
+  "owner": "0x116Be016Ee589417e83622EB421DD83e16022A54",
+  "chain": "ethereum",
+  "name": "UltraSync_6721",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x11d79f1804cf84cc9f822918821aeed6133522cf8ca4d049d35e72906c3914cf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraSync_6721",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:49.539Z"
+}

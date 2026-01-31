@@ -1,0 +1,22 @@
+{
+  "id": 20360,
+  "owner": "0x4887a4842a302092751517661f062d0ceB4F8B7a",
+  "chain": "ethereum",
+  "name": "Meta Orderly Oracle",
+  "description": "A orderly oracle crawling in Jupiter. ID: 1769812567748-c0nphm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350710,
+  "txHash": "0xb12cecdf678046fa84ec71fe517aacf03d98e2c7823320ae5c8c9ca43a6ef477",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Orderly Oracle",
+    "description": "A orderly oracle crawling in Jupiter. ID: 1769812567748-c0nphm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:10.265Z"
+}

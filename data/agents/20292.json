@@ -1,0 +1,22 @@
+{
+  "id": 20292,
+  "owner": "0x0668006AB6ccde4C55cd42119F0e3c10AB199d6A",
+  "chain": "ethereum",
+  "name": "Infinite Seeker 8162",
+  "description": "A serene seeker reading in Tokyo. ID: 1769812482387-oir3si",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0xeaffac1187c5c766443ad42c4c63d2c3a888def63855a04145584689a1163d0b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Seeker 8162",
+    "description": "A serene seeker reading in Tokyo. ID: 1769812482387-oir3si",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.682Z"
+}

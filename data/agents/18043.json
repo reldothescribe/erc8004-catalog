@@ -1,0 +1,22 @@
+{
+  "id": 18043,
+  "owner": "0x44BC81cBC2678403C24405Ae727259cb1fdb2DC5",
+  "chain": "ethereum",
+  "name": "StellarLink_4773",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0xbefdad899a94a4a9c3edea1f14420bb70b6d0a32f21c611c2d02a591100cdf52",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarLink_4773",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:19.455Z"
+}

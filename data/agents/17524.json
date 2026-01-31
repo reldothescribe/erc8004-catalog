@@ -1,0 +1,22 @@
+{
+  "id": 17524,
+  "owner": "0x307E905673f25F97CAeDb19699c994AD6E041E01",
+  "chain": "ethereum",
+  "name": "StellarLink_1236",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0xf04ecaf86782e324dcccc7be1f829a1d1109d954d5cd8c2635db7d79413355da",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarLink_1236",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:52.627Z"
+}

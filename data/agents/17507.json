@@ -1,0 +1,22 @@
+{
+  "id": 17507,
+  "owner": "0xeD1Cf3C88Fe5638E29BC2fDbbe4539Fc660e8929",
+  "chain": "ethereum",
+  "name": "StellarCore_6442",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349178,
+  "txHash": "0x6fc11d0ac97a068779e808609bb0c0a9ef0c9eec4070f912b13b1fcd27f62b59",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarCore_6442",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:51.604Z"
+}

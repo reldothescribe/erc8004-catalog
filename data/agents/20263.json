@@ -1,0 +1,22 @@
+{
+  "id": 20263,
+  "owner": "0x7D56c72E1D75f647bE533021fa7ec10ad3Ae03cA",
+  "chain": "ethereum",
+  "name": "Infernal Secret Bear",
+  "description": "A secret bear thinking in the Depths. ID: 1769812468812-vtozsj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0xb31f3517f653a1c718a73b8362387228f30b0c707532d8a0a505be112fd35c99",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Secret Bear",
+    "description": "A secret bear thinking in the Depths. ID: 1769812468812-vtozsj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.655Z"
+}

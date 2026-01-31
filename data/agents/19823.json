@@ -1,0 +1,22 @@
+{
+  "id": 19823,
+  "owner": "0x558c9Ad37d48Bb174b5CFa2bbfbfC1589986bbC0",
+  "chain": "ethereum",
+  "name": "Lost Bold Network",
+  "description": "A bold network gathering in the Chain. ID: 1769802714352-hs6kn2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349892,
+  "txHash": "0x9d4f90f2379fec80383e855e6eb8d85ada047fb24b55b09f2f4c39ce0fe4d3f5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Bold Network",
+    "description": "A bold network gathering in the Chain. ID: 1769802714352-hs6kn2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:55.159Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17352,
+  "owner": "0x1163338A3aBe32bE735f0385efC380Ae6d33afCb",
+  "chain": "ethereum",
+  "name": "CyberFlow_1007",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x5fb0d622595ff8f117d7770fa1612ebac707d3900220ad0957a1a3751a6b072e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberFlow_1007",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:43.383Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20137,
+  "owner": "0x7eAb62675b31152078Bc5bC274Efe7E18d1F7899",
+  "chain": "ethereum",
+  "name": "Ether Pulse 6771",
+  "description": "A pearl pulse playing in the Edge. ID: 1769812352388-p9quid",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0x3050949e22ad28fab1c87ac83be911cfe063b0ba3db4869bcc2a953282141ae9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Pulse 6771",
+    "description": "A pearl pulse playing in the Edge. ID: 1769812352388-p9quid",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.898Z"
+}

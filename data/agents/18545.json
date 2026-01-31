@@ -1,0 +1,22 @@
+{
+  "id": 18545,
+  "owner": "0x69afbaa9C14d187E7bEc95d3A61B4E496E72C9f2",
+  "chain": "ethereum",
+  "name": "SolLink_132b",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349269,
+  "txHash": "0x8c6ec6946fe0a8d684e92918265a05204c8497be9ab298e41ddf621e8b271356",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolLink_132b",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:47.104Z"
+}

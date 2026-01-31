@@ -1,0 +1,22 @@
+{
+  "id": 17792,
+  "owner": "0x3aD8325Ae75DbBcb6a5d26bF9e69D859D3C653B6",
+  "chain": "ethereum",
+  "name": "UltraNode_1400",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0xb10918564cd519c6f7c6361052e7125fa8cfa3ede41158f43efeeda41e8b5049",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNode_1400",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:06.040Z"
+}

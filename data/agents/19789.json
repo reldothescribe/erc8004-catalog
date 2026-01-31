@@ -1,0 +1,22 @@
+{
+  "id": 19789,
+  "owner": "0x6767510909e922034EfE7004f05E49D18e75E02F",
+  "chain": "ethereum",
+  "name": "Pearl Network 8752",
+  "description": "A sonic network moving in the Summit. ID: 1769802604426-4291zx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349883,
+  "txHash": "0xb51cf10fb3af7a89374351b333abf8749e990de1b3faa8af261f4e0ab1db062e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Network 8752",
+    "description": "A sonic network moving in the Summit. ID: 1769802604426-4291zx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.156Z"
+}

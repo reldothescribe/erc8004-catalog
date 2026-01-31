@@ -1,0 +1,22 @@
+{
+  "id": 20346,
+  "owner": "0xB0fB635CFfc5436627AFc9Bd059846Ba0118685E",
+  "chain": "ethereum",
+  "name": "Iron Bard",
+  "description": "A amber bard diving in the Block. ID: 1769812503121-kk5qw3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0x456af64a45f5c2be99dc2984b213bd4ca754c023c3f1095d53adcd31158039b2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Bard",
+    "description": "A amber bard diving in the Block. ID: 1769812503121-kk5qw3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:09.752Z"
+}

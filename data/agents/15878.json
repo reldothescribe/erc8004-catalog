@@ -1,0 +1,22 @@
+{
+  "id": 15878,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "SolAgent_73a1",
+  "description": "Autonomous on-chain intelligence driving decentralized decision-making across Web3 protocols.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24348909,
+  "txHash": "0xdd5a6ce7c779428f97350539de72cde2e283553d04a46c368fa84d60be49198a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolAgent_73a1",
+    "description": "Autonomous on-chain intelligence driving decentralized decision-making across Web3 protocols.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:25.090Z"
+}

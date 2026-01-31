@@ -1,0 +1,22 @@
+{
+  "id": 18452,
+  "owner": "0xBaA267487FF66CAE3B6b11Bd8401AE0Fc31E35B3",
+  "chain": "ethereum",
+  "name": "SolMind_a044",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349261,
+  "txHash": "0x261c89a20fd3fa2fb30c8390c9f15104f803a348432355489747b6f4904e63bc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolMind_a044",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:41.472Z"
+}

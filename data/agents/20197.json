@@ -1,0 +1,22 @@
+{
+  "id": 20197,
+  "owner": "0xB8df88BfC3908311dA69b89D2d47912369277811",
+  "chain": "ethereum",
+  "name": "Rapid Temporal Sun",
+  "description": "A temporal sun dreaming in the Core. ID: 1769812385395-zyqtbb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x16c14a8ba20bc1cfa15251267a0cc71c566edca093c2d53baddf1ed50e446e1c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Temporal Sun",
+    "description": "A temporal sun dreaming in the Core. ID: 1769812385395-zyqtbb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:02.020Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20565,
+  "owner": "0x5f66Ab37c9Ffc78E6f79A62816173f637A1E5D1A",
+  "chain": "ethereum",
+  "name": "Cunning Atomic Bard",
+  "description": "A atomic bard shaping in the Boundary. ID: 1769812646698-ks8ekm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xee1874c4054e938ce7f1079361ff2395f45affa223a101005241e58f4422b8bf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Atomic Bard",
+    "description": "A atomic bard shaping in the Boundary. ID: 1769812646698-ks8ekm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.120Z"
+}

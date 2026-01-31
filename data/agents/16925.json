@@ -1,0 +1,22 @@
+{
+  "id": 16925,
+  "owner": "0x9458372323450f829f62c760182422f56998F26f",
+  "chain": "ethereum",
+  "name": "Agent_95a1",
+  "description": "Autonomous AI agent performing blockchain transactions with on-chain accountability.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349123,
+  "txHash": "0x413c2fe6e0b75eb8078fde4086c28e2a48eb86bbbfc601e07403bd31b94d5752",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_95a1",
+    "description": "Autonomous AI agent performing blockchain transactions with on-chain accountability.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:20.472Z"
+}

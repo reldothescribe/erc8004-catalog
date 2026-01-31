@@ -1,0 +1,22 @@
+{
+  "id": 17920,
+  "owner": "0x1CB5E39E27928e9947687f26FF66A8340C31aE83",
+  "chain": "ethereum",
+  "name": "CyberNet_1949",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x4312f8ba325b99cf2b21f3eb124ff65f00a030783283be7a6d49699b6b557f4b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberNet_1949",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:12.648Z"
+}

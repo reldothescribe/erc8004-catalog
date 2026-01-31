@@ -1,0 +1,22 @@
+{
+  "id": 18168,
+  "owner": "0x39f67a4021E494E662250B157F7dcD903e25832b",
+  "chain": "ethereum",
+  "name": "AxiHub_7978",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0x9bfc87a8ddcd2d3bc412ffd8508ba20654335647e2b0c0b4c3998fa8ff72fcb4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiHub_7978",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:26.214Z"
+}

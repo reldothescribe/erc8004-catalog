@@ -1,0 +1,22 @@
+{
+  "id": 17248,
+  "owner": "0xADc69fF92fEc1217555de6e967565bf2870e6B59",
+  "chain": "ethereum",
+  "name": "CyberMind_6370",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349161,
+  "txHash": "0x5f6a5c74336bf6cd00b8589abc6d9cf26f04c3064265b1d9e1a3cf8113db88d3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberMind_6370",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.290Z"
+}

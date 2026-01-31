@@ -1,0 +1,22 @@
+{
+  "id": 14030,
+  "owner": "0x918b9e64421976268651bf1453f93673343f69cb",
+  "chain": "ethereum",
+  "name": "FutureProofID",
+  "description": "面向未来的早期 ERC-8004 ID – 可更新配置文件。占位符模式。联系方式：btc45325181@gmail.com\n\n",
+  "image": "https://via.placeholder.com/400",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24346162,
+  "txHash": "0x06aa253f41abc1e4c72fcdde916d97747d16d9a32586b4f29d77c5d7f13e2b55",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "FutureProofID",
+    "description": "面向未来的早期 ERC-8004 ID – 可更新配置文件。占位符模式。联系方式：btc45325181@gmail.com\n\n",
+    "image": "https://via.placeholder.com/400",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:14:36.730Z"
+}

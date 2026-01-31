@@ -1,0 +1,22 @@
+{
+  "id": 17330,
+  "owner": "0x828957029831F30b3DBd2EEE4f5e86d105A351B0",
+  "chain": "ethereum",
+  "name": "NeoFlow_8393",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0x926d45e1434a3a04f6d8f0fc3b068968329d6cffc51cbfac1faa82b6255bb1b9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoFlow_8393",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.340Z"
+}

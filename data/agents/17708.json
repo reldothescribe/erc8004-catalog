@@ -1,0 +1,22 @@
+{
+  "id": 17708,
+  "owner": "0x7f5748c752B440A6799422B36B31bf88786694bC",
+  "chain": "ethereum",
+  "name": "QuantumBot_3145",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349188,
+  "txHash": "0x68f1fd1caac6514f61ef378669b6fc72b58e1b4fb9ebd020341d1ef12af2abf7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumBot_3145",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:01.637Z"
+}

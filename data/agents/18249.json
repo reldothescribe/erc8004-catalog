@@ -1,0 +1,22 @@
+{
+  "id": 18249,
+  "owner": "0xB0Dff81729236E02aD0A0022D31998a80dd83F1D",
+  "chain": "ethereum",
+  "name": "SynBot_08a1",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349246,
+  "txHash": "0xa163df75de83a0d0d9400d05e25144941b2f23e217b02dcbccdf64784aa4eb9c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynBot_08a1",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:31.334Z"
+}

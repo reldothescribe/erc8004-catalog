@@ -1,0 +1,22 @@
+{
+  "id": 20165,
+  "owner": "0xc9D349736BC96Cc1Ab36741072D709761E327a85",
+  "chain": "ethereum",
+  "name": "Fierce Road 997",
+  "description": "A autonomous road working in the Boundary. ID: 1769812372388-zfh9cg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0xd671580d32577f082e5f560c5346ac334b31317fc39e6a644f856926576ba30c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Road 997",
+    "description": "A autonomous road working in the Boundary. ID: 1769812372388-zfh9cg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.538Z"
+}

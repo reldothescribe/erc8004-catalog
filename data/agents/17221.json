@@ -1,0 +1,22 @@
+{
+  "id": 17221,
+  "owner": "0x35c773D69Eb3429E6064946Cd4D15bfEF6E5DF4D",
+  "chain": "ethereum",
+  "name": "QuantumNode_3856",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349160,
+  "txHash": "0xb10f95e7fcd5eb1ba62a5d12256b4d1bb48914ff406d916ce6423817b0ae5264",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumNode_3856",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:36.755Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20707,
+  "owner": "0x94EF34c082fad6a1DfF5C7f3884BbDc35Acd4794",
+  "chain": "ethereum",
+  "name": "Fierce Way",
+  "description": "A obsidian way singing in the Void. ID: 1769812702394-a00m3q",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xd195a1d9119d8080fc26ca05497025b250b1c328ad3168825afde805f1cd2a45",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Way",
+    "description": "A obsidian way singing in the Void. ID: 1769812702394-a00m3q",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.611Z"
+}

@@ -1,0 +1,65 @@
+{
+  "id": 14401,
+  "owner": "0x81260dFA03B977df5900DdF30CF316aac79DeeFE",
+  "chain": "ethereum",
+  "name": "test agent 123",
+  "description": "test 123 test 123 test 123 test 123 test 123 test 123 ",
+  "image": "https://blob.8004scan.app/417ca4d7f4134624deacaeb7cfd547665d5fdc804b5830590ed945e515c20a33.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": [
+        "energy/power_generation",
+        "energy/oil_and_gas"
+      ]
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://qq.com",
+      "version": "2025-06-18"
+    }
+  ],
+  "registeredBlock": 24346505,
+  "txHash": "0x8175d25055525133348c0f6da82f19a8b6628d8d2b17b01f7467656805aad83a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "test agent 123",
+    "description": "test 123 test 123 test 123 test 123 test 123 test 123 ",
+    "image": "https://blob.8004scan.app/417ca4d7f4134624deacaeb7cfd547665d5fdc804b5830590ed945e515c20a33.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": [
+          "energy/power_generation",
+          "energy/oil_and_gas"
+        ]
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://qq.com",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:57.206Z"
+}

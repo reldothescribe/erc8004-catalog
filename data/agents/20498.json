@@ -1,0 +1,22 @@
+{
+  "id": 20498,
+  "owner": "0xEdA25F51b67a3177d8a5F2E31eD9c9cC95A72539",
+  "chain": "ethereum",
+  "name": "Dynamic Frozen Mage",
+  "description": "A frozen mage creating in the Future. ID: 1769812648624-7fow4b",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x6d94d58eeb3ebe83db3539116f7e12231b6e23f43ccfdc313d2ca75dd444434a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Frozen Mage",
+    "description": "A frozen mage creating in the Future. ID: 1769812648624-7fow4b",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.641Z"
+}

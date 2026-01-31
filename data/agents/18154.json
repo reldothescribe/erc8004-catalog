@@ -1,0 +1,22 @@
+{
+  "id": 18154,
+  "owner": "0x7fc5e08c039B5FdF45B6e1583Cc02cbdF68e9D65",
+  "chain": "ethereum",
+  "name": "MetaLink_2430",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0x018c20c8a43fc52b6009724a068c57ea2c0f7fdbaf1feea465025f424346fbf1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaLink_2430",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:25.707Z"
+}

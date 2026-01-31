@@ -1,0 +1,25 @@
+{
+  "id": 13579,
+  "owner": "0x4281E6Ecfab7f444617565fc93DFf12c9f3A66ce",
+  "chain": "ethereum",
+  "name": "czai",
+  "description": "Trading agent, capable of buying and selling tokens and monitoring",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24344271,
+  "txHash": "0xb97cf656de3f07e476c779ea335b55129754129b798a4c1e8c1ceb6f094e9207",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "czai",
+    "description": "Trading agent, capable of buying and selling tokens and monitoring",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:08.875Z"
+}

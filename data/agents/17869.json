@@ -1,0 +1,22 @@
+{
+  "id": 17869,
+  "owner": "0x7F312d24E2EA50EA3e82FFee87c5B022D0D88D77",
+  "chain": "ethereum",
+  "name": "NovaAgent_5934",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x95ee3533e0c479ee91e2855deba92f0a53b17d3a24cb17a152e8bb267685f1b6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaAgent_5934",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:10.136Z"
+}

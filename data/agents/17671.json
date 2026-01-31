@@ -1,0 +1,22 @@
+{
+  "id": 17671,
+  "owner": "0x7bbF5d17f0d84ec5D61Ac2C1da7E2fF7d230C756",
+  "chain": "ethereum",
+  "name": "MetaBot_7545",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x3558438161a07118c0e8f590fb711ff520e12704687ab7abbdf36b637d37eac2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaBot_7545",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:59.595Z"
+}

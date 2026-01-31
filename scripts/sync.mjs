@@ -19,7 +19,7 @@ const REGISTRY = '0x8004A169FB4a3325136EB29fA0ceB6D2e539a432';
 const ZERO_ADDRESS = '0x0000000000000000000000000000000000000000';
 
 // Ethereum: Contract around block 24340000
-const ETH_START_BLOCK = 24340000n;
+const ETH_START_BLOCK = 21000000n; // Earlier to catch all mints
 const ETH_BLOCK_CHUNK = 5000n;
 
 // Base: Contract around block 41500000
@@ -248,11 +248,11 @@ async function syncAgents() {
   }
   console.log(`   Existing: ${existingIds.size}`);
 
-  const ethFromBlock = forceRefresh || index.ethLastBlock === 0 
+  const ethFromBlock = forceRefresh || !index.ethLastBlock
     ? ETH_START_BLOCK 
     : BigInt(index.ethLastBlock + 1);
   
-  const baseFromBlock = forceRefresh || index.baseLastBlock === 0 
+  const baseFromBlock = forceRefresh || !index.baseLastBlock
     ? BASE_START_BLOCK 
     : BigInt(index.baseLastBlock + 1);
   

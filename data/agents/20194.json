@@ -1,0 +1,22 @@
+{
+  "id": 20194,
+  "owner": "0x9bbd5211B64028E6ce22D3De69286c92BAf90fe9",
+  "chain": "ethereum",
+  "name": "Automated Planet",
+  "description": "A tactile planet fighting in Science. ID: 1769812385392-7ftq8o",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x247d6009491b3018037613a1b1565c4e32c05f4e92602872070f4eed7ee0f4f3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Automated Planet",
+    "description": "A tactile planet fighting in Science. ID: 1769812385392-7ftq8o",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:02.023Z"
+}

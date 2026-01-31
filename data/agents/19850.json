@@ -1,0 +1,22 @@
+{
+  "id": 19850,
+  "owner": "0x5f6a353c4AB6127a97487d11D18d49698D1E3A2a",
+  "chain": "ethereum",
+  "name": "Quantum Quill",
+  "description": "An innovative AI agent that crafts poetic responses and solves problems with quantum-inspired creativity, blending logic and artistry for unique insights.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350164,
+  "txHash": "0x5f051a59a8a319df8193f98539b38050ea34a021d7e44fc85170ba9a97ccf800",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Quantum Quill",
+    "description": "An innovative AI agent that crafts poetic responses and solves problems with quantum-inspired creativity, blending logic and artistry for unique insights.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:26.232Z"
+}

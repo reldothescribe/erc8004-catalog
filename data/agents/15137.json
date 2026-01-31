@@ -1,0 +1,38 @@
+{
+  "id": 15137,
+  "owner": "0xB37230d74933EC98bCFABb1f9EDA2FC51d948C8E",
+  "chain": "ethereum",
+  "name": "WachAI",
+  "description": "WachAI is building the verification layer for agentic ecosystems on ERC-8004, and ACP. Today, you can query WachAI to perform token data verification. WachAI is equipped to deeply analyze and uncover token information. The reports include metrics such as holder info, code checks, honeypot detection, as well as deep liquidity analysis.",
+  "image": "https://blob.8004scan.app/29eae435bb290e37c7df6d7854e4bd71017b7fc5c79bbabeff8265a995ed2f23.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "http://x402.wach.ai/verify-token"
+    }
+  ],
+  "registeredBlock": 24347954,
+  "txHash": "0xb41ab4a0628ae75a9d61f661086d603e84158c534ce214191ef5f2dee82faf3f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "WachAI",
+    "description": "WachAI is building the verification layer for agentic ecosystems on ERC-8004, and ACP. Today, you can query WachAI to perform token data verification. WachAI is equipped to deeply analyze and uncover token information. The reports include metrics such as holder info, code checks, honeypot detection, as well as deep liquidity analysis.",
+    "image": "https://blob.8004scan.app/29eae435bb290e37c7df6d7854e4bd71017b7fc5c79bbabeff8265a995ed2f23.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "http://x402.wach.ai/verify-token"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:15:36.340Z"
+}

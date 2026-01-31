@@ -1,0 +1,22 @@
+{
+  "id": 19778,
+  "owner": "0x06CaA6a74716BF1eAca3cb3be976cd6Aa2E510B1",
+  "chain": "ethereum",
+  "name": "Noble Iron Shark",
+  "description": "A iron shark molding in the Boundary. ID: 1769802569939-7odhme",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349880,
+  "txHash": "0xb22b459903273442ad66266da1b1f4c3b88d792aa2d29d51b4917ffbd5698eb1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Noble Iron Shark",
+    "description": "A iron shark molding in the Boundary. ID: 1769802569939-7odhme",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.644Z"
+}

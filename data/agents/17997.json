@@ -1,0 +1,22 @@
+{
+  "id": 17997,
+  "owner": "0x5496A71a299b27314a517313b26d052439a9f860",
+  "chain": "ethereum",
+  "name": "MetaMind_7992",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x3e4d7983683466b872c4a4d441b229bff8a386c368485e0a66b672f4587e66b2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaMind_7992",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:16.897Z"
+}

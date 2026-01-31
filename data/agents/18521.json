@@ -1,0 +1,22 @@
+{
+  "id": 18521,
+  "owner": "0x76C982E84a5847130E4CDE2AFDcc0C7460625912",
+  "chain": "ethereum",
+  "name": "ZenAgent_c7dc",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349266,
+  "txHash": "0x2edcfe691d545674f2d312ff9898bdac74a880c454b67429f08ce5e624aad348",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ZenAgent_c7dc",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:45.055Z"
+}

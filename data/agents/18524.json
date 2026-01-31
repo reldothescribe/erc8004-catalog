@@ -1,0 +1,22 @@
+{
+  "id": 18524,
+  "owner": "0x0113225666a280e572B550d7c643822Cb5b0eDCF",
+  "chain": "ethereum",
+  "name": "LuxBot_cdde",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349266,
+  "txHash": "0x2c17be1d5ce0e9ea524e149d4f9975a7373cf88cc10615d98a589e0aec39ddf6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxBot_cdde",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:45.774Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20797,
+  "owner": "0xCcBe63a952729aD8dcf1830FA68c4A91EbacB690",
+  "chain": "ethereum",
+  "name": "Golden Door",
+  "description": "A ancient door dreaming in the Past. ID: 1769812703727-8lgtz5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x2726eca79a20099a3af826f943ee04b453a6e28b88fcf9a4fdc5c013a5ebfa3c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Door",
+    "description": "A ancient door dreaming in the Past. ID: 1769812703727-8lgtz5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.262Z"
+}

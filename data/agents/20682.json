@@ -1,0 +1,22 @@
+{
+  "id": 20682,
+  "owner": "0x38447282160C1cc96F43855225A1867d6E095B2c",
+  "chain": "ethereum",
+  "name": "Autonomous Sonic Way",
+  "description": "A sonic way destroying in Mystery. ID: 1769812702394-5smsu4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xc793db2912d98467af6c1fb362cb6063ef06d23dcdfdd3f2ee7b516373da4b3b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Sonic Way",
+    "description": "A sonic way destroying in Mystery. ID: 1769812702394-5smsu4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.751Z"
+}

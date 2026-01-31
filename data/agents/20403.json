@@ -1,0 +1,22 @@
+{
+  "id": 20403,
+  "owner": "0x38447282160C1cc96F43855225A1867d6E095B2c",
+  "chain": "ethereum",
+  "name": "Ruby Agent",
+  "description": "A astral agent waiting in Magic. ID: 1769812588611-g972an",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350712,
+  "txHash": "0x158ce8cf21e16aa2b8ce2b741ddce7cdb9f2b0d6ae4f08045984ddc82bb1bbfc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Agent",
+    "description": "A astral agent waiting in Magic. ID: 1769812588611-g972an",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.927Z"
+}

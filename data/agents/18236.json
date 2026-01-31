@@ -1,0 +1,22 @@
+{
+  "id": 18236,
+  "owner": "0x542B8430aE0B6D90Ee7f0541D72274d7A34b0f0D",
+  "chain": "ethereum",
+  "name": "NexLink_9136",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349232,
+  "txHash": "0xbce298a812b8945c37e0a2d7660b2a5a4471c2f4c53268cd6f70f3d507d11578",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexLink_9136",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:30.822Z"
+}

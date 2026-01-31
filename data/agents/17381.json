@@ -1,0 +1,22 @@
+{
+  "id": 17381,
+  "owner": "0x16D68fB50FE911aC30062d8D1cB153d6De2BD6A9",
+  "chain": "ethereum",
+  "name": "CyberAgent_4092",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0xec1bb590decf1ab5d147129d6f9f54ddb4e081de0793ffa2be0602f4e75e7a08",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberAgent_4092",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:44.946Z"
+}

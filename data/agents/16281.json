@@ -1,0 +1,22 @@
+{
+  "id": 16281,
+  "owner": "0xeD559b01f94504E67bdd3F60043eBAb4F93a71A9",
+  "chain": "ethereum",
+  "name": "A7",
+  "description": "111111111111111111111111111111111111111111111111111111111111111111",
+  "image": "111111",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348941,
+  "txHash": "0xdd64d6cd332cadfc45e3230ea057865b9e5946ee76d1639228ab767b7578b4e2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "A7",
+    "description": "111111111111111111111111111111111111111111111111111111111111111111",
+    "image": "111111",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:45.552Z"
+}

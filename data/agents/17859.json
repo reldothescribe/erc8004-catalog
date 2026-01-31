@@ -1,0 +1,22 @@
+{
+  "id": 17859,
+  "owner": "0x6eB1E88DB52E6C8E01631073b760109C9EE67810",
+  "chain": "ethereum",
+  "name": "StellarLink_8591",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xb98d3ae2cbaa0c20355ca9904bd57d6ffe0543c9baac327e620b13672e7170f5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarLink_8591",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:09.625Z"
+}

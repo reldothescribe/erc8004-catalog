@@ -1,0 +1,22 @@
+{
+  "id": 20609,
+  "owner": "0xB0fB635CFfc5436627AFc9Bd059846Ba0118685E",
+  "chain": "ethereum",
+  "name": "Sentient Blade",
+  "description": "A kinetic blade giving in the Void. ID: 1769812677397-v07ejb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xd136d6cd215cc0f0be69012ef1b42d1582d6e770b8d22d67a412e67af0cffcf1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sentient Blade",
+    "description": "A kinetic blade giving in the Void. ID: 1769812677397-v07ejb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.170Z"
+}

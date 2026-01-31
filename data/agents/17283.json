@@ -1,0 +1,22 @@
+{
+  "id": 17283,
+  "owner": "0x031B87f9B9f4255fE46e1E451094D7c3fED2A296",
+  "chain": "ethereum",
+  "name": "NovaCore_9261",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349163,
+  "txHash": "0xcea452f0204e7ca8c766877443f66ebac99dc1ee2677575c6ab86389e4abc637",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaCore_9261",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:40.338Z"
+}

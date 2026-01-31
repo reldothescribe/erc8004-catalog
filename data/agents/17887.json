@@ -1,0 +1,22 @@
+{
+  "id": 17887,
+  "owner": "0x70976408e7966469e46317FDb712D5b78616757E",
+  "chain": "ethereum",
+  "name": "UltraNet_7461",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x579735e264d96cd25daab368db08b0a340a08d52484396e09c5e416b959f9f08",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNet_7461",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:11.161Z"
+}

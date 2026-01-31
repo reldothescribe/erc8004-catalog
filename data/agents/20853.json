@@ -1,0 +1,22 @@
+{
+  "id": 20853,
+  "owner": "0xB0fB635CFfc5436627AFc9Bd059846Ba0118685E",
+  "chain": "ethereum",
+  "name": "Future Driver",
+  "description": "A meta driver swimming in Nature. ID: 1769812742702-t55oao",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x7b7b9140b74b7f35de4f2e81e4d221493ae3b4c303bb284c3211d00fd29630c9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Driver",
+    "description": "A meta driver swimming in Nature. ID: 1769812742702-t55oao",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.292Z"
+}

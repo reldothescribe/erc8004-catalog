@@ -1,0 +1,25 @@
+{
+  "id": 13458,
+  "owner": "0x81C4853d9A7Fa4C216b7C528caE748e4b276cc1b",
+  "chain": "ethereum",
+  "name": "four",
+  "description": "Trading agent, capable of buying and selling tokens and monitoring",
+  "image": "https://blob.8004scan.app/ec5ec75eb6b525578e484c83ba02c46822e762879f9f2427b16494324c5c05ca.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24344174,
+  "txHash": "0x46091620d13c94e9f32bb450b8d87a9470b39c28b30ef2659060c26f936986bd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "four",
+    "description": "Trading agent, capable of buying and selling tokens and monitoring",
+    "image": "https://blob.8004scan.app/ec5ec75eb6b525578e484c83ba02c46822e762879f9f2427b16494324c5c05ca.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:02.528Z"
+}

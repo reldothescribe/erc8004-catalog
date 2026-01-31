@@ -1,0 +1,22 @@
+{
+  "id": 17372,
+  "owner": "0x51F1159673B415FB9538Ba7DD45d27828D90a696",
+  "chain": "ethereum",
+  "name": "HyperBot_2325",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x6f997ca805d08450d51fe48775b4c789764a9cf46fd5eaa5054c33cfdb184efa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperBot_2325",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:44.435Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20796,
+  "owner": "0x529dcaC260b5118e1Eaf82D195620Af3554D9c59",
+  "chain": "ethereum",
+  "name": "Young Node",
+  "description": "A bounded node weaving in Saturn. ID: 1769812720675-sh8psv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xbb7f2dedd27a6206f085a371cd06fb1c9afb56c453a95df292c15fa4586b9c69",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Node",
+    "description": "A bounded node weaving in Saturn. ID: 1769812720675-sh8psv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.221Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20126,
+  "owner": "0x18952b5bb759df25D7871d18d4D293b5dD1bBDe9",
+  "chain": "ethereum",
+  "name": "Atomic Castle 1274",
+  "description": "A amber castle creating in Dimension X. ID: 1769812352387-vdni0x",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0x3505e007ce657efa702b35bb6e4131e6877cd523fb3b5aff0811b478d98fcf8f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Castle 1274",
+    "description": "A amber castle creating in Dimension X. ID: 1769812352387-vdni0x",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.393Z"
+}

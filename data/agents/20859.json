@@ -1,0 +1,22 @@
+{
+  "id": 20859,
+  "owner": "0xc3664a81B40d5b99F3838A53ac6271bEA082F319",
+  "chain": "ethereum",
+  "name": "Neural Anvil",
+  "description": "A alpha anvil selling in Berlin. ID: 1769812741948-p0d85x",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xf815133293469fc35c28e62c7e92b1c406dfe8870011237deba397ccd39a67b1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neural Anvil",
+    "description": "A alpha anvil selling in Berlin. ID: 1769812741948-p0d85x",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.292Z"
+}

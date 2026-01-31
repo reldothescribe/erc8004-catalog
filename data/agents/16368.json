@@ -1,0 +1,22 @@
+{
+  "id": 16368,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_7f0e",
+  "description": "Smart autonomous agent managing decentralized tasks with immutable audit trails.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349055,
+  "txHash": "0x30b5f10b329d30db3866fcea1e0eeb7089a82d635b9892a5b0a6f4f4c15c62c7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_7f0e",
+    "description": "Smart autonomous agent managing decentralized tasks with immutable audit trails.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:50.068Z"
+}

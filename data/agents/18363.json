@@ -1,0 +1,22 @@
+{
+  "id": 18363,
+  "owner": "0xf1406da4Cb5F7fd771071323249236B7ef306D69",
+  "chain": "ethereum",
+  "name": "SolChain_c0b8",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349253,
+  "txHash": "0x5b5a0e04f16588239735bd1a228763f13ec1857023edc8f4e00a5994829d544f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolChain_c0b8",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:37.377Z"
+}

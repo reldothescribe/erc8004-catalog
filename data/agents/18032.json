@@ -1,0 +1,22 @@
+{
+  "id": 18032,
+  "owner": "0x4C82940C54490f6876a0bae840F3dd2dCAb649D8",
+  "chain": "ethereum",
+  "name": "MetaLink_4967",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x584651d6226c835ab162c73b072ad0e1900c2e7a97134754edc91e8c9f3c6fc5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaLink_4967",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.385Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20777,
+  "owner": "0xbF8233FCe9038600D5eA01284B42E9ae01458451",
+  "chain": "ethereum",
+  "name": "Celestial Vortex",
+  "description": "A amber vortex stopping in Space. ID: 1769812720023-z8i62a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x671d072bcd6fb211e97e7cd3b6b74f7e3f4402ad9dc57eeaec976857c34de979",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Celestial Vortex",
+    "description": "A amber vortex stopping in Space. ID: 1769812720023-z8i62a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.200Z"
+}

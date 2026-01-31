@@ -1,0 +1,22 @@
+{
+  "id": 18109,
+  "owner": "0x14327c32dbfd4b04a7c6BCF2c191772520D712a8",
+  "chain": "ethereum",
+  "name": "NeoAgent_2738",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0xe8b7cd019591dd9235ad8d726c43e41c466216a68d30264d13de06d39ccced12",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoAgent_2738",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:23.042Z"
+}

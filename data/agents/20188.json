@@ -1,0 +1,22 @@
+{
+  "id": 20188,
+  "owner": "0x64Dc29113b799BE8C6243f95113fb7709b6b4E84",
+  "chain": "ethereum",
+  "name": "Savage Protocol 3204",
+  "description": "A celestial protocol sleeping in Pluto. ID: 1769812385392-1qvp4e",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0xaa0df4e2369c02227132a168d6c865ba415ada450c3d39d0924f730155981f4f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Savage Protocol 3204",
+    "description": "A celestial protocol sleeping in Pluto. ID: 1769812385392-1qvp4e",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.560Z"
+}

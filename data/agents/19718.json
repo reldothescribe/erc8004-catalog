@@ -1,0 +1,22 @@
+{
+  "id": 19718,
+  "owner": "0x8de8F4aB5403Cd2182146068d820E6C378829aF8",
+  "chain": "ethereum",
+  "name": "Sonic Storm",
+  "description": "A valiant storm painting in Dimension X. ID: 1769802468403-gqzde1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349872,
+  "txHash": "0x6c3caab1f8bf14ea2ba747286cd0b2e1d8f9f7036c74208518ce570eddeecb57",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Storm",
+    "description": "A valiant storm painting in Dimension X. ID: 1769802468403-gqzde1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:48.854Z"
+}

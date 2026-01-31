@@ -1,0 +1,22 @@
+{
+  "id": 17697,
+  "owner": "0x56D52Ca679E7976EA5f518C66FDFaA47ac961f44",
+  "chain": "ethereum",
+  "name": "UltraMind_7823",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0xc82bb944e5dd9d7ceb76716b6c301c48c0b0d4fc5b0ca4d983e39879806f0626",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraMind_7823",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:01.102Z"
+}

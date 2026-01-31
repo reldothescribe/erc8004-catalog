@@ -1,0 +1,22 @@
+{
+  "id": 20527,
+  "owner": "0xc9D349736BC96Cc1Ab36741072D709761E327a85",
+  "chain": "ethereum",
+  "name": "Rapid Titan",
+  "description": "A secret titan dreaming in the Heights. ID: 1769812642036-iz7j6w",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xb4e87f3f2a1d0e31ed5b42c3beeee9362ad14c907f6355ac500e0e238731e8e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Titan",
+    "description": "A secret titan dreaming in the Heights. ID: 1769812642036-iz7j6w",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.070Z"
+}

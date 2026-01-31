@@ -1,0 +1,22 @@
+{
+  "id": 18049,
+  "owner": "0xD70476572A6e812dE984d262def3c12FF26b8538",
+  "chain": "ethereum",
+  "name": "UltraAgent_2952",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x81d77d9b39822c444e87adbc7f3dab2423e62bed879199c2bf877a5711b1bfdf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraAgent_2952",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:19.455Z"
+}

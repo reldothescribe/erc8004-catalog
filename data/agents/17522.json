@@ -1,0 +1,22 @@
+{
+  "id": 17522,
+  "owner": "0x192DA82b6345f913B86bAfd0768d1d388f72624a",
+  "chain": "ethereum",
+  "name": "NeoMind_4638",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x95ef2197b9491b193e66ef9d1b919805396a87e04a2901a3e1f0bd9d61315af7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoMind_4638",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:52.115Z"
+}

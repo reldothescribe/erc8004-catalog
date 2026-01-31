@@ -1,6 +1,7 @@
 {
   "id": 14453,
   "owner": "0x311a9185c31214982093291eD59de2d8741419F5",
+  "chain": "ethereum",
   "name": "test",
   "description": "only test This is just an AI test, please do not disturb.",
   "image": "",
@@ -17,5 +18,5 @@
     "active": true,
     "x402Support": false
   },
-  "syncedAt": "2026-01-31T02:02:47.770Z"
+  "syncedAt": "2026-01-31T03:15:00.234Z"
 }

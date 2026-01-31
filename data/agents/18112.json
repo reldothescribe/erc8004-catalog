@@ -1,0 +1,22 @@
+{
+  "id": 18112,
+  "owner": "0x6594F349bB84717dF27BEe414B70aB027C3185E7",
+  "chain": "ethereum",
+  "name": "NeoFlow_9522",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x7c4af8c4a5ec53958d201131a6e977ea0293494aa98156f5bb345b45d882c196",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoFlow_9522",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:23.042Z"
+}

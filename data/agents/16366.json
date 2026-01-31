@@ -1,0 +1,22 @@
+{
+  "id": 16366,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_f68b",
+  "description": "Smart autonomous agent handling autonomous transactions with immutable audit trails.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349055,
+  "txHash": "0x15cc0cea339c9d034196dae0f2ac886878c40567951863ba55f846992361e833",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_f68b",
+    "description": "Smart autonomous agent handling autonomous transactions with immutable audit trails.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:50.079Z"
+}

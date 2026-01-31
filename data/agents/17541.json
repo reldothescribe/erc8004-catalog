@@ -1,0 +1,22 @@
+{
+  "id": 17541,
+  "owner": "0xACB8869D57F3bE8Dfe38a7198FcaB738D5fC4eCE",
+  "chain": "ethereum",
+  "name": "QuantumHub_379",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x5a8887552f36409b4dcccad093b1f705c380fe28cfad9f36f0946ddd0857ab71",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumHub_379",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:53.144Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20116,
+  "owner": "0xFDF641b02610F312db0d3cAB2d74ef477FB75550",
+  "chain": "ethereum",
+  "name": "Cosmic Bard 3527",
+  "description": "A solar bard molding in the Grid. ID: 1769812334527-zyb9g3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350691,
+  "txHash": "0xb195a6c6437849efb2e2b72d4a576f40246f7d61eadb5cb99aa7d61223264c7a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Bard 3527",
+    "description": "A solar bard molding in the Grid. ID: 1769812334527-zyb9g3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:57.820Z"
+}

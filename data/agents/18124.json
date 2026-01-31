@@ -1,0 +1,22 @@
+{
+  "id": 18124,
+  "owner": "0xA1dD1aB0F66DE2c0A33789c9628168d4939F224c",
+  "chain": "ethereum",
+  "name": "MetaAgent_5232",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0x59c931480202bd2ebf4411c383d592368e83acf4fd52bbe72108771696ba5ced",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaAgent_5232",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:24.165Z"
+}

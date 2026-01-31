@@ -1,0 +1,22 @@
+{
+  "id": 18500,
+  "owner": "0x786f2Ca2AC844b8C186a2DDb4eB0C96043Fd53AB",
+  "chain": "ethereum",
+  "name": "VorWave_a4ee",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349265,
+  "txHash": "0x98883c89249d5ab8e4f4de9ed495a26a36dc03dc98e0f05cc3ddbc3ad71ff8a8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VorWave_a4ee",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:44.033Z"
+}

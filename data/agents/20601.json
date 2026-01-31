@@ -1,0 +1,22 @@
+{
+  "id": 20601,
+  "owner": "0xAb3eB869d2a44b60A758ebFc7462cf05Cefec3F8",
+  "chain": "ethereum",
+  "name": "Dark Druid 6118",
+  "description": "A dark druid speaking in Jupiter. ID: 1769812674861-wtde2q",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xf861d45cb6e176dbf8b97712deca0b846c4996ad71456318f363f34f13e116a9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Druid 6118",
+    "description": "A dark druid speaking in Jupiter. ID: 1769812674861-wtde2q",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.656Z"
+}

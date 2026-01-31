@@ -1,0 +1,22 @@
+{
+  "id": 20803,
+  "owner": "0x9bB7bc5a1741a11E73409772775E2358532dD47c",
+  "chain": "ethereum",
+  "name": "Frozen Bard",
+  "description": "A magnetic bard losing in Legend. ID: 1769812719368-mz2zxt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x6580625724c1aaafadce62f0ca13b695e393d4e3107c62663ffcdf285bf33abe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Bard",
+    "description": "A magnetic bard losing in Legend. ID: 1769812719368-mz2zxt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.734Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17290,
+  "owner": "0xF019250bD589c8A85bA5515aBc9D5cb6786e676e",
+  "chain": "ethereum",
+  "name": "CyberAgent_9548",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349163,
+  "txHash": "0x9dac5e771e19a5ac4ebaa9a7891f6df05bd57b4342422e9a5eedc7739a6222e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberAgent_9548",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:40.338Z"
+}

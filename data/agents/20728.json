@@ -1,0 +1,22 @@
+{
+  "id": 20728,
+  "owner": "0x444e9EE2149588d0824B00BEb137a67c0455c00B",
+  "chain": "ethereum",
+  "name": "Ancient Blazing Eagle",
+  "description": "A blazing eagle watching in Magic. ID: 1769812718750-yw9t46",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xd75bdca6f707e9762e16b468a7e0d69ab440b366e8eb2740fe5f88428d28e83b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ancient Blazing Eagle",
+    "description": "A blazing eagle watching in Magic. ID: 1769812718750-yw9t46",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.637Z"
+}

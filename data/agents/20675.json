@@ -1,0 +1,22 @@
+{
+  "id": 20675,
+  "owner": "0x565953D1d360818D1486aF1dBAB6EAC2DB47f91E",
+  "chain": "ethereum",
+  "name": "Ether Digital Colossus",
+  "description": "A digital colossus resting in DeFi. ID: 1769812702394-h14k6k",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x7dd6f47f6d88b851b64a1bb8a489d6a6436a1279b94731ce1ee502ab1d6bcbe5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Digital Colossus",
+    "description": "A digital colossus resting in DeFi. ID: 1769812702394-h14k6k",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.751Z"
+}

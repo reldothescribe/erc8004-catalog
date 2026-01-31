@@ -1,0 +1,22 @@
+{
+  "id": 20812,
+  "owner": "0xB4B28fAe4c438285a38EB8f72d6C4891656736b3",
+  "chain": "ethereum",
+  "name": "Fierce Bounded Throne",
+  "description": "A bounded throne resting in Tokyo. ID: 1769812740544-2bbgx2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xb5923679f94cb7e1192d9b2aa03779bda604291f9b18a71fc77751b31df80d59",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Bounded Throne",
+    "description": "A bounded throne resting in Tokyo. ID: 1769812740544-2bbgx2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.733Z"
+}

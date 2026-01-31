@@ -1,0 +1,22 @@
+{
+  "id": 16423,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_5ba6",
+  "description": "Smart autonomous agent handling cross-chain operations with trustless guarantees.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349057,
+  "txHash": "0xe8aaacc8c61ae405463ecaeea83067ccf9db3f5bc0332a04d231ee110c819c6e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_5ba6",
+    "description": "Smart autonomous agent handling cross-chain operations with trustless guarantees.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:53.131Z"
+}

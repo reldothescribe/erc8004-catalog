@@ -1,0 +1,22 @@
+{
+  "id": 17564,
+  "owner": "0x7c8066c7666d26063D6f8E85E19d0405Caa43CC2",
+  "chain": "ethereum",
+  "name": "PrimeLink_1296",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x771e5862f37e6ed0e76be3ed8f20e12341553a076eadb66e6150c663c82e2b32",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeLink_1296",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:54.626Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20756,
+  "owner": "0xE28D7Db180a8AB302b77789eAeD07303fbc34D54",
+  "chain": "ethereum",
+  "name": "Crystal Iron Star",
+  "description": "A iron star dreaming in the Network. ID: 1769812703727-t0d50b",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x8d367c030a43d235a95a582b888b0f43c289085d37611e2be07f5650625c8f91",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crystal Iron Star",
+    "description": "A iron star dreaming in the Network. ID: 1769812703727-t0d50b",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.173Z"
+}

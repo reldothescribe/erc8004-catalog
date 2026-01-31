@@ -1,0 +1,22 @@
+{
+  "id": 17164,
+  "owner": "0x6723313c830d54B015484A810c5eB6a22a81b21f",
+  "chain": "ethereum",
+  "name": "QuantumNet_9210",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349142,
+  "txHash": "0x4066ca82b69950dce2cd7228a675142c96c7e451304f9bf832e8bc365c996262",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumNet_9210",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:34.195Z"
+}

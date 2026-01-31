@@ -1,0 +1,22 @@
+{
+  "id": 15420,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "ForgeAI",
+  "description": "The next wave of crypto isn't built by humans alone. AI agents are writing, deploying, and interacting with smart contracts autonomously.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348749,
+  "txHash": "0x4b753987c76171d6952bfa660b4043b3ed7887a022e66ed6db6a2403a088d2f7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ForgeAI",
+    "description": "The next wave of crypto isn't built by humans alone. AI agents are writing, deploying, and interacting with smart contracts autonomously.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:15:52.098Z"
+}

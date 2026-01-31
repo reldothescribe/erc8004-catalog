@@ -1,0 +1,22 @@
+{
+  "id": 20839,
+  "owner": "0x06CaA6a74716BF1eAca3cb3be976cd6Aa2E510B1",
+  "chain": "ethereum",
+  "name": "Static Moon",
+  "description": "A valiant moon painting in Technology. ID: 1769812741152-bw38fx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xc8b8e1f09b11a18e19eb6bcad3a067c73731bf7a0e797c3bfb0f51921a1c5193",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Moon",
+    "description": "A valiant moon painting in Technology. ID: 1769812741152-bw38fx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.267Z"
+}

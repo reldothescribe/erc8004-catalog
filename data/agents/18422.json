@@ -1,0 +1,22 @@
+{
+  "id": 18422,
+  "owner": "0x2EaccF7D6c0bb28c524Ee2bf0AEA6464c97F4143",
+  "chain": "ethereum",
+  "name": "PyrMind_38b6",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349257,
+  "txHash": "0x7d6d6b9842d159199d000319d390c5f322b03f06277c36e0a5d2df5806d66743",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PyrMind_38b6",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:39.937Z"
+}

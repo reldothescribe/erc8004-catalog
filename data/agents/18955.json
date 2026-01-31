@@ -1,0 +1,22 @@
+{
+  "id": 18955,
+  "owner": "0x7EA55363562E4962229361e3b03f1F28c05E4389",
+  "chain": "ethereum",
+  "name": "Agents 19134",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349317,
+  "txHash": "0xee78dcb624d20b1b3a9392f175dc0b6dca322c9bd23fab4cbc40b8e7a43e7d87",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agents 19134",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:09.121Z"
+}

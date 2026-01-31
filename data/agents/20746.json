@@ -1,0 +1,22 @@
+{
+  "id": 20746,
+  "owner": "0xC6506824E68402C9AC6957988A6e92a4Ec08c724",
+  "chain": "ethereum",
+  "name": "Light Planet",
+  "description": "A nexus planet painting in the Metaverse. ID: 1769812719367-jm2bmy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x3f09a947bbc37764d097cc41676c86e6d0c4492b3815ab54078489b9bf3bb706",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Planet",
+    "description": "A nexus planet painting in the Metaverse. ID: 1769812719367-jm2bmy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.661Z"
+}

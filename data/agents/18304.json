@@ -1,0 +1,22 @@
+{
+  "id": 18304,
+  "owner": "0xA3c2140B86C43996D4ded8F64Fc0EaeC9c290526",
+  "chain": "ethereum",
+  "name": "NexVault_a424",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349249,
+  "txHash": "0xc62aaac77979f0c62722f4c8596b9e91f0204ac02e5653a4172a337fb696e51a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexVault_a424",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:34.311Z"
+}

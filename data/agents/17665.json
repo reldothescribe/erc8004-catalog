@@ -1,0 +1,22 @@
+{
+  "id": 17665,
+  "owner": "0x157fc720b3486534dfC1e64CE73bbB473484C5E8",
+  "chain": "ethereum",
+  "name": "AxiFlow_3847",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x41d0a2f092ea585a9df8a01ab5455edc9e6f0ef6d1ff3fb859cf39bc6caab5eb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiFlow_3847",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:59.595Z"
+}

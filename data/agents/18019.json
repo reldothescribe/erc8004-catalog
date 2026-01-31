@@ -1,0 +1,22 @@
+{
+  "id": 18019,
+  "owner": "0xa9d950105E8cb69AAcA26Ad798ee12fd306f18A8",
+  "chain": "ethereum",
+  "name": "UltraNet_5500",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xf9d0f5619611fecb7d50f161dee691feba6c63b211c064c2e8d5af54acd53c54",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNet_5500",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:17.921Z"
+}

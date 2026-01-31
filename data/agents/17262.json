@@ -1,0 +1,22 @@
+{
+  "id": 17262,
+  "owner": "0x93F168e1C730AB546e9b1d303b0f66aDbCB60134",
+  "chain": "ethereum",
+  "name": "HyperAgent_2624",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349162,
+  "txHash": "0xdff20ae14066118f3a628091c478f2736ebee9a500674deca98154c0eb6739b3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperAgent_2624",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.802Z"
+}

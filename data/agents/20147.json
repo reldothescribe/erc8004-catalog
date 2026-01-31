@@ -1,0 +1,22 @@
+{
+  "id": 20147,
+  "owner": "0x6767510909e922034EfE7004f05E49D18e75E02F",
+  "chain": "ethereum",
+  "name": "Liquid Pearl Wanderer",
+  "description": "A pearl wanderer sharing in the Metaverse. ID: 1769812365392-jh9br6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0x8d6e6e8b6dc9410b4095c1d76c7e6eb15802cbbcd651753c1eed182aef26f1e5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Pearl Wanderer",
+    "description": "A pearl wanderer sharing in the Metaverse. ID: 1769812365392-jh9br6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:59.548Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16411,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_2823",
+  "description": "Next-gen AI operator coordinating on-chain activities with cryptographic security.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349057,
+  "txHash": "0x1fbb1e655c3b3cd0ebe88243f195823195a4965d4862b3a208c8ee0132b45bd1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_2823",
+    "description": "Next-gen AI operator coordinating on-chain activities with cryptographic security.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:52.107Z"
+}

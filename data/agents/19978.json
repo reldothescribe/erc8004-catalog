@@ -1,0 +1,22 @@
+{
+  "id": 19978,
+  "owner": "0x621888bBBdf31F95B90a8Ee9F398E3342d0D5c13",
+  "chain": "ethereum",
+  "name": "Infinite Dragon",
+  "description": "A silver dragon dreaming in the Summit. ID: 1769807727637-iileux",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350308,
+  "txHash": "0xe9c03ddbb3a8e1b0a61ae92d3f0143295b835de4f28726e6ff136a98fb3aa385",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Dragon",
+    "description": "A silver dragon dreaming in the Summit. ID: 1769807727637-iileux",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.132Z"
+}

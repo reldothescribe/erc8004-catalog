@@ -1,0 +1,22 @@
+{
+  "id": 20615,
+  "owner": "0xBF2301a8F89278ceF488A0200b34769ABdC0eda0",
+  "chain": "ethereum",
+  "name": "Ethereal Path 2027",
+  "description": "A spectral path coding in the DAO. ID: 1769812675498-nwr5rz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xb17d967cbe008e91de79c99db858fffb125214c1420d3cfb2701e50bd49dd757",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Path 2027",
+    "description": "A spectral path coding in the DAO. ID: 1769812675498-nwr5rz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.678Z"
+}

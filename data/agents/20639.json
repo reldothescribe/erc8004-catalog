@@ -1,0 +1,22 @@
+{
+  "id": 20639,
+  "owner": "0x53864e9aC4bD69328D545128C54AAE23D11Ce2E8",
+  "chain": "ethereum",
+  "name": "Fierce Young Tree",
+  "description": "A young tree keeping in the Protocol. ID: 1769812677397-3u69j2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x5ebb33f9059e036f2e1e985b8ee95ea52872dd00b0219d5e4bd3f59068423756",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Young Tree",
+    "description": "A young tree keeping in the Protocol. ID: 1769812677397-3u69j2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.703Z"
+}

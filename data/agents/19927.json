@@ -1,0 +1,22 @@
+{
+  "id": 19927,
+  "owner": "0x1665b53FDc6069507449435a7186e876D93166Fc",
+  "chain": "ethereum",
+  "name": "Arcane Node 1274",
+  "description": "A blazing node walking in Saturn. ID: 1769806616086-5muqqh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350215,
+  "txHash": "0x24ebd434815e20387f18e1ab079393f8820490b80237c0b089bb544043eb2026",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Node 1274",
+    "description": "A blazing node walking in Saturn. ID: 1769806616086-5muqqh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:36.530Z"
+}

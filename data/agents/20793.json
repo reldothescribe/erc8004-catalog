@@ -1,0 +1,22 @@
+{
+  "id": 20793,
+  "owner": "0x7C784D71dE2811930D68bc6B9ca2F5F9DcEB9ECf",
+  "chain": "ethereum",
+  "name": "Autonomous Hydra",
+  "description": "A azure hydra building in History. ID: 1769812720023-08ru20",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x03db44a3e3a278308a025bcd1ee18ecfb21eb9469123aeed3bacf6c5c802a9d1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Hydra",
+    "description": "A azure hydra building in History. ID: 1769812720023-08ru20",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.221Z"
+}

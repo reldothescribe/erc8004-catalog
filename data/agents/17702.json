@@ -1,0 +1,22 @@
+{
+  "id": 17702,
+  "owner": "0x571826e1eBF8A13076F137081458E2236665a1c6",
+  "chain": "ethereum",
+  "name": "NovaSync_8397",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349188,
+  "txHash": "0x561293b1bea040faa3c5443f0be442aa9ab09b728c933789dd49da26137dc95b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaSync_8397",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:01.103Z"
+}

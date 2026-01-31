@@ -1,0 +1,22 @@
+{
+  "id": 16420,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_87ff",
+  "description": "AI-powered agent orchestrating trustless operations with transparent governance.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349057,
+  "txHash": "0x1e72fdd7a77d7ef1934e97aef304fbaff800516d0eec20e918e3cbf7a0f58307",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_87ff",
+    "description": "AI-powered agent orchestrating trustless operations with transparent governance.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:52.576Z"
+}

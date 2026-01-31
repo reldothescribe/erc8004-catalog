@@ -1,0 +1,22 @@
+{
+  "id": 20760,
+  "owner": "0x4371c3f7b6390108ad6d71844C6d62af1Fa2E207",
+  "chain": "ethereum",
+  "name": "Atomic Emerald Star",
+  "description": "A emerald star trading in Nature. ID: 1769812720675-8b4wrm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xaf61bda001de5186f83827ca6f016396b6001358dae1cc0d67c39c9fb65a6426",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Emerald Star",
+    "description": "A emerald star trading in Nature. ID: 1769812720675-8b4wrm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.172Z"
+}

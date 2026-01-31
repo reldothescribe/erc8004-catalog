@@ -1,0 +1,22 @@
+{
+  "id": 16399,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_a3ec",
+  "description": "Self-governing AI entity handling smart contract interactions with verifiable execution.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0x07d7b82eb18e73fa04a3bdd3e47d2cc8d3350b3d2c945ddec9e7eae79d53ad8d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_a3ec",
+    "description": "Self-governing AI entity handling smart contract interactions with verifiable execution.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:51.596Z"
+}

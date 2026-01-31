@@ -1,0 +1,22 @@
+{
+  "id": 17390,
+  "owner": "0x2F4575Fe86024B89866d9370d2ABBcA54C45583a",
+  "chain": "ethereum",
+  "name": "NeoCore_7947",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0xc35f22d5a2660c85cf3091e26d5c02824871f9a9fc163b9e664461892fb56761",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoCore_7947",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:45.464Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18188,
+  "owner": "0x983809a5BF40130C35eEec57b9d3B68e20b8D57F",
+  "chain": "ethereum",
+  "name": "HyperNode_1346",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xceb1bbcc8164409bbc114e9e5cd68fa586c62587958de93906fc904bc75416e0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperNode_1346",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.332Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20644,
+  "owner": "0x1f60e7eDf3F4a275C3588A1BbdCB1d8Aa6398c1b",
+  "chain": "ethereum",
+  "name": "Ruby Ruby Phoenix",
+  "description": "A ruby phoenix building in the Edge. ID: 1769812677397-bxo10g",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x50682fca34b83a87ed1daae823c52cf3709ebdbf679a08385234352abc11cd8e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Ruby Phoenix",
+    "description": "A ruby phoenix building in the Edge. ID: 1769812677397-bxo10g",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.215Z"
+}

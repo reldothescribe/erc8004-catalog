@@ -1,0 +1,22 @@
+{
+  "id": 20588,
+  "owner": "0x53864e9aC4bD69328D545128C54AAE23D11Ce2E8",
+  "chain": "ethereum",
+  "name": "Hidden Paladin",
+  "description": "A dark paladin working in Mars. ID: 1769812642686-js4bw1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x63cfb11f7c1a1d5384f562055ff2fe1b9f6d4bd0136fbf85dd3b302603257dfa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Paladin",
+    "description": "A dark paladin working in Mars. ID: 1769812642686-js4bw1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.142Z"
+}

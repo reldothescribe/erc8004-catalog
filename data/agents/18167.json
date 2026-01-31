@@ -1,0 +1,22 @@
+{
+  "id": 18167,
+  "owner": "0xf27af2AbA91251FD938cC8B0D8d57F10b62fB6bE",
+  "chain": "ethereum",
+  "name": "PrimeBot_381",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0x25552212d5dc9849a77e3b13321aea2f336311459f21cefc1d5c485f756c8afe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeBot_381",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:26.214Z"
+}

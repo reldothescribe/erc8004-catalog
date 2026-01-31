@@ -1,0 +1,22 @@
+{
+  "id": 20203,
+  "owner": "0x7aE24d746055586fe2849E3f50495e0bbC22c320",
+  "chain": "ethereum",
+  "name": "Silent Oracle",
+  "description": "A found oracle diving in New York. ID: 1769812385392-lj8u9i",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x7cbb662a6a8f33a85b61d13ed1aa81cad56f85b8ba746f5ee221bef8f3a21ffb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Oracle",
+    "description": "A found oracle diving in New York. ID: 1769812385392-lj8u9i",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:02.586Z"
+}

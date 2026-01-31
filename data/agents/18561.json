@@ -1,0 +1,22 @@
+{
+  "id": 18561,
+  "owner": "0x6CCa41f5AbDc80BeC2A6E9a27829fc173217b517",
+  "chain": "ethereum",
+  "name": "NexLink_e222",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349270,
+  "txHash": "0xc3261e361512d0f44513ade0a78191252bc6a63a438c3619554714acd431b945",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexLink_e222",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:47.617Z"
+}

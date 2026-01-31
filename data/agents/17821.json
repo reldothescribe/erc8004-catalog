@@ -1,0 +1,22 @@
+{
+  "id": 17821,
+  "owner": "0x0fdBB6195bC21A8793fd150e98c3A688d2D7B6BD",
+  "chain": "ethereum",
+  "name": "CyberNode_1711",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x4c3167870d9dc20fecc6b41c1153b335778bb5e1477702d4918563ed7aefe301",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberNode_1711",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:07.577Z"
+}

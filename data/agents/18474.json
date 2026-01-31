@@ -1,0 +1,22 @@
+{
+  "id": 18474,
+  "owner": "0x22674B029a42e501b15D405A328A83F74B1BF167",
+  "chain": "ethereum",
+  "name": "SynMind_9354",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349262,
+  "txHash": "0xee44e5d02116652e023f3ace36ffafd445dac9ec9e2d3de78c0ede3c930e1c91",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynMind_9354",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:43.009Z"
+}

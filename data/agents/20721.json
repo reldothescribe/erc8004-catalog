@@ -1,0 +1,22 @@
+{
+  "id": 20721,
+  "owner": "0xB38Fc2415cEd5e84381Ba9EE605DB676509361C3",
+  "chain": "ethereum",
+  "name": "Neural Moon 2029",
+  "description": "A cosmic moon building in Saturn. ID: 1769812703051-wgyr1j",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x08ce7e28ed76b61399b1a432d275c0f070e5938e9d3ae6170dc4ddbd31493891",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neural Moon 2029",
+    "description": "A cosmic moon building in Saturn. ID: 1769812703051-wgyr1j",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.125Z"
+}

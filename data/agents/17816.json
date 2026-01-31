@@ -1,0 +1,22 @@
+{
+  "id": 17816,
+  "owner": "0x435F16Cc5b08da8f6184A0f8727557a01dfC1F49",
+  "chain": "ethereum",
+  "name": "CyberBot_3996",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x56aaa318a68c36ff5de793df12bb32dff7b667d00aeea5afe57907a8507ef732",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberBot_3996",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:07.577Z"
+}

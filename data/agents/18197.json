@@ -1,0 +1,22 @@
+{
+  "id": 18197,
+  "owner": "0x367826eA9595602A32FE42b42EC253e70b091bDE",
+  "chain": "ethereum",
+  "name": "HyperCore_990",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0x953bc9e48ccdc4829b017ee7de88c257fcf5cc872c788f86001554502790ce20",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperCore_990",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.827Z"
+}

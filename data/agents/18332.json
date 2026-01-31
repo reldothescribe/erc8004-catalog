@@ -1,0 +1,22 @@
+{
+  "id": 18332,
+  "owner": "0x4666D868089110841Ca790ecc404e7BDFF9b3c05",
+  "chain": "ethereum",
+  "name": "LuxNode_4688",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349250,
+  "txHash": "0x26e85667e0cb0dc2f0d9e7193ee36dd95e9a07b5f582e01a3ea90f1526b3a52f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxNode_4688",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:35.329Z"
+}

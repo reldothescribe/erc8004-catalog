@@ -1,0 +1,22 @@
+{
+  "id": 17975,
+  "owner": "0xF711e6180beACAC713862f85D289Df276C023DAF",
+  "chain": "ethereum",
+  "name": "NeoSync_9796",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x9849b6ebe61223748c61e3add6f80f6db2a892f3dc6e5a76d8e5e01b0cd0d456",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoSync_9796",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:15.872Z"
+}

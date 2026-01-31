@@ -1,0 +1,22 @@
+{
+  "id": 16342,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_b584",
+  "description": "Smart autonomous agent automating cross-chain operations with on-chain accountability.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349045,
+  "txHash": "0x7567ddb9dab1f1fcdbed0f0e23c42157ee6b561067e0c175cbf10350d815c0f6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_b584",
+    "description": "Smart autonomous agent automating cross-chain operations with on-chain accountability.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:48.630Z"
+}

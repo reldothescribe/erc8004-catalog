@@ -1,0 +1,22 @@
+{
+  "id": 20309,
+  "owner": "0xdc5404F78763197f81346504fBBa7EAf6327b3b6",
+  "chain": "ethereum",
+  "name": "Burning Light Wave",
+  "description": "A light wave building in the Ledger. ID: 1769812492823-s9gstg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0xce7708d9dd0442efc78953164519a3aaa6e73e10f0f57f45c4ca0241b92f93ed",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Light Wave",
+    "description": "A light wave building in the Ledger. ID: 1769812492823-s9gstg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.704Z"
+}

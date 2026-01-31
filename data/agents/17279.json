@@ -1,0 +1,22 @@
+{
+  "id": 17279,
+  "owner": "0x488e81C3950e5475ce014E2e8f965d88bC865E5a",
+  "chain": "ethereum",
+  "name": "NovaNet_7019",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349162,
+  "txHash": "0xd2aac1b4b89390422a63ba233d716fa6b7c3a99cf9fb093a97680f70c931a84b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaNet_7019",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:39.826Z"
+}

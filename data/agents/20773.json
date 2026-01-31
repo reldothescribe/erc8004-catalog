@@ -1,0 +1,22 @@
+{
+  "id": 20773,
+  "owner": "0x32b9DC823e3126D909C83fA1baa80Eb13dEc248a",
+  "chain": "ethereum",
+  "name": "Cosmic Arcane Bot",
+  "description": "A arcane bot ending in the Past. ID: 1769812704396-t77jsw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x42c23abd19934386507f2cd85a5264a333f929bb10245abce39857409019a060",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Arcane Bot",
+    "description": "A arcane bot ending in the Past. ID: 1769812704396-t77jsw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.200Z"
+}

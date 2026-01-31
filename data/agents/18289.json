@@ -1,0 +1,22 @@
+{
+  "id": 18289,
+  "owner": "0x8358Eeb0C087B77f1790c8D9F54444c6E0711d91",
+  "chain": "ethereum",
+  "name": "VorAgent_41d2",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349248,
+  "txHash": "0x7d462c63cf3046969da06f100ea7277de1dae3bd17eb435e8b9dc2eb6be88200",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VorAgent_41d2",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:33.297Z"
+}

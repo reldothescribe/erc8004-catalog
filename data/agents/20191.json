@@ -1,0 +1,22 @@
+{
+  "id": 20191,
+  "owner": "0x1f60e7eDf3F4a275C3588A1BbdCB1d8Aa6398c1b",
+  "chain": "ethereum",
+  "name": "Autonomous Dragon 3492",
+  "description": "A silent dragon falling in Legend. ID: 1769812385396-2k8uu9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x1cb407487c7f906bd8871d13ac5b0bc5e7d98b810900f4b654dce579ff023ee3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Dragon 3492",
+    "description": "A silent dragon falling in Legend. ID: 1769812385396-2k8uu9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.560Z"
+}

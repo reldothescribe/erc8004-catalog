@@ -1,0 +1,22 @@
+{
+  "id": 18489,
+  "owner": "0x9B8CD9831a6CA0e3D29319Ce7e38BbaE96FD009b",
+  "chain": "ethereum",
+  "name": "NexVault_c604",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349264,
+  "txHash": "0x39f76922efdcb84a726cb442cca7b458e3faa44fcdc325919377d18a9377e297",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexVault_c604",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:43.523Z"
+}

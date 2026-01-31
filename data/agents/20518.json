@@ -1,0 +1,22 @@
+{
+  "id": 20518,
+  "owner": "0xa485F12123EdBaCEFae4E74D6F3ffdd37ddF34D1",
+  "chain": "ethereum",
+  "name": "Ageless Chimera",
+  "description": "A celestial chimera gathering in Tokyo. ID: 1769812642036-um267h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x4d1bf1da00ba25eb959fa39ccb73150f40d1c9063d74be0469152e541ad79683",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ageless Chimera",
+    "description": "A celestial chimera gathering in Tokyo. ID: 1769812642036-um267h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.578Z"
+}

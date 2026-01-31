@@ -1,0 +1,22 @@
+{
+  "id": 18359,
+  "owner": "0x815694fA0d3cA3f87456a92e3f9d7F2D8d0FD913",
+  "chain": "ethereum",
+  "name": "HexCore_1d1d",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349252,
+  "txHash": "0xcf06b2105095babbea066d2d1fe92dce0587a0841e2f4edb037712dab94e39d2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexCore_1d1d",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:36.863Z"
+}

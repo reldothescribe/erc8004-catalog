@@ -1,0 +1,22 @@
+{
+  "id": 17351,
+  "owner": "0x2330E4912a7bE387A417Fe59E45f43548CC101be",
+  "chain": "ethereum",
+  "name": "StellarMind_1582",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0xb066149cfe9840df19cccf0dc4ec36d268409166f6a24295de4cc26cccbd42b3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarMind_1582",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:43.370Z"
+}

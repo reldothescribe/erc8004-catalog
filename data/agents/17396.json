@@ -1,0 +1,22 @@
+{
+  "id": 17396,
+  "owner": "0x8215F66E9B4d11B5B06B8039a16bB8cb6578Cf30",
+  "chain": "ethereum",
+  "name": "PrimeBot_9956",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0xa1a9b2e7e91bde611a8b84da97e3f1f68cbbcb04e9749a456586ca65c37c1b53",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeBot_9956",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:45.972Z"
+}

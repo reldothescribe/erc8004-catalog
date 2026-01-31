@@ -1,0 +1,22 @@
+{
+  "id": 17766,
+  "owner": "0xbe96b63afA09EB23444866f4B2ad0552C133d863",
+  "chain": "ethereum",
+  "name": "QuantumFlow_1101",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0xd43f3135256c1560805d0b1d9d556f9880c02dbd6c0f2055d6e549a4475eecd0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumFlow_1101",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.655Z"
+}

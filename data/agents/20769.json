@@ -1,0 +1,22 @@
+{
+  "id": 20769,
+  "owner": "0x18a25c72F9e4859234C3D3434e2180b63E52b2a0",
+  "chain": "ethereum",
+  "name": "Azure Helm",
+  "description": "A lunar helm processing in Dimension X. ID: 1769812719367-f3g59w",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x38bca8dd4d3e90f02f9a892cbfde34147798f2f2c46f831ed679002c02d3a77b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Azure Helm",
+    "description": "A lunar helm processing in Dimension X. ID: 1769812719367-f3g59w",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.684Z"
+}

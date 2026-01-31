@@ -1,0 +1,22 @@
+{
+  "id": 20600,
+  "owner": "0x833a42CC1EC90E3C181E0d56E977Bed4147ddedC",
+  "chain": "ethereum",
+  "name": "Kinetic Eagle",
+  "description": "A neo eagle singing in Jupiter. ID: 1769812676750-14ms8p",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xfef5a8d967a78c1c472f604a25eee9e49bf4e343a84eb516ad44511283ff2a47",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Eagle",
+    "description": "A neo eagle singing in Jupiter. ID: 1769812676750-14ms8p",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.654Z"
+}

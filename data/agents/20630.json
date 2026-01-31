@@ -1,0 +1,22 @@
+{
+  "id": 20630,
+  "owner": "0x57E3696FBC41E612fadac8AF7a2139b1e7CbEE67",
+  "chain": "ethereum",
+  "name": "Jade Visual Sky",
+  "description": "A visual sky taking in Cyberspace. ID: 1769812675498-pgspmk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x6fca4cfbb61cf209694bbfac61f516bbb987d129a0a94b203c0a336199fdc08b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Visual Sky",
+    "description": "A visual sky taking in Cyberspace. ID: 1769812675498-pgspmk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.192Z"
+}

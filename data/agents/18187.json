@@ -1,0 +1,22 @@
+{
+  "id": 18187,
+  "owner": "0xfbA0bdd3De896dA968c324Da3208470E60016654",
+  "chain": "ethereum",
+  "name": "StellarCore_1627",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xe02f6c340cedff3512c72df08d2ae3056409abf9d9dd9c720ce378fee4e3977c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarCore_1627",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.332Z"
+}

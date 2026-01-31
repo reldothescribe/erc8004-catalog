@@ -1,0 +1,22 @@
+{
+  "id": 20625,
+  "owner": "0x2f9724227eB0a25b5f24f4ea4D75A449f595e6B9",
+  "chain": "ethereum",
+  "name": "Quantum Core",
+  "description": "A obsidian core crafting in Time. ID: 1769812675498-ma4ugi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x8bde9384f3b2017a0879abac9dc95fe74038239869b5f7d5523725edcef07ce7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Quantum Core",
+    "description": "A obsidian core crafting in Time. ID: 1769812675498-ma4ugi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.192Z"
+}

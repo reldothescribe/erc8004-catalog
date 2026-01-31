@@ -1,0 +1,22 @@
+{
+  "id": 18267,
+  "owner": "0xd16e4051a152fe5328c2b5Ae510abed8B39237c9",
+  "chain": "ethereum",
+  "name": "NexCore_9182",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349247,
+  "txHash": "0x0415cb627635a705016bf8f12d11f648ea99be604d70d4a2a85c305698c8fab8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexCore_9182",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:32.358Z"
+}

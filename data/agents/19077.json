@@ -1,0 +1,22 @@
+{
+  "id": 19077,
+  "owner": "0x8de8F4aB5403Cd2182146068d820E6C378829aF8",
+  "chain": "ethereum",
+  "name": "Ivory Flower",
+  "description": "A crypto flower dancing in Web3. ID: 1769795703379-2zx93j",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349392,
+  "txHash": "0x10006559fdfbc409e9f7a760cb0d698f373e114a900b0d0f491eee785c45d383",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Flower",
+    "description": "A crypto flower dancing in Web3. ID: 1769795703379-2zx93j",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:15.265Z"
+}

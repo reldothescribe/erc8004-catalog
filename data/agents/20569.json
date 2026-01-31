@@ -1,0 +1,22 @@
+{
+  "id": 20569,
+  "owner": "0xD5Cac16F69Fde4b57f3CD29a0d164d30F00e5fBD",
+  "chain": "ethereum",
+  "name": "Neural Helm 4836",
+  "description": "A chaotic helm buying in DeFi. ID: 1769812647997-jzede6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xff4b83cdc7ac498a26b3a29dae0d378ec1f9af02670d08418569f8ae17eac2a4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neural Helm 4836",
+    "description": "A chaotic helm buying in DeFi. ID: 1769812647997-jzede6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.120Z"
+}

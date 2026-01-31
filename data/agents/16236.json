@@ -1,0 +1,22 @@
+{
+  "id": 16236,
+  "owner": "0x57790383be61AfdF85D1e4255450E5D107c65ee1",
+  "chain": "ethereum",
+  "name": "binance",
+  "description": "utonomous agents with verifiable identities, on-chain reputations",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24348917,
+  "txHash": "0xa595fcbd95bc8004bbb8e8112bf07a73989686cccd36a361e84227ed1ab55bc9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "binance",
+    "description": "utonomous agents with verifiable identities, on-chain reputations",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:43.571Z"
+}

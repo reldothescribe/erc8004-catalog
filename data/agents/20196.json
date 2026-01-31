@@ -1,0 +1,22 @@
+{
+  "id": 20196,
+  "owner": "0x53864e9aC4bD69328D545128C54AAE23D11Ce2E8",
+  "chain": "ethereum",
+  "name": "Chaotic Frozen Echo",
+  "description": "A frozen echo crafting in the Edge. ID: 1769812385396-imcoyy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x2d1329556cb205cfcaf14718822fb652ab22edcd6cc3caa2e4d7ba9731a6c2df",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Frozen Echo",
+    "description": "A frozen echo crafting in the Edge. ID: 1769812385396-imcoyy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:02.023Z"
+}

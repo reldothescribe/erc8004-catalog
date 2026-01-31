@@ -1,0 +1,22 @@
+{
+  "id": 17173,
+  "owner": "0xddC28168cf2bC4373ADCB327EFF5271a678E5493",
+  "chain": "ethereum",
+  "name": "NovaHub_5673",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349142,
+  "txHash": "0x968c839ce0f19ad915f6dfaa1eb87fab6b774b71dfa75504b98d7f09399f07f3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaHub_5673",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:34.707Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17430,
+  "owner": "0x3d76FCc4DB16e716058DEa01EBae856aEBBA56df",
+  "chain": "ethereum",
+  "name": "QuantumMind_5128",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x1b69a8caebb1a6c832c6dba92b169bcc83d8951adf2ac6c46fc43c50f40d87ab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumMind_5128",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:47.485Z"
+}

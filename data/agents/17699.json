@@ -1,0 +1,22 @@
+{
+  "id": 17699,
+  "owner": "0x29f5887797913940C2F358aE09d51eD7201eafC6",
+  "chain": "ethereum",
+  "name": "CyberAgent_1242",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349188,
+  "txHash": "0xd56df0d032e1e648d019d11fc7725f4d4a550b7ce206875f1193105485fa689d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberAgent_1242",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:01.102Z"
+}

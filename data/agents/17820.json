@@ -1,0 +1,22 @@
+{
+  "id": 17820,
+  "owner": "0xA9473F6d8B261795f095011745De3a461bd0982d",
+  "chain": "ethereum",
+  "name": "UltraAgent_8214",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x4d0cfcbaeb3b3afe244f2681e26d3808a2ec96e587c54f74eb2d622e778ddac7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraAgent_8214",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:07.577Z"
+}

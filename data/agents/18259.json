@@ -1,0 +1,22 @@
+{
+  "id": 18259,
+  "owner": "0x191b8cC913382d5E53C1EA39A90963C495c4286C",
+  "chain": "ethereum",
+  "name": "HexNode_a6de",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349247,
+  "txHash": "0xe3703f4ee82fc95d56160c7be821f3bc5f7e17d78be76add60f0b56d900920de",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexNode_a6de",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:31.847Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16417,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_13f9",
+  "description": "AI-powered agent facilitating cross-chain operations with decentralized verification.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349057,
+  "txHash": "0xb18f58c9396bd39bc9c3c2277676734966f1adae98f28c12f390e00b3d76fabd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_13f9",
+    "description": "AI-powered agent facilitating cross-chain operations with decentralized verification.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:52.574Z"
+}

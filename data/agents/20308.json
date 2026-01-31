@@ -1,0 +1,22 @@
+{
+  "id": 20308,
+  "owner": "0x07bD106D809E657Eabb68b91959b58aD8227f470",
+  "chain": "ethereum",
+  "name": "Crimson Agent 6518",
+  "description": "A phantom agent creating in Jupiter. ID: 1769812492823-77ymla",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0xe2a4f6a9dabd940049ca320adb50e1af4b16470d3e2a6ae198ed6d7cd87b804b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Agent 6518",
+    "description": "A phantom agent creating in Jupiter. ID: 1769812492823-77ymla",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.704Z"
+}

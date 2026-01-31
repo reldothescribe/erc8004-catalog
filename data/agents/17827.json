@@ -1,0 +1,22 @@
+{
+  "id": 17827,
+  "owner": "0x8aD6e7fcaD6b780F738c2E65e1c9934B2140651B",
+  "chain": "ethereum",
+  "name": "StellarNet_9714",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x320abcab8e82701ea1e6665a17dd23d45fbe381233bbf2ac69ea3d991fff867b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNet_9714",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:08.088Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17730,
+  "owner": "0xb4DB36FB3Ce83AF50E25A2EC478353c1d2d2CD75",
+  "chain": "ethereum",
+  "name": "MetaFlow_7503",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349202,
+  "txHash": "0xdc887cc2caa861511cdcd3cfb2287003e73dee14bc7ad8690d743dfc02f12607",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaFlow_7503",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.665Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20312,
+  "owner": "0xc9D349736BC96Cc1Ab36741072D709761E327a85",
+  "chain": "ethereum",
+  "name": "Infinite Meta Star",
+  "description": "A meta star gathering in History. ID: 1769812492823-3a7bha",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0xb6710c234d18b99770527db88aca9d7aa97d2f7a3a106c384304ec8bd7fb5c68",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Meta Star",
+    "description": "A meta star gathering in History. ID: 1769812492823-3a7bha",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.703Z"
+}

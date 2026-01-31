@@ -1,0 +1,22 @@
+{
+  "id": 17959,
+  "owner": "0xc1B451eA813fCFFD612f7b1157655dD69d1CaD6c",
+  "chain": "ethereum",
+  "name": "AxiLink_5247",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x99e31dbca007633ff4812c798d182a41e42e8497fb4a64b7a40d5ffc25f98cae",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiLink_5247",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:14.802Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 20032,
+  "owner": "0x0665b232bE50fa99AfAa430F560bE9788E440fF9",
+  "chain": "ethereum",
+  "name": "MenoBot",
+  "description": "My Assistant",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350555,
+  "txHash": "0x2cbba1ad85b24a9ec0ea5954e8ac1221ecc958c1c187d1d3f2d5cad1874f8820",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MenoBot",
+    "description": "My Assistant",
+    "services": [],
+    "active": true
+  },
+  "syncedAt": "2026-01-31T03:20:44.045Z"
+}

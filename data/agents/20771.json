@@ -1,0 +1,22 @@
+{
+  "id": 20771,
+  "owner": "0x64Dc29113b799BE8C6243f95113fb7709b6b4E84",
+  "chain": "ethereum",
+  "name": "Ancient Matrix",
+  "description": "A onyx matrix molding in Dimension X. ID: 1769812703727-prf4s7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xc8b8b1b537df1012d6fd714408931eac781bf90853547424ac1e1e4e175c53b9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ancient Matrix",
+    "description": "A onyx matrix molding in Dimension X. ID: 1769812703727-prf4s7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.684Z"
+}

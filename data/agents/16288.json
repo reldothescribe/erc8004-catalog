@@ -1,0 +1,22 @@
+{
+  "id": 16288,
+  "owner": "0xAC20690Be631d68C6f121505F90513faaFA7A4c2",
+  "chain": "ethereum",
+  "name": "a8",
+  "description": "111111111111111111111111111111111111111111111111111111111111111111",
+  "image": "111111",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348945,
+  "txHash": "0x43c3d519de6f84c2b5c0a3386805933b84be13f5a20e16a54614dc1ed07d409c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "a8",
+    "description": "111111111111111111111111111111111111111111111111111111111111111111",
+    "image": "111111",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:46.065Z"
+}

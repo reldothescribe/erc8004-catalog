@@ -1,0 +1,22 @@
+{
+  "id": 17432,
+  "owner": "0x82C746356de7712A8b472bdB48e2112d02Ff3638",
+  "chain": "ethereum",
+  "name": "AxiMind_8889",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x18ad42cada814d40014c3ef8293aa20d9ba4fe10837a791756fbe34335f14e28",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiMind_8889",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:47.485Z"
+}

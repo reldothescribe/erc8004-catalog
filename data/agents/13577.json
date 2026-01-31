@@ -1,0 +1,25 @@
+{
+  "id": 13577,
+  "owner": "0x893962a301c8aD578CcD7D408F4150Ddb9d2bCCB",
+  "chain": "ethereum",
+  "name": "maye",
+  "description": "Trading agent, capable of buying and selling tokens and monitoring",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24344260,
+  "txHash": "0x3d214100f249b95d43882726adaeb13a20421321984b1971e18bf00435ae3fb6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "maye",
+    "description": "Trading agent, capable of buying and selling tokens and monitoring",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:08.875Z"
+}

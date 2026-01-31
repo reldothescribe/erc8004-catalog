@@ -1,0 +1,22 @@
+{
+  "id": 20552,
+  "owner": "0xB4B28fAe4c438285a38EB8f72d6C4891656736b3",
+  "chain": "ethereum",
+  "name": "Light Tiger 272",
+  "description": "A digital tiger painting in Berlin. ID: 1769812646698-ywy97r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x72df60cfa2542f1915249175b73cacb6fd3bb2b81813384864304ce96efa88ad",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Tiger 272",
+    "description": "A digital tiger painting in Berlin. ID: 1769812646698-ywy97r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.095Z"
+}

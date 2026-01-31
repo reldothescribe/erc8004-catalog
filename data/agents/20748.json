@@ -1,0 +1,22 @@
+{
+  "id": 20748,
+  "owner": "0x9bbd5211B64028E6ce22D3De69286c92BAf90fe9",
+  "chain": "ethereum",
+  "name": "Cosmic Soul",
+  "description": "A crypto soul singing in Reality. ID: 1769812720675-nd4a2p",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x183786480ad67040a003ee0675c3e72e9b567bace9f34016fce3ee2b6855e097",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Soul",
+    "description": "A crypto soul singing in Reality. ID: 1769812720675-nd4a2p",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.661Z"
+}

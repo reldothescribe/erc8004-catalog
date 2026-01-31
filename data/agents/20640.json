@@ -1,0 +1,22 @@
+{
+  "id": 20640,
+  "owner": "0x98BE22d9711C7B3B1Ec15FBF297F71283Ce11E98",
+  "chain": "ethereum",
+  "name": "Phantom Helm 5811",
+  "description": "A tactile helm soaring in the Boundary. ID: 1769812676108-3gncf5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x5eb24371b2b0c9d20d5e0ffdbaeeadb87a0cdbff7c21a39a1b06c6496b824b74",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Helm 5811",
+    "description": "A tactile helm soaring in the Boundary. ID: 1769812676108-3gncf5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.702Z"
+}

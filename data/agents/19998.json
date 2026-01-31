@@ -1,0 +1,22 @@
+{
+  "id": 19998,
+  "owner": "0xe914e48E599663a6571Dd620268DCCA0C2777F35",
+  "chain": "ethereum",
+  "name": "Rapid Mystic Driver",
+  "description": "A mystic driver dancing in the Network. ID: 1769807811788-8jr866",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350316,
+  "txHash": "0xb126e587ce501b8f034a96ba3bd7b42bf057edbb492302d48a9ca844c6f1c1c0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Mystic Driver",
+    "description": "A mystic driver dancing in the Network. ID: 1769807811788-8jr866",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.157Z"
+}

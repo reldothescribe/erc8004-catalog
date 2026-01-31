@@ -1,0 +1,22 @@
+{
+  "id": 17872,
+  "owner": "0x3e2e9B5e019cb96640CAF6a1592F50375492E2Ce",
+  "chain": "ethereum",
+  "name": "StellarMind_2523",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x8c4c8a6de443dbcf3eb2a57549f059322371c9749f29d14113e70e202ad05395",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarMind_2523",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:10.136Z"
+}

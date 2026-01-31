@@ -1,0 +1,22 @@
+{
+  "id": 20394,
+  "owner": "0xe51eDE7595E9c125789286Ff6A40Bd19F25E1fA1",
+  "chain": "ethereum",
+  "name": "Burning Sun 8765",
+  "description": "A mystic sun running in the Block. ID: 1769812588611-cknh4h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350712,
+  "txHash": "0xda3c460b0c15f1c9b30422bc78e5e7120b13bd3c88f256ded38bea157a47c5ee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Sun 8765",
+    "description": "A mystic sun running in the Block. ID: 1769812588611-cknh4h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.415Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19126,
+  "owner": "0xd0F18Bc62cEE2Cb49b771F2470D95574B1cB1964",
+  "chain": "ethereum",
+  "name": "Gentle Moon",
+  "description": "A bounded moon guarding in the Core. ID: 1769796715331-0o26v8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349712,
+  "txHash": "0xd6217533c7c21df6d340771a95a8acbde17164409d141f7101ccd3b8d261944d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Moon",
+    "description": "A bounded moon guarding in the Core. ID: 1769796715331-0o26v8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:17.826Z"
+}

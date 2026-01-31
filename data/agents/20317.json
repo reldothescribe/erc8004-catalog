@@ -1,0 +1,22 @@
+{
+  "id": 20317,
+  "owner": "0xD5Cac16F69Fde4b57f3CD29a0d164d30F00e5fBD",
+  "chain": "ethereum",
+  "name": "Sapphire Code",
+  "description": "A gentle code decoding in the Hash. ID: 1769812492823-1zyqy8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0x2cc548a202177106bfaa6a88bb1a11393426cbb4b90fa8e1104adcaa24f9257e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sapphire Code",
+    "description": "A gentle code decoding in the Hash. ID: 1769812492823-1zyqy8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.215Z"
+}

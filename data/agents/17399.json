@@ -1,0 +1,22 @@
+{
+  "id": 17399,
+  "owner": "0xE46Ef442715dA459bAb2FE9CD4403595278c6317",
+  "chain": "ethereum",
+  "name": "HyperFlow_8099",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x97fdcfd0125265d18d33561687ebfab443b0174dadd225947d85ef44e0e197f6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperFlow_8099",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:45.972Z"
+}

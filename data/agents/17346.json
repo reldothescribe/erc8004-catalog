@@ -1,0 +1,22 @@
+{
+  "id": 17346,
+  "owner": "0xeED00D0295a83b4C9f1B574891357CE58c73b033",
+  "chain": "ethereum",
+  "name": "MetaAgent_5281",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x27bc426c006577b64dfbbf851f272278047f3199ef521c6bedbcd8566162cbb8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaAgent_5281",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:43.385Z"
+}

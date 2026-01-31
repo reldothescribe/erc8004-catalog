@@ -1,0 +1,22 @@
+{
+  "id": 18453,
+  "owner": "0x264546e910Fd9F42BcD6Bf901ff87a8F232D098e",
+  "chain": "ethereum",
+  "name": "HexVault_6c04",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349261,
+  "txHash": "0x818573dba3268a6a6f96686fe9344ee3a365c0196602f525a131d2f281010a7c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexVault_6c04",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:41.987Z"
+}

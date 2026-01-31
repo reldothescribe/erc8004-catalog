@@ -1,0 +1,22 @@
+{
+  "id": 20186,
+  "owner": "0xCAF816fCB00207A2B729bc1895956E639860b37c",
+  "chain": "ethereum",
+  "name": "Ethereal Colossus",
+  "description": "A random colossus dreaming in the Blockchain. ID: 1769812385396-rdnhrb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x1743b93b58cb4ee950e471c4a69f24faacb1083e990af71cdf591a74e2be1abd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Colossus",
+    "description": "A random colossus dreaming in the Blockchain. ID: 1769812385396-rdnhrb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.560Z"
+}

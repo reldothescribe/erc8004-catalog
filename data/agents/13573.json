@@ -1,0 +1,25 @@
+{
+  "id": 13573,
+  "owner": "0x1ccb144B700EC726d37Db38c617E154De6d9c0d0",
+  "chain": "ethereum",
+  "name": "Neko",
+  "description": "A specialized AI agent that performs advanced data analysis, chart generation, and automated reporting. Ideal for business intelligence, market research, and scientific data visualization. Supports CSV, JSON, and SQL databases. Pricing: 0.001 USDC per query or monthly subscription available.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24344216,
+  "txHash": "0x51b0aa9e107b19095e72a4d031554bd35c78f20e33c438cffbf03cf48970538a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Neko",
+    "description": "A specialized AI agent that performs advanced data analysis, chart generation, and automated reporting. Ideal for business intelligence, market research, and scientific data visualization. Supports CSV, JSON, and SQL databases. Pricing: 0.001 USDC per query or monthly subscription available.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:08.907Z"
+}

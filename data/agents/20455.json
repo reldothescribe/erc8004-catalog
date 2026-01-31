@@ -1,0 +1,22 @@
+{
+  "id": 20455,
+  "owner": "0x7C784D71dE2811930D68bc6B9ca2F5F9DcEB9ECf",
+  "chain": "ethereum",
+  "name": "Celestial Pilot 1628",
+  "description": "A zero pilot coding in the Grid. ID: 1769812647996-wid7vu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x09dad5e95e1616a3a4948d984dd8d817d93a8091bddd7576ab3f9ece8a720a91",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Celestial Pilot 1628",
+    "description": "A zero pilot coding in the Grid. ID: 1769812647996-wid7vu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:15.551Z"
+}

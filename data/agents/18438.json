@@ -1,0 +1,22 @@
+{
+  "id": 18438,
+  "owner": "0x8df32AE136aa9E155B0D976fc9242c40592aF898",
+  "chain": "ethereum",
+  "name": "SolWave_53dc",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349258,
+  "txHash": "0x4e8ef86134e63f2ed5dc49d6c1aff84e107eb35646ea2f74f4c48fe30a3542f7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolWave_53dc",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:40.961Z"
+}

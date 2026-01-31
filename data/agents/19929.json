@@ -1,0 +1,22 @@
+{
+  "id": 19929,
+  "owner": "0x252247687c78f1039bBADA7a8992CcB8a158C517",
+  "chain": "ethereum",
+  "name": "Meta Valiant Oracle",
+  "description": "A valiant oracle waking in the Grid. ID: 1769806622283-5btp2c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350216,
+  "txHash": "0x1be809c38e86fd9cd37560fe0cf86cdc20446ab1b418160b5c0fbc36e60ba391",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Valiant Oracle",
+    "description": "A valiant oracle waking in the Grid. ID: 1769806622283-5btp2c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:36.546Z"
+}

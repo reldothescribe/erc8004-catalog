@@ -1,0 +1,45 @@
+{
+  "id": 13639,
+  "owner": "0xBa25E0546FC2Cc2edeEAA3611BD11a020784b6B8",
+  "chain": "ethereum",
+  "name": "Essay Pass Mint",
+  "description": "EASY TEST is a minimal, developer-first testing concept designed for fast validation, clear logic, and low cognitive load. It emphasizes simplicity over complexity, reproducibility over intuition, and readable results over opaque processes—making testing straightforward, predictable, and efficient.",
+  "image": "https://blob.8004scan.app/f1dcd02438c80b185ef2d1acf7615d28059da52594d253469ec737bb60ce7d9b.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://fliporacle.fun/mcp",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "score_essay"
+      ]
+    }
+  ],
+  "registeredBlock": 24344581,
+  "txHash": "0xfcc61576694b3adc1d2c2c0a2a70837adbfb79ec6aef88b7a20c8daa93924f33",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Essay Pass Mint",
+    "description": "EASY TEST is a minimal, developer-first testing concept designed for fast validation, clear logic, and low cognitive load. It emphasizes simplicity over complexity, reproducibility over intuition, and readable results over opaque processes—making testing straightforward, predictable, and efficient.",
+    "image": "https://blob.8004scan.app/f1dcd02438c80b185ef2d1acf7615d28059da52594d253469ec737bb60ce7d9b.jpg",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://fliporacle.fun/mcp",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "score_essay"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:11.950Z"
+}

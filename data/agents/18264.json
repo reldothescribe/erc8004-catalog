@@ -1,0 +1,22 @@
+{
+  "id": 18264,
+  "owner": "0x6b775dc4BC8158513d865F339AFEa139987B03C0",
+  "chain": "ethereum",
+  "name": "VorVault_6a68",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349247,
+  "txHash": "0x3aa6e45372613dde8bbe3a5f78f6bfdbe3c0bd18e6e04d311320be3c23bd468b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VorVault_6a68",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:32.358Z"
+}

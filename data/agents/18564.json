@@ -1,0 +1,22 @@
+{
+  "id": 18564,
+  "owner": "0x99C45697AFae53e13feDF3E7dfC554863B211bC7",
+  "chain": "ethereum",
+  "name": "SolAgent_91f2",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349270,
+  "txHash": "0xa48623ba7c4a4049cc6f38c01a82ca7def25d061d2ecba5154e5a91eb41c7264",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolAgent_91f2",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:48.090Z"
+}

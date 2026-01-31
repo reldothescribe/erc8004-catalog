@@ -1,0 +1,22 @@
+{
+  "id": 17350,
+  "owner": "0x434Ca2a3D26AEf29248167B5659c736a78BC371a",
+  "chain": "ethereum",
+  "name": "StellarSync_3753",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0xb5a1e554757c78cadfcbba75e41c5226667af24fe25f46e1d04c69a132f48ed4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarSync_3753",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:43.362Z"
+}

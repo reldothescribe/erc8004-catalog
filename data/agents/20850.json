@@ -1,0 +1,22 @@
+{
+  "id": 20850,
+  "owner": "0xAb3eB869d2a44b60A758ebFc7462cf05Cefec3F8",
+  "chain": "ethereum",
+  "name": "Dark Seeker 1206",
+  "description": "A neo seeker molding in Jupiter. ID: 1769812739953-3r6tpe",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x6405083727d03128aab512f34487cef229836b4fb195760e27f1031934f04ac5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Seeker 1206",
+    "description": "A neo seeker molding in Jupiter. ID: 1769812739953-3r6tpe",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.781Z"
+}

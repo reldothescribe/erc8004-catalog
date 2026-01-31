@@ -1,0 +1,22 @@
+{
+  "id": 19802,
+  "owner": "0xc3664a81B40d5b99F3838A53ac6271bEA082F319",
+  "chain": "ethereum",
+  "name": "Iron Agent",
+  "description": "A electric agent building in History. ID: 1769802639738-mdad2r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349886,
+  "txHash": "0xe4e7248bdd1ef9f6b3122cc4a8e1ee28d8ae4191a58f3f067c98e0ddb59c9a7f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Agent",
+    "description": "A electric agent building in History. ID: 1769802639738-mdad2r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.666Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16180,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "HexCore_cc21",
+  "description": "Autonomous on-chain intelligence driving decentralized decision-making across Web3 protocols.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24348912,
+  "txHash": "0x2bf43e30887087e97e39fee6b543af0903839fae094af10d10d36a02d96e0f1e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexCore_cc21",
+    "description": "Autonomous on-chain intelligence driving decentralized decision-making across Web3 protocols.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:40.486Z"
+}

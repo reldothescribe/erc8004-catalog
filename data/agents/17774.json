@@ -1,0 +1,22 @@
+{
+  "id": 17774,
+  "owner": "0xC449b78b71B7FB343A80781497BD583E4b6E6788",
+  "chain": "ethereum",
+  "name": "NeoLink_5929",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0xc8604b2ab55cd87c35217c1b8946351bdd15996ab4ab0424a0ca6cc3110fae23",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoLink_5929",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:05.221Z"
+}

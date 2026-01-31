@@ -1,0 +1,22 @@
+{
+  "id": 17506,
+  "owner": "0x1470F8C856acB5e6f9f5D748E3BbbB12107fA53d",
+  "chain": "ethereum",
+  "name": "MetaHub_6907",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xaff07cc9f8721e526555d9065eb0a2e94d515573a9661f8f9c0146d4f986b233",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaHub_6907",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:51.604Z"
+}

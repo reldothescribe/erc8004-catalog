@@ -1,0 +1,22 @@
+{
+  "id": 17924,
+  "owner": "0x1117C3Bf74Bd19FA4A9Bd4FCc540e5c261A8921f",
+  "chain": "ethereum",
+  "name": "PrimeMind_2172",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xe18811ff9be5b4752aac2e8514530f05adea6d335acef753f0ca93da7985ec24",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeMind_2172",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:13.210Z"
+}

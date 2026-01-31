@@ -1,0 +1,22 @@
+{
+  "id": 18040,
+  "owner": "0x6583Ab99860E3a78658dd39a70Fed9B3c0655d7B",
+  "chain": "ethereum",
+  "name": "MetaAgent_4155",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x68d0480bda2adb8785e33d9fe8b474472b8636b59dc47312cf367ca914f84c6d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaAgent_4155",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.944Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 13683,
+  "owner": "0x7954aA7D63fc32203f23177E502871C4d1e7307b",
+  "chain": "ethereum",
+  "name": "Surf",
+  "description": "Surf AI is revolutionizing crypto research with specialized artificial intelligence that outperforms ChatGPT and Grok by 4x on cryptocurrency tasks. Fresh off a $15 million funding round from industry leaders Pantera Capital, Coinbase Ventures, and DCG, Surf combines real-time social sentiment, on-chain data across 40+ blockchains, and technical analysis to deliver institutional-grade research through a simple chat interface. With over 300,000 users and millions in annual revenue, Surf provides accurate, 'illusion-free' market intelligence that helps traders and investors navigate the complex crypto landscape with confidence.",
+  "image": "https://blob.8004scan.app/ced84907d6ef62daed6a8517edd037bee3c99b00ab319c337c2a80d93684a19c.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://docs.asksurf.ai/overview"
+    }
+  ],
+  "registeredBlock": 24345197,
+  "txHash": "0x4f7d6f03f197f0a2a71e20bdd5e206a692664b23981b28e3ae9cba7fdff0a06d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Surf",
+    "description": "Surf AI is revolutionizing crypto research with specialized artificial intelligence that outperforms ChatGPT and Grok by 4x on cryptocurrency tasks. Fresh off a $15 million funding round from industry leaders Pantera Capital, Coinbase Ventures, and DCG, Surf combines real-time social sentiment, on-chain data across 40+ blockchains, and technical analysis to deliver institutional-grade research through a simple chat interface. With over 300,000 users and millions in annual revenue, Surf provides accurate, 'illusion-free' market intelligence that helps traders and investors navigate the complex crypto landscape with confidence.",
+    "image": "https://blob.8004scan.app/ced84907d6ef62daed6a8517edd037bee3c99b00ab319c337c2a80d93684a19c.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://docs.asksurf.ai/overview"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:14:16.252Z"
+}

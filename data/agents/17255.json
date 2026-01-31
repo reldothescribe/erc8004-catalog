@@ -1,0 +1,22 @@
+{
+  "id": 17255,
+  "owner": "0xDC73c17548E316291272Cb9C13f5a9ae730927D7",
+  "chain": "ethereum",
+  "name": "AxiLink_9751",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349161,
+  "txHash": "0xf4ccda7a644eac42aff61bc9fe7c9748475a29df4302686f9920892e70d871c5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiLink_9751",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.802Z"
+}

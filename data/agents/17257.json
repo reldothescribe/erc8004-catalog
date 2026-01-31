@@ -1,0 +1,22 @@
+{
+  "id": 17257,
+  "owner": "0x11c762924a15973fb24C0C74a1BcA4bcaD6bcdE5",
+  "chain": "ethereum",
+  "name": "PrimeFlow_9488",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349161,
+  "txHash": "0x9e52ec7df4536b2de5bc28d67a9cc8905b0c60cb2825809bc670a53e60edc3e6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeFlow_9488",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.801Z"
+}

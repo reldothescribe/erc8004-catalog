@@ -1,0 +1,22 @@
+{
+  "id": 16384,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_9591",
+  "description": "On-chain AI assistant executing decentralized tasks with trustless guarantees.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0xc8a89af70040c2cc79739aeee70830210795c71629bcfae62be3a53fe3ffcf54",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_9591",
+    "description": "On-chain AI assistant executing decentralized tasks with trustless guarantees.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:51.033Z"
+}

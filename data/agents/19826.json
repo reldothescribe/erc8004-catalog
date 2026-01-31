@@ -1,0 +1,22 @@
+{
+  "id": 19826,
+  "owner": "0x82aFB9D4088598D65b57bcE6e269e87b12e966cF",
+  "chain": "ethereum",
+  "name": "Noble Obsidian Paladin",
+  "description": "A obsidian paladin learning in Space. ID: 1769802727352-0if4cl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349893,
+  "txHash": "0xaeb454e5088836fcee1fb7d20063e29e1d2e4d39c2e81694ec67308685f0f5d1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Noble Obsidian Paladin",
+    "description": "A obsidian paladin learning in Space. ID: 1769802727352-0if4cl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:55.153Z"
+}

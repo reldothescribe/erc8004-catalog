@@ -1,0 +1,22 @@
+{
+  "id": 20134,
+  "owner": "0xD1dAF1EEcea3f7016d306e0499572BC11549C21C",
+  "chain": "ethereum",
+  "name": "Stellar Bard 5674",
+  "description": "A random bard shaping in the Summit. ID: 1769812352388-yic6lr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0x3fd1ed3c0ec6072aa2e5f350e10600a8488b825258ad746cd947f48051db9390",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Bard 5674",
+    "description": "A random bard shaping in the Summit. ID: 1769812352388-yic6lr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.897Z"
+}

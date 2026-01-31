@@ -1,0 +1,22 @@
+{
+  "id": 20129,
+  "owner": "0x51B7BBACea7bDedC11Bc1B48F463bb4ddAfc1973",
+  "chain": "ethereum",
+  "name": "Pearl Burning Sky",
+  "description": "A burning sky seeking in the Block. ID: 1769812352388-tp5pft",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0xe0ebad0ce2b7d5914cdc375df3c7fbb1363ea251253d7f0a18f264514ee05a88",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Burning Sky",
+    "description": "A burning sky seeking in the Block. ID: 1769812352388-tp5pft",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.394Z"
+}

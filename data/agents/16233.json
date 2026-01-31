@@ -1,0 +1,25 @@
+{
+  "id": 16233,
+  "owner": "0xA54A9824873B0B9A03333C92e5b1b3A77803A540",
+  "chain": "ethereum",
+  "name": "leg",
+  "description": "lfglfggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+  "image": "https://blob.8004scan.app/744a9aa320137b037f91d809af880d22e9cd0320f7efde39cd4d8f0ec8032673.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348917,
+  "txHash": "0xb513666d19df554290f965377b53455224996df5c1751c1c9840787bceb32027",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "leg",
+    "description": "lfglfggggggggggggggggggggggggggggggggggggggggggggggggggggggggg",
+    "image": "https://blob.8004scan.app/744a9aa320137b037f91d809af880d22e9cd0320f7efde39cd4d8f0ec8032673.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:16:43.554Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20704,
+  "owner": "0xEFA8f080dcE7b3917ad7F3A409B52d944047BF1f",
+  "chain": "ethereum",
+  "name": "Iron Flower 3750",
+  "description": "A silver flower giving in Tokyo. ID: 1769812701765-5idvlu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x3d1d75899c5ed612aa554f4e96d668ed262b9436cce422a375b4199aa7133403",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Flower 3750",
+    "description": "A silver flower giving in Tokyo. ID: 1769812701765-5idvlu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.611Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20806,
+  "owner": "0xB38Fc2415cEd5e84381Ba9EE605DB676509361C3",
+  "chain": "ethereum",
+  "name": "Neo Pilot 9866",
+  "description": "A ancient pilot speaking in the Boundary. ID: 1769812741948-i6vy94",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x237ece9ad524eada50e8468f575486c2aa95aa43a40a9da1439cfa12ada86c87",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neo Pilot 9866",
+    "description": "A ancient pilot speaking in the Boundary. ID: 1769812741948-i6vy94",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.734Z"
+}

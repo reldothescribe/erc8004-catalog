@@ -1,0 +1,22 @@
+{
+  "id": 18137,
+  "owner": "0xb0E3DF5cF810Dca1a4D2BAed3637F3e5865D047a",
+  "chain": "ethereum",
+  "name": "NeoBot_8105",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0x395f8c1b82a18d93f8da9eec500fafe9a8d482e9754b6b4fd9fa2f2121136971",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoBot_8105",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:24.657Z"
+}

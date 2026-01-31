@@ -1,0 +1,22 @@
+{
+  "id": 20516,
+  "owner": "0x783d425a3c86CDd57eBe3b781ad9Ecf85cB917c3",
+  "chain": "ethereum",
+  "name": "Ivory Ether Cipher",
+  "description": "A ether cipher coding in the Center. ID: 1769812642036-bpsp3z",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x9918c61f2108eeaf4c88987dcdcfc9682e05c0b23ae9163e43a7219dfa0939e9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Ether Cipher",
+    "description": "A ether cipher coding in the Center. ID: 1769812642036-bpsp3z",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.574Z"
+}

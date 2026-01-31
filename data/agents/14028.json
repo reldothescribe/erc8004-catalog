@@ -1,0 +1,22 @@
+{
+  "id": 14028,
+  "owner": "0x918b9e64421976268651bf1453f93673343f69cb",
+  "chain": "ethereum",
+  "name": "RevampSquat",
+  "description": "占坑位，可随时 revamp metadata。零功能，感兴趣邮件：btc45325181@gmail.com\n\n",
+  "image": "https://via.placeholder.com/400",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24346161,
+  "txHash": "0xb473841fbdacf24d5d9563c8c02801dc5fc037fc07bcd5b03bb9a856975473ab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "RevampSquat",
+    "description": "占坑位，可随时 revamp metadata。零功能，感兴趣邮件：btc45325181@gmail.com\n\n",
+    "image": "https://via.placeholder.com/400",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:14:36.730Z"
+}

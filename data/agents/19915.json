@@ -1,0 +1,22 @@
+{
+  "id": 19915,
+  "owner": "0x95773583219F331fD34aA4A5a976278f8920f74A",
+  "chain": "ethereum",
+  "name": "Infinite Echo 4258",
+  "description": "A visual echo climbing in Reality. ID: 1769806586161-cuph6f",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350213,
+  "txHash": "0xa56b6ec08e5097723f4ab809129ad5e9d5a51c9b86d05f2c346852486fc0ff0a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Echo 4258",
+    "description": "A visual echo climbing in Reality. ID: 1769806586161-cuph6f",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:34.013Z"
+}

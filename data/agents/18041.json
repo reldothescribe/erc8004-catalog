@@ -1,0 +1,22 @@
+{
+  "id": 18041,
+  "owner": "0xC8AAa2c5fF943D6f8dDbFa2691aa8Bf31E98C860",
+  "chain": "ethereum",
+  "name": "HyperNode_2224",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x651ff63dc013b1f630763072feb6c12302505dd9ca4037562a151b5109098c47",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperNode_2224",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.944Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18530,
+  "owner": "0x4105761cff8a7d7991ec524427F8eb2F37E5608E",
+  "chain": "ethereum",
+  "name": "OrbWave_e521",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349267,
+  "txHash": "0x5f248929309370dc74d66aee1950aba209ed8b8ab51f16491bd558203acba55f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbWave_e521",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:45.774Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16849,
+  "owner": "0x3239c4cd1FeC3b17B425F9D8C6B93399DB2D82cf",
+  "chain": "ethereum",
+  "name": "Agent_154c",
+  "description": "Web3 native AI agent automating smart contract interactions with transparent governance.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349120,
+  "txHash": "0x8fb50a89b81c049e4a4dfa3473dec2554704db746ad43970f241a0ea824956e0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_154c",
+    "description": "Web3 native AI agent automating smart contract interactions with transparent governance.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:16.377Z"
+}

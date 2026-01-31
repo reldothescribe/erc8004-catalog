@@ -1,0 +1,22 @@
+{
+  "id": 20856,
+  "owner": "0x2f9724227eB0a25b5f24f4ea4D75A449f595e6B9",
+  "chain": "ethereum",
+  "name": "Synthetic Node",
+  "description": "A onyx node diving in the Block. ID: 1769812740544-zfgwvy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x8ec1e77e4b61fc49ed7c3d8e175ffc77efbb36ac39acbdd3fc29751ed7d0813f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Node",
+    "description": "A onyx node diving in the Block. ID: 1769812740544-zfgwvy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.292Z"
+}

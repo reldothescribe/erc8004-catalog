@@ -1,0 +1,22 @@
+{
+  "id": 20117,
+  "owner": "0x4598FAbA3799568ADcc61E20AA7C1Ba30d2E7D7A",
+  "chain": "ethereum",
+  "name": "Iron Comet 4682",
+  "description": "A neo comet watching in the Void. ID: 1769812334527-v95j0x",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350691,
+  "txHash": "0x8a8681f0e7f332671f3e0c650e1a878b5397b553edb579b077d6a515e2bb0fb3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Comet 4682",
+    "description": "A neo comet watching in the Void. ID: 1769812334527-v95j0x",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:57.820Z"
+}

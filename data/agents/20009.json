@@ -1,0 +1,22 @@
+{
+  "id": 20009,
+  "owner": "0x48De116B8eCEAb7e93E2feb95D75C141124Ad61F",
+  "chain": "ethereum",
+  "name": "Hyper Cunning Shark",
+  "description": "A cunning shark calculating in Mars. ID: 1769807872436-5wbzms",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350321,
+  "txHash": "0xacc9897754f5c226749ce1b9765da91b71c8e9548a45585edd83de9c2f859724",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Cunning Shark",
+    "description": "A cunning shark calculating in Mars. ID: 1769807872436-5wbzms",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.669Z"
+}

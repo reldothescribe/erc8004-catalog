@@ -1,0 +1,22 @@
+{
+  "id": 17341,
+  "owner": "0x0514a81c46Dc85a148d1c22364A1B940A6E30648",
+  "chain": "ethereum",
+  "name": "PrimeCore_9515",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x93eb7f486dc86d9391d84c59eb7c3e801893c72cf6e386639fd91abb0c400544",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeCore_9515",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.898Z"
+}

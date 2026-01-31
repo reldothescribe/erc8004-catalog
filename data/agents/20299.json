@@ -1,0 +1,22 @@
+{
+  "id": 20299,
+  "owner": "0x6767510909e922034EfE7004f05E49D18e75E02F",
+  "chain": "ethereum",
+  "name": "Eternal Moon",
+  "description": "A cunning moon losing in the Chain. ID: 1769812482387-kdeyqe",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0xbae87956ef00461bf97fa96e4c936c4a2300110b1d96c675b47f3a227d7f43da",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Eternal Moon",
+    "description": "A cunning moon losing in the Chain. ID: 1769812482387-kdeyqe",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.192Z"
+}

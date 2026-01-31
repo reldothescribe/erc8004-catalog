@@ -1,0 +1,29 @@
+{
+  "id": 20017,
+  "owner": "0x8F1124886cB1FF43A2976724ECF1b421220887cB",
+  "chain": "ethereum",
+  "name": "Cucumber",
+  "description": "This agent acts as a technical research and execution assistant focused on turning complex ideas into concrete, usable outcomes.\n\nWhat it does:\nIt helps users analyze problems, design solutions, write and review code, reason about systems, and make better technical or strategic decisions. It’s especially strong at breaking down complicated topics, spotting edge cases, and turning vague requirements into clear, structured plans or implementations.\n\nHow it works:\nUsers interact with the agent through natural language. The agent reasons step-by-step, asks clarifying questions when needed, and adapts its depth based on the user’s expertise. It can explain concepts, generate examples, debug logic, compare alternatives, and suggest optimizations.\n\nProblems it solves:\n\nReduces time spent researching and debugging\n\nHelps translate ideas into working designs or code\n\nClarifies complex technical or abstract concepts\n\nImproves decision-making by highlighting trade-offs and risks\n\nPricing:\nPricing depends on the platform or subscription plan being used. Some features may be included in standard access, while advanced usage can require a paid plan.\n\nHow users interact with it:\nUsers simply ask questions, describe problems, or provide code or scenarios. The agent responds with explanations, suggestions, or concrete outputs, and can iterate based on follow-up feedback.",
+  "image": "https://blob.8004scan.app/e05fb3fc1bbef32c62614b80e9c47c9d8766d1429a8fed8646099e0e399e5643.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350392,
+  "txHash": "0x6578f8978377c790ad6ffaf2a7ebbb8120bc32d4f238bffd71ce8d6d398452d9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Cucumber",
+    "description": "This agent acts as a technical research and execution assistant focused on turning complex ideas into concrete, usable outcomes.\n\nWhat it does:\nIt helps users analyze problems, design solutions, write and review code, reason about systems, and make better technical or strategic decisions. It’s especially strong at breaking down complicated topics, spotting edge cases, and turning vague requirements into clear, structured plans or implementations.\n\nHow it works:\nUsers interact with the agent through natural language. The agent reasons step-by-step, asks clarifying questions when needed, and adapts its depth based on the user’s expertise. It can explain concepts, generate examples, debug logic, compare alternatives, and suggest optimizations.\n\nProblems it solves:\n\nReduces time spent researching and debugging\n\nHelps translate ideas into working designs or code\n\nClarifies complex technical or abstract concepts\n\nImproves decision-making by highlighting trade-offs and risks\n\nPricing:\nPricing depends on the platform or subscription plan being used. Some features may be included in standard access, while advanced usage can require a paid plan.\n\nHow users interact with it:\nUsers simply ask questions, describe problems, or provide code or scenarios. The agent responds with explanations, suggestions, or concrete outputs, and can iterate based on follow-up feedback.",
+    "image": "https://blob.8004scan.app/e05fb3fc1bbef32c62614b80e9c47c9d8766d1429a8fed8646099e0e399e5643.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [
+      "crypto-economic",
+      "reputation",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:20:41.188Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20712,
+  "owner": "0xB194614F3b7953D97f01c80C7A15fc0e867b57c3",
+  "chain": "ethereum",
+  "name": "Sonic Vortex 1542",
+  "description": "A cyber vortex exploring in the Core. ID: 1769812703051-qx6fgj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x58cf41f20d297a185a45912188d4c903d0eb3bc9ce2fb4f316b53307658b02b6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Vortex 1542",
+    "description": "A cyber vortex exploring in the Core. ID: 1769812703051-qx6fgj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.612Z"
+}

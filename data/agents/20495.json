@@ -1,0 +1,22 @@
+{
+  "id": 20495,
+  "owner": "0xCcBe63a952729aD8dcf1830FA68c4A91EbacB690",
+  "chain": "ethereum",
+  "name": "Future Hidden Shield",
+  "description": "A hidden shield singing in Tokyo. ID: 1769812642686-xrntf6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xbc53ab336003db27b2cfd67a41af6e3e160e33c66565371813572ac30cd3d4ef",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Hidden Shield",
+    "description": "A hidden shield singing in Tokyo. ID: 1769812642686-xrntf6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.641Z"
+}

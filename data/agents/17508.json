@@ -1,0 +1,22 @@
+{
+  "id": 17508,
+  "owner": "0xB0D5913791030f9f2cFF41220bCa1dfaDCeb8a97",
+  "chain": "ethereum",
+  "name": "NeoCore_8582",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349178,
+  "txHash": "0xf61b7383059c08dd0cb9bffae3b8adc38214ede133fffe3d706115b0d36e3066",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoCore_8582",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:51.604Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18125,
+  "owner": "0x9b783237846A2dfb7910e2af5999CB255e6CD9cE",
+  "chain": "ethereum",
+  "name": "HyperFlow_1056",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0x0a11523e0ac2ebfb62dc344fe64d3bce9ed45014cc3818f24a716f80d7b73a52",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperFlow_1056",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:24.166Z"
+}

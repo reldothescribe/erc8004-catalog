@@ -1,0 +1,25 @@
+{
+  "id": 15687,
+  "owner": "0xa72F6026935d5752E2f6a87D0D4aDa2aE9DddCBB",
+  "chain": "ethereum",
+  "name": "5678",
+  "description": "56785678567856785678567856785678567856785678567856785678567856785678",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348861,
+  "txHash": "0x83855ec179bda314dbb48366075f05424eb7e0a39bbb6c6c59eae7acda86af55",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "5678",
+    "description": "56785678567856785678567856785678567856785678567856785678567856785678",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:16:15.447Z"
+}

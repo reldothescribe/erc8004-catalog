@@ -1,0 +1,22 @@
+{
+  "id": 17797,
+  "owner": "0x059811ac4b154d5617c7B15BBb5d07Ccc34c1364",
+  "chain": "ethereum",
+  "name": "AxiFlow_7952",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x9415f757999e6177d9395ef298d79b04c4629d5b175444ce094162552ac74ff1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiFlow_7952",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:06.540Z"
+}

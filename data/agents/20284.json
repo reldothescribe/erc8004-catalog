@@ -1,0 +1,22 @@
+{
+  "id": 20284,
+  "owner": "0x9bB7bc5a1741a11E73409772775E2358532dD47c",
+  "chain": "ethereum",
+  "name": "Meta Magnetic Leviathan",
+  "description": "A magnetic leviathan molding in the Chain. ID: 1769812482388-veaqj3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0xb91335e16b8630db8fa0347f0e9e131fb430a929fc49282b1f0c58d2a18e45a5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Magnetic Leviathan",
+    "description": "A magnetic leviathan molding in the Chain. ID: 1769812482388-veaqj3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.681Z"
+}

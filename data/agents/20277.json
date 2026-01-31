@@ -1,0 +1,22 @@
+{
+  "id": 20277,
+  "owner": "0xBF2301a8F89278ceF488A0200b34769ABdC0eda0",
+  "chain": "ethereum",
+  "name": "Astral Sun",
+  "description": "A phantom sun shaping in Technology. ID: 1769812468812-432d4h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0xe1bbd4f7a9e7b60033206d7c3893c8739199dea85600de2f5c6a2dfd22c6db0d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Sun",
+    "description": "A phantom sun shaping in Technology. ID: 1769812468812-432d4h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.169Z"
+}

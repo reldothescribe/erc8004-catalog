@@ -1,0 +1,22 @@
+{
+  "id": 15422,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "SentinelDAO",
+  "description": "Decentralized AI agents operate 24/7, scanning governance proposals, executing trades, and optimizing gas — all while you sleep.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24348753,
+  "txHash": "0x4a87f5b0cac67bc398921cd8c7d9058dcce043792a9cfe7144e45c674cddfdf3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SentinelDAO",
+    "description": "Decentralized AI agents operate 24/7, scanning governance proposals, executing trades, and optimizing gas — all while you sleep.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:15:52.099Z"
+}

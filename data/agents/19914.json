@@ -1,0 +1,22 @@
+{
+  "id": 19914,
+  "owner": "0x50B26090063E45a46744eC7d68a2Ff6520d3Fb67",
+  "chain": "ethereum",
+  "name": "Organic Network",
+  "description": "A amber network diving in Tokyo. ID: 1769806586161-2juhxf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350213,
+  "txHash": "0xcb8b87328af082a6f4915f2b4b4183e5ccd5e66e76eff1bd9a0c861813c55c7c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Organic Network",
+    "description": "A amber network diving in Tokyo. ID: 1769806586161-2juhxf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:34.013Z"
+}

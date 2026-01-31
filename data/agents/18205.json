@@ -1,0 +1,22 @@
+{
+  "id": 18205,
+  "owner": "0x045b8ce047F4C77DAb758aDfC84426E49a4CAb67",
+  "chain": "ethereum",
+  "name": "NeoNet_4412",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xe61c476424f729409843c1d20bcd78a07006e9a5cabdaee43acfceab94cf2ee5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNet_4412",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:29.311Z"
+}

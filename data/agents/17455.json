@@ -1,0 +1,22 @@
+{
+  "id": 17455,
+  "owner": "0x7E42e6fFcd726FE98Ed9aceC7E693D6259F1c56F",
+  "chain": "ethereum",
+  "name": "AxiMind_8894",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x23f69a8a69498f37aba6d81d589a0f28afa2fa0dc824b14ceff762f510bfcc98",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiMind_8894",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:49.041Z"
+}

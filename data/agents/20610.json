@@ -1,0 +1,22 @@
+{
+  "id": 20610,
+  "owner": "0x55162C086AE82df3F00DD541a35E4b6cC6Bed4ca",
+  "chain": "ethereum",
+  "name": "Meta Frozen Hydra",
+  "description": "A frozen hydra gathering in New York. ID: 1769812676108-80a2eg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xd089e12ae537249047d7663fc578b2ec166217a297a7591d9b6147531bc7e041",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Frozen Hydra",
+    "description": "A frozen hydra gathering in New York. ID: 1769812676108-80a2eg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.170Z"
+}

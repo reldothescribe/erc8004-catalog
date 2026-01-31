@@ -1,0 +1,22 @@
+{
+  "id": 20785,
+  "owner": "0x7D04C6D91C5cfFc18d02208575829818eC8Cf1a4",
+  "chain": "ethereum",
+  "name": "Orderly Surge",
+  "description": "A crystal surge rising in Legend. ID: 1769812720023-dxs1lb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x0cc78b068de6c1913a7543706e1f3e8c79ae567eb9b0aceb48f7e124742e79c6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Surge",
+    "description": "A crystal surge rising in Legend. ID: 1769812720023-dxs1lb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.708Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20395,
+  "owner": "0x06CaA6a74716BF1eAca3cb3be976cd6Aa2E510B1",
+  "chain": "ethereum",
+  "name": "Void Key 5260",
+  "description": "A primal key destroying in the Grid. ID: 1769812588611-4qe9of",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350712,
+  "txHash": "0xd234c154aa9cb0b96c65b9f3bc14f27161f1c5a8e9437927b1db567a7528e95c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Void Key 5260",
+    "description": "A primal key destroying in the Grid. ID: 1769812588611-4qe9of",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.415Z"
+}

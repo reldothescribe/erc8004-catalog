@@ -1,0 +1,22 @@
+{
+  "id": 15419,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "TrustlessOps",
+  "description": "AI-powered agents bring trustless automation to Web3 — no API keys, no centralized servers, just code running on-chain with verifiable logic.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348745,
+  "txHash": "0x987677b5ff64f2ca9886b605f0d1b5fa57ab9790ea66698e8965e07715e76d64",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "TrustlessOps",
+    "description": "AI-powered agents bring trustless automation to Web3 — no API keys, no centralized servers, just code running on-chain with verifiable logic.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:15:52.098Z"
+}

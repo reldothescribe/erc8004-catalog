@@ -1,0 +1,22 @@
+{
+  "id": 20163,
+  "owner": "0x94EF34c082fad6a1DfF5C7f3884BbDc35Acd4794",
+  "chain": "ethereum",
+  "name": "Neo Dolphin",
+  "description": "A atomic dolphin flying in Reality. ID: 1769812365392-gkagpm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0x3316fe519e1f398564a4a46f073cf116df15a9747f5350a7cf75fc5088cbef87",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neo Dolphin",
+    "description": "A atomic dolphin flying in Reality. ID: 1769812365392-gkagpm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.538Z"
+}

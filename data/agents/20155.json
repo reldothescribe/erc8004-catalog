@@ -1,0 +1,22 @@
+{
+  "id": 20155,
+  "owner": "0x65FB0414c5bEE20115114Be5B2e1521d22EDd675",
+  "chain": "ethereum",
+  "name": "Golden Stellar Bot",
+  "description": "A stellar bot crawling in Jupiter. ID: 1769812365392-6gc4v2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0x6bacdb5d534aa387bbb92d2c305f0620f1519e08e206ae37517b848ab04761cf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Stellar Bot",
+    "description": "A stellar bot crawling in Jupiter. ID: 1769812365392-6gc4v2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.022Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17601,
+  "owner": "0xfa2d5c592bA348525f0d5263041c843e7248D410",
+  "chain": "ethereum",
+  "name": "StellarAgent_630",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x5b1bd8230b888fc108f178412e0f130716865265a70b9582afc406e85a46a6da",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarAgent_630",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:56.062Z"
+}

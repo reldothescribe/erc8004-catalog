@@ -1,0 +1,22 @@
+{
+  "id": 17318,
+  "owner": "0x9F9424231A50f2fe71b525516950189797E56f5F",
+  "chain": "ethereum",
+  "name": "NovaFlow_148",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0x01ca8fff9e1ea42e5581f44094c4de52aa70dfec9880d4173afd0e8535eca15a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaFlow_148",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:41.874Z"
+}

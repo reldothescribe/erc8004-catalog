@@ -1,0 +1,22 @@
+{
+  "id": 20525,
+  "owner": "0x98BE22d9711C7B3B1Ec15FBF297F71283Ce11E98",
+  "chain": "ethereum",
+  "name": "Lunar Lion",
+  "description": "A swift lion singing in Tokyo. ID: 1769812647329-oqofxs",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x22913a46c5daed8e704686b07695791741faa25b3d261df10514a771c58a5528",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Lion",
+    "description": "A swift lion singing in Tokyo. ID: 1769812647329-oqofxs",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.070Z"
+}

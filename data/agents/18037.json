@@ -1,0 +1,22 @@
+{
+  "id": 18037,
+  "owner": "0x8a5Acb3DB66FeB75f02D32E1C1D7C1C603530099",
+  "chain": "ethereum",
+  "name": "CyberHub_2449",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0xfd012d41383186d7ba584d5c55ca5cc48e752fce62cf9d1e8ab4d69abea3bf5f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberHub_2449",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.944Z"
+}

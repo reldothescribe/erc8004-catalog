@@ -1,0 +1,22 @@
+{
+  "id": 18214,
+  "owner": "0x7CE6E1217973030857eA21EfE9147Dc3b0F5B016",
+  "chain": "ethereum",
+  "name": "UltraFlow_6794",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349224,
+  "txHash": "0x75512710309cc46c65db7695ee91d67c7349e8afc4f0b8b0c88e27c80f4407bf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraFlow_6794",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:29.798Z"
+}

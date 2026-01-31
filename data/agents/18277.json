@@ -1,0 +1,22 @@
+{
+  "id": 18277,
+  "owner": "0x85AE7a76D28D0200DF7A8b3E8F9f6Ced57c9aA42",
+  "chain": "ethereum",
+  "name": "ZenWave_0881",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349247,
+  "txHash": "0x395fc01b88de4ba0176099430009d273208322df7736079b4a30549609bbe884",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ZenWave_0881",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:32.819Z"
+}

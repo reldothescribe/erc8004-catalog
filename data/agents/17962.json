@@ -1,0 +1,22 @@
+{
+  "id": 17962,
+  "owner": "0x896B219c497A2Dd0484aec431F07ea2B7a7b48Ea",
+  "chain": "ethereum",
+  "name": "StellarNode_3815",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x38dc98e18a3672d9b8821aeab9c11e417f86939fec7497c8a2e7adcd45c0f4f9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNode_3815",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:14.745Z"
+}

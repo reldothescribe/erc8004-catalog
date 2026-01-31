@@ -1,0 +1,22 @@
+{
+  "id": 18391,
+  "owner": "0x0cCdf1A6b17d2b3Ef789a949A1588D722C7028aE",
+  "chain": "ethereum",
+  "name": "PyrAgent_4b8e",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349256,
+  "txHash": "0xe1fc1a4b5814410445c7b538fc6bc9f28e02f93c2403d979709d96ec7cd52efa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PyrAgent_4b8e",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:38.402Z"
+}

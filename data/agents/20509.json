@@ -1,0 +1,22 @@
+{
+  "id": 20509,
+  "owner": "0xeb931ea591076ebed08Df787709FF7A3131ac7e4",
+  "chain": "ethereum",
+  "name": "Cognitive Path 3900",
+  "description": "A sapphire path falling in Magic. ID: 1769812640758-ebu8qy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xd4eb33d6c676dd9564314c0e5408d24755c09e6da8aa493be6f2bce87ddbac69",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cognitive Path 3900",
+    "description": "A sapphire path falling in Magic. ID: 1769812640758-ebu8qy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.099Z"
+}

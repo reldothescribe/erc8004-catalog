@@ -1,0 +1,22 @@
+{
+  "id": 17391,
+  "owner": "0x4a9B84f9bF5EEB46B561e728D77C7754FC825337",
+  "chain": "ethereum",
+  "name": "UltraAgent_3017",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0xbd18c87ce1409368b785b9ea27453e14e020483fe3564f7316a35f63c197163d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraAgent_3017",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:45.464Z"
+}

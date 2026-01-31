@@ -1,0 +1,22 @@
+{
+  "id": 20711,
+  "owner": "0x783d425a3c86CDd57eBe3b781ad9Ecf85cB917c3",
+  "chain": "ethereum",
+  "name": "Liquid Planet 419",
+  "description": "A sonic planet reading in the Frontier. ID: 1769812703051-mk64jx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xe2864dc96275cf4316e0eabba0c57292fa9f3f5a66a99a9bb9f908542d77d572",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Planet 419",
+    "description": "A sonic planet reading in the Frontier. ID: 1769812703051-mk64jx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.612Z"
+}

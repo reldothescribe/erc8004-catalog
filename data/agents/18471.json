@@ -1,0 +1,22 @@
+{
+  "id": 18471,
+  "owner": "0x03bb312c66Bf7b5D54a14e03C1C7E45b7F62DBc4",
+  "chain": "ethereum",
+  "name": "Azure Found Chimera",
+  "description": "A found chimera exploring in the Ledger. ID: 1769795095325-uzjd09",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349262,
+  "txHash": "0x68689f2ea0430be1a7ad94c7682767713c791670c5d2d4edb8f28bde9e3f021d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Azure Found Chimera",
+    "description": "A found chimera exploring in the Ledger. ID: 1769795095325-uzjd09",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:42.497Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17602,
+  "owner": "0x998ccDDF0C02B7428789aA60c7931bCFeAC82CD5",
+  "chain": "ethereum",
+  "name": "UltraCore_9188",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0xbfb266d4f443e0d81c26359b918ec9e1fe284bbe76e334cce810251bedf770ab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraCore_9188",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:56.066Z"
+}

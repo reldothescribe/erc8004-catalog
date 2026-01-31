@@ -1,0 +1,22 @@
+{
+  "id": 18164,
+  "owner": "0x15Fc3D23EE29247845AC6Fbe61e2D1B084Ce06C7",
+  "chain": "ethereum",
+  "name": "NovaNet_6401",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0x34fe4070cc7460045515a78e915272007c1e9641d326002ab579d046a5e98f16",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaNet_6401",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:26.215Z"
+}

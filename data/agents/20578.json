@@ -1,0 +1,22 @@
+{
+  "id": 20578,
+  "owner": "0xbF8233FCe9038600D5eA01284B42E9ae01458451",
+  "chain": "ethereum",
+  "name": "Zero Hidden Star",
+  "description": "A hidden star moving in Pluto. ID: 1769812642036-seyj2z",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xa8ce21fa0a26e5be6ebe0e384acb69dd6292fada216e6aa9569f7da0796362ba",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Zero Hidden Star",
+    "description": "A hidden star moving in Pluto. ID: 1769812642036-seyj2z",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.631Z"
+}

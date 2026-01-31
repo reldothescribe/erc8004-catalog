@@ -1,0 +1,22 @@
+{
+  "id": 20755,
+  "owner": "0x5A5bd56A4fC7BD1eacDBadD79cbd044EDd72908a",
+  "chain": "ethereum",
+  "name": "Young Entity 3624",
+  "description": "A pearl entity writing in the Future. ID: 1769812719367-61if2r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x36ba7d8b4111b986eba612c9b706a86a6afbe6d4cc9779d567a2b6de593e6f0d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Entity 3624",
+    "description": "A pearl entity writing in the Future. ID: 1769812719367-61if2r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.173Z"
+}

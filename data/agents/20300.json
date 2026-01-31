@@ -1,0 +1,22 @@
+{
+  "id": 20300,
+  "owner": "0xfFc26dA5A767f3074A7633343AE1D34229FdB0Ed",
+  "chain": "ethereum",
+  "name": "Crimson Nova",
+  "description": "A dynamic nova decoding in Saturn. ID: 1769812482387-devwbe",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0xc79a9a163bee1638064671e8767ab554dec59e289dfb775c941b27fcb2c0cfd4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Nova",
+    "description": "A dynamic nova decoding in Saturn. ID: 1769812482387-devwbe",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.192Z"
+}

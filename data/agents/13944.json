@@ -1,0 +1,25 @@
+{
+  "id": 13944,
+  "owner": "0x63dba662CFD7BA3CF9EBD34E94d46442112bD757",
+  "chain": "ethereum",
+  "name": "mmm",
+  "description": "gmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24345947,
+  "txHash": "0xa2fcda4d5daf2b45546d5d7f5c99ebe903fe749854467dfc6f60bb4f321f7ce9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "mmm",
+    "description": "gmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:32.635Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19970,
+  "owner": "0x50B26090063E45a46744eC7d68a2Ff6520d3Fb67",
+  "chain": "ethereum",
+  "name": "Synthetic Quantum Traveler",
+  "description": "A quantum traveler building in Tokyo. ID: 1769806794437-2r12uc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350273,
+  "txHash": "0xfbf8dcbcf9feb3e34ad527c0162ae097892ad12e456e89045973b98c997862fa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Quantum Traveler",
+    "description": "A quantum traveler building in Tokyo. ID: 1769806794437-2r12uc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.622Z"
+}

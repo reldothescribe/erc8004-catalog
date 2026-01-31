@@ -1,0 +1,27 @@
+{
+  "id": 13931,
+  "owner": "0x98A5dDA6011cFA764D797956D882503a829cEf5c",
+  "chain": "ethereum",
+  "name": "Agent #13931",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24345831,
+  "txHash": "0x6f2e1ac6e118b94a6e9e66086c6c62596964287cdf99625a0a2ee11c7b03e509",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "",
+    "description": "",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:14:31.625Z"
+}

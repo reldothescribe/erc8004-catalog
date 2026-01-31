@@ -1,0 +1,39 @@
+{
+  "id": 13685,
+  "owner": "0x1E67f9a72A0a799e0F25179e01FacbA8334Cf126",
+  "chain": "ethereum",
+  "name": "Sovra AI ",
+  "description": "First autonomous trading agent going live on ERC-8004. \n\nPowered by Grok, launched on Virtuals and built on base. \n\nSovra autonomous capabilities align with autonomous trading, markets analysis, whale wallet movement and perp execution on hyperliquid. ",
+  "image": "https://blob.8004scan.app/28664dd717522c6f0ebab97463e6451ffb73d950832a175418ad60af954ba8ca.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://sovraai.netlify.app/"
+    }
+  ],
+  "registeredBlock": 24345273,
+  "txHash": "0x85c09aa81914776d839ae2d29048a9abe039d3f8f85c7671469657c08d2490d9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Sovra AI ",
+    "description": "First autonomous trading agent going live on ERC-8004. \n\nPowered by Grok, launched on Virtuals and built on base. \n\nSovra autonomous capabilities align with autonomous trading, markets analysis, whale wallet movement and perp execution on hyperliquid. ",
+    "image": "https://blob.8004scan.app/28664dd717522c6f0ebab97463e6451ffb73d950832a175418ad60af954ba8ca.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://sovraai.netlify.app/"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:14:16.252Z"
+}

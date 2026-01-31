@@ -1,0 +1,22 @@
+{
+  "id": 18550,
+  "owner": "0x76F998Fb6bdA0886Dc6100696815bd8EC4ba449D",
+  "chain": "ethereum",
+  "name": "PyrNode_1f94",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349269,
+  "txHash": "0x6cae15d9f6aa0bbf726ee4b64b5750fae8e423500cdd0b1cc113ae30e5da426d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PyrNode_1f94",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:47.105Z"
+}

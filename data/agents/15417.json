@@ -1,0 +1,22 @@
+{
+  "id": 15417,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "YieldPilot",
+  "description": "From automated yield farming to cross-chain bridging, AI agents are becoming the most active participants in the on-chain economy.\n",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348739,
+  "txHash": "0x20072db97ee145f73cbd4cb23098bc664d0b616bfd27485dee0c0d5687f4e5f3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "YieldPilot",
+    "description": "From automated yield farming to cross-chain bridging, AI agents are becoming the most active participants in the on-chain economy.\n",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:15:52.098Z"
+}

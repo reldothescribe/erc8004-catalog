@@ -1,0 +1,22 @@
+{
+  "id": 17824,
+  "owner": "0x9d712DE60afc7F6D57b1FDa8D994fFbf4E8cEB00",
+  "chain": "ethereum",
+  "name": "CyberNode_5294",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x3be556234173ef9bea5f1fb37204d9f6e6ad443d4844d386f6f7166f5451aa67",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberNode_5294",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:08.104Z"
+}

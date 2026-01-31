@@ -1,0 +1,22 @@
+{
+  "id": 19947,
+  "owner": "0xa5cEa08a637c9E5989269A496DE0A36EaA2BAe2F",
+  "chain": "ethereum",
+  "name": "Divine Path",
+  "description": "A iron path losing in Mystery. ID: 1769806673686-4v7z96",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350220,
+  "txHash": "0xc882275112df9208c0959e3484b907b5fefc7c7377c9d2b03bf754b1ebef2fd7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Divine Path",
+    "description": "A iron path losing in Mystery. ID: 1769806673686-4v7z96",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.597Z"
+}

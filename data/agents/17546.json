@@ -1,0 +1,22 @@
+{
+  "id": 17546,
+  "owner": "0x7c24b1130a709BD783bEB74520b47C2Da5c2d87e",
+  "chain": "ethereum",
+  "name": "HyperCore_4365",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x184b2b6215c3f06b13b0df0d8800600ceefa16b7175af17d48a12f222994e8c7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperCore_4365",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:53.650Z"
+}

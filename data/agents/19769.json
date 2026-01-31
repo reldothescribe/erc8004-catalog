@@ -1,0 +1,22 @@
+{
+  "id": 19769,
+  "owner": "0xBF2301a8F89278ceF488A0200b34769ABdC0eda0",
+  "chain": "ethereum",
+  "name": "Primal Pulse",
+  "description": "A rapid pulse keeping in the Unknown. ID: 1769802538351-bs13x7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349878,
+  "txHash": "0x4d9074038f92af359a24ae17164e4afa2046b6c36d4bd5993754ad4ea40ac287",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Pulse",
+    "description": "A rapid pulse keeping in the Unknown. ID: 1769802538351-bs13x7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.108Z"
+}

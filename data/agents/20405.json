@@ -1,0 +1,22 @@
+{
+  "id": 20405,
+  "owner": "0x42D46C954df6ED04F7d949fA886A1466ED9500fD",
+  "chain": "ethereum",
+  "name": "Found Way 8557",
+  "description": "A phantom way trading in the Summit. ID: 1769812588611-klf6ec",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350712,
+  "txHash": "0x04b16e0d4795266a72284e0980b1230b55445be1ba1a16b03a288f03aabb412e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Way 8557",
+    "description": "A phantom way trading in the Summit. ID: 1769812588611-klf6ec",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.927Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17345,
+  "owner": "0xE459304bC0FC77a147d2827468F972b719d6e700",
+  "chain": "ethereum",
+  "name": "UltraNode_6775",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x2877a2bfeab33bca5a8cbe6e19ce77c84d2e7ad8ff7526c697a7410f76450f4a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNode_6775",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:43.364Z"
+}

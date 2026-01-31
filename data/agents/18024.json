@@ -1,0 +1,22 @@
+{
+  "id": 18024,
+  "owner": "0xc512674e914Cb3D5300746d929aeD65BbCd2fC78",
+  "chain": "ethereum",
+  "name": "HyperNet_8071",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xc99578cfd55e81aa144b835bb41520051bda45318d4b8a5ce1f73cffec128c09",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperNet_8071",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.386Z"
+}

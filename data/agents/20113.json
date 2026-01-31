@@ -1,0 +1,22 @@
+{
+  "id": 20113,
+  "owner": "0xAb3eB869d2a44b60A758ebFc7462cf05Cefec3F8",
+  "chain": "ethereum",
+  "name": "Temporal Random Tensor",
+  "description": "A random tensor losing in Jupiter. ID: 1769812334527-c1747t",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350691,
+  "txHash": "0x9990ee7facef1c9cd03307d3307e3ed84a56b04131e2bee19502addd99bb2954",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Random Tensor",
+    "description": "A random tensor losing in Jupiter. ID: 1769812334527-c1747t",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:57.823Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20763,
+  "owner": "0xc9D7C09E32ae8B422047fa9c8E14ec4dba671692",
+  "chain": "ethereum",
+  "name": "Galactic Forge",
+  "description": "A crypto forge waking in Andromeda. ID: 1769812718138-e0rrcm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x1015435d5ea9fc3b67d4a37b2f6de8a69ae392255a1d2bf92dc87feb23010b2f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Galactic Forge",
+    "description": "A crypto forge waking in Andromeda. ID: 1769812718138-e0rrcm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.684Z"
+}

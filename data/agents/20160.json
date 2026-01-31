@@ -1,0 +1,22 @@
+{
+  "id": 20160,
+  "owner": "0x55162C086AE82df3F00DD541a35E4b6cC6Bed4ca",
+  "chain": "ethereum",
+  "name": "Mystic Pulse 796",
+  "description": "A crimson pulse walking in Reality. ID: 1769812365392-el5vhb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0x8a4e66bab6899024de184984aee2df35d72810384b54da77de376753aaafed57",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Mystic Pulse 796",
+    "description": "A crimson pulse walking in Reality. ID: 1769812365392-el5vhb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.022Z"
+}

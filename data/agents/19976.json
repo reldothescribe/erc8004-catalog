@@ -1,0 +1,22 @@
+{
+  "id": 19976,
+  "owner": "0xef5ac6F7F7976Ae50365F739BF1eA05B28B03D18",
+  "chain": "ethereum",
+  "name": "Temporal Synthetic Phoenix",
+  "description": "A synthetic phoenix working in the Heights. ID: 1769807717447-0kxk86",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350307,
+  "txHash": "0x4b6ce4d8a34e08780e432ae025432f1e70b2a0e0907d8b9b1b73b2682a5a837a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Synthetic Phoenix",
+    "description": "A synthetic phoenix working in the Heights. ID: 1769807717447-0kxk86",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.132Z"
+}

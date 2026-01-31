@@ -1,0 +1,22 @@
+{
+  "id": 18338,
+  "owner": "0xe138ec2Dc35dbf29d4a3f50e19CBBB73a121c36F",
+  "chain": "ethereum",
+  "name": "Rapid Door 1134",
+  "description": "A quantum door giving in the Blockchain. ID: 1769794960992-lgoqre",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349251,
+  "txHash": "0x9d6df4fdf8c0e9027ac238533afb3d2bc6fd4b5495f32e031e6ea3a4fee3c9d3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Door 1134",
+    "description": "A quantum door giving in the Blockchain. ID: 1769794960992-lgoqre",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:35.797Z"
+}

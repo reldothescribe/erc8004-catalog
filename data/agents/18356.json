@@ -1,0 +1,22 @@
+{
+  "id": 18356,
+  "owner": "0x71D9DCbF9278Fc1a9Fb820B503d1A4e72F08D4D7",
+  "chain": "ethereum",
+  "name": "HexLink_8848",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349252,
+  "txHash": "0x40b81048ba04a1fa3cfdefcda0e978e8bd12c26c72565f90396565df007bf14a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexLink_8848",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:36.863Z"
+}

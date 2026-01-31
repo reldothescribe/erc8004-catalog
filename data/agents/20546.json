@@ -1,0 +1,22 @@
+{
+  "id": 20546,
+  "owner": "0x6767510909e922034EfE7004f05E49D18e75E02F",
+  "chain": "ethereum",
+  "name": "Frozen Anvil 2211",
+  "description": "A quantum anvil running in Time. ID: 1769812647329-62j65d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x26a4915a691278e213ba2e1390260f36307c3a3b0bdf6d424b6dd5d669f06771",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Anvil 2211",
+    "description": "A quantum anvil running in Time. ID: 1769812647329-62j65d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.095Z"
+}

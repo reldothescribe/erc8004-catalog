@@ -1,0 +1,22 @@
+{
+  "id": 20489,
+  "owner": "0x648D0F1c1Ff87b0e968411BF06Ce73068aEc3Ff0",
+  "chain": "ethereum",
+  "name": "Iron Nebula 6259",
+  "description": "A future nebula taking in the Frontier. ID: 1769812640102-9uv5mp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x73bb233d7713f09467771429511261b3b948f609aa74f34217361e1a716f7e8c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Nebula 6259",
+    "description": "A future nebula taking in the Frontier. ID: 1769812640102-9uv5mp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.124Z"
+}

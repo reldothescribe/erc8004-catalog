@@ -1,0 +1,22 @@
+{
+  "id": 17866,
+  "owner": "0xfB6B7C9A023368fB5Ac6313040BB3a7bfef22E01",
+  "chain": "ethereum",
+  "name": "MetaNet_4685",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xa1c6ba63298c4bcaab934f680afdb0536e2903a06f7d58852d6cdacbc78e6b1a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNet_4685",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:10.137Z"
+}

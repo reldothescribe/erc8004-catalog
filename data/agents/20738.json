@@ -1,0 +1,22 @@
+{
+  "id": 20738,
+  "owner": "0x91892DfF15c1a731B5837305889f8717BFaad93B",
+  "chain": "ethereum",
+  "name": "Astral Road 5052",
+  "description": "A lunar road crafting in the Blockchain. ID: 1769812718750-8fiq2i",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x4021e61b3223f7f8c36cfc62cb971ac59c434703c2883dbdc441e56f6fe74eaf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Road 5052",
+    "description": "A lunar road crafting in the Blockchain. ID: 1769812718750-8fiq2i",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.147Z"
+}

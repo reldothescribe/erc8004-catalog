@@ -1,0 +1,22 @@
+{
+  "id": 20510,
+  "owner": "0xeb931ea591076ebed08Df787709FF7A3131ac7e4",
+  "chain": "ethereum",
+  "name": "Dark Cipher",
+  "description": "A ethereal cipher gathering in DeFi. ID: 1769812646698-2o2t7f",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x145c5a675a2dbbf903242110d8bbec1fa384f8e0b256ca7ed64ed203e5042f89",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Cipher",
+    "description": "A ethereal cipher gathering in DeFi. ID: 1769812646698-2o2t7f",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.099Z"
+}

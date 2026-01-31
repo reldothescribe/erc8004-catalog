@@ -1,0 +1,22 @@
+{
+  "id": 20860,
+  "owner": "0xB194614F3b7953D97f01c80C7A15fc0e867b57c3",
+  "chain": "ethereum",
+  "name": "Blazing Data",
+  "description": "A ether data climbing in Space. ID: 1769812741948-89kt9o",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xcc8942c90e3cb9126c0e02e9206028e1525b500c374ae91ae8af5830d324186b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Data",
+    "description": "A ether data climbing in Space. ID: 1769812741948-89kt9o",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.292Z"
+}

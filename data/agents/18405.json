@@ -1,0 +1,22 @@
+{
+  "id": 18405,
+  "owner": "0x47aeB2b3cFA88517f1cE02daAdE35f1F54471C2c",
+  "chain": "ethereum",
+  "name": "AxiNode_5334",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349256,
+  "txHash": "0x1c40e1ad82f9cd7e912b244c205c2faa42569322459a2427026adeeb206a64e5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiNode_5334",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:39.424Z"
+}

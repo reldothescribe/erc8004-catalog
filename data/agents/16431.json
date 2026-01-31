@@ -1,0 +1,22 @@
+{
+  "id": 16431,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_4560",
+  "description": "Trustless AI executor performing trustless operations with decentralized verification.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349057,
+  "txHash": "0xeb68cd3a5b99098a5c81f56b5fdf42b0de7d79dc7e4b7e777609a95319c77cfb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_4560",
+    "description": "Trustless AI executor performing trustless operations with decentralized verification.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:53.130Z"
+}

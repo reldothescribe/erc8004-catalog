@@ -1,0 +1,22 @@
+{
+  "id": 17404,
+  "owner": "0x268f608CE73e620DfC598ceC6814d3b933795797",
+  "chain": "ethereum",
+  "name": "StellarAgent_7123",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x83d3f28c9df7caf2171ffe8c1e20f508e4b60078b2ad04685e2d85a10140df26",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarAgent_7123",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:46.483Z"
+}

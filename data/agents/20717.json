@@ -1,0 +1,22 @@
+{
+  "id": 20717,
+  "owner": "0x833a42CC1EC90E3C181E0d56E977Bed4147ddedC",
+  "chain": "ethereum",
+  "name": "Ruby Pilot 6761",
+  "description": "A zero pilot speaking in the Center. ID: 1769812703051-ixfy5u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x81ed8f61ae6bf3a10db065e2ed510dcd5865a94b5f0c7ffc764b23e5294ca5a9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Pilot 6761",
+    "description": "A zero pilot speaking in the Center. ID: 1769812703051-ixfy5u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.124Z"
+}

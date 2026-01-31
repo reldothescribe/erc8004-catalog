@@ -1,0 +1,22 @@
+{
+  "id": 17626,
+  "owner": "0xCB46a71eA7331ED7a2176D4bf926c18985527626",
+  "chain": "ethereum",
+  "name": "NovaNode_1908",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x47f84b4740d24eff259ee05b93594f25cf0131b37a308c898306abd5ebc63407",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaNode_1908",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:57.543Z"
+}

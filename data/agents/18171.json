@@ -1,0 +1,22 @@
+{
+  "id": 18171,
+  "owner": "0xb7813b0862FC37a31906B91b595023b9D399E0eC",
+  "chain": "ethereum",
+  "name": "UltraCore_9695",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xd725a9c2a9a64253e0ff7a1f7df48802214a089cdf6a250eec3ba9b7a085f475",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraCore_9695",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:26.214Z"
+}

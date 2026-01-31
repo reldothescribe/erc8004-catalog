@@ -1,0 +1,22 @@
+{
+  "id": 20177,
+  "owner": "0x783d425a3c86CDd57eBe3b781ad9Ecf85cB917c3",
+  "chain": "ethereum",
+  "name": "Bounded Blade 5418",
+  "description": "A prime blade decoding in the Void. ID: 1769812372388-mtm9mu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0xfc35e88b1a074f6bc68c397de3472c252114f85c98b5d0efb93ea075a5f87fab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bounded Blade 5418",
+    "description": "A prime blade decoding in the Void. ID: 1769812372388-mtm9mu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.048Z"
+}

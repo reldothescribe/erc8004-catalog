@@ -1,0 +1,22 @@
+{
+  "id": 19995,
+  "owner": "0xdbe0B5984a2a7e2148E6228c710a8d0656212AB1",
+  "chain": "ethereum",
+  "name": "Hyper Sky",
+  "description": "A radiant sky watching in the Boundary. ID: 1769807801333-78im78",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350314,
+  "txHash": "0x7ed092763dd775c81f394587ba00ed1896c535f7d31dc9aa9a5424e9e27603dc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Sky",
+    "description": "A radiant sky watching in the Boundary. ID: 1769807801333-78im78",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.158Z"
+}

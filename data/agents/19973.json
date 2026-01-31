@@ -1,0 +1,22 @@
+{
+  "id": 19973,
+  "owner": "0x4343EAC11411247CBcDd791e71258CA75a431cE0",
+  "chain": "ethereum",
+  "name": "Nexus Titan",
+  "description": "A digital titan singing in London. ID: 1769806794437-zwcmin",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350273,
+  "txHash": "0xbbac2a805158e67169f4c4f0329c227f80afd2b32ec77bddf35de6b33df430cc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Titan",
+    "description": "A digital titan singing in London. ID: 1769806794437-zwcmin",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.133Z"
+}

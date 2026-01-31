@@ -1,0 +1,22 @@
+{
+  "id": 20416,
+  "owner": "0xB194614F3b7953D97f01c80C7A15fc0e867b57c3",
+  "chain": "ethereum",
+  "name": "Ruby Crown 3238",
+  "description": "A neo crown watching in the Network. ID: 1769812601824-05z43u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350713,
+  "txHash": "0x22d435f94cab8695744f7064e01c9c3efd9e6ee1a60a124f2a30845ddbe42811",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Crown 3238",
+    "description": "A neo crown watching in the Network. ID: 1769812601824-05z43u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.438Z"
+}

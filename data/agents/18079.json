@@ -1,0 +1,22 @@
+{
+  "id": 18079,
+  "owner": "0x6C9318c0A6EAFa338Db0bab48Cf64acf39DFc803",
+  "chain": "ethereum",
+  "name": "MetaNode_7835",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x94595a633429a25f19a5484cef9f4a8687048f0b07f7d61f277e3c714bef52c3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNode_7835",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:21.503Z"
+}

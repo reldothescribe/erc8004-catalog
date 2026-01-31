@@ -1,0 +1,22 @@
+{
+  "id": 19925,
+  "owner": "0x5a03a38249f1D45121Ae5F47b803c990b4651B11",
+  "chain": "ethereum",
+  "name": "Noble Wave 5221",
+  "description": "A shadow wave stopping in the Block. ID: 1769806616086-8n1c4b",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350215,
+  "txHash": "0x196c90501653bac3ffe07f8ebe9ba67adf86223dde6324fd01bcf7fb96e7de46",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Noble Wave 5221",
+    "description": "A shadow wave stopping in the Block. ID: 1769806616086-8n1c4b",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:36.542Z"
+}

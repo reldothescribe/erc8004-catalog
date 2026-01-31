@@ -1,0 +1,25 @@
+{
+  "id": 16295,
+  "owner": "0x91cb4C0E05f5Cf8fB871FF4e92c738A0E54C94C9",
+  "chain": "ethereum",
+  "name": "YyOo",
+  "description": "abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348951,
+  "txHash": "0xc1c07da0001f52d07dc5d1bc6f7b3282ae21da237c5c40279ac92fed22865855",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "YyOo",
+    "description": "abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:16:46.578Z"
+}

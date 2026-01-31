@@ -1,0 +1,22 @@
+{
+  "id": 17689,
+  "owner": "0x5f8AF1aEf7fB49A27744150bcBAB9871155E7061",
+  "chain": "ethereum",
+  "name": "NeoCore_7585",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0xae07a662ef399f7fcbeb28b4fc590afa9ecee5a0a8b8a973d3cd68a5249819b9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoCore_7585",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:00.612Z"
+}

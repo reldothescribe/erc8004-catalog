@@ -1,0 +1,22 @@
+{
+  "id": 20111,
+  "owner": "0x648D0F1c1Ff87b0e968411BF06Ce73068aEc3Ff0",
+  "chain": "ethereum",
+  "name": "Automated Hammer 3744",
+  "description": "A organic hammer reading in the Heights. ID: 1769812334527-3lub1i",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350691,
+  "txHash": "0x8b169b3b7aad2b92f2bc5bfb82f09e1a2f59770e7b882c81d654e70a9685414c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Automated Hammer 3744",
+    "description": "A organic hammer reading in the Heights. ID: 1769812334527-3lub1i",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:57.363Z"
+}

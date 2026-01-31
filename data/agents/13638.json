@@ -1,0 +1,22 @@
+{
+  "id": 13638,
+  "owner": "0xac7B1766eC12824A69207B3EfF9104071000A661",
+  "chain": "ethereum",
+  "name": "whale",
+  "description": "A common application of AI agents is the automation of tasks",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24344580,
+  "txHash": "0x719466356ba3481b717c8c815b96a7fce3e66d6a2473b528b70c20bfef735eb6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "whale",
+    "description": "A common application of AI agents is the automation of tasks",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:14:11.948Z"
+}

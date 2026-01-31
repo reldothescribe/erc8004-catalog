@@ -1,0 +1,22 @@
+{
+  "id": 20798,
+  "owner": "0xCcBe63a952729aD8dcf1830FA68c4A91EbacB690",
+  "chain": "ethereum",
+  "name": "Bounded Door",
+  "description": "A orderly door starting in the Frontier. ID: 1769812720675-n5yyqy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x1d60ebaad74ecbd9a5fea78da3302ea94b47accb9a32d19c6da2e3b3f2aae0d2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bounded Door",
+    "description": "A orderly door starting in the Frontier. ID: 1769812720675-n5yyqy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.220Z"
+}

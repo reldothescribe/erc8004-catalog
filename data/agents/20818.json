@@ -1,0 +1,22 @@
+{
+  "id": 20818,
+  "owner": "0xe51eDE7595E9c125789286Ff6A40Bd19F25E1fA1",
+  "chain": "ethereum",
+  "name": "Jade Qubit 3274",
+  "description": "A galactic qubit soaring in the Grid. ID: 1769812741152-9hzjls",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x6e9fa919b5a667ce432537f62ca70934e626f20099adff3332811adc038885b0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Qubit 3274",
+    "description": "A galactic qubit soaring in the Grid. ID: 1769812741152-9hzjls",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.244Z"
+}

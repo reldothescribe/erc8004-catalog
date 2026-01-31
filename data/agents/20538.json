@@ -1,0 +1,22 @@
+{
+  "id": 20538,
+  "owner": "0x2290c10FfBC4fE1d0936d4EA08Ddd4bC29281a5F",
+  "chain": "ethereum",
+  "name": "Frozen Amber Pulse",
+  "description": "A amber pulse thinking in Space. ID: 1769812642036-nkvc28",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x7bd0debe34700f64f9e44a47fbf00624d5cd7570748fde28e5558ff14ffead6d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Amber Pulse",
+    "description": "A amber pulse thinking in Space. ID: 1769812642036-nkvc28",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.584Z"
+}

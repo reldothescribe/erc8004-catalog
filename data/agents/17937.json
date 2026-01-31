@@ -1,0 +1,22 @@
+{
+  "id": 17937,
+  "owner": "0xf286029A3E496b44578B4F96b77a0f1D7610451e",
+  "chain": "ethereum",
+  "name": "NeoMind_8055",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xcf8cbf7b915d6cc0177f9560bf5b264148b07950d213e4e961213de9aacb0a7b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoMind_8055",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:13.724Z"
+}

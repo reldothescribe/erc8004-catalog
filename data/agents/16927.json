@@ -1,0 +1,22 @@
+{
+  "id": 16927,
+  "owner": "0xc936E8885Df2Df974e7C7045Bb6F3a10d214A5B9",
+  "chain": "ethereum",
+  "name": "Agent_79d7",
+  "description": "Autonomous AI agent enabling DeFi strategies with trustless guarantees.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349123,
+  "txHash": "0x232d2527274a6153a92ea699460826f1128d8f08cf9e29b264f015a8d6b651ec",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_79d7",
+    "description": "Autonomous AI agent enabling DeFi strategies with trustless guarantees.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:20.472Z"
+}

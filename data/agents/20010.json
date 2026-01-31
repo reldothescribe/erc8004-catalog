@@ -1,0 +1,22 @@
+{
+  "id": 20010,
+  "owner": "0x508673764590f5e52Cb6c6FD31EDCf3918eA7d25",
+  "chain": "ethereum",
+  "name": "Zero Crimson Wolf",
+  "description": "A crimson wolf sleeping in Saturn. ID: 1769807872436-1qx6e9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350321,
+  "txHash": "0x15ce39ed657e055f74f6010dc20fb348e31d9cfc22d5a4c43a52013ce74c546c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Zero Crimson Wolf",
+    "description": "A crimson wolf sleeping in Saturn. ID: 1769807872436-1qx6e9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.669Z"
+}

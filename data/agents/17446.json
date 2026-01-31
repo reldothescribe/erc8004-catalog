@@ -1,0 +1,22 @@
+{
+  "id": 17446,
+  "owner": "0x4de21E3d5D13F385C91Da4C85428E78735AAa80f",
+  "chain": "ethereum",
+  "name": "NovaBot_6300",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x08586a6cc0cd1306a0b3c44cfc6173a5b930a8125c704baa413a36d2a30d1f15",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaBot_6300",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:48.531Z"
+}

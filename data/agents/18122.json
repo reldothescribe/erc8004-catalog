@@ -1,0 +1,22 @@
+{
+  "id": 18122,
+  "owner": "0x01b07fbA19710B4971aB652d2d921A1272e11048",
+  "chain": "ethereum",
+  "name": "AxiNet_86",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0xddf222d3e8dd241870c94661213d8b58695878db00b04aad475e263aac40a50f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiNet_86",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:23.551Z"
+}

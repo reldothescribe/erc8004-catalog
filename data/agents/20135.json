@@ -1,0 +1,22 @@
+{
+  "id": 20135,
+  "owner": "0xB4B28fAe4c438285a38EB8f72d6C4891656736b3",
+  "chain": "ethereum",
+  "name": "Shadow Cipher",
+  "description": "A sapphire cipher walking in Nature. ID: 1769812352387-c2fdfz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0x452ed0cd0e897392c3701e7507424afc74177524576885f88f674258e4e722e4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Cipher",
+    "description": "A sapphire cipher walking in Nature. ID: 1769812352387-c2fdfz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.897Z"
+}

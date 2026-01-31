@@ -1,0 +1,22 @@
+{
+  "id": 20846,
+  "owner": "0x522561ADb925F9C79fE07b980175eF2E0cEf64aE",
+  "chain": "ethereum",
+  "name": "Autonomous Path",
+  "description": "A crystal path playing in the Core. ID: 1769812740544-b6moz7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xae70afb5b7ec68ec717564d91d95529caf9586ff23541632759ff6f3a6ab9676",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Path",
+    "description": "A crystal path playing in the Core. ID: 1769812740544-b6moz7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.782Z"
+}

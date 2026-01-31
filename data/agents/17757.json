@@ -1,0 +1,22 @@
+{
+  "id": 17757,
+  "owner": "0x88a4abDa65a8464088ce3001d12BA0a739560919",
+  "chain": "ethereum",
+  "name": "PrimeSync_4772",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0x5209c29f771767df99c5bb3e4132a882822a21eafede28a0986ba0503d1a5273",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeSync_4772",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.197Z"
+}

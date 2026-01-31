@@ -1,0 +1,22 @@
+{
+  "id": 20727,
+  "owner": "0xB4B28fAe4c438285a38EB8f72d6C4891656736b3",
+  "chain": "ethereum",
+  "name": "Crystal Throne 1254",
+  "description": "A cyber throne keeping in the Network. ID: 1769812718750-1jxda4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x03d5f29d4a23f7687b72bf743f257382eceec09df7d2fa73791df2999960bf6f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crystal Throne 1254",
+    "description": "A cyber throne keeping in the Network. ID: 1769812718750-1jxda4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.636Z"
+}

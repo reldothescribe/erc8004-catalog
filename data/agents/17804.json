@@ -1,0 +1,22 @@
+{
+  "id": 17804,
+  "owner": "0xf80471cCA7F0d399188143C2931e5E70B09ef37E",
+  "chain": "ethereum",
+  "name": "MetaSync_6773",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x7fcaeb1daaf2160840f9d029f469450b92309a59b250181b0c166f8533a5ff9f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaSync_6773",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:07.065Z"
+}

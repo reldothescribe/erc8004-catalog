@@ -1,0 +1,22 @@
+{
+  "id": 20289,
+  "owner": "0x94EF34c082fad6a1DfF5C7f3884BbDc35Acd4794",
+  "chain": "ethereum",
+  "name": "Emerald Mystic Matrix",
+  "description": "A mystic matrix soaring in London. ID: 1769812482387-g9czi1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0x14c2bd01bf83239b4926d92a1c02b897a4b347ccd547e22490e9609f0fe2b4dc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Emerald Mystic Matrix",
+    "description": "A mystic matrix soaring in London. ID: 1769812482387-g9czi1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.682Z"
+}

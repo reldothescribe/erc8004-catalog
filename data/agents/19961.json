@@ -1,0 +1,22 @@
+{
+  "id": 19961,
+  "owner": "0x196DaaBe2D783Fa3F2FE3f1ABf0e56D52BE06EC8",
+  "chain": "ethereum",
+  "name": "Amber Crypto Whale",
+  "description": "A crypto whale processing in the Future. ID: 1769806772437-ty4zuk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350229,
+  "txHash": "0x4e47648e0fe8726b4036de9ee235107de70922b4b60c0b77e95ddab0a9dc6cc7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Crypto Whale",
+    "description": "A crypto whale processing in the Future. ID: 1769806772437-ty4zuk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.110Z"
+}

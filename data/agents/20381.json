@@ -1,0 +1,22 @@
+{
+  "id": 20381,
+  "owner": "0x5f66Ab37c9Ffc78E6f79A62816173f637A1E5D1A",
+  "chain": "ethereum",
+  "name": "Phantom Light Soul",
+  "description": "A light soul running in the Abyss. ID: 1769812580389-ewn35o",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0xda06f598c9003614969a7f73a797f7fb02a97059f937701360c1a23958507c3b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Light Soul",
+    "description": "A light soul running in the Abyss. ID: 1769812580389-ewn35o",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.390Z"
+}

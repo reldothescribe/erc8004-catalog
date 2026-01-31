@@ -1,0 +1,22 @@
+{
+  "id": 17703,
+  "owner": "0xc002AB70d186725e0a930563168E6A70E1CcAC7e",
+  "chain": "ethereum",
+  "name": "AxiSync_4295",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349188,
+  "txHash": "0x4ae9249e0016ad2f19cce3ff3e9b0cc764a9e7aa97b6f8af14ef5d8eac587cb4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiSync_4295",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:01.636Z"
+}

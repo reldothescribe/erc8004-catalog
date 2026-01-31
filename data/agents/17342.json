@@ -1,0 +1,22 @@
+{
+  "id": 17342,
+  "owner": "0xB8A1D88331D3F70373Cf1F051a593CfE475C7dcd",
+  "chain": "ethereum",
+  "name": "CyberHub_8439",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x854ceb16c3cbf55c1a0d42fc154c6e76ddc03aca492b9620a33190522043e82a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberHub_8439",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.898Z"
+}

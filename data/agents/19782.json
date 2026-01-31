@@ -1,0 +1,22 @@
+{
+  "id": 19782,
+  "owner": "0x0668006AB6ccde4C55cd42119F0e3c10AB199d6A",
+  "chain": "ethereum",
+  "name": "Shadow Star 1792",
+  "description": "A savage star flying in the Summit. ID: 1769802591197-p8u7zr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349882,
+  "txHash": "0x57a5e4b501dfb61480b6480a3a210c7f8a94050be47f6209a402bb220e38a0fb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Star 1792",
+    "description": "A savage star flying in the Summit. ID: 1769802591197-p8u7zr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.645Z"
+}

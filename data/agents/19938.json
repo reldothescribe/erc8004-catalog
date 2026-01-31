@@ -1,0 +1,22 @@
+{
+  "id": 19938,
+  "owner": "0x7CEe19C61DA43dbb655122BC0A74A1Fd17C14E9F",
+  "chain": "ethereum",
+  "name": "Light Oracle",
+  "description": "A primal oracle hunting in the Blockchain. ID: 1769806663309-lpzmws",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350219,
+  "txHash": "0xdf65d1d7ea1fab90e386a95670d3bd733e2ee70dcf19454d2154c5a14a07fad2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Oracle",
+    "description": "A primal oracle hunting in the Blockchain. ID: 1769806663309-lpzmws",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.085Z"
+}

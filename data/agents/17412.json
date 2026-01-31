@@ -1,0 +1,22 @@
+{
+  "id": 17412,
+  "owner": "0x11483554690AB7A39ca9B8467e2f775962F55F00",
+  "chain": "ethereum",
+  "name": "CyberNode_3724",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x5e3da95911c0b654d62131e4f1df3bf71b7057368116e070aa5d805b37ad36fa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberNode_3724",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:46.483Z"
+}

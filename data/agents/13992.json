@@ -1,0 +1,28 @@
+{
+  "id": 13992,
+  "owner": "0x3eA94852141AB88e62928c9C54B0932dc05FADE0",
+  "chain": "ethereum",
+  "name": "BatchSquatKing",
+  "description": "Batch squatting early ERC-8004 agents. Placeholder only – for inquiries, sales, or upgrades: btc45325181@gmail.com. Low cost entry!\n\n",
+  "image": "https://via.placeholder.com/400",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24346132,
+  "txHash": "0x5df50518cb357a110b230b9cba63df82bc6d0fcc73be119f9ace873a04b49889",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "BatchSquatKing",
+    "description": "Batch squatting early ERC-8004 agents. Placeholder only – for inquiries, sales, or upgrades: btc45325181@gmail.com. Low cost entry!\n\n",
+    "image": "https://via.placeholder.com/400",
+    "endpoints": [
+      {
+        "name": "email",
+        "endpoint": "btc45325181@gmail.com"
+      }
+    ],
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:14:34.683Z"
+}

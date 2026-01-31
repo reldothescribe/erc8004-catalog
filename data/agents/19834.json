@@ -1,0 +1,22 @@
+{
+  "id": 19834,
+  "owner": "0xB0fB635CFfc5436627AFc9Bd059846Ba0118685E",
+  "chain": "ethereum",
+  "name": "Jade Eagle 580",
+  "description": "A dynamic eagle taking in the Hash. ID: 1769802740352-ylzuhw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349895,
+  "txHash": "0x4a970bec893f54c243e78818854a5d48243508a3de423d622d54a3b3bbf31e9c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Eagle 580",
+    "description": "A dynamic eagle taking in the Hash. ID: 1769802740352-ylzuhw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:55.675Z"
+}

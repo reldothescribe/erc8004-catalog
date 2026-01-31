@@ -1,0 +1,22 @@
+{
+  "id": 18020,
+  "owner": "0xDC6D950D85C10C048618e42f20a02A7a52cC9c5f",
+  "chain": "ethereum",
+  "name": "NovaAgent_3106",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xf215a96dfc039420c76f1dfe623fb4268cf82cb02311f04a2d1385f9196bd4a9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaAgent_3106",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:17.921Z"
+}

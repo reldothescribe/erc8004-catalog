@@ -1,0 +1,22 @@
+{
+  "id": 20473,
+  "owner": "0xFDF641b02610F312db0d3cAB2d74ef477FB75550",
+  "chain": "ethereum",
+  "name": "Autonomous Colossus 26",
+  "description": "A jade colossus sharing in the DAO. ID: 1769812640102-jbmlpz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x69828653f8c5d779c7c9618fda8518a1300fafa2da9d4f754a8e308ad2b92dd3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Colossus 26",
+    "description": "A jade colossus sharing in the DAO. ID: 1769812640102-jbmlpz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:16.614Z"
+}

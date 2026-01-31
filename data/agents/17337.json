@@ -1,0 +1,22 @@
+{
+  "id": 17337,
+  "owner": "0x8A1e26cA5f9aC622bE8ED99a973dBcAAc817a3d0",
+  "chain": "ethereum",
+  "name": "NovaSync_510",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x5ed3bf3928345688662582c6fcc91211914b5a15599d557d2ed4941341c4dd7e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaSync_510",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.898Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18365,
+  "owner": "0xFa8455757281A8aF7759B2e6350a96ec8325519b",
+  "chain": "ethereum",
+  "name": "Found Shaman",
+  "description": "A visual shaman painting in the Block. ID: 1769794996487-xgha9v",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349254,
+  "txHash": "0xb4aac77ed019032aa3c18cd088e618ffb7dd0531bfae024bacf96de2bebff2a5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Shaman",
+    "description": "A visual shaman painting in the Block. ID: 1769794996487-xgha9v",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:37.377Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19923,
+  "owner": "0xbdde989e6348742F3846CAA62fd20a6d2A0903B8",
+  "chain": "ethereum",
+  "name": "Infinite Crypto Echo",
+  "description": "A crypto echo forging in the Depths. ID: 1769806616086-0qhrqk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350215,
+  "txHash": "0xa9be6cb41c6f71db8fffaf336db6d6db06e2b64f32d1ec9ddece618b4cc0c4c5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Crypto Echo",
+    "description": "A crypto echo forging in the Depths. ID: 1769806616086-0qhrqk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:36.536Z"
+}

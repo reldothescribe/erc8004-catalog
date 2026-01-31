@@ -1,0 +1,22 @@
+{
+  "id": 13692,
+  "owner": "0xac7B1766eC12824A69207B3EfF9104071000A661",
+  "chain": "ethereum",
+  "name": "virtuals",
+  "description": "Proposed protocols for standardizing inter-agent communication",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24345408,
+  "txHash": "0x980aa63eb933bd6e5bf25a8b9f272321f930efdefd1928f4d0c0ce0635a837ac",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "virtuals",
+    "description": "Proposed protocols for standardizing inter-agent communication",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:14:16.251Z"
+}

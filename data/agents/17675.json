@@ -1,0 +1,22 @@
+{
+  "id": 17675,
+  "owner": "0x156ea8eab7a3313fb50d05ce885092F1b08e8Ac9",
+  "chain": "ethereum",
+  "name": "StellarNet_1596",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0xac17c36a8f6a836226121c62ce7e72946e57d274b318df4ec9dce28995afc879",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNet_1596",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:00.103Z"
+}

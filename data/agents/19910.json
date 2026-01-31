@@ -1,0 +1,22 @@
+{
+  "id": 19910,
+  "owner": "0x196DaaBe2D783Fa3F2FE3f1ABf0e56D52BE06EC8",
+  "chain": "ethereum",
+  "name": "Autonomous Rapid Network",
+  "description": "A rapid network sleeping in Web3. ID: 1769806575613-6lszl3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350212,
+  "txHash": "0xa879df3e4680b8daf569c3142c7d21eb33b84e033a7f5eaa38032663aaa41a2f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Rapid Network",
+    "description": "A rapid network sleeping in Web3. ID: 1769806575613-6lszl3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:31.452Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20779,
+  "owner": "0xc2604c18f52341967f7b387214b166C48e518eE9",
+  "chain": "ethereum",
+  "name": "Sentient Tower",
+  "description": "A eternal tower living in the Block. ID: 1769812720023-rindu3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x27479cf809a6177a2ef27137e3c45c0315c46cfba5e26793c4075ec0a994a1f6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sentient Tower",
+    "description": "A eternal tower living in the Block. ID: 1769812720023-rindu3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.201Z"
+}

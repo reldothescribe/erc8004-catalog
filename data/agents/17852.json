@@ -1,0 +1,22 @@
+{
+  "id": 17852,
+  "owner": "0xF01e9e86Ab0Dfa67f6379e2760A8036518aa238D",
+  "chain": "ethereum",
+  "name": "NeoNode_3368",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xce7e777478f78e6f1396558e6570538be511b292a15410510ad8cd5cee11d45d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNode_3368",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:09.112Z"
+}

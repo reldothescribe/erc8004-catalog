@@ -1,0 +1,22 @@
+{
+  "id": 20114,
+  "owner": "0xc9D7C09E32ae8B422047fa9c8E14ec4dba671692",
+  "chain": "ethereum",
+  "name": "Omega Explorer 4009",
+  "description": "A cyber explorer healing in Pluto. ID: 1769812334527-r6tagj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350691,
+  "txHash": "0xa07cfe4a38195bd6f5322156d05ea0b2c97939cdddecf9889dc77846d6106719",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Omega Explorer 4009",
+    "description": "A cyber explorer healing in Pluto. ID: 1769812334527-r6tagj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:57.820Z"
+}

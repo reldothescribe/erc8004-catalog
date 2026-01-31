@@ -1,0 +1,22 @@
+{
+  "id": 20404,
+  "owner": "0x93027780E6EFD6Fd80C9101357f47865abd49625",
+  "chain": "ethereum",
+  "name": "Valiant Mage 7008",
+  "description": "A neo mage seeking in Legend. ID: 1769812588611-3gtzy1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350712,
+  "txHash": "0x0b096a90074daf6ba32cef38c625b599e9cf1de852b37b8e4e396f5f14fe046c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Mage 7008",
+    "description": "A neo mage seeking in Legend. ID: 1769812588611-3gtzy1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.928Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20436,
+  "owner": "0x64Dc29113b799BE8C6243f95113fb7709b6b4E84",
+  "chain": "ethereum",
+  "name": "Golden Warrior",
+  "description": "A frozen warrior healing in Mystery. ID: 1769812610950-x1jahl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350714,
+  "txHash": "0x77635b2c9f27753e019032a43521ac26b6e5de83617afd6f85d5cdaaaecc6ccf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Warrior",
+    "description": "A frozen warrior healing in Mystery. ID: 1769812610950-x1jahl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:14.462Z"
+}

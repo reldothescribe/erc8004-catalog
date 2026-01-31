@@ -1,0 +1,22 @@
+{
+  "id": 18038,
+  "owner": "0x36114C9d64d5cA3Ac22DeC17029b8A217eBA9f55",
+  "chain": "ethereum",
+  "name": "QuantumBot_1757",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0xa5960230aacde91ad0938d48d7201b1a8a1d6707809220d2e5c297d32d89bb42",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumBot_1757",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.944Z"
+}

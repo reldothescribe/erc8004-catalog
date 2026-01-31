@@ -1,0 +1,22 @@
+{
+  "id": 17344,
+  "owner": "0x54762DF4c55cc7d3BBD12D0aba6b7B4be46C5a5a",
+  "chain": "ethereum",
+  "name": "HyperNode_3643",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x56ebe052b79dfcedb0572032a7a321b0d65ca8dea7d4ea35b95f0fb884e2f872",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperNode_3643",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:43.367Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19741,
+  "owner": "0x7b14b4B5E38B98733d0A89cA09C5a2323DBA4d72",
+  "chain": "ethereum",
+  "name": "Visual Crown",
+  "description": "A prime crown healing in the Protocol. ID: 1769802486045-emc0pm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349873,
+  "txHash": "0x607e1258b6ca096949e3926fed43b5e77dbc994e00d72ebbfb55c8b95fcd9b88",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Visual Crown",
+    "description": "A prime crown healing in the Protocol. ID: 1769802486045-emc0pm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:49.878Z"
+}

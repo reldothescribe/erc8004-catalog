@@ -1,0 +1,22 @@
+{
+  "id": 17489,
+  "owner": "0xFec26b362c73A87d2E79F99c39F2a50bc5b7cC1D",
+  "chain": "ethereum",
+  "name": "MetaMind_1534",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xba4b8ab87f65f0ac1d34c18e40df246f17322c4c681a8e93ebbb03f977b1d895",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaMind_1534",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:50.578Z"
+}

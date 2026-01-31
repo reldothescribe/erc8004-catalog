@@ -1,0 +1,22 @@
+{
+  "id": 17973,
+  "owner": "0x07AdfeB987B1C3f1aD8766b3914fec9d6047CA5b",
+  "chain": "ethereum",
+  "name": "HyperHub_2945",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xaf8ffc46b345386914e73988bb0d26d6a7f9d06a7dd33b50651dd9b1f4ddda31",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperHub_2945",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:15.872Z"
+}

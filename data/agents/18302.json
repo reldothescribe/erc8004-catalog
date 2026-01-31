@@ -1,0 +1,22 @@
+{
+  "id": 18302,
+  "owner": "0x9B3172Ab99545cAC037BEDbBf76Ed4f724dD7630",
+  "chain": "ethereum",
+  "name": "ZenAgent_4bc3",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349249,
+  "txHash": "0x8c1522cf463cdc9376da218075cf440f4ce069e9e98d9ba15d8dfa32ef9e1d01",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ZenAgent_4bc3",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:33.793Z"
+}

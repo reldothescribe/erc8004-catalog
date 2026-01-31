@@ -1,0 +1,22 @@
+{
+  "id": 17717,
+  "owner": "0xC6BdCA39940a87F94D61D6413EBF777d2AdF0513",
+  "chain": "ethereum",
+  "name": "CyberMind_6112",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349188,
+  "txHash": "0x3e65e721bdfa8ee0e2535b90920ab5522b4dac9b04711439365f5450b4521f6e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberMind_6112",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.107Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20288,
+  "owner": "0x38447282160C1cc96F43855225A1867d6E095B2c",
+  "chain": "ethereum",
+  "name": "Ether Seeker 8537",
+  "description": "A lunar seeker decoding in Technology. ID: 1769812482387-pd8q9r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0x9703b07624885f553897c980d697127a9b9a2db471952656365cd1c405a6a342",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Seeker 8537",
+    "description": "A lunar seeker decoding in Technology. ID: 1769812482387-pd8q9r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.682Z"
+}

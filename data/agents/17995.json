@@ -1,0 +1,22 @@
+{
+  "id": 17995,
+  "owner": "0xB5cdE17bDD2022F9E1A99b95bf315F0ce7Deb7C8",
+  "chain": "ethereum",
+  "name": "UltraBot_8221",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x4af28b1837a9f1881c5b0d2d03f806e380416a2150414713dd5e01c1d8041a08",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraBot_8221",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:16.897Z"
+}

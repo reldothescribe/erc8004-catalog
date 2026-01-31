@@ -1,0 +1,22 @@
+{
+  "id": 20539,
+  "owner": "0x2290c10FfBC4fE1d0936d4EA08Ddd4bC29281a5F",
+  "chain": "ethereum",
+  "name": "Solar Core 3623",
+  "description": "A neural core sharing in the Center. ID: 1769812647997-nnjm41",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xe444e2900a1f79bb2644fddb522d6ba571ed7332964559f2f7570d8fb51b07d4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Core 3623",
+    "description": "A neural core sharing in the Center. ID: 1769812647997-nnjm41",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.584Z"
+}

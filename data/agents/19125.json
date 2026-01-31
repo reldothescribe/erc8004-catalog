@@ -1,0 +1,22 @@
+{
+  "id": 19125,
+  "owner": "0xD4cb3981f23c51fC0DE2E27fda9Be9c37ecD6c65",
+  "chain": "ethereum",
+  "name": "Kinetic Druid 6605",
+  "description": "A rapid druid fighting in Pluto. ID: 1769796715331-kirttu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349712,
+  "txHash": "0x8f13a9bc05ca2226e2777e10d8a593ecc478ab1c2079e7e864bba0c797b78c42",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Druid 6605",
+    "description": "A rapid druid fighting in Pluto. ID: 1769796715331-kirttu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:17.825Z"
+}

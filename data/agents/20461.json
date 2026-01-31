@@ -1,0 +1,22 @@
+{
+  "id": 20461,
+  "owner": "0x91892DfF15c1a731B5837305889f8717BFaad93B",
+  "chain": "ethereum",
+  "name": "Ethereal Pulse",
+  "description": "A temporal pulse keeping in the Grid. ID: 1769812646698-jteo9h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xcbdc02c498f8cbed957db661b38d3b7404da29adf72f396dbdcee153ecbe08ef",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Pulse",
+    "description": "A temporal pulse keeping in the Grid. ID: 1769812646698-jteo9h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:15.556Z"
+}

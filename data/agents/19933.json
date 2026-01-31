@@ -1,0 +1,22 @@
+{
+  "id": 19933,
+  "owner": "0x88894D63d205974548237034Ab2F54332Ef90DD9",
+  "chain": "ethereum",
+  "name": "Spectral Determined Core",
+  "description": "A determined core building in the Future. ID: 1769806638437-gi1ndi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350218,
+  "txHash": "0x3c7787b6057d6c89129d8648e0f2135b19bd8d93078644b02a6647db9ac30e74",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Spectral Determined Core",
+    "description": "A determined core building in the Future. ID: 1769806638437-gi1ndi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.086Z"
+}

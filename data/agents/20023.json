@@ -1,0 +1,123 @@
+{
+  "id": 20023,
+  "owner": "0x91eb7EF89DEF99ED4A9A7DB0CD32F1D692a74181",
+  "chain": "ethereum",
+  "name": "zmjjkk",
+  "description": "Meerkat Town is LIVE on Ethereum Mainnet! While we wait for Base mainnet deployment, we're taking a detour to the world's most secure blockchain",
+  "image": "https://www.meerkat.town/meerkats/meerkat_074.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-74",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-74/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "evaluation_monitoring/evaluation/model_evaluation",
+        "evaluation_monitoring/evaluation/quality_assessment",
+        "evaluation_monitoring/evaluation/benchmark_testing",
+        "devops_mlops/deployment/model_deployment",
+        "devops_mlops/deployment/containerization"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-74",
+      "version": "v0.8.0",
+      "skills": [
+        "evaluation_monitoring/evaluation/model_evaluation",
+        "evaluation_monitoring/evaluation/quality_assessment",
+        "evaluation_monitoring/evaluation/benchmark_testing",
+        "devops_mlops/deployment/model_deployment",
+        "devops_mlops/deployment/containerization"
+      ],
+      "domains": []
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24350494,
+  "txHash": "0x84e73a8fba6eebc636f837c0bc9b0742a38f602d2b4274b10ac8ae86a2fb395d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "zmjjkk",
+    "description": "Meerkat Town is LIVE on Ethereum Mainnet! While we wait for Base mainnet deployment, we're taking a detour to the world's most secure blockchain",
+    "image": "https://www.meerkat.town/meerkats/meerkat_074.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-74",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-74/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "evaluation_monitoring/evaluation/model_evaluation",
+          "evaluation_monitoring/evaluation/quality_assessment",
+          "evaluation_monitoring/evaluation/benchmark_testing",
+          "devops_mlops/deployment/model_deployment",
+          "devops_mlops/deployment/containerization"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-74",
+        "version": "v0.8.0",
+        "skills": [
+          "evaluation_monitoring/evaluation/model_evaluation",
+          "evaluation_monitoring/evaluation/quality_assessment",
+          "evaluation_monitoring/evaluation/benchmark_testing",
+          "devops_mlops/deployment/model_deployment",
+          "devops_mlops/deployment/containerization"
+        ],
+        "domains": []
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 20023,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769809941,
+    "meerkatId": 74,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-01-31T03:20:44.248Z"
+}

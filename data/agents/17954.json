@@ -1,0 +1,22 @@
+{
+  "id": 17954,
+  "owner": "0xcB9F1Dca6a9d2242646F51C1bc256174ECBE8aD2",
+  "chain": "ethereum",
+  "name": "QuantumFlow_895",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x416d9e13aad5d0734b2eceb5c2530fc6150f52dba8d32d87a9b232dbbf7545f6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumFlow_895",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:14.745Z"
+}

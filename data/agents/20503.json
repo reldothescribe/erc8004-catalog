@@ -1,0 +1,22 @@
+{
+  "id": 20503,
+  "owner": "0x18952b5bb759df25D7871d18d4D293b5dD1bBDe9",
+  "chain": "ethereum",
+  "name": "Ruby Chimera",
+  "description": "A autonomous chimera painting in Reality. ID: 1769812640758-fibrok",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x93e193e48713c2ed1a2a0bc7d5c94a7b7f6606f19ae743382f2ee342bbc55578",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Chimera",
+    "description": "A autonomous chimera painting in Reality. ID: 1769812640758-fibrok",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.099Z"
+}

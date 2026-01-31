@@ -1,0 +1,22 @@
+{
+  "id": 17287,
+  "owner": "0xa283AaF6B66B77b4F9bC1a8dD8e54187cff097D0",
+  "chain": "ethereum",
+  "name": "MetaFlow_2354",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349163,
+  "txHash": "0xc5b4f47cf674f9e0e8191ca5ec0e56d05fa618eecb914e984532d44c32ef08a0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaFlow_2354",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:40.338Z"
+}

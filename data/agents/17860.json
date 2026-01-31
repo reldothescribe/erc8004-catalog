@@ -1,0 +1,22 @@
+{
+  "id": 17860,
+  "owner": "0x9B54F301CfFa8A5FA7141Ca65027272be0160635",
+  "chain": "ethereum",
+  "name": "AxiFlow_9960",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xb139b91c5ba9a5c6f4ecf29810d10fc71025ddd34d6fd36e09f1025675d867d8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiFlow_9960",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:09.625Z"
+}

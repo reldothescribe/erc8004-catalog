@@ -1,0 +1,22 @@
+{
+  "id": 17749,
+  "owner": "0x4f17d24c94C341578BC993AEfe2e97A31412e8C1",
+  "chain": "ethereum",
+  "name": "UltraHub_2856",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0x8852a6070d19836afa07b5f44a8e0fe2741df2bb2639a09421be5799fb237604",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraHub_2856",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:03.685Z"
+}

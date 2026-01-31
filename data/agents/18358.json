@@ -1,0 +1,22 @@
+{
+  "id": 18358,
+  "owner": "0x026599136182ede3aF1087E554Eef0a42c05a221",
+  "chain": "ethereum",
+  "name": "AxiMind_ba23",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349252,
+  "txHash": "0x53575f734d2b434e849eeaa7ce27861766815beef3df41f0fcc526f4bd30e452",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiMind_ba23",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:36.863Z"
+}

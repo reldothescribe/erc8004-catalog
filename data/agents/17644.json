@@ -1,0 +1,22 @@
+{
+  "id": 17644,
+  "owner": "0x1B2Cb9223E80f0204231493E39a5B3DDf566Cc95",
+  "chain": "ethereum",
+  "name": "PrimeHub_6083",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0xcf8d3bb564ffa84e176a07f7b4d00bb1a8bb15ee74657537ec20aeae28888ad3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeHub_6083",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:58.515Z"
+}

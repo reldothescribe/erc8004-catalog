@@ -1,0 +1,22 @@
+{
+  "id": 17233,
+  "owner": "0x7aaEA28e8154D2D704171df2D83B5079F8aB502E",
+  "chain": "ethereum",
+  "name": "PrimeHub_2607",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349160,
+  "txHash": "0x0e4245c8c4b20977968831b6cd2c1ae6e33e98f3aa7cd202117ca5ba590e296f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeHub_2607",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:37.782Z"
+}

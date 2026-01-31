@@ -1,0 +1,22 @@
+{
+  "id": 17720,
+  "owner": "0x1b93328f7EceB307331A30d3f2135b154E5327B5",
+  "chain": "ethereum",
+  "name": "CyberSync_9654",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349202,
+  "txHash": "0x24041ae406af5b7410f8477e85e5e6c612a085ee0a2c9fdfe80d06abf4caeea4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberSync_9654",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.113Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20655,
+  "owner": "0x06CaA6a74716BF1eAca3cb3be976cd6Aa2E510B1",
+  "chain": "ethereum",
+  "name": "Meta Moon 328",
+  "description": "A meta moon rising in Tokyo. ID: 1769812676108-y5pqci",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x2bf3c201bd4685a7d0824eb5ed9aebce82b26a4c931320f4efe150f370053de4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Moon 328",
+    "description": "A meta moon rising in Tokyo. ID: 1769812676108-y5pqci",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.727Z"
+}

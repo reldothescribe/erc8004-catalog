@@ -1,0 +1,22 @@
+{
+  "id": 20621,
+  "owner": "0xc2604c18f52341967f7b387214b166C48e518eE9",
+  "chain": "ethereum",
+  "name": "Holographic Tree",
+  "description": "A holographic tree sleeping in Paris. ID: 1769812676750-v0apy8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x93d7da9ac7f74d4c2958a9de9733fd87b0505e17bdd6534d67ed673ddc7b39df",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Holographic Tree",
+    "description": "A holographic tree sleeping in Paris. ID: 1769812676750-v0apy8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.678Z"
+}

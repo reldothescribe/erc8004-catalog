@@ -1,0 +1,22 @@
+{
+  "id": 17520,
+  "owner": "0xEB55AE7330583CF327Cb8B2d456d36Def2f28ADd",
+  "chain": "ethereum",
+  "name": "NovaNode_6639",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x38ea5933698376718fbb20017527d9bdcc3a1764d0a5f08c15b06fad2dbe8794",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaNode_6639",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:52.115Z"
+}

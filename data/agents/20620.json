@@ -1,0 +1,22 @@
+{
+  "id": 20620,
+  "owner": "0xC6506824E68402C9AC6957988A6e92a4Ec08c724",
+  "chain": "ethereum",
+  "name": "Light Qubit 2765",
+  "description": "A zero qubit dancing in Andromeda. ID: 1769812676108-jp5yxo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x9b70a701c0e5c9a1748afe3767d125e3b8cc6fb3ccbcb35b937ce63938f292fd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Qubit 2765",
+    "description": "A zero qubit dancing in Andromeda. ID: 1769812676108-jp5yxo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.678Z"
+}

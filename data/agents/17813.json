@@ -1,0 +1,22 @@
+{
+  "id": 17813,
+  "owner": "0x28c3d116D452ae6be70F12BDf585FCC2D3FD72E0",
+  "chain": "ethereum",
+  "name": "UltraBot_3325",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x682f5fda936fc3bc444c530ce513e04d43ec2846bb09e1bcc38fc25977a25a51",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraBot_3325",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:07.577Z"
+}

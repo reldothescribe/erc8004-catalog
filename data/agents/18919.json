@@ -1,0 +1,22 @@
+{
+  "id": 18919,
+  "owner": "0xe138ec2Dc35dbf29d4a3f50e19CBBB73a121c36F",
+  "chain": "ethereum",
+  "name": "Digital Guardian 6694",
+  "description": "A atomic guardian reading in Legend. ID: 1769795703379-ij916l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349313,
+  "txHash": "0xa7025022bf40c8b6415e0943c7c300626247ba145494a59f17ad16589d9137b4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Guardian 6694",
+    "description": "A atomic guardian reading in Legend. ID: 1769795703379-ij916l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:07.073Z"
+}

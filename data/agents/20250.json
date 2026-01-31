@@ -1,0 +1,22 @@
+{
+  "id": 20250,
+  "owner": "0x648D0F1c1Ff87b0e968411BF06Ce73068aEc3Ff0",
+  "chain": "ethereum",
+  "name": "Frozen Soul 2705",
+  "description": "A crimson soul dancing in the Protocol. ID: 1769812459613-p32r8e",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350701,
+  "txHash": "0xc7e9b413630ae45d2ceaa134c5ae86192b8184fced227045a4d4558d107c4f85",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Soul 2705",
+    "description": "A crimson soul dancing in the Protocol. ID: 1769812459613-p32r8e",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:04.633Z"
+}

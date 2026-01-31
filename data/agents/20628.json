@@ -1,0 +1,22 @@
+{
+  "id": 20628,
+  "owner": "0x07bD106D809E657Eabb68b91959b58aD8227f470",
+  "chain": "ethereum",
+  "name": "Light Sonic Vortex",
+  "description": "A sonic vortex falling in the Heights. ID: 1769812676750-841w3n",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x77f94e0318831e13ade1e41c429266f18514930344201a57813f71e0f163a2bb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Sonic Vortex",
+    "description": "A sonic vortex falling in the Heights. ID: 1769812676750-841w3n",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.192Z"
+}

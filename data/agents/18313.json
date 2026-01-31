@@ -1,0 +1,22 @@
+{
+  "id": 18313,
+  "owner": "0xE357d3Ead1958a9Ca21F09eB29943aB706c66C50",
+  "chain": "ethereum",
+  "name": "ZenWave_04d6",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349249,
+  "txHash": "0x1f007ec32e53efce161e00ffa844165fe3142a3112e089e4394714065bc3883f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ZenWave_04d6",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:34.817Z"
+}

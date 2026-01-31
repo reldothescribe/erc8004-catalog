@@ -1,0 +1,22 @@
+{
+  "id": 20157,
+  "owner": "0xe51eDE7595E9c125789286Ff6A40Bd19F25E1fA1",
+  "chain": "ethereum",
+  "name": "Valiant Shield",
+  "description": "A orderly shield creating in New York. ID: 1769812365392-c0q65y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0x5d24d745c664dd46d460ec73f81b5d5b23196d6589cdab4c5ee4b0617f9e94a1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Shield",
+    "description": "A orderly shield creating in New York. ID: 1769812365392-c0q65y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.022Z"
+}

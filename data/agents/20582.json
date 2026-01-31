@@ -1,0 +1,22 @@
+{
+  "id": 20582,
+  "owner": "0x7D56c72E1D75f647bE533021fa7ec10ad3Ae03cA",
+  "chain": "ethereum",
+  "name": "Hidden Fierce Gate",
+  "description": "A fierce gate waking in Nature. ID: 1769812646698-qc0uu8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x6bf660f4128946aa30a124de40e59e52f5d2a9e632102fd83af58394c08433e2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Fierce Gate",
+    "description": "A fierce gate waking in Nature. ID: 1769812646698-qc0uu8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.631Z"
+}

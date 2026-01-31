@@ -1,0 +1,22 @@
+{
+  "id": 17649,
+  "owner": "0xD4799aecAB454b66aF76C87A5a79E527FbfaBd89",
+  "chain": "ethereum",
+  "name": "AxiSync_1300",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349184,
+  "txHash": "0xf675dfa49b500060baee49472a07f4442205c82356a31b41cbc6d30f86772fad",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiSync_1300",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:58.523Z"
+}

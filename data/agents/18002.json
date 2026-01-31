@@ -1,0 +1,22 @@
+{
+  "id": 18002,
+  "owner": "0x1F9Cf408adB346b3a294cbe8701D6a5df904eC29",
+  "chain": "ethereum",
+  "name": "HyperFlow_8223",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xcbd7702850b27defa6463472e6d4760126c013727a7849c437f2b199ce6838c1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperFlow_8223",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:16.897Z"
+}

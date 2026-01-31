@@ -1,0 +1,22 @@
+{
+  "id": 18239,
+  "owner": "0xA9EF881F9D7681387A27A0FFa708882FAc53B674",
+  "chain": "ethereum",
+  "name": "HexCore_2522",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349246,
+  "txHash": "0xef898107035a070996a0f4ba2f93baba2d7956d22f5e0f31d2de3d6fab3e41f5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexCore_2522",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:30.822Z"
+}

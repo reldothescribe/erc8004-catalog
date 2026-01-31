@@ -1,0 +1,22 @@
+{
+  "id": 18007,
+  "owner": "0xc42305e6871aFeb6f2AF9f1905aCb4946b52ad91",
+  "chain": "ethereum",
+  "name": "MetaNet_1497",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xf48d2efc778ca407c3e282ebc072019cc8fdc0882c5c6ab56a5ac90a0d91825e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNet_1497",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:17.409Z"
+}

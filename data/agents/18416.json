@@ -1,0 +1,22 @@
+{
+  "id": 18416,
+  "owner": "0x187f5be33D2055Af623864683D95df0fF884cAF4",
+  "chain": "ethereum",
+  "name": "OrbVault_ef36",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349257,
+  "txHash": "0xdd7379399de2d4868a0d30f39f7feca88e6634f3ae9cb4c5a4a5bd6347ec23b5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbVault_ef36",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:39.937Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16378,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_9b2a",
+  "description": "Decentralized AI agent orchestrating cross-chain operations with cryptographic security.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0x9d4ef9ef4cf210098452b8b411739d43f66685c6060e96935525ebaeb37221f3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_9b2a",
+    "description": "Decentralized AI agent orchestrating cross-chain operations with cryptographic security.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:50.571Z"
+}

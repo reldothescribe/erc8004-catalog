@@ -1,0 +1,22 @@
+{
+  "id": 17309,
+  "owner": "0x9607883d5f9aD961F0dFdae878AFa4c2c504D94E",
+  "chain": "ethereum",
+  "name": "AxiBot_6994",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349169,
+  "txHash": "0x0559687fd198f3ed7bea390fa7926e5f59f8981789811c1776f8ac723175e28a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiBot_6994",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:41.362Z"
+}

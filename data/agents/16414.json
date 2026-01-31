@@ -1,0 +1,22 @@
+{
+  "id": 16414,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_ea20",
+  "description": "Decentralized AI agent executing smart contract interactions with decentralized verification.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349057,
+  "txHash": "0xb36ec05087d3a67762d1f5d477a7317e18ee7297023ac6b01636ef19218dcf7b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_ea20",
+    "description": "Decentralized AI agent executing smart contract interactions with decentralized verification.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:52.574Z"
+}

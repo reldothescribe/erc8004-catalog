@@ -1,0 +1,22 @@
+{
+  "id": 20836,
+  "owner": "0xfFc26dA5A767f3074A7633343AE1D34229FdB0Ed",
+  "chain": "ethereum",
+  "name": "Solar Frozen Rogue",
+  "description": "A frozen rogue soaring in Paris. ID: 1769812741152-tk3jia",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x1bbd60bb7c9355d258dbaf5aef70a6118840cadac9e2384d72c14147d0a9372f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Frozen Rogue",
+    "description": "A frozen rogue soaring in Paris. ID: 1769812741152-tk3jia",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.267Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20529,
+  "owner": "0x2305B9eb9c50A64eead0f50647659694aedb70B0",
+  "chain": "ethereum",
+  "name": "Meta Data 2131",
+  "description": "A zero data shaping in the Heights. ID: 1769812640758-24445v",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x72a3cedab5d6becac95f39abdd7f0f47487b2936d3a2524530f4cb3f309fc4d6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Data 2131",
+    "description": "A zero data shaping in the Heights. ID: 1769812640758-24445v",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.071Z"
+}

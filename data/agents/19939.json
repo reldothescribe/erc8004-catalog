@@ -1,0 +1,22 @@
+{
+  "id": 19939,
+  "owner": "0xF21053ed37faD5DF648b5B94E79C325C620649C8",
+  "chain": "ethereum",
+  "name": "Crimson Golem 23",
+  "description": "A burning golem running in London. ID: 1769806663309-5x3s6z",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350219,
+  "txHash": "0xfa0cbf0fe1b61be07f58b7c774f42d7ff5d92d08f690cef2a2da7f7dc7e640f1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Golem 23",
+    "description": "A burning golem running in London. ID: 1769806663309-5x3s6z",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.085Z"
+}

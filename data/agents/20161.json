@@ -1,0 +1,22 @@
+{
+  "id": 20161,
+  "owner": "0x42D46C954df6ED04F7d949fA886A1466ED9500fD",
+  "chain": "ethereum",
+  "name": "Static Rogue 791",
+  "description": "A static rogue waking in the Hash. ID: 1769812365392-aolj7l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0x6acffadc6be6c925a34449395b141df5c6c5af55d0a1f64ad91c6eda5c4b4405",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Rogue 791",
+    "description": "A static rogue waking in the Hash. ID: 1769812365392-aolj7l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.022Z"
+}

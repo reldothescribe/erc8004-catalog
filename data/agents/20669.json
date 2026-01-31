@@ -1,0 +1,22 @@
+{
+  "id": 20669,
+  "owner": "0x4598FAbA3799568ADcc61E20AA7C1Ba30d2E7D7A",
+  "chain": "ethereum",
+  "name": "Cognitive Lunar Tensor",
+  "description": "A lunar tensor trading in Saturn. ID: 1769812701128-su1wv3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x9124cbae841f6d7d359df0bbc2f6eff6e0ad6f744e6313001d14fc30e881a940",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cognitive Lunar Tensor",
+    "description": "A lunar tensor trading in Saturn. ID: 1769812701128-su1wv3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.239Z"
+}

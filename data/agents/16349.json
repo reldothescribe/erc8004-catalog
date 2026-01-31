@@ -1,0 +1,22 @@
+{
+  "id": 16349,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_5a84",
+  "description": "On-chain AI assistant performing blockchain transactions with decentralized verification.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349055,
+  "txHash": "0xb0519149eaf9c8a80f1a9d0885d3d7adff1293b61260676184cc9fc91a2322f6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_5a84",
+    "description": "On-chain AI assistant performing blockchain transactions with decentralized verification.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:49.137Z"
+}

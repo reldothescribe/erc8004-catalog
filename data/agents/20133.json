@@ -1,0 +1,22 @@
+{
+  "id": 20133,
+  "owner": "0xBF2301a8F89278ceF488A0200b34769ABdC0eda0",
+  "chain": "ethereum",
+  "name": "Prime Lunar Vector",
+  "description": "A lunar vector processing in Nature. ID: 1769812352388-8oui9i",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0x62c707be0a04e2b61312da83a9db8b1729d3d70a8b3c71831f5efa2bd70ebb46",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Prime Lunar Vector",
+    "description": "A lunar vector processing in Nature. ID: 1769812352388-8oui9i",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.897Z"
+}

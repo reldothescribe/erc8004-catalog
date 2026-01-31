@@ -1,0 +1,22 @@
+{
+  "id": 17566,
+  "owner": "0xeFDb844583F6A6F53B633B69c86931675eaCAa1d",
+  "chain": "ethereum",
+  "name": "AxiSync_452",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x43e8f0826b191120483765cfb61fcfd7c2da8af2e36ecf171c4c2fe85947a60f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiSync_452",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:54.624Z"
+}

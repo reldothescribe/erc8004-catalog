@@ -1,0 +1,22 @@
+{
+  "id": 20112,
+  "owner": "0xd0F18Bc62cEE2Cb49b771F2470D95574B1cB1964",
+  "chain": "ethereum",
+  "name": "Pearl Hunter 3775",
+  "description": "A ancient hunter swimming in the Consensus. ID: 1769812334527-80ax1a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350691,
+  "txHash": "0x465ee81de802f7d53197ee0b9bea8e5eb3828f7c31ee7e0f30e2d4fff5cb1100",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Hunter 3775",
+    "description": "A ancient hunter swimming in the Consensus. ID: 1769812334527-80ax1a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:57.364Z"
+}

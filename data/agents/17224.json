@@ -1,0 +1,22 @@
+{
+  "id": 17224,
+  "owner": "0x31857Bf4B536a9F8dAA101758f805Bf32Fe0c1Db",
+  "chain": "ethereum",
+  "name": "NeoNode_4514",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349160,
+  "txHash": "0x84aa40f07f0ee39ae51d8e9136da21cc281c30b9eba541d6b141b90759d59153",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNode_4514",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:37.224Z"
+}

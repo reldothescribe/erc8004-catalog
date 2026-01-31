@@ -1,0 +1,27 @@
+{
+  "id": 13828,
+  "owner": "0xc212c12D84245154AC8B548cE8635748B1DA39Fb",
+  "chain": "ethereum",
+  "name": "Agent #13828",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24345721,
+  "txHash": "0x8d96a7b7fcc5079bff173c0d84f2ffebc74f567bf12dbe3dfe21063e6f26bce9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "",
+    "description": "",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:14:24.850Z"
+}

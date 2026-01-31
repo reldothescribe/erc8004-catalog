@@ -1,0 +1,22 @@
+{
+  "id": 18551,
+  "owner": "0x862f10514D7edc47fd414242792B226CCFD119eB",
+  "chain": "ethereum",
+  "name": "HexNode_57f4",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349269,
+  "txHash": "0x50135cd0fd095bd0f9453d7cd8616457b2a7016f0aaa20e6cfdfeb0f713e8b05",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexNode_57f4",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:47.105Z"
+}

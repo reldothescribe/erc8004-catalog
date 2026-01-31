@@ -1,0 +1,22 @@
+{
+  "id": 16957,
+  "owner": "0xc9D7C09E32ae8B422047fa9c8E14ec4dba671692",
+  "chain": "ethereum",
+  "name": "Shadow Light Spirit",
+  "description": "A light spirit destroying in Andromeda. Created at 1769793525626.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349131,
+  "txHash": "0xd5fd1b4d69a38639224c63f69f1578e2de25e9bac573270a681026733431c1ba",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Light Spirit",
+    "description": "A light spirit destroying in Andromeda. Created at 1769793525626.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:22.009Z"
+}

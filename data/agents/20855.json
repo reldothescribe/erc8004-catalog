@@ -1,0 +1,22 @@
+{
+  "id": 20855,
+  "owner": "0x6bCf2b844E871FE46c8A202bF0FAB6700B347b8C",
+  "chain": "ethereum",
+  "name": "Noble Mystic Code",
+  "description": "A mystic code running in Myth. ID: 1769812741948-a06r9l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x0fcb8ec379174268ea17ebe45be23ea69394248a4fd6fde92ea879d90ab35516",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Noble Mystic Code",
+    "description": "A mystic code running in Myth. ID: 1769812741948-a06r9l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.292Z"
+}

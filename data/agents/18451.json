@@ -1,0 +1,22 @@
+{
+  "id": 18451,
+  "owner": "0x34efa859b6A4c75514931C9e0A83e1C54fff7a33",
+  "chain": "ethereum",
+  "name": "SolAgent_c351",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349261,
+  "txHash": "0x9435d36a02cb89547e6de5454b6b221ab8bb84648c05e7fcd9ad2203b21809e5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolAgent_c351",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:41.471Z"
+}

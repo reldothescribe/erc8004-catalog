@@ -1,0 +1,22 @@
+{
+  "id": 17692,
+  "owner": "0x40058521B77C4ea8AE936e164292613e63565710",
+  "chain": "ethereum",
+  "name": "NeoBot_6523",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0xeaa97e0da053c17fd00e188b68066e590b889a5c1e3201be462f8c06b73d8257",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoBot_6523",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:00.613Z"
+}

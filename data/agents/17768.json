@@ -1,0 +1,22 @@
+{
+  "id": 17768,
+  "owner": "0x74f0404D26D5d06a7f12A41CC12452B8736ead15",
+  "chain": "ethereum",
+  "name": "NeoMind_2514",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0xba18707a48762be74077cd4337fd6fc9c83156a4a4fd91c1280aba1b6e7e3113",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoMind_2514",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.654Z"
+}

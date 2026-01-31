@@ -1,0 +1,22 @@
+{
+  "id": 18152,
+  "owner": "0xcAa956f11546FD170F4d956207abe2f55D16E158",
+  "chain": "ethereum",
+  "name": "QuantumBot_7909",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0xd240897484f729ec70e63be4456643960695a773f39c5885466ae67ca52513a6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumBot_7909",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:25.121Z"
+}

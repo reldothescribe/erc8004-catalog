@@ -1,0 +1,22 @@
+{
+  "id": 15424,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "SovWallet",
+  "description": "Imagine an AI that holds its own wallet, earns its own revenue, and makes its own on-chain decisions. That future is already here.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24348772,
+  "txHash": "0xd87ca7bed356ebc1029e5129a7c62da35783df2483215fe21c13f9519a1512ea",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SovWallet",
+    "description": "Imagine an AI that holds its own wallet, earns its own revenue, and makes its own on-chain decisions. That future is already here.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:15:52.563Z"
+}

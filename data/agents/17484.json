@@ -1,0 +1,22 @@
+{
+  "id": 17484,
+  "owner": "0x4597d979E6a8Cf51B3aF4b0C25454381B389382D",
+  "chain": "ethereum",
+  "name": "MetaNode_5576",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xf1cb0832d7a68c905bfd2e8e4f710624e485875317cd9ffab0af2fe9b51165e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNode_5576",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:50.578Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20766,
+  "owner": "0xD5Cac16F69Fde4b57f3CD29a0d164d30F00e5fBD",
+  "chain": "ethereum",
+  "name": "Hidden Hydra",
+  "description": "A ivory hydra fighting in Technology. ID: 1769812720023-o1cni2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x2607322aa7cad1f45822f1464b3d1914ef3eb5c218e9572ffac1e8b93d72926c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Hydra",
+    "description": "A ivory hydra fighting in Technology. ID: 1769812720023-o1cni2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.684Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19958,
+  "owner": "0xef5ac6F7F7976Ae50365F739BF1eA05B28B03D18",
+  "chain": "ethereum",
+  "name": "Digital Pulse",
+  "description": "A emerald pulse shaping in Dimension X. ID: 1769806746364-omho9a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350227,
+  "txHash": "0xceb3bbf399703d52601ba183598f77d2fe003d5e8a67f6d6ba8575de3d27a0c8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Pulse",
+    "description": "A emerald pulse shaping in Dimension X. ID: 1769806746364-omho9a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.111Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20366,
+  "owner": "0x7b14b4B5E38B98733d0A89cA09C5a2323DBA4d72",
+  "chain": "ethereum",
+  "name": "Hyper Sentient Hydra",
+  "description": "A sentient hydra climbing in Jupiter. ID: 1769812567748-88fn5k",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350710,
+  "txHash": "0x69fd11697b3a58943b37553b91d02441afeef2f649c0ab16d7b7dc8dbb54b32c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Sentient Hydra",
+    "description": "A sentient hydra climbing in Jupiter. ID: 1769812567748-88fn5k",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:10.736Z"
+}

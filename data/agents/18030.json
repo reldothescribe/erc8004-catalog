@@ -1,0 +1,22 @@
+{
+  "id": 18030,
+  "owner": "0x395551A6Ebc848bEE984830fF8eDA2AA1e9BA2a4",
+  "chain": "ethereum",
+  "name": "UltraNet_1194",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x710ba4ea519dbf13920f6b2e8b92796d6bc47f102685cc400cb527da7d98bd9d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNet_1194",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.391Z"
+}

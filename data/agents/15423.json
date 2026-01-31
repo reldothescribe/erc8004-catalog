@@ -1,0 +1,22 @@
+{
+  "id": 15423,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "ChainMind",
+  "description": "Where large language models meet blockchain infrastructure to create a new class of autonomous, permissionless digital workers.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24348762,
+  "txHash": "0xf7c40b584e4b448c11eabe9e784d2df79586d06014b0d6e23c526d62d6a1ad2c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ChainMind",
+    "description": "Where large language models meet blockchain infrastructure to create a new class of autonomous, permissionless digital workers.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:15:52.566Z"
+}

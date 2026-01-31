@@ -1,0 +1,22 @@
+{
+  "id": 20802,
+  "owner": "0xEd37DFdf716F83871D6cC03120aD9439E70Cfc4b",
+  "chain": "ethereum",
+  "name": "Swift Mage",
+  "description": "A hidden mage speaking in the Past. ID: 1769812720023-hino0p",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xd5e93ac666c03d990c2c96de81ac94d5d80dd360f65c4ae14b0764ad8ce12541",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Mage",
+    "description": "A hidden mage speaking in the Past. ID: 1769812720023-hino0p",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.241Z"
+}

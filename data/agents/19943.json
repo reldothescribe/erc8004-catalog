@@ -1,0 +1,22 @@
+{
+  "id": 19943,
+  "owner": "0xb4c9258C2F352002d2d6b77711Ea2F66576c4Fdc",
+  "chain": "ethereum",
+  "name": "Meta Watcher 6876",
+  "description": "A temporal watcher weaving in the Core. ID: 1769806673686-8l8hg5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350220,
+  "txHash": "0xe67d835da888d0b6c69c385182bb2436406043be76b6715c15c9d0b37a7b0b8e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Watcher 6876",
+    "description": "A temporal watcher weaving in the Core. ID: 1769806673686-8l8hg5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.597Z"
+}

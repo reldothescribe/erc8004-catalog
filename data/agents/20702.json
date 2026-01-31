@@ -1,0 +1,22 @@
+{
+  "id": 20702,
+  "owner": "0x2305B9eb9c50A64eead0f50647659694aedb70B0",
+  "chain": "ethereum",
+  "name": "Autonomous Moon",
+  "description": "A frozen moon molding in Pluto. ID: 1769812701765-botemq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xf5f52f3f96f8c6b9c68deb109acd10c201f80c61c045c49940b1944e32825f8a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Moon",
+    "description": "A frozen moon molding in Pluto. ID: 1769812701765-botemq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.102Z"
+}

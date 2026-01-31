@@ -1,0 +1,22 @@
+{
+  "id": 17750,
+  "owner": "0xd551baa536516E74cA69fF0cA69CA94A1221C3B3",
+  "chain": "ethereum",
+  "name": "NovaBot_5540",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0xbef25702b7433a01e41081f26c23e0f2ec5ae32193ad52e03b27ce805456569f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaBot_5540",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:03.686Z"
+}

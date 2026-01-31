@@ -1,0 +1,22 @@
+{
+  "id": 20278,
+  "owner": "0xC888fBB670E61131069B0A372792487787a9b8c0",
+  "chain": "ethereum",
+  "name": "Rapid Dragon",
+  "description": "A bold dragon fighting in the Consensus. ID: 1769812468812-0m14ui",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0x3df5d1e202950716acc877c5d9e95f72acc8c0ea32e25fd67f30c0bc0b1b5379",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Dragon",
+    "description": "A bold dragon fighting in the Consensus. ID: 1769812468812-0m14ui",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.169Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18529,
+  "owner": "0x1B31aDEb7C8772d63259295ec22978cfE7F2c19f",
+  "chain": "ethereum",
+  "name": "SolPulse_6968",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349267,
+  "txHash": "0x199f3d7dd752d3782d6ad13d13e0945d5fd082196daafecebc4ff63b77f9c879",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolPulse_6968",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:45.774Z"
+}

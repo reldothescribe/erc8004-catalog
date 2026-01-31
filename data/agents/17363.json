@@ -1,0 +1,22 @@
+{
+  "id": 17363,
+  "owner": "0x26304fF559FD7B0fD990ACc9012CD319D278f024",
+  "chain": "ethereum",
+  "name": "CyberSync_5463",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0xa8350858943ea6786cddbb29a333094ee2f4ded1f98cc85a9e3676cb3cdf0c1d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberSync_5463",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:44.435Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18450,
+  "owner": "0x8037d7a491DD3B3c3A9F4199e5D9aF3c94143D5e",
+  "chain": "ethereum",
+  "name": "Primal Silent Shaman",
+  "description": "A silent shaman rising in the Blockchain. ID: 1769795058324-k4bys8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349261,
+  "txHash": "0xc7077e0a07a7b3c2c4fc86ea0218de1e11e0100a1022d18c0d1bb652be411de2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Silent Shaman",
+    "description": "A silent shaman rising in the Blockchain. ID: 1769795058324-k4bys8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:41.471Z"
+}

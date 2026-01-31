@@ -1,0 +1,22 @@
+{
+  "id": 17868,
+  "owner": "0x9820C92e1d56caB2BEf1BC55C7Cf54e536950c18",
+  "chain": "ethereum",
+  "name": "CyberFlow_8472",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x985e415effeb2bd3bdb619cb56b6e697f241e22508daf8db5e845d346b40398c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberFlow_8472",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:10.136Z"
+}

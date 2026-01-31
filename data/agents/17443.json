@@ -1,0 +1,22 @@
+{
+  "id": 17443,
+  "owner": "0x69cE3deE8a6DeE4f5146De7f8881f2706002e60c",
+  "chain": "ethereum",
+  "name": "HyperBot_6082",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x518cb54bf3ae451772144cabcdcc9b652d99bfa99ed59b268aa87fc777599df6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperBot_6082",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:48.531Z"
+}

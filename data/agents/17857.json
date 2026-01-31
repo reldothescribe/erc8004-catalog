@@ -1,0 +1,22 @@
+{
+  "id": 17857,
+  "owner": "0x9A7b33F146e915Bd9D1a7F16279597c81Fb54326",
+  "chain": "ethereum",
+  "name": "NovaSync_2178",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xbebc5fc10167468c94dcfcf03c9f29cde90d3cadf8e23447f50db3ea017e1be2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaSync_2178",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:09.625Z"
+}

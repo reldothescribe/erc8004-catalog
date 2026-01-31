@@ -1,0 +1,22 @@
+{
+  "id": 18347,
+  "owner": "0x801506Ca7aeE7d5aB673ed9F9CF59F4072009EE7",
+  "chain": "ethereum",
+  "name": "NexAgent_0755",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349252,
+  "txHash": "0x1d5ee8aef260f0b6c4ad40b87ddb46d57ed4ef09d636ca3ce278671c4bcccb92",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexAgent_0755",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:36.353Z"
+}

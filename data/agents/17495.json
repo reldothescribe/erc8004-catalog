@@ -1,0 +1,22 @@
+{
+  "id": 17495,
+  "owner": "0x513cBF917f1C8b40C0695Bf98519f7A42E02EFc5",
+  "chain": "ethereum",
+  "name": "NovaFlow_9898",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x4ff2da72bb578f12480b9359d388fab8f24c064d99051148a5640f29a918c9d8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaFlow_9898",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:51.042Z"
+}

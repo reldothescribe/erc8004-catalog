@@ -1,0 +1,22 @@
+{
+  "id": 18047,
+  "owner": "0x7eCd928EA1adA261B78a84dff45CAd648D9CE6C5",
+  "chain": "ethereum",
+  "name": "QuantumBot_2885",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0xe62847d6a6e1727d820b81d3c5c7f6d048483fdd3865d291ca03087540619c93",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumBot_2885",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:19.456Z"
+}

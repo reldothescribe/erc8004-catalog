@@ -1,0 +1,22 @@
+{
+  "id": 17483,
+  "owner": "0xE94B71fb3bf36C34C3EcB96b42885D7cD433B40C",
+  "chain": "ethereum",
+  "name": "NovaMind_2173",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x4d589cd336d989e27cabbf384c1d0646d2168e597a124aaaecbb5306458e5989",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaMind_2173",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:50.577Z"
+}

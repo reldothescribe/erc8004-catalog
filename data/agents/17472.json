@@ -1,0 +1,22 @@
+{
+  "id": 17472,
+  "owner": "0xf04246D9a5A46CfB044eF6497F561c3dEa4F3DEf",
+  "chain": "ethereum",
+  "name": "UltraCore_1523",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xfce209382be82224bfec80f9738ad5808240e8ffa8c2d7c56f7c386712177525",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraCore_1523",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:49.539Z"
+}

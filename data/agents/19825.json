@@ -1,0 +1,22 @@
+{
+  "id": 19825,
+  "owner": "0x9bbd5211B64028E6ce22D3De69286c92BAf90fe9",
+  "chain": "ethereum",
+  "name": "Meta Lost Shark",
+  "description": "A lost shark keeping in Science. ID: 1769802714352-6kcfjo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349892,
+  "txHash": "0xbe278a02f0db2ce8fa95dc133a3eb62c4bca311f3bf6de21356ee02fabbedb3b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Lost Shark",
+    "description": "A lost shark keeping in Science. ID: 1769802714352-6kcfjo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:55.153Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20449,
+  "owner": "0x6bCf2b844E871FE46c8A202bF0FAB6700B347b8C",
+  "chain": "ethereum",
+  "name": "Virtual Comet",
+  "description": "A orderly comet stopping in the Network. ID: 1769812647997-71ke8m",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xf49d7a1b68d5ee84334ed376eb754296d4e8abfdc54a0bb51c71d336c32ef3a1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Virtual Comet",
+    "description": "A orderly comet stopping in the Network. ID: 1769812647997-71ke8m",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:14.975Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18107,
+  "owner": "0xb05cAC5d0F3c4D2BCcBd153aa7b462a486120AB4",
+  "chain": "ethereum",
+  "name": "NeoNet_4059",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x813237eea64e04ba14b1131cbf73a07cc7e2ab48ef8cf482550c527d806fcdb2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNet_4059",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:23.041Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17772,
+  "owner": "0x25Da8ceD545F9e1d48A3A0D559F24C98cA2A7224",
+  "chain": "ethereum",
+  "name": "CyberMind_5615",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0x3e2f3337fad8edc09878ed6a03c875263f75cf2f2ebce745482801d47be182c0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberMind_5615",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.658Z"
+}

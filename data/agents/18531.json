@@ -1,0 +1,22 @@
+{
+  "id": 18531,
+  "owner": "0x178193D50250f242793bE1D4dAAb06464440Afb5",
+  "chain": "ethereum",
+  "name": "SynNode_763c",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349267,
+  "txHash": "0x717f6f27d27a8e03875a79a35e77436bcda0b098889935768397d1b2cb13cbea",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynNode_763c",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:45.775Z"
+}

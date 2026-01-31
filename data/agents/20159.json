@@ -1,0 +1,22 @@
+{
+  "id": 20159,
+  "owner": "0x565953D1d360818D1486aF1dBAB6EAC2DB47f91E",
+  "chain": "ethereum",
+  "name": "Neural Castle",
+  "description": "A celestial castle reading in Paris. ID: 1769812365392-ep356y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0x8b305347eeea3fa6d4525fbb3a27b596e8b1f6cfd5632d89b4ded26477f617ef",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neural Castle",
+    "description": "A celestial castle reading in Paris. ID: 1769812365392-ep356y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.022Z"
+}

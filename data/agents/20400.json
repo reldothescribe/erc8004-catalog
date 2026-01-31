@@ -1,0 +1,22 @@
+{
+  "id": 20400,
+  "owner": "0x0668006AB6ccde4C55cd42119F0e3c10AB199d6A",
+  "chain": "ethereum",
+  "name": "Meta Traveler 1449",
+  "description": "A ruby traveler weaving in the Core. ID: 1769812588611-ch7a65",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350712,
+  "txHash": "0x5ad1dd33a4104887b010e078687ec9d3f87b5bef6027528f097bfb5b8d023fba",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Traveler 1449",
+    "description": "A ruby traveler weaving in the Core. ID: 1769812588611-ch7a65",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.415Z"
+}

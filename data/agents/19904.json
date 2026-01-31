@@ -1,0 +1,22 @@
+{
+  "id": 19904,
+  "owner": "0x395f724b35Cfab3BF10C5418EFBc10Fc019eb8FF",
+  "chain": "ethereum",
+  "name": "Organic Bridge 5925",
+  "description": "A rapid bridge dancing in the Chain. ID: 1769806565249-sns7ig",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350211,
+  "txHash": "0xe647fb71030750508aea881483be0c640e8384baa1033a219536b0c583967030",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Organic Bridge 5925",
+    "description": "A rapid bridge dancing in the Chain. ID: 1769806565249-sns7ig",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:31.452Z"
+}

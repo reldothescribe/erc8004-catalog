@@ -1,0 +1,22 @@
+{
+  "id": 20737,
+  "owner": "0x55162C086AE82df3F00DD541a35E4b6cC6Bed4ca",
+  "chain": "ethereum",
+  "name": "Kinetic Path 9533",
+  "description": "A burning path watching in Technology. ID: 1769812719367-qap61t",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x4e16110e52fffbb1acc93b9fe217ead47eaa0a040c7c2da3dda19dd110139e86",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Path 9533",
+    "description": "A burning path watching in Technology. ID: 1769812719367-qap61t",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.149Z"
+}

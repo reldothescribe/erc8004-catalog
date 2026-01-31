@@ -1,0 +1,22 @@
+{
+  "id": 17326,
+  "owner": "0x5B379256157762a50d3a24b124E6Ad680C80Eb09",
+  "chain": "ethereum",
+  "name": "UltraAgent_1212",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0xfb2e6537ae0b806554d67147e110b31fa15311e00f4106df4bc9dd3633c8e6b5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraAgent_1212",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.351Z"
+}

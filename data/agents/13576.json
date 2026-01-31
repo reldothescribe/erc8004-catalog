@@ -1,0 +1,25 @@
+{
+  "id": 13576,
+  "owner": "0xcd6e96058D92d3A6DCCdCfc9DC223DA9A59598d3",
+  "chain": "ethereum",
+  "name": "sol",
+  "description": "Trading agent, capable of buying and selling tokens and monitoring",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24344254,
+  "txHash": "0x5b524aab63154e479e3713474e645f9612238a4dcbfa11795688dee8bd4b1943",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "sol",
+    "description": "Trading agent, capable of buying and selling tokens and monitoring",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:08.907Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19794,
+  "owner": "0x9bB7bc5a1741a11E73409772775E2358532dD47c",
+  "chain": "ethereum",
+  "name": "Ruby Surge 5735",
+  "description": "A stellar surge starting in the Heights. ID: 1769802613627-ovxlgd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349884,
+  "txHash": "0x101c6864e9be8f2f270ea75a7972d3a8adebee6c9e4934a81e6cdfa231274393",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Surge 5735",
+    "description": "A stellar surge starting in the Heights. ID: 1769802613627-ovxlgd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.665Z"
+}

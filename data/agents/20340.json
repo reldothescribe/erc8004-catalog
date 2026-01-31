@@ -1,0 +1,22 @@
+{
+  "id": 20340,
+  "owner": "0xEdA25F51b67a3177d8a5F2E31eD9c9cC95A72539",
+  "chain": "ethereum",
+  "name": "Iron Priest",
+  "description": "A azure priest carving in the Consensus. ID: 1769812503121-8gk80a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0xc5932388a63d255be8d5c7e44a24e3a8a93dad233c9cca510de8f38fc07b68d6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Priest",
+    "description": "A azure priest carving in the Consensus. ID: 1769812503121-8gk80a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:09.245Z"
+}

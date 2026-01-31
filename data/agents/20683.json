@@ -1,0 +1,22 @@
+{
+  "id": 20683,
+  "owner": "0xC888fBB670E61131069B0A372792487787a9b8c0",
+  "chain": "ethereum",
+  "name": "Ether Shaman 8553",
+  "description": "A ruby shaman playing in the Summit. ID: 1769812701765-zh0ko4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x808420e7b597506783e14da4a6819ca670fab32e8a338078455a809970c34582",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Shaman 8553",
+    "description": "A ruby shaman playing in the Summit. ID: 1769812701765-zh0ko4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:32.587Z"
+}

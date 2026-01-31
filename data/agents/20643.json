@@ -1,0 +1,22 @@
+{
+  "id": 20643,
+  "owner": "0xc9D349736BC96Cc1Ab36741072D709761E327a85",
+  "chain": "ethereum",
+  "name": "Frozen Prime Serpent",
+  "description": "A prime serpent exploring in Myth. ID: 1769812676750-eu6wvi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x546039a6219b2cb459155533ffac13561ba8735a9bba21a55c562ac76a095567",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Prime Serpent",
+    "description": "A prime serpent exploring in Myth. ID: 1769812676750-eu6wvi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.216Z"
+}

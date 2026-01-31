@@ -1,0 +1,31 @@
+{
+  "id": 16447,
+  "owner": "0xd0Fa76e4F265AB65eBdda45Bd284bB23B5829217",
+  "chain": "ethereum",
+  "name": "erc8004-register",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349072,
+  "txHash": "0x2baeaefdd3289c3fa4a780c6181ccd5fc5a91bda60fe75fd780c80d5330dcb9e",
+  "rawMetadata": {
+    "name": "erc8004-register",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+      "dotenv": "^17.2.3",
+      "ethers": "^6.16.0"
+    }
+  },
+  "syncedAt": "2026-01-31T03:16:55.990Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19972,
+  "owner": "0x4F1b90D54b3F864cA20626d7Fbc5194dBFBA4055",
+  "chain": "ethereum",
+  "name": "Astral Divine Core",
+  "description": "A divine core stopping in Reality. ID: 1769806794437-41mz7n",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350273,
+  "txHash": "0xb4488a606c06ddc3926b7e3f9914f5e6bb6955993bbf4bf722260a15663fd9a1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Divine Core",
+    "description": "A divine core stopping in Reality. ID: 1769806794437-41mz7n",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.622Z"
+}

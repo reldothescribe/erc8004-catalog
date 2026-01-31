@@ -1,0 +1,22 @@
+{
+  "id": 18229,
+  "owner": "0x186ff2F0Ec8276867C36172eA041E3f37A9915f7",
+  "chain": "ethereum",
+  "name": "ZenMind_464b",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349232,
+  "txHash": "0xd117447535bfad573c30db0c9c3d3d91cb7fb1ca6c32380461374e8c9b8c491b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ZenMind_464b",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:30.311Z"
+}

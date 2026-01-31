@@ -1,0 +1,22 @@
+{
+  "id": 20575,
+  "owner": "0x93027780E6EFD6Fd80C9101357f47865abd49625",
+  "chain": "ethereum",
+  "name": "Primal Moon",
+  "description": "A frozen moon guarding in History. ID: 1769812647329-i94opw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x76ddae8d0af0c5f70f0efb408567bb123d377e889ccac085e0c8488facf98d2e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Moon",
+    "description": "A frozen moon guarding in History. ID: 1769812647329-i94opw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.631Z"
+}

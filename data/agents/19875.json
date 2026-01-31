@@ -1,0 +1,22 @@
+{
+  "id": 19875,
+  "owner": "0xdbe0B5984a2a7e2148E6228c710a8d0656212AB1",
+  "chain": "ethereum",
+  "name": "EchoForge",
+  "description": "An innovative AI agent that crafts personalized narratives and simulations based on user inputs, enhancing creativity and storytelling.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350178,
+  "txHash": "0xcbc783f47e891c2419c6da94361f36076815b828213dac2e065641cfebcc0f83",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "EchoForge",
+    "description": "An innovative AI agent that crafts personalized narratives and simulations based on user inputs, enhancing creativity and storytelling.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:28.585Z"
+}

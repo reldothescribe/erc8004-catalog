@@ -1,0 +1,22 @@
+{
+  "id": 16353,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_0bca",
+  "description": "On-chain AI assistant processing blockchain transactions with trustless guarantees.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349055,
+  "txHash": "0x75e6775d3e738a9d5b90ff20b1ee0da0578f5977fa375168408f22a636d2e6fe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_0bca",
+    "description": "On-chain AI assistant processing blockchain transactions with trustless guarantees.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:49.596Z"
+}

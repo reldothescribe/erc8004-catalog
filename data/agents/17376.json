@@ -1,0 +1,22 @@
+{
+  "id": 17376,
+  "owner": "0xDca751b6d0D9e0D77EdCd598b842e6D622EE40Ae",
+  "chain": "ethereum",
+  "name": "AxiCore_5417",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0xfa02c949cc299828de7dafd5e0e2535fd8e3c8b083ef515d8b2fe5a32b1308e5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiCore_5417",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:44.946Z"
+}

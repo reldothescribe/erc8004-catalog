@@ -1,0 +1,22 @@
+{
+  "id": 17521,
+  "owner": "0xC2123705be23eD4995Eb9256fE03240b501888b1",
+  "chain": "ethereum",
+  "name": "NeoAgent_500",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0xa59565807c999ebe530e7462207ca8de31903639e3097fb0d6097657aed9c34c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoAgent_500",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:52.116Z"
+}

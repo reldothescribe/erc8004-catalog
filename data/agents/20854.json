@@ -1,0 +1,22 @@
+{
+  "id": 20854,
+  "owner": "0xeAEEf21647AB21110AA174B819893ff4995Bfd4b",
+  "chain": "ethereum",
+  "name": "Amber Helm",
+  "description": "A noble helm giving in the Protocol. ID: 1769812741152-7yuaom",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xde10b20a1e43cf648932c6a432d0c24fae82474de49c2bdf1b7a8e55430ed80a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Helm",
+    "description": "A noble helm giving in the Protocol. ID: 1769812741152-7yuaom",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.292Z"
+}

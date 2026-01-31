@@ -1,0 +1,22 @@
+{
+  "id": 20794,
+  "owner": "0x522561ADb925F9C79fE07b980175eF2E0cEf64aE",
+  "chain": "ethereum",
+  "name": "Hidden Meta Wolf",
+  "description": "A meta wolf dancing in Saturn. ID: 1769812718750-mosxpb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x6aa7842ea88204743f567610810a0e8cad446d15d9ba6d98f246052dd411968d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Meta Wolf",
+    "description": "A meta wolf dancing in Saturn. ID: 1769812718750-mosxpb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.220Z"
+}

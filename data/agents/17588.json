@@ -1,0 +1,22 @@
+{
+  "id": 17588,
+  "owner": "0x9c788B87F2feA790074019e7F268d49A224a9C41",
+  "chain": "ethereum",
+  "name": "CyberFlow_7057",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x1d95150d35b64f91ae58e991c5275240569cfea8d591c30ed65d9560a2ab0b08",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberFlow_7057",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:55.600Z"
+}

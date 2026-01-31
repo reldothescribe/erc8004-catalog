@@ -1,0 +1,22 @@
+{
+  "id": 19829,
+  "owner": "0x876671dA52768e3F1904BC46fE573C674283a4dA",
+  "chain": "ethereum",
+  "name": "Stellar Node",
+  "description": "A galactic node climbing in the DAO. ID: 1769802727352-5tgmm8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349893,
+  "txHash": "0xb822802777037302d5d9a1c32b1dc4882587646084849f412a5e824527424afd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Node",
+    "description": "A galactic node climbing in the DAO. ID: 1769802727352-5tgmm8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:55.159Z"
+}

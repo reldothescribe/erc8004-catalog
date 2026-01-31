@@ -1,0 +1,22 @@
+{
+  "id": 19785,
+  "owner": "0x38447282160C1cc96F43855225A1867d6E095B2c",
+  "chain": "ethereum",
+  "name": "Arcane Qubit 9466",
+  "description": "A blazing qubit moving in Myth. ID: 1769802591197-5kklqc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349882,
+  "txHash": "0xbbf1372c40af171ed268f20814268b2587ff05ced133f8e50078c087db813924",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Qubit 9466",
+    "description": "A blazing qubit moving in Myth. ID: 1769802591197-5kklqc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.156Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17963,
+  "owner": "0xE3A175656880947e2b3eF24Bfe5c6Ca0b1A0E5cc",
+  "chain": "ethereum",
+  "name": "QuantumNet_4321",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xe8917f1416b0a34789dbdbd4680f5fc88cf0fcfdae18ca448de53c0215e236d5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumNet_4321",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:15.360Z"
+}

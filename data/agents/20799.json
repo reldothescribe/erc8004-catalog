@@ -1,0 +1,22 @@
+{
+  "id": 20799,
+  "owner": "0xB0fB635CFfc5436627AFc9Bd059846Ba0118685E",
+  "chain": "ethereum",
+  "name": "Cyber Shield",
+  "description": "A solar shield taking in Andromeda. ID: 1769812703727-s0kgpb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x110193ffc72ef87ad73230e6ec39e2a5763d9e003d8b0079ba5120fd6f9aa5ee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cyber Shield",
+    "description": "A solar shield taking in Andromeda. ID: 1769812703727-s0kgpb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.221Z"
+}

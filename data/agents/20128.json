@@ -1,0 +1,22 @@
+{
+  "id": 20128,
+  "owner": "0x0c890A7F4AC5B8AEC2fF9F449125EC42BE00d371",
+  "chain": "ethereum",
+  "name": "Crimson Protocol 1669",
+  "description": "A golden protocol buying in Time. ID: 1769812352388-ogo2zu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0x34f65f61e27a472258065b01aab070c2dea1c1758307068ef3e70630563d0e82",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Protocol 1669",
+    "description": "A golden protocol buying in Time. ID: 1769812352388-ogo2zu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.393Z"
+}

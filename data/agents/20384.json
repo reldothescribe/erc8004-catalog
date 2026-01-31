@@ -1,0 +1,22 @@
+{
+  "id": 20384,
+  "owner": "0xeb931ea591076ebed08Df787709FF7A3131ac7e4",
+  "chain": "ethereum",
+  "name": "Rapid Azure Ghost",
+  "description": "A azure ghost walking in the Boundary. ID: 1769812580389-hzis63",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0xc4ca43e60e2f6e7934c5cae48db4ec02b6bade578a07e270fedf9c97009e187d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Azure Ghost",
+    "description": "A azure ghost walking in the Boundary. ID: 1769812580389-hzis63",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.903Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17526,
+  "owner": "0x3Cb5a45A477C4bea9e814596Cde9dC4A921C5fA9",
+  "chain": "ethereum",
+  "name": "CyberAgent_8965",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x406b2ab066404d0cc6556b2745eafa819ec117ea47678e552a453289bdfc3378",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberAgent_8965",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:52.626Z"
+}

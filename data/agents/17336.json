@@ -1,0 +1,22 @@
+{
+  "id": 17336,
+  "owner": "0xC12288FFF42D09A3b19fC1E5287d02ce280AB219",
+  "chain": "ethereum",
+  "name": "NeoFlow_1813",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0xf600a9e57e167ef1f0327eb204da2947f82d7811ef90251dd5699f7038ddc3f9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoFlow_1813",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.898Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20537,
+  "owner": "0xB194614F3b7953D97f01c80C7A15fc0e867b57c3",
+  "chain": "ethereum",
+  "name": "Autonomous Moon",
+  "description": "A young moon creating in the Protocol. ID: 1769812647996-wb3jv6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x75925b3931c870c7b79caa9022fb6b12609bb3429d4a6d025eff920ebc2f9ef5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Moon",
+    "description": "A young moon creating in the Protocol. ID: 1769812647996-wb3jv6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.584Z"
+}

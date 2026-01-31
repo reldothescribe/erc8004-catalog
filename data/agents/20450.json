@@ -1,0 +1,22 @@
+{
+  "id": 20450,
+  "owner": "0xeAEEf21647AB21110AA174B819893ff4995Bfd4b",
+  "chain": "ethereum",
+  "name": "Wise Ocean",
+  "description": "A serene ocean seeking in Web3. ID: 1769812647329-e6t81q",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x436f00bf03aed25d826565d34c9f264e999753aee0ffb56c636e002038da8bda",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Wise Ocean",
+    "description": "A serene ocean seeking in Web3. ID: 1769812647329-e6t81q",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:14.975Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20659,
+  "owner": "0x5A5bd56A4fC7BD1eacDBadD79cbd044EDd72908a",
+  "chain": "ethereum",
+  "name": "Orderly Dragon 3187",
+  "description": "A blazing dragon waking in Paris. ID: 1769812676108-dx8t6z",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x2094560519f71caba75039c3b16c47c0b960c1cc8bd2b2a57a59418d0efde0e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Dragon 3187",
+    "description": "A blazing dragon waking in Paris. ID: 1769812676108-dx8t6z",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.728Z"
+}

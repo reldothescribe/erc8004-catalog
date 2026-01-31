@@ -1,0 +1,22 @@
+{
+  "id": 19765,
+  "owner": "0xeb931ea591076ebed08Df787709FF7A3131ac7e4",
+  "chain": "ethereum",
+  "name": "Cognitive Echo 9473",
+  "description": "A primal echo hunting in the Past. ID: 1769802521098-goc940",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349876,
+  "txHash": "0x0cc7856dd77b7420af29f91559962b566aa89e085e8917353fb1fdfcf834ccf2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cognitive Echo 9473",
+    "description": "A primal echo hunting in the Past. ID: 1769802521098-goc940",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.075Z"
+}

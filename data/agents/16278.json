@@ -1,0 +1,22 @@
+{
+  "id": 16278,
+  "owner": "0x5621B255e4C303253716f8881d03837Cb1A91677",
+  "chain": "ethereum",
+  "name": "a6",
+  "description": "111111111111111111111111111111111111111111111111111111111111111111",
+  "image": "111111",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348940,
+  "txHash": "0xe5636404354e2038ce32c71822065e4e8c67366ce66f9d8e0d9fbc6c5a6d9bbe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "a6",
+    "description": "111111111111111111111111111111111111111111111111111111111111111111",
+    "image": "111111",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:45.552Z"
+}

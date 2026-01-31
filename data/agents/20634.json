@@ -1,0 +1,22 @@
+{
+  "id": 20634,
+  "owner": "0xC996Af30AF0c00E1D6D0bc5Fcb23a86D0fFD1425",
+  "chain": "ethereum",
+  "name": "Crimson Tensor 7623",
+  "description": "A ether tensor living in the DAO. ID: 1769812677397-ux0s7h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x680a675acd0b70b1f6e61bd339829181f496898f0cce0833e5b876ff3e917764",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Tensor 7623",
+    "description": "A ether tensor living in the DAO. ID: 1769812677397-ux0s7h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.703Z"
+}

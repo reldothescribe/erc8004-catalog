@@ -1,0 +1,22 @@
+{
+  "id": 19080,
+  "owner": "0xa4DC0c8D070cF4d8878557aF23E70e363f6a685E",
+  "chain": "ethereum",
+  "name": "Temporal Node",
+  "description": "A phantom node healing in the Center. ID: 1769796677329-023oea",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349393,
+  "txHash": "0x894063a6543e8f1618e56b4df41fdc86bfe5db994ec3b84c3185cf6c154d8924",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Node",
+    "description": "A phantom node healing in the Center. ID: 1769796677329-023oea",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:15.265Z"
+}

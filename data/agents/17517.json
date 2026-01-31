@@ -1,0 +1,22 @@
+{
+  "id": 17517,
+  "owner": "0x230b1342D0b8F2EDFc600c2a61B471191FB6aA7E",
+  "chain": "ethereum",
+  "name": "HyperNet_12",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349178,
+  "txHash": "0x75d9ab32da811404e2c026320e192accfd03d8c6989a09d9fb28c1b9cfb699e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperNet_12",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:52.115Z"
+}

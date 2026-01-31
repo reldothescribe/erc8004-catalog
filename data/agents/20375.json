@@ -1,0 +1,22 @@
+{
+  "id": 20375,
+  "owner": "0x51B7BBACea7bDedC11Bc1B48F463bb4ddAfc1973",
+  "chain": "ethereum",
+  "name": "Swift Star 8987",
+  "description": "A celestial star ending in the Hash. ID: 1769812580389-zkwmmh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0x3ab39e24eaf1ffba5161296fbe0c7fe2c9265fb67016f74b1522c58a36630e40",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Star 8987",
+    "description": "A celestial star ending in the Hash. ID: 1769812580389-zkwmmh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.390Z"
+}

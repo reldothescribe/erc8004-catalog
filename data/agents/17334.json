@@ -1,0 +1,22 @@
+{
+  "id": 17334,
+  "owner": "0x92C7fAB9B16f2744b55B4Ef0e440D05745c37bF4",
+  "chain": "ethereum",
+  "name": "HyperNet_4950",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349172,
+  "txHash": "0x5621c1aaf8f9301e993bf94753cfe9723d089d66263cd54c7370e0c42b599a9b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperNet_4950",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.898Z"
+}

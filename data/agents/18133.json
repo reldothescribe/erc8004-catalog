@@ -1,0 +1,22 @@
+{
+  "id": 18133,
+  "owner": "0x07C584A18C8c6730c14d0A1888E81d2315B379fc",
+  "chain": "ethereum",
+  "name": "CyberLink_3700",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0x6c4bf7be887eccfedd54cb759da3f3af58deefa0f260f78e6ff78db55abfa8dc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberLink_3700",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:24.657Z"
+}

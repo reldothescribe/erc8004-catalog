@@ -1,0 +1,22 @@
+{
+  "id": 20323,
+  "owner": "0x7D04C6D91C5cfFc18d02208575829818eC8Cf1a4",
+  "chain": "ethereum",
+  "name": "Nexus Star",
+  "description": "A lost star ending in Time. ID: 1769812492823-hkhn9n",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0x343369c5fa5560f3e4935e9ea7dcc028dbfc508e6c929ee57c164d202a4be974",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Star",
+    "description": "A lost star ending in Time. ID: 1769812492823-hkhn9n",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.729Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17687,
+  "owner": "0x64a95fEEf8FAC9798072C385f1505fD084C0Be3e",
+  "chain": "ethereum",
+  "name": "AxiCore_7487",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0xacfa8a4f2c16f0140d53c1463240447224497ce7ad82f26be5b919ccb0ad184c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiCore_7487",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:00.613Z"
+}

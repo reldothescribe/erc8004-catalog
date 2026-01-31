@@ -1,0 +1,22 @@
+{
+  "id": 17253,
+  "owner": "0x799f8C5f48447f6816f5356944Dd7dB09BdA1266",
+  "chain": "ethereum",
+  "name": "MetaNet_4031",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349161,
+  "txHash": "0x40480e06df5db6745b6cc612503b9ddcf8089b8c6b0805d844b52a69507073d3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNet_4031",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.802Z"
+}

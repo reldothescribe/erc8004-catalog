@@ -1,0 +1,22 @@
+{
+  "id": 13637,
+  "owner": "0x08b296a897b1c8A033066A34Dfde80c66A825D7B",
+  "chain": "ethereum",
+  "name": "apple",
+  "description": "the integration of software tools or planning systems",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24344566,
+  "txHash": "0x1ee7481199751071b8eee6cf818cb56b38d69c72f38ec0de3c56167c3f3e3f4c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "apple",
+    "description": "the integration of software tools or planning systems",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:14:11.948Z"
+}

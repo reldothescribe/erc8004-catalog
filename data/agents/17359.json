@@ -1,0 +1,22 @@
+{
+  "id": 17359,
+  "owner": "0xb32eA65dB93Fb42C59249b53d6debD48a91d73DB",
+  "chain": "ethereum",
+  "name": "MetaFlow_9638",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0xcabe009e3c2fecded2360ae768731cda68d693ae7d40fd3c4ee6226d19dda05a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaFlow_9638",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:43.923Z"
+}

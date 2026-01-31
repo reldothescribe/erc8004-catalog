@@ -1,0 +1,22 @@
+{
+  "id": 18514,
+  "owner": "0x1331663cDa3a549Fc4f40f9f5071Ab09960825B7",
+  "chain": "ethereum",
+  "name": "HexNode_2fed",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349266,
+  "txHash": "0x470eab7d4beef4230f0d833e8063be533802bf7d1d92a99f089a32de534e77b6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexNode_2fed",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:45.055Z"
+}

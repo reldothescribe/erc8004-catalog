@@ -1,0 +1,22 @@
+{
+  "id": 20814,
+  "owner": "0x9bB7bc5a1741a11E73409772775E2358532dD47c",
+  "chain": "ethereum",
+  "name": "Void Colossus 4753",
+  "description": "A spectral colossus living in the Core. ID: 1769812741152-lnxnaw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x8bea5d5eba3c3dbf29271e4af2e8550db7e881320eedfaa36d1f707b75e9378c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Void Colossus 4753",
+    "description": "A spectral colossus living in the Core. ID: 1769812741152-lnxnaw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.243Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19981,
+  "owner": "0xf4AfD3392d37EC063015793D257ea2fa8eceaE5D",
+  "chain": "ethereum",
+  "name": "Ether Blade",
+  "description": "A frozen blade gathering in the Summit. ID: 1769807750438-xl2gn7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350310,
+  "txHash": "0xf1c3b1d07c40df02eaaf6bc592d1d33e153bdd5072875159aa6f54a13b7a6c37",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Blade",
+    "description": "A frozen blade gathering in the Summit. ID: 1769807750438-xl2gn7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.132Z"
+}

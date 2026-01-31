@@ -1,0 +1,22 @@
+{
+  "id": 18384,
+  "owner": "0x07bADB3DB056b9D49Dc69375C556C1808b770029",
+  "chain": "ethereum",
+  "name": "Dynamic Kinetic Path",
+  "description": "A kinetic path destroying in History. ID: 1769795005674-taxix4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349255,
+  "txHash": "0x02dd7f8cff7a7065d75e6bd30187193eb44a03442b02e19edb29e1276056b35d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Kinetic Path",
+    "description": "A kinetic path destroying in History. ID: 1769795005674-taxix4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:38.402Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20808,
+  "owner": "0x5f66Ab37c9Ffc78E6f79A62816173f637A1E5D1A",
+  "chain": "ethereum",
+  "name": "Stellar Network 6882",
+  "description": "A virtual network seeking in the DAO. ID: 1769812740544-w3tqcd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xffd91d9fac126e91397b743755f58cafc7602cff8ff910e04da0adbf26d16f35",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Network 6882",
+    "description": "A virtual network seeking in the DAO. ID: 1769812740544-w3tqcd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.734Z"
+}

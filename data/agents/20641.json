@@ -1,0 +1,22 @@
+{
+  "id": 20641,
+  "owner": "0x18a25c72F9e4859234C3D3434e2180b63E52b2a0",
+  "chain": "ethereum",
+  "name": "Silver Whale 1012",
+  "description": "A wise whale decoding in Magic. ID: 1769812676108-3ma7or",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x5da03b56030f56e042ca63afd602a3ebb464cc2f78bc8890eab71bbb71224abc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silver Whale 1012",
+    "description": "A wise whale decoding in Magic. ID: 1769812676108-3ma7or",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.703Z"
+}

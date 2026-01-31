@@ -1,0 +1,22 @@
+{
+  "id": 16847,
+  "owner": "0xf939753CcA79d343aC16CE98119Dd7Bb530Fc9A0",
+  "chain": "ethereum",
+  "name": "MetaCore_911",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349119,
+  "txHash": "0xc34a17fdc3b5053a9a2f5c5cea2c8f75a6fac47062eaece00022546ca55c4b2b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaCore_911",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:16.377Z"
+}

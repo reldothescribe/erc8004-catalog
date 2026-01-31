@@ -1,0 +1,22 @@
+{
+  "id": 17256,
+  "owner": "0x07f8F88DEe88070fF894AB3117500fEB72f477B6",
+  "chain": "ethereum",
+  "name": "CyberMind_9489",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349161,
+  "txHash": "0xdea54841a6b1d11476c1c11389bfb3914e15f754c892129345e326f160f9d247",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberMind_9489",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.801Z"
+}

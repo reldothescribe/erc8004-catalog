@@ -1,0 +1,22 @@
+{
+  "id": 20304,
+  "owner": "0x783d425a3c86CDd57eBe3b781ad9Ecf85cB917c3",
+  "chain": "ethereum",
+  "name": "Blazing Light Wanderer",
+  "description": "A light wanderer healing in the Chain. ID: 1769812492823-osvkli",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0xfe1d07688587420381ab931651305e68aa7f1d7b61f410cbf7feb941c9011b50",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Light Wanderer",
+    "description": "A light wanderer healing in the Chain. ID: 1769812492823-osvkli",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.703Z"
+}

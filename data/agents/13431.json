@@ -1,0 +1,58 @@
+{
+  "id": 13431,
+  "owner": "0x823E839B858D36231ECF05d6eecbcffC346F12eC",
+  "chain": "ethereum",
+  "name": "WizeKid",
+  "description": "This Humanoid is advanced in the field of robotics technology and manufacturing technology and virtual reality technology ",
+  "image": "https://raw2.seadn.io/ethereum/0xa9de7e79b35a7c2b4d586e1e1223ff70608cd902/b57ef254ce36db133e03809f0d439e/4fb57ef254ce36db133e03809f0d439e.png",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24343748,
+  "txHash": "0xb30e84a66133a52c63ecd339be98631c2341216c5734605b60cd8f0049ab7184",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "WizeKid",
+    "description": "This Humanoid is advanced in the field of robotics technology and manufacturing technology and virtual reality technology ",
+    "image": "https://raw2.seadn.io/ethereum/0xa9de7e79b35a7c2b4d586e1e1223ff70608cd902/b57ef254ce36db133e03809f0d439e/4fb57ef254ce36db133e03809f0d439e.png",
+    "endpoints": [
+      {
+        "name": "wallet",
+        "endpoint": "0x823E839B858D36231ECF05d6eecbcffC346F12eC"
+      }
+    ],
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "tags": [
+      "Chatbot",
+      "Defi"
+    ],
+    "oasf_skills": [
+      "data_analysis/visualization",
+      "image_processing/generation",
+      "image_processing/editing",
+      "code_generation/javascript",
+      "conversational_ai/chatbot",
+      "code_generation/python",
+      "task_automation/scheduling",
+      "natural_language_processing/sentiment_analysis",
+      "natural_language_processing/translation",
+      "natural_language_processing/summarization"
+    ],
+    "oasf_domains": [
+      "creative/content_creation",
+      "research/data_analysis",
+      "customer_service/support",
+      "technology/software_development",
+      "education/tutoring",
+      "finance_and_business/accounting",
+      "finance_and_business/investment_services"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:14:00.377Z"
+}

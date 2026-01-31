@@ -1,0 +1,22 @@
+{
+  "id": 16426,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_26dc",
+  "description": "Smart autonomous agent enabling decentralized tasks with trustless guarantees.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349057,
+  "txHash": "0x2cf7610e6a194b73939a74eda5b9fa711f3bdb4e167c3d6cb9b992fd002a3f70",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_26dc",
+    "description": "Smart autonomous agent enabling decentralized tasks with trustless guarantees.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:53.131Z"
+}

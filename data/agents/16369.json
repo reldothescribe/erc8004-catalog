@@ -1,0 +1,22 @@
+{
+  "id": 16369,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_706a",
+  "description": "Web3 native AI agent performing Web3 operations with cryptographic security.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349055,
+  "txHash": "0x85fcf2e4e4dd2068b2f538d0f6639e15ded6403892407222aa1ab03ab3b04769",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_706a",
+    "description": "Web3 native AI agent performing Web3 operations with cryptographic security.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:50.068Z"
+}

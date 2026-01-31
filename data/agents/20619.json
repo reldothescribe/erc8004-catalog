@@ -1,0 +1,22 @@
+{
+  "id": 20619,
+  "owner": "0x03bb312c66Bf7b5D54a14e03C1C7E45b7F62DBc4",
+  "chain": "ethereum",
+  "name": "Young Phantom Tiger",
+  "description": "A phantom tiger flying in the Block. ID: 1769812674861-8ojrzm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xa3115d85cf6c2b46ec037a60faf34081f41535766e6858850e6550a3baeaabd0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Phantom Tiger",
+    "description": "A phantom tiger flying in the Block. ID: 1769812674861-8ojrzm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.677Z"
+}

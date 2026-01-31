@@ -1,0 +1,22 @@
+{
+  "id": 20005,
+  "owner": "0xb4c9258C2F352002d2d6b77711Ea2F66576c4Fdc",
+  "chain": "ethereum",
+  "name": "Bounded Soul 1686",
+  "description": "A static soul moving in the Metaverse. ID: 1769807844437-prvf4t",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350319,
+  "txHash": "0x63de11db55c85c73fdb80351567c11c781c3e162f5a08bb6e5f102be109a2996",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bounded Soul 1686",
+    "description": "A static soul moving in the Metaverse. ID: 1769807844437-prvf4t",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.669Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19805,
+  "owner": "0x833a42CC1EC90E3C181E0d56E977Bed4147ddedC",
+  "chain": "ethereum",
+  "name": "Sentient Whale 1392",
+  "description": "A elder whale ending in the Consensus. ID: 1769802639738-ko1sqq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349886,
+  "txHash": "0x1043f1443091f5b45eac7e84abaf9f2dddf3bf228d6b58b9331e4c394ebdcbc8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sentient Whale 1392",
+    "description": "A elder whale ending in the Consensus. ID: 1769802639738-ko1sqq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:54.181Z"
+}

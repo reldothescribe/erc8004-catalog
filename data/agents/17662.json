@@ -1,0 +1,22 @@
+{
+  "id": 17662,
+  "owner": "0xD818160f0ffccCF6C372C8A3586f19274F5276EC",
+  "chain": "ethereum",
+  "name": "MetaMind_106",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x22604699e70ab5e293187223105befa816bf4359409e113af72da7473563263b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaMind_106",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:59.078Z"
+}

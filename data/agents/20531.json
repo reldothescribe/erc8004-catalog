@@ -1,0 +1,22 @@
+{
+  "id": 20531,
+  "owner": "0x07bD106D809E657Eabb68b91959b58aD8227f470",
+  "chain": "ethereum",
+  "name": "Golden Flower",
+  "description": "A celestial flower learning in New York. ID: 1769812647996-6kb8yq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xad3fafb4948ad495f2916f5ed9ecbed0c471fd8195e178dc783946edae60366d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Flower",
+    "description": "A celestial flower learning in New York. ID: 1769812647996-6kb8yq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.070Z"
+}

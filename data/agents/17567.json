@@ -1,0 +1,22 @@
+{
+  "id": 17567,
+  "owner": "0x354288e626493892085b73BdAc6E47c7cdbBac7A",
+  "chain": "ethereum",
+  "name": "StellarFlow_4555",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x4006e95073b9cf30c8c8a745ab890085ac109f6fee24c10496eaec50601080d4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarFlow_4555",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:54.627Z"
+}

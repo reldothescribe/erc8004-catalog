@@ -1,0 +1,22 @@
+{
+  "id": 17590,
+  "owner": "0x8D30Cc1dEeB74A237c06DF3ae5A1285f86723d65",
+  "chain": "ethereum",
+  "name": "CyberNode_684",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0xbead6bdf7a210d6daf7e1e0e5184dd25ad60c86ba120f64dac0a4e77a4252220",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberNode_684",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:55.600Z"
+}

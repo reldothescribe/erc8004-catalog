@@ -1,0 +1,22 @@
+{
+  "id": 18159,
+  "owner": "0x8e1A5832db9e414957a46c1090dEB5F198A2caD7",
+  "chain": "ethereum",
+  "name": "UltraNode_4970",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0xeb359a05687429ed0008f3d6a4dddf1d1ca7245dee2704711bd7b170089db1f5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNode_4970",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:25.707Z"
+}

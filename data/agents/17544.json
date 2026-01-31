@@ -1,0 +1,22 @@
+{
+  "id": 17544,
+  "owner": "0x5d10a95365F5cfceD50c108d5C4795fd09ABbDf4",
+  "chain": "ethereum",
+  "name": "StellarAgent_2076",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x339bc1f10232372840ce4e17fed68b7e0c37548185aab51f8f3ed51be29722eb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarAgent_2076",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:53.650Z"
+}

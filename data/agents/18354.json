@@ -1,0 +1,22 @@
+{
+  "id": 18354,
+  "owner": "0x1c3DE0F07da6d5535dD6e529276FeAca3d24Ef77",
+  "chain": "ethereum",
+  "name": "AxiChain_b4b5",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349252,
+  "txHash": "0xf0569b5d899b7b1bb42792ead62ec6455da3824a238bf75c5568ca1b069ebb60",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiChain_b4b5",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:36.863Z"
+}

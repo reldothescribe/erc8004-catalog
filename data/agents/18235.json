@@ -1,0 +1,22 @@
+{
+  "id": 18235,
+  "owner": "0x8b45c9FF8DB49D26C6Eb27506A3B54D6C098088a",
+  "chain": "ethereum",
+  "name": "PyrLink_9495",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349232,
+  "txHash": "0xe120effd46d0b158314e475ea2f4cc35cd9a347a5cef010fd0311325c9101c15",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PyrLink_9495",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:30.822Z"
+}

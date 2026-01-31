@@ -1,0 +1,22 @@
+{
+  "id": 20786,
+  "owner": "0x13CeBf4C857a1DF6fDA8D080d09aC58455e19A47",
+  "chain": "ethereum",
+  "name": "Burning Data",
+  "description": "A gentle data creating in Jupiter. ID: 1769812703727-deze0t",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xd6dc4578919cf31c312b270bad1b0dbaa7e0806b460a1e65c5f914eec81eb919",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Data",
+    "description": "A gentle data creating in Jupiter. ID: 1769812703727-deze0t",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.708Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20723,
+  "owner": "0x558c9Ad37d48Bb174b5CFa2bbfbfC1589986bbC0",
+  "chain": "ethereum",
+  "name": "Orderly Cognitive Forge",
+  "description": "A cognitive forge running in Web3. ID: 1769812720675-vowvld",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xa3fc621e52cf1169a1b5c51e9835dbf85c9016fb920522297222f50199c325cb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Cognitive Forge",
+    "description": "A cognitive forge running in Web3. ID: 1769812720675-vowvld",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.637Z"
+}

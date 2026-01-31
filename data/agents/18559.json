@@ -1,0 +1,22 @@
+{
+  "id": 18559,
+  "owner": "0xA19EAE59b7f42546B046fCd17C43974Ec8dCc45a",
+  "chain": "ethereum",
+  "name": "ZenLink_fbb5",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349270,
+  "txHash": "0xca3678b6042c4c6e6a8bf3c6f89cd77068c90034bc35f33f93c3020ce860b60a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ZenLink_fbb5",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:47.617Z"
+}

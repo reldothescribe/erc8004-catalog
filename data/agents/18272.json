@@ -1,0 +1,22 @@
+{
+  "id": 18272,
+  "owner": "0x4458B16b89d2a7fD6a34bADbd7a565b71AC12A79",
+  "chain": "ethereum",
+  "name": "SynCore_4193",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349247,
+  "txHash": "0xa8916a5d4d6a2753cf36db5c4e1b2fec0522af4aa4ec20f58d68ff18e7202b94",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynCore_4193",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:32.358Z"
+}

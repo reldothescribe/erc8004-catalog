@@ -1,0 +1,22 @@
+{
+  "id": 19987,
+  "owner": "0x95e956d9456609735F2Fe185A19a8622bF35e01c",
+  "chain": "ethereum",
+  "name": "Orderly Druid 1348",
+  "description": "A infernal druid exploring in the Boundary. ID: 1769807790917-tkptc9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350313,
+  "txHash": "0x5f506cf6f3bd4d25015abb266ecd8c65179f3ebc22d869d4dec2d919db438613",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Druid 1348",
+    "description": "A infernal druid exploring in the Boundary. ID: 1769807790917-tkptc9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.646Z"
+}

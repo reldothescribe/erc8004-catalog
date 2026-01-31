@@ -1,0 +1,22 @@
+{
+  "id": 20693,
+  "owner": "0x0c890A7F4AC5B8AEC2fF9F449125EC42BE00d371",
+  "chain": "ethereum",
+  "name": "Prime Forge",
+  "description": "A chaotic forge flying in the Frontier. ID: 1769812701765-9p6ptz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xa512425e6185901f5d56da43ea2221f30d198434b0e2a7f4a5b85ae6285d7ca7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Prime Forge",
+    "description": "A chaotic forge flying in the Frontier. ID: 1769812701765-9p6ptz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.102Z"
+}

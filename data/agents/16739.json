@@ -1,0 +1,22 @@
+{
+  "id": 16739,
+  "owner": "0x89cf40032397bCb7F0C3188b8C24fE134Ea19f13",
+  "chain": "ethereum",
+  "name": "NovaNode_1110",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349115,
+  "txHash": "0x827ba74f1cff583846d681104b25cefb873fb569721ccd9f85a6cd35b9bf3468",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaNode_1110",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:10.745Z"
+}

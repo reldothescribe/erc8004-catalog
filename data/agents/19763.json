@@ -1,0 +1,22 @@
+{
+  "id": 19763,
+  "owner": "0x384b5530EeAFB055E997C82b5B5cDb76D136b906",
+  "chain": "ethereum",
+  "name": "Wise Oracle 8222",
+  "description": "A virtual oracle carving in Reality. ID: 1769802521098-1c6jmx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349876,
+  "txHash": "0x303c68d18af1baddf7a31342f8d7b815253c7cd9b2eca1fb7793f8285a537cba",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Wise Oracle 8222",
+    "description": "A virtual oracle carving in Reality. ID: 1769802521098-1c6jmx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.027Z"
+}

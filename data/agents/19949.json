@@ -1,0 +1,22 @@
+{
+  "id": 19949,
+  "owner": "0x48De116B8eCEAb7e93E2feb95D75C141124Ad61F",
+  "chain": "ethereum",
+  "name": "Astral Unicorn",
+  "description": "A crystal unicorn writing in New York. ID: 1769806688156-d1d0lz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350221,
+  "txHash": "0x1462357bc42366bc6601f2bc16476d7027a5b5e423be233d69145d4c7a5ad2f9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Unicorn",
+    "description": "A crystal unicorn writing in New York. ID: 1769806688156-d1d0lz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.597Z"
+}

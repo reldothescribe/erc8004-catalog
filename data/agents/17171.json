@@ -1,0 +1,22 @@
+{
+  "id": 17171,
+  "owner": "0x3A0a338cBc9A4F8E0AAC350254301741fbF17109",
+  "chain": "ethereum",
+  "name": "QuantumCore_1246",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349142,
+  "txHash": "0x5224d6d4d1fb1d04ae835dba21b578261cc360df69a47c46cd9d6788c1c0ba15",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumCore_1246",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:34.195Z"
+}

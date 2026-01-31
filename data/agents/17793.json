@@ -1,0 +1,22 @@
+{
+  "id": 17793,
+  "owner": "0x29C32E9184A3A387CA6F78A3bDf122b096d3F65b",
+  "chain": "ethereum",
+  "name": "CyberMind_7363",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0xac9b601feae6b9b09b9fde9aa009e431c3ef279fa1d9311812024c8c1227491d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberMind_7363",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:06.541Z"
+}

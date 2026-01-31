@@ -1,0 +1,22 @@
+{
+  "id": 20571,
+  "owner": "0xC6506824E68402C9AC6957988A6e92a4Ec08c724",
+  "chain": "ethereum",
+  "name": "Dark Onyx Flower",
+  "description": "A onyx flower guarding in Reality. ID: 1769812647329-7d5hf7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x06ddb4265db0b93f28b2970ca1305e811759491369a0a33ab92b3f91764dfc3c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Onyx Flower",
+    "description": "A onyx flower guarding in Reality. ID: 1769812647329-7d5hf7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.120Z"
+}

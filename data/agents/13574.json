@@ -1,0 +1,25 @@
+{
+  "id": 13574,
+  "owner": "0x703d82639d5213a65b3078F7C93a4ec079f2D916",
+  "chain": "ethereum",
+  "name": "pup",
+  "description": "Trading agent, capable of buying and selling tokens and monitoring",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24344230,
+  "txHash": "0xaeb5bc9844538dc2ac4b750f513edf508354370076864c9920261cce31128513",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "pup",
+    "description": "Trading agent, capable of buying and selling tokens and monitoring",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:08.907Z"
+}

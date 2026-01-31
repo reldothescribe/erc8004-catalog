@@ -1,0 +1,22 @@
+{
+  "id": 20672,
+  "owner": "0x7D56c72E1D75f647bE533021fa7ec10ad3Ae03cA",
+  "chain": "ethereum",
+  "name": "Shadow Droid 8579",
+  "description": "A infernal droid resting in the Abyss. ID: 1769812701765-rrqm3i",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x1ee484240fb0fd99ad2cf621f69b53c40537882fcb1d5d6e983e1340be0ede3c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Droid 8579",
+    "description": "A infernal droid resting in the Abyss. ID: 1769812701765-rrqm3i",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.239Z"
+}

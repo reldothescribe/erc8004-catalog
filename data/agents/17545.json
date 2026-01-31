@@ -1,0 +1,22 @@
+{
+  "id": 17545,
+  "owner": "0x1e803EA5b7C200b62242c8165f2fa6AD1c9189EE",
+  "chain": "ethereum",
+  "name": "UltraNet_6928",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x337a0740c7e8db1bdf77caeb3351a5106380b5168145fd83b8e676f031781e65",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNet_6928",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:53.650Z"
+}

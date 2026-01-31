@@ -1,0 +1,22 @@
+{
+  "id": 18546,
+  "owner": "0x4deE64d70cBadf69a1b42629413028222C9D9EAb",
+  "chain": "ethereum",
+  "name": "ZenNode_1c97",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349269,
+  "txHash": "0x89e68d4bc8021b1e8377e741109cfc68f324f0d6d22b04cf9a6f058e0433630d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ZenNode_1c97",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:47.105Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16424,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_f5e2",
+  "description": "AI-powered agent performing blockchain transactions with immutable audit trails.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349057,
+  "txHash": "0x2ccec86e9cbb67a56668ec4b9daa856d81fe917af246ed99f5b4f6e1aec7e9cc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_f5e2",
+    "description": "AI-powered agent performing blockchain transactions with immutable audit trails.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:53.131Z"
+}

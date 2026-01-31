@@ -1,0 +1,22 @@
+{
+  "id": 20205,
+  "owner": "0x82aFB9D4088598D65b57bcE6e269e87b12e966cF",
+  "chain": "ethereum",
+  "name": "Radiant Pulse",
+  "description": "A lunar pulse writing in London. ID: 1769812385395-c8vwz6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x5a8ba09e44033c8c8e2ae68b624414e95c7526d6ad7fc387bf9f11aedcd7b2dc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Pulse",
+    "description": "A lunar pulse writing in London. ID: 1769812385395-c8vwz6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:02.586Z"
+}

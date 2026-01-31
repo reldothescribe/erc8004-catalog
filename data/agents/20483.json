@@ -1,0 +1,22 @@
+{
+  "id": 20483,
+  "owner": "0x7eAb62675b31152078Bc5bC274Efe7E18d1F7899",
+  "chain": "ethereum",
+  "name": "Young Watcher 1134",
+  "description": "A crystal watcher swimming in Saturn. ID: 1769812646698-qj4p6w",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xe81a309aaa929421b7ec9472e72cbeee0f1762ae47045288b0670abe88b0c09c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Watcher 1134",
+    "description": "A crystal watcher swimming in Saturn. ID: 1769812646698-qj4p6w",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.124Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19876,
+  "owner": "0xBC5d94ac06266fDF2Ac8C865dA22e455b551dE0b",
+  "chain": "ethereum",
+  "name": "Nebula Nexus",
+  "description": "An AI agent that explores cosmic data patterns to provide insightful analytics and futuristic predictions for astronomers and sci-fi enthusiasts.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350178,
+  "txHash": "0xc11ce95ae0316f5cf69106c65228a4d1bd3b0dbde29790b8ac3c860717655d81",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nebula Nexus",
+    "description": "An AI agent that explores cosmic data patterns to provide insightful analytics and futuristic predictions for astronomers and sci-fi enthusiasts.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:28.586Z"
+}

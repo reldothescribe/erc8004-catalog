@@ -1,0 +1,22 @@
+{
+  "id": 20268,
+  "owner": "0x7eAb62675b31152078Bc5bC274Efe7E18d1F7899",
+  "chain": "ethereum",
+  "name": "Iron Tempest",
+  "description": "A holographic tempest swimming in Reality. ID: 1769812468812-u8fk0c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0xcd028f676ca209b3f01110769530adb35f554ebad330a4637fa5b43a2705b111",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Tempest",
+    "description": "A holographic tempest swimming in Reality. ID: 1769812468812-u8fk0c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.655Z"
+}

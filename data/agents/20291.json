@@ -1,0 +1,22 @@
+{
+  "id": 20291,
+  "owner": "0xeAEEf21647AB21110AA174B819893ff4995Bfd4b",
+  "chain": "ethereum",
+  "name": "Stellar Ether Tempest",
+  "description": "A ether tempest singing in New York. ID: 1769812482387-myp26x",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0x920246f29e6ff360d82077ffc2e26ee26cd5e500ea2c6e2a41d49a7f2966d944",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Ether Tempest",
+    "description": "A ether tempest singing in New York. ID: 1769812482387-myp26x",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.681Z"
+}

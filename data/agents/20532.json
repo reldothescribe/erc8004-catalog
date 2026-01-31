@@ -1,0 +1,22 @@
+{
+  "id": 20532,
+  "owner": "0xfFc26dA5A767f3074A7633343AE1D34229FdB0Ed",
+  "chain": "ethereum",
+  "name": "Random Flower",
+  "description": "A mystic flower soaring in Cyberspace. ID: 1769812641373-yzm9hr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xbf07cb17e9ed0e73fde1c0f738e32a88b4e78bb71c7ce94ec6ece8394f4eaa60",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Random Flower",
+    "description": "A mystic flower soaring in Cyberspace. ID: 1769812641373-yzm9hr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.071Z"
+}

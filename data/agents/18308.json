@@ -1,0 +1,22 @@
+{
+  "id": 18308,
+  "owner": "0x649272AF8ADf124F2c4bf1Ec77134838A8Eb5fD9",
+  "chain": "ethereum",
+  "name": "SolChain_ff11",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349249,
+  "txHash": "0x4ce650fcfb5bfc8ae39da75e3b35de4d8066f3e0dde51ff2fae88e7d2ab01223",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolChain_ff11",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:34.311Z"
+}

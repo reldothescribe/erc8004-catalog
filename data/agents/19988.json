@@ -1,0 +1,22 @@
+{
+  "id": 19988,
+  "owner": "0xbD9a6D81437ED43fee8fB87A9b7E6c34C831f375",
+  "chain": "ethereum",
+  "name": "Valiant Bridge 6041",
+  "description": "A obsidian bridge weaving in Paris. ID: 1769807790917-3yp1rk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350313,
+  "txHash": "0xa59f764044792e9911c93916701688d8ed710ec0ae3f2cddecdeb5f755fe404a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Bridge 6041",
+    "description": "A obsidian bridge weaving in Paris. ID: 1769807790917-3yp1rk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.645Z"
+}

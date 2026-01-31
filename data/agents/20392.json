@@ -1,0 +1,22 @@
+{
+  "id": 20392,
+  "owner": "0x760bAff32A0c85B6b64A020de9375B59aD2E868b",
+  "chain": "ethereum",
+  "name": "Elder Traveler",
+  "description": "A swift traveler crafting in the Chain. ID: 1769812588611-k1wg33",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350712,
+  "txHash": "0xee7d99f1f3c95923be72b0df415b3bf14c845519f9849cbaa09280b919826dfb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Traveler",
+    "description": "A swift traveler crafting in the Chain. ID: 1769812588611-k1wg33",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.903Z"
+}

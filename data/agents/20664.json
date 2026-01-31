@@ -1,0 +1,22 @@
+{
+  "id": 20664,
+  "owner": "0xC888fBB670E61131069B0A372792487787a9b8c0",
+  "chain": "ethereum",
+  "name": "Young Pilot",
+  "description": "A crystal pilot rising in Nature. ID: 1769812675498-sx69dd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x099835bfd49f2f74e5e2fbb8bef88c9b2057cbf7d713335883370022b2af2ff7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Pilot",
+    "description": "A crystal pilot rising in Nature. ID: 1769812675498-sx69dd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.239Z"
+}

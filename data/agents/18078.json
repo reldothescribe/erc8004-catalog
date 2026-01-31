@@ -1,0 +1,22 @@
+{
+  "id": 18078,
+  "owner": "0xAdD38BcD182a224b67d689010ac6f0D58F4FC0d7",
+  "chain": "ethereum",
+  "name": "NeoNode_9398",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x633987340f94c43d22eeab40f47d801b81a46eb8757ba71458b2b8c396819e07",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNode_9398",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:21.503Z"
+}

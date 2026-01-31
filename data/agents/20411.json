@@ -1,0 +1,22 @@
+{
+  "id": 20411,
+  "owner": "0x6bCf2b844E871FE46c8A202bF0FAB6700B347b8C",
+  "chain": "ethereum",
+  "name": "Pearl Silver Dragon",
+  "description": "A silver dragon diving in the Center. ID: 1769812601824-nxiw75",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350713,
+  "txHash": "0x622bfdee2f294bc4765d10810d21b48b9c6ec0ca7574765f88cc05d5d2798e11",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Silver Dragon",
+    "description": "A silver dragon diving in the Center. ID: 1769812601824-nxiw75",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.928Z"
+}

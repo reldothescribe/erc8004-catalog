@@ -1,0 +1,22 @@
+{
+  "id": 17237,
+  "owner": "0xaB57e50C52ea6178049cA179c0F431B9F4b041D2",
+  "chain": "ethereum",
+  "name": "NeoLink_4089",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349160,
+  "txHash": "0x620831e8aa78a09ec92cc441bd8e2baacede286ad6d5282a1d8ad16c7f0a3e1a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoLink_4089",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:37.781Z"
+}

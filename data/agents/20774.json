@@ -1,0 +1,22 @@
+{
+  "id": 20774,
+  "owner": "0x32b9DC823e3126D909C83fA1baa80Eb13dEc248a",
+  "chain": "ethereum",
+  "name": "Ruby Road 4170",
+  "description": "A prime road soaring in the Heights. ID: 1769812721317-0w9tpk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xf27851494815a51bd0922b2384c485e10b07d289e849f73cd63727906e9f36e4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Road 4170",
+    "description": "A prime road soaring in the Heights. ID: 1769812721317-0w9tpk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.201Z"
+}

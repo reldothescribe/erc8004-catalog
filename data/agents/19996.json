@@ -1,0 +1,22 @@
+{
+  "id": 19996,
+  "owner": "0xBC5d94ac06266fDF2Ac8C865dA22e455b551dE0b",
+  "chain": "ethereum",
+  "name": "Mystic Navigator",
+  "description": "A visual navigator moving in Magic. ID: 1769807801333-vsrrxn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350314,
+  "txHash": "0x6e71ccc20cf0235f4a3849080133a4e18d790d1912cc1eb01de4dcbd35df9b15",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Mystic Navigator",
+    "description": "A visual navigator moving in Magic. ID: 1769807801333-vsrrxn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.158Z"
+}

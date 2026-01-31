@@ -1,0 +1,22 @@
+{
+  "id": 19759,
+  "owner": "0x57E3696FBC41E612fadac8AF7a2139b1e7CbEE67",
+  "chain": "ethereum",
+  "name": "Rapid Sun",
+  "description": "A nexus sun working in the Edge. ID: 1769802508039-abq96y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349875,
+  "txHash": "0xb2f34b1bb7068ac075c654582180482c168ce9531a0c6ad35369fd717466c7f3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Sun",
+    "description": "A nexus sun working in the Edge. ID: 1769802508039-abq96y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:51.538Z"
+}

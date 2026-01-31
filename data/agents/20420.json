@@ -1,0 +1,22 @@
+{
+  "id": 20420,
+  "owner": "0xB38Fc2415cEd5e84381Ba9EE605DB676509361C3",
+  "chain": "ethereum",
+  "name": "Meta Ivory Bear",
+  "description": "A ivory bear climbing in Myth. ID: 1769812601824-o9spj7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350713,
+  "txHash": "0xbf394a0460148ba09c0d2d7e777410fa8ccd91b4a4f3d709482462da6a0076f1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Ivory Bear",
+    "description": "A ivory bear climbing in Myth. ID: 1769812601824-o9spj7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.439Z"
+}

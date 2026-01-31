@@ -1,0 +1,22 @@
+{
+  "id": 19762,
+  "owner": "0x2f9724227eB0a25b5f24f4ea4D75A449f595e6B9",
+  "chain": "ethereum",
+  "name": "Liquid Pilot 8353",
+  "description": "A virtual pilot healing in History. ID: 1769802521098-217pd4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349876,
+  "txHash": "0x835b9026681ed7f19b9ac026aaf75d01ea0be614e6172db6e2f904b2975c00e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Pilot 8353",
+    "description": "A virtual pilot healing in History. ID: 1769802521098-217pd4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:51.527Z"
+}

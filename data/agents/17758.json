@@ -1,0 +1,22 @@
+{
+  "id": 17758,
+  "owner": "0x2E028C12de1A1096c80FDCbF1519419864E16b10",
+  "chain": "ethereum",
+  "name": "QuantumAgent_7660",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0x3cd522704d5ccb37b9efde7793f711f0b6edddbc7ad05161a975dfd02d6b842d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumAgent_7660",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.197Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20824,
+  "owner": "0x648D0F1c1Ff87b0e968411BF06Ce73068aEc3Ff0",
+  "chain": "ethereum",
+  "name": "Blazing Navigator",
+  "description": "A phantom navigator dancing in Myth. ID: 1769812739953-hoj8xv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xcc5afb0568b5242ae9f0bec4fca6c9160c67b512a871e2df5bdab55562d95b1a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Navigator",
+    "description": "A phantom navigator dancing in Myth. ID: 1769812739953-hoj8xv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.754Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20345,
+  "owner": "0xE28D7Db180a8AB302b77789eAeD07303fbc34D54",
+  "chain": "ethereum",
+  "name": "Noble Neo Sun",
+  "description": "A neo sun playing in Nature. ID: 1769812503121-k2en2i",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0xbf786e2ce689895fcdf97cd22dc10b1e71956401f19dc5a9fed29dfd4bd67622",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Noble Neo Sun",
+    "description": "A neo sun playing in Nature. ID: 1769812503121-k2en2i",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:09.753Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17611,
+  "owner": "0x9812EEf86a2Fbfb419ae58dA62654E2770C95916",
+  "chain": "ethereum",
+  "name": "PrimeNet_1938",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0xd50c2ad2f3f9512d8c2aa400e652cf0e25d3843f17d2d4c8a6753e212ad395d2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeNet_1938",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:56.533Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19941,
+  "owner": "0xB64eb69B2dB3DDEc3c154F2e8a6CE69059bEf060",
+  "chain": "ethereum",
+  "name": "Swift Mage",
+  "description": "A cyber mage running in Reality. ID: 1769806663309-o9js2l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350219,
+  "txHash": "0xad031132ee18d720f17dcb885c9ab6a61dc82936b1f19ac214d993c7a0f321e3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Mage",
+    "description": "A cyber mage running in Reality. ID: 1769806663309-o9js2l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.085Z"
+}

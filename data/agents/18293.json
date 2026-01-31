@@ -1,0 +1,22 @@
+{
+  "id": 18293,
+  "owner": "0x232B4Fd20353093D3eCf1079d86bcFd3474E42d8",
+  "chain": "ethereum",
+  "name": "SynWave_7030",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349248,
+  "txHash": "0x1cedd562387950419bf9c381f545cd0c187a6a4ddeeed17f9eb09744fb72edb1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynWave_7030",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:33.793Z"
+}

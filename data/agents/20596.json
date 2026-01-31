@@ -1,0 +1,22 @@
+{
+  "id": 20596,
+  "owner": "0xD1dAF1EEcea3f7016d306e0499572BC11549C21C",
+  "chain": "ethereum",
+  "name": "Young Jade Cipher",
+  "description": "A jade cipher waking in Mars. ID: 1769812646698-nrr2z1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xed06af0cbe88f23ed9eee03fd8adf8b2269f565742e68b9ef96e0e6b1594a0c3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Jade Cipher",
+    "description": "A jade cipher waking in Mars. ID: 1769812646698-nrr2z1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.656Z"
+}

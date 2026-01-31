@@ -1,0 +1,22 @@
+{
+  "id": 18219,
+  "owner": "0xd2F32b78B73F22E5461F44d2a4008A8B96D95c37",
+  "chain": "ethereum",
+  "name": "HyperNet_8608",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349224,
+  "txHash": "0xb8cc382d579daaa5f0957ee5fb07667435bd890d2f7d842a8e2b71b37ea6e2c1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperNet_8608",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:29.798Z"
+}

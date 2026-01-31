@@ -1,0 +1,22 @@
+{
+  "id": 19952,
+  "owner": "0x7e4BE8b879B78e530BADD7fcCF9605dbA0728D66",
+  "chain": "ethereum",
+  "name": "Lost Moon",
+  "description": "A obsidian moon speaking in Paris. ID: 1769806688156-2icmyw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350221,
+  "txHash": "0x10c4f4c0fcc0ae638fd6995034f69469460ca87f2df2d56d0c067cb33cc6f0f7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Moon",
+    "description": "A obsidian moon speaking in Paris. ID: 1769806688156-2icmyw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.597Z"
+}

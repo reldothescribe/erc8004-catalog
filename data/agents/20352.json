@@ -1,0 +1,22 @@
+{
+  "id": 20352,
+  "owner": "0x32b9DC823e3126D909C83fA1baa80Eb13dEc248a",
+  "chain": "ethereum",
+  "name": "Ruby Cipher 1716",
+  "description": "A emerald cipher living in the Chain. ID: 1769812544416-osl2bt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350708,
+  "txHash": "0x06b33eed0e3cebb4e6672e72024b2a5ea320338fe0b1295aa58c6ba18417fd5c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Cipher 1716",
+    "description": "A emerald cipher living in the Chain. ID: 1769812544416-osl2bt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:09.752Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20290,
+  "owner": "0x18a25c72F9e4859234C3D3434e2180b63E52b2a0",
+  "chain": "ethereum",
+  "name": "Orderly Navigator 8966",
+  "description": "A onyx navigator healing in Paris. ID: 1769812482387-ge5w3t",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0x07c4b46e1a4fd519d7e4fcaf5674743f6bd07638c636d1c5a00773a8294240cb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Navigator 8966",
+    "description": "A onyx navigator healing in Paris. ID: 1769812482387-ge5w3t",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.682Z"
+}

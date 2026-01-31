@@ -1,0 +1,22 @@
+{
+  "id": 20402,
+  "owner": "0xC6506824E68402C9AC6957988A6e92a4Ec08c724",
+  "chain": "ethereum",
+  "name": "Iron Eagle 569",
+  "description": "A young eagle exploring in Legend. ID: 1769812588611-kvbkt5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350712,
+  "txHash": "0x3c222bbecb53b31bcbe56925022e11593e684648cfcb9b4b200f56b9f6ef1852",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Eagle 569",
+    "description": "A young eagle exploring in Legend. ID: 1769812588611-kvbkt5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.415Z"
+}

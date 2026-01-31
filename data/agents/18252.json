@@ -1,0 +1,22 @@
+{
+  "id": 18252,
+  "owner": "0x17327768cD159ee907c9f1b3012053be868cf67f",
+  "chain": "ethereum",
+  "name": "NexVault_2591",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349246,
+  "txHash": "0x7997cc009f9d2897078f4a4034fb76c7f8a8b0bb133990e5d64589adaf97a5d8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexVault_2591",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:31.333Z"
+}

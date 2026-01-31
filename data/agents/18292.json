@@ -1,0 +1,22 @@
+{
+  "id": 18292,
+  "owner": "0x53452181bbE2B73043DA6b60fC0C3fb60b1e302c",
+  "chain": "ethereum",
+  "name": "AxiLink_0f6c",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349248,
+  "txHash": "0x29bdedb6c2ba62b4a3b46f4172a9965c5d51ad8005e10cc4cdbae01a8a516f28",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiLink_0f6c",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:33.287Z"
+}

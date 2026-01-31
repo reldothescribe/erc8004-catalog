@@ -1,0 +1,22 @@
+{
+  "id": 18195,
+  "owner": "0xBAD3eDFB7b353a4058603ed6C050C41d59B00E8C",
+  "chain": "ethereum",
+  "name": "HyperBot_3283",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xcb893b353a6748f8005bdb586110a9d72b1f0ef882cfd8a4f5096eae16122cd5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperBot_3283",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.821Z"
+}

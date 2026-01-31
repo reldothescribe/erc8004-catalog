@@ -1,0 +1,22 @@
+{
+  "id": 18099,
+  "owner": "0xeC5E8475c36F55eDef36Da46964cEADD7c131590",
+  "chain": "ethereum",
+  "name": "QuantumNet_206",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x339ba329039f9bfbb13d67a95d57e8dbee5b75f46661f0a3a7b91e3ee6f2e915",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumNet_206",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:22.527Z"
+}

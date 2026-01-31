@@ -1,0 +1,22 @@
+{
+  "id": 20821,
+  "owner": "0x98BE22d9711C7B3B1Ec15FBF297F71283Ce11E98",
+  "chain": "ethereum",
+  "name": "Meta Driver 7501",
+  "description": "A prime driver swimming in the Past. ID: 1769812741152-kqzie3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x71678735151270ffc66271a5876db8aa00490d9ead67e525cceded15663492ac",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Driver 7501",
+    "description": "A prime driver swimming in the Past. ID: 1769812741152-kqzie3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.244Z"
+}

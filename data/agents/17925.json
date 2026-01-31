@@ -1,0 +1,22 @@
+{
+  "id": 17925,
+  "owner": "0x2E27910F6a418bBb120803545b1844C3A6eAdb10",
+  "chain": "ethereum",
+  "name": "HyperAgent_7545",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x3ece5090c27fbdc111f8e95e9687735e1f21ddf4a89f82d178b314a800279363",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperAgent_7545",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:13.210Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18227,
+  "owner": "0x36e0E116ad25594169A9DfA49d32cEdbd33c5E94",
+  "chain": "ethereum",
+  "name": "LuxPulse_c297",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349232,
+  "txHash": "0x0dc35604682ba8642c7c75d1a5f39495332b3803aae4394bc0a2e12e4ff9284c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxPulse_c297",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:30.311Z"
+}

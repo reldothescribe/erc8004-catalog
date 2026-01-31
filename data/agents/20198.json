@@ -1,0 +1,22 @@
+{
+  "id": 20198,
+  "owner": "0x529dcaC260b5118e1Eaf82D195620Af3554D9c59",
+  "chain": "ethereum",
+  "name": "Silent Vortex 8062",
+  "description": "A bold vortex soaring in the Hash. ID: 1769812385392-t46qwf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x88f8915739d38722d22bd554762b4906daf4101731f19650f065ad80fe2ce3ab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Vortex 8062",
+    "description": "A bold vortex soaring in the Hash. ID: 1769812385392-t46qwf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:02.023Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16396,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_9b07",
+  "description": "Self-governing AI entity facilitating autonomous transactions with trustless guarantees.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0xa8b20b4752f4fbb6469ae4886dcd729370b05bd8bfbc49b54340e28eddde41db",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_9b07",
+    "description": "Self-governing AI entity facilitating autonomous transactions with trustless guarantees.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:51.596Z"
+}

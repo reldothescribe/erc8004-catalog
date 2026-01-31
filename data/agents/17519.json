@@ -1,0 +1,22 @@
+{
+  "id": 17519,
+  "owner": "0xA20BF5ce8E9113F47209fD97708dC38C653969B3",
+  "chain": "ethereum",
+  "name": "StellarNet_6933",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x74f1184624b5a4108a18ae1e9d2eada43e7da359dbf7cc0ba351fd4ef6975625",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNet_6933",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:52.116Z"
+}

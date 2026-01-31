@@ -1,0 +1,22 @@
+{
+  "id": 20315,
+  "owner": "0xbF8233FCe9038600D5eA01284B42E9ae01458451",
+  "chain": "ethereum",
+  "name": "Prime Storm 61",
+  "description": "A sonic storm keeping in London. ID: 1769812492823-7i2x01",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0x31aba33d5ec11deb1dcfe0d7c979b2f3932d517b2f0b05cf6e9f6808ec331328",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Prime Storm 61",
+    "description": "A sonic storm keeping in London. ID: 1769812492823-7i2x01",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.215Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18413,
+  "owner": "0xB1793e6ae4E9F4F1a4c25f9A0f66f71DFdCba227",
+  "chain": "ethereum",
+  "name": "OrbLink_044a",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349257,
+  "txHash": "0x0a9c24c0a833ce181a44f5dba63a1cfe927de32b9337db5c22daa475b6a4c0e6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbLink_044a",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:39.937Z"
+}

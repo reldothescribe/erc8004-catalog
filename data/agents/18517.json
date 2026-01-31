@@ -1,0 +1,22 @@
+{
+  "id": 18517,
+  "owner": "0x3cEd6a56E483e3b545C640C035677798e5a41a57",
+  "chain": "ethereum",
+  "name": "LuxChain_05fa",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349266,
+  "txHash": "0xd77c38a7ff429991195ed5e10e8a48a9bd39f192b71949a144ab2a3365aff244",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxChain_05fa",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:45.259Z"
+}

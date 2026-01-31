@@ -1,0 +1,22 @@
+{
+  "id": 18542,
+  "owner": "0x5e3464e71B96373e08b3ac61A4ab696534D7EA77",
+  "chain": "ethereum",
+  "name": "LuxBot_4cc3",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349269,
+  "txHash": "0xb55a83dc56971066198884685846080c09b7654ae9ef6fe075b2b3e9bb8d1488",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxBot_4cc3",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:46.287Z"
+}

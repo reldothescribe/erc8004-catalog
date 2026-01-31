@@ -1,0 +1,22 @@
+{
+  "id": 17625,
+  "owner": "0x2a666BFF100770F7aed81a8288CB3ba66ee289fB",
+  "chain": "ethereum",
+  "name": "MetaCore_6916",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x3187be5b493fab2b561e556de964c5278686355d72c1e46379148c2713a14ff7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaCore_6916",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:57.544Z"
+}

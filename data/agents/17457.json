@@ -1,0 +1,22 @@
+{
+  "id": 17457,
+  "owner": "0x23eBf236170639090ef9C33488D4C09Dbc731C1D",
+  "chain": "ethereum",
+  "name": "MetaFlow_9151",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x32ad5ee77c5c46b9f7bbfb577b2de5b8be7077c3d03d02c4f201f3c293e89579",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaFlow_9151",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:49.041Z"
+}

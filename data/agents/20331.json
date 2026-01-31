@@ -1,0 +1,22 @@
+{
+  "id": 20331,
+  "owner": "0x529dcaC260b5118e1Eaf82D195620Af3554D9c59",
+  "chain": "ethereum",
+  "name": "Temporal Paladin",
+  "description": "A ancient paladin reading in the Center. ID: 1769812503121-jk25kf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0x9ed179548f1c24c0004376b6c2b83716b4344cd21f4371add16eca4216d6ac0d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Paladin",
+    "description": "A ancient paladin reading in the Center. ID: 1769812503121-jk25kf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.728Z"
+}

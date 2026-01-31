@@ -1,0 +1,22 @@
+{
+  "id": 19936,
+  "owner": "0xBC5d94ac06266fDF2Ac8C865dA22e455b551dE0b",
+  "chain": "ethereum",
+  "name": "Serene Paladin",
+  "description": "A secret paladin thinking in Science. ID: 1769806638437-8gejjp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350218,
+  "txHash": "0xa43563d48314df14da094137f134ded76bde087ff3d754192e95320fc789b999",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Serene Paladin",
+    "description": "A secret paladin thinking in Science. ID: 1769806638437-8gejjp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.085Z"
+}

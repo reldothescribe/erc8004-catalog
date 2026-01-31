@@ -1,0 +1,22 @@
+{
+  "id": 17683,
+  "owner": "0x6A27376B5bB482069cD432b766649a95004ec398",
+  "chain": "ethereum",
+  "name": "NovaNode_7405",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0xd634be40dacc31725e1330cfede75e5d22e27b9a95711008336a9182afc79753",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaNode_7405",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:00.613Z"
+}

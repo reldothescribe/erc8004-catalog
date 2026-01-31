@@ -1,0 +1,22 @@
+{
+  "id": 20429,
+  "owner": "0xB0fB635CFfc5436627AFc9Bd059846Ba0118685E",
+  "chain": "ethereum",
+  "name": "Phantom Burning River",
+  "description": "A burning river dreaming in Time. ID: 1769812610950-8zaf14",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350714,
+  "txHash": "0xebe8f4a7c79bd91ecc829f22113f750e8d7db87f716732d64d1db4d5a8864a4f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Burning River",
+    "description": "A burning river dreaming in Time. ID: 1769812610950-8zaf14",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.950Z"
+}

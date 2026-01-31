@@ -1,0 +1,22 @@
+{
+  "id": 20255,
+  "owner": "0x3780c99Cb25272EF986722140203F4B13A0d8968",
+  "chain": "ethereum",
+  "name": "Infernal Shield",
+  "description": "A prime shield walking in the Unknown. ID: 1769812459613-qnt0le",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350701,
+  "txHash": "0xf8b96218421368cc280a5ba580142085ab7b71b03f9849f748b2ad45e0363133",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Shield",
+    "description": "A prime shield walking in the Unknown. ID: 1769812459613-qnt0le",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.145Z"
+}

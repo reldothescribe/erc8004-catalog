@@ -1,0 +1,22 @@
+{
+  "id": 17410,
+  "owner": "0x41FBf0F7e392Cf5c8092Eef7a4406E2f7022f821",
+  "chain": "ethereum",
+  "name": "NovaFlow_6381",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x658f1576ceb700161110af33413b41042246c1c06b30a9202d7cee02a1cff99e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaFlow_6381",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:46.482Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17482,
+  "owner": "0x078e8eA8d177a40E348088FfFFD0c516ACF084f6",
+  "chain": "ethereum",
+  "name": "QuantumNode_7969",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x54b7c1635e5bbd954bc564157c8a750badfd6b463c6427ec018257dc4d9f0531",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumNode_7969",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:50.014Z"
+}

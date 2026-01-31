@@ -1,0 +1,22 @@
+{
+  "id": 18577,
+  "owner": "0x4598FAbA3799568ADcc61E20AA7C1Ba30d2E7D7A",
+  "chain": "ethereum",
+  "name": "Neo Comet 829",
+  "description": "A temporal comet losing in the Center. ID: 1769795208326-w2bngy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349272,
+  "txHash": "0x5922217d20090fdb42ebab065fc1af453aa0a39533df602396ce3824837eef39",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neo Comet 829",
+    "description": "A temporal comet losing in the Center. ID: 1769795208326-w2bngy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:48.568Z"
+}

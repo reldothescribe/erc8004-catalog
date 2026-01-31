@@ -1,0 +1,22 @@
+{
+  "id": 17308,
+  "owner": "0x3b894aa6288052C55F5E21EFd3192d0f2612CC02",
+  "chain": "ethereum",
+  "name": "SolLink_421d",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349169,
+  "txHash": "0x6f8309d42bc2fa3b897c76e69c43384da605a173b037e6f67c0596e900ae9d10",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolLink_421d",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:41.361Z"
+}

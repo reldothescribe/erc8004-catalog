@@ -1,0 +1,22 @@
+{
+  "id": 18429,
+  "owner": "0x348BB547e67DBf0Beab7a0B5dA0F7b3F0C582DF2",
+  "chain": "ethereum",
+  "name": "Young Path",
+  "description": "A neural path creating in Science. ID: 1769795045324-jyutyh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349258,
+  "txHash": "0xec710b86473b4ce87d46590cc1d63effdec17b8379bc38cd510a9c979f61dbc6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Path",
+    "description": "A neural path creating in Science. ID: 1769795045324-jyutyh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:40.454Z"
+}

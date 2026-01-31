@@ -1,0 +1,22 @@
+{
+  "id": 20502,
+  "owner": "0x13CeBf4C857a1DF6fDA8D080d09aC58455e19A47",
+  "chain": "ethereum",
+  "name": "Radiant Spirit",
+  "description": "A silent spirit running in Mars. ID: 1769812648624-m2upp5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xc879581798c3e54f44b01a90cc1ac8a69f60202b28a2945a840220c5c011ced5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Spirit",
+    "description": "A silent spirit running in Mars. ID: 1769812648624-m2upp5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.641Z"
+}

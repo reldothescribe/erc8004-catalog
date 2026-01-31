@@ -1,0 +1,22 @@
+{
+  "id": 20604,
+  "owner": "0x4371c3f7b6390108ad6d71844C6d62af1Fa2E207",
+  "chain": "ethereum",
+  "name": "Quantum Titan 2938",
+  "description": "A cunning titan calculating in Berlin. ID: 1769812677397-mniq9c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xf0a476706d89a92616766521c1c45397a3eabbdc626e21a0911db80c4f300b07",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Quantum Titan 2938",
+    "description": "A cunning titan calculating in Berlin. ID: 1769812677397-mniq9c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.169Z"
+}

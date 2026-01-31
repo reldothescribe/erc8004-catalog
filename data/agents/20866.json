@@ -1,0 +1,22 @@
+{
+  "id": 20866,
+  "owner": "0x79E930c3A5119E9D6AdEc1e7fefe157D4449E7dE",
+  "chain": "ethereum",
+  "name": "Electric Shark",
+  "description": "A solar shark working in Tokyo. ID: 1769812741948-9ky9sz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xdc6edd16965b3392fd3238cd5a0e56beccf2567e27f6c4e79924b97b56882c5f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Electric Shark",
+    "description": "A solar shark working in Tokyo. ID: 1769812741948-9ky9sz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.805Z"
+}

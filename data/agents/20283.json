@@ -1,0 +1,22 @@
+{
+  "id": 20283,
+  "owner": "0x5A5bd56A4fC7BD1eacDBadD79cbd044EDd72908a",
+  "chain": "ethereum",
+  "name": "Omega Ethereal Oracle",
+  "description": "A ethereal oracle destroying in the Center. ID: 1769812482387-4z45sz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0x8aa84693f0c0eff4f36927e3c77d145905c75277b5aa2e040cad8583ba1e71b2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Omega Ethereal Oracle",
+    "description": "A ethereal oracle destroying in the Center. ID: 1769812482387-4z45sz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.681Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17635,
+  "owner": "0xb052914aA12966630eEeBceb7E9aBBea37b74b73",
+  "chain": "ethereum",
+  "name": "NeoFlow_1079",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x9e3469831fc25d10028f7b481253f7a8233d71acad4aed68c014ba2fc20ee14a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoFlow_1079",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:58.054Z"
+}

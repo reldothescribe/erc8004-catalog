@@ -1,0 +1,22 @@
+{
+  "id": 17559,
+  "owner": "0x8E0d6c043262fC8B823018b16d16824cCa163553",
+  "chain": "ethereum",
+  "name": "CyberLink_2046",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0xbc30ad8477df5f54e089945afabac164d8ae5f3a1298e7a8344d4f71bc8b4bcf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberLink_2046",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:54.163Z"
+}

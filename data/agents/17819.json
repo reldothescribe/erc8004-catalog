@@ -1,0 +1,22 @@
+{
+  "id": 17819,
+  "owner": "0xEe5a124090404895f148Ca0B1e744E4842E296Ac",
+  "chain": "ethereum",
+  "name": "CyberCore_2005",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x4d4deefc97c0b33b4015aebff79448e2ada456f49d45e0476aa7b5713ae52051",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberCore_2005",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:07.577Z"
+}

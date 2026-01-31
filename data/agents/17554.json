@@ -1,0 +1,22 @@
+{
+  "id": 17554,
+  "owner": "0x674A8A9Ae8FFe5727bF95209b00cCF8e447C1389",
+  "chain": "ethereum",
+  "name": "NeoCore_37",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x768c5732baa62c766ea3dbcc01a537697709a933c42ff44d516a467c70d4bbcf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoCore_37",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:54.163Z"
+}

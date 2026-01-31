@@ -1,0 +1,22 @@
+{
+  "id": 19993,
+  "owner": "0x4EF6DaAfFAd0fc37FB02cdB9d37f4F4199c4dA73",
+  "chain": "ethereum",
+  "name": "Lunar Golden Data",
+  "description": "A golden data watching in Mystery. ID: 1769807801333-58bx5r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350314,
+  "txHash": "0x492f6134873a453a0c171a374cb5d05370009d77ed576a11a017966ebd6d5174",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Golden Data",
+    "description": "A golden data watching in Mystery. ID: 1769807801333-58bx5r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.158Z"
+}

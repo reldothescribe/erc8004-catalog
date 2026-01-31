@@ -1,0 +1,29 @@
+{
+  "id": 15407,
+  "owner": "0x351590bb287be4F0e816073787C62c5Ac3ceFDdE",
+  "chain": "ethereum",
+  "name": "Sencrazy",
+  "description": "路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过",
+  "image": "https://blob.8004scan.app/44414300dfd999bb613f3c2ada0956276ff283b0809ab414000710197e6f9795.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348696,
+  "txHash": "0x0ec76d72cda735b856d4739e385c6d876e1f3db199ed8583eda6a536e4cd0a59",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Sencrazy",
+    "description": "路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过路过",
+    "image": "https://blob.8004scan.app/44414300dfd999bb613f3c2ada0956276ff283b0809ab414000710197e6f9795.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:15:51.540Z"
+}

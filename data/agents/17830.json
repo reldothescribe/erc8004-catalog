@@ -1,0 +1,22 @@
+{
+  "id": 17830,
+  "owner": "0x8D91112E01bB24Da49C3CC3876e13cbA3ec733c9",
+  "chain": "ethereum",
+  "name": "StellarNet_1585",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x078c4f8a925c64a1bf1bf9c7e0cbafc17627aa6d0075598dbc780f3e96f96fab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNet_1585",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:08.088Z"
+}

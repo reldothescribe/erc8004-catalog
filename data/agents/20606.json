@@ -1,0 +1,22 @@
+{
+  "id": 20606,
+  "owner": "0x522561ADb925F9C79fE07b980175eF2E0cEf64aE",
+  "chain": "ethereum",
+  "name": "Burning Lion",
+  "description": "A eternal lion diving in Jupiter. ID: 1769812675498-7y2sn2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xd87e07dd4fcc4b0249ff0e9b5898de3a5970f2bad90cf8856185faf0e70834a9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Lion",
+    "description": "A eternal lion diving in Jupiter. ID: 1769812675498-7y2sn2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.170Z"
+}

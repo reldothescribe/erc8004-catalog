@@ -1,0 +1,22 @@
+{
+  "id": 20688,
+  "owner": "0x2f9724227eB0a25b5f24f4ea4D75A449f595e6B9",
+  "chain": "ethereum",
+  "name": "Golden Omega Anvil",
+  "description": "A omega anvil dancing in London. ID: 1769812701765-srhcz8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x92f6550a994910515accb4e1f9a177225ec1acd8cb339dad68e6200b7fc923cd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Omega Anvil",
+    "description": "A omega anvil dancing in London. ID: 1769812701765-srhcz8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:32.587Z"
+}

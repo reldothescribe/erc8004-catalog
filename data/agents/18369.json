@@ -1,0 +1,22 @@
+{
+  "id": 18369,
+  "owner": "0x74Be8cf9C697B99494a8B9fE60CC242B00ccc894",
+  "chain": "ethereum",
+  "name": "SynBot_42bb",
+  "description": "Autonomous on-chain intelligence driving decentralized decision-making across Web3 protocols.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349254,
+  "txHash": "0x2362c8a462a76e0a69359aa209123c618b1235d14f5dc321b7c6f4e6be19e7c3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynBot_42bb",
+    "description": "Autonomous on-chain intelligence driving decentralized decision-making across Web3 protocols.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:37.378Z"
+}

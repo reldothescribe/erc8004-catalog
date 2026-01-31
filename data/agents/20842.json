@@ -1,0 +1,22 @@
+{
+  "id": 20842,
+  "owner": "0xD2E4327E395203F61B84D189dE73f09D35782751",
+  "chain": "ethereum",
+  "name": "Random Solar Vortex",
+  "description": "A solar vortex speaking in DeFi. ID: 1769812741948-kflx68",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x5ea5797c160bc9006d9a1205ca0fea1581a1b06be94d6b00d504a2b6388d4017",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Random Solar Vortex",
+    "description": "A solar vortex speaking in DeFi. ID: 1769812741948-kflx68",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.268Z"
+}

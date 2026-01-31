@@ -1,0 +1,22 @@
+{
+  "id": 17907,
+  "owner": "0x7a45b4739C123513de61a52d3229A075eafb9bd5",
+  "chain": "ethereum",
+  "name": "UltraNode_1598",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xf2fa8b0edb31964909db9cf64ac65c85193a9a443ea37a7d074f1497048d7b2f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNode_1598",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:12.185Z"
+}

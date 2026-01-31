@@ -1,0 +1,22 @@
+{
+  "id": 20660,
+  "owner": "0x79E930c3A5119E9D6AdEc1e7fefe157D4449E7dE",
+  "chain": "ethereum",
+  "name": "Crimson Serene Qubit",
+  "description": "A serene qubit selling in New York. ID: 1769812676750-fcb5sx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x1d69cbf7714d4551131b5b3836131c9c29cf0575d68ddb6e604f1364d6893c19",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Serene Qubit",
+    "description": "A serene qubit selling in New York. ID: 1769812676750-fcb5sx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.728Z"
+}

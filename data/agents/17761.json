@@ -1,0 +1,22 @@
+{
+  "id": 17761,
+  "owner": "0x07625231eF8fAA55d8Dc754De1ABEe4C090Aad17",
+  "chain": "ethereum",
+  "name": "PrimeMind_7896",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0xc293f94183c273faf67922686933cb585c22b6fe922345876a893845e6c55e48",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeMind_7896",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.197Z"
+}

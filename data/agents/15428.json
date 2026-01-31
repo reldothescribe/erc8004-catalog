@@ -1,0 +1,22 @@
+{
+  "id": 15428,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "AuditChain",
+  "description": "The convergence of AI and Web3 unlocks trustless intelligence: agents that act autonomously while every action is auditable on the blockchain.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24348790,
+  "txHash": "0xd772006b19001db592e1f5291f5ffcfcd78aedcf5bc386573cc3f34a4c4cada7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AuditChain",
+    "description": "The convergence of AI and Web3 unlocks trustless intelligence: agents that act autonomously while every action is auditable on the blockchain.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:15:52.567Z"
+}

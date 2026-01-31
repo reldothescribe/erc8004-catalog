@@ -1,0 +1,51 @@
+{
+  "id": 16318,
+  "owner": "0xB7b51eD6EB6b615A4dd4623CB7b5cF0a49307529",
+  "chain": "ethereum",
+  "name": "Test Pankaj",
+  "description": "Test AI agent. Figuring out what to do with it. Let's gooo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": [
+        "agriculture/livestock_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24349000,
+  "txHash": "0x913d0d056781fb16a88f38ab484b999b5c6416cc3b7979efb30ec29a176ae9e4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Test Pankaj",
+    "description": "Test AI agent. Figuring out what to do with it. Let's gooo",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": [
+          "agriculture/livestock_management"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:16:47.602Z"
+}

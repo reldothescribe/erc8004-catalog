@@ -1,0 +1,22 @@
+{
+  "id": 17464,
+  "owner": "0x7107224ab3015EB1b54a234C39BE30f4a51432F7",
+  "chain": "ethereum",
+  "name": "NovaSync_8249",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xc2ad5e35a61d7778839b290c9a77480a095df1a41cca0d57427e7a95aaf9c8f0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaSync_8249",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:49.539Z"
+}

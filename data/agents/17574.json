@@ -1,0 +1,22 @@
+{
+  "id": 17574,
+  "owner": "0xc8bb3915755f617579046Aa6275c5f2f9c0AE9a2",
+  "chain": "ethereum",
+  "name": "NeoCore_8686",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0xdeb1114bb0a7da9a708577b9be28156fb1fe7854e1ee195ed2fdfc5caf369e6b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoCore_8686",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:55.086Z"
+}

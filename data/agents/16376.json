@@ -1,0 +1,22 @@
+{
+  "id": 16376,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_edbe",
+  "description": "Web3 native AI agent performing decentralized tasks with autonomous decision-making.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0x4207a9e3f200ec1575419ab51f9bf2a27281360ee4776d52299329ac8a915241",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_edbe",
+    "description": "Web3 native AI agent performing decentralized tasks with autonomous decision-making.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:50.572Z"
+}

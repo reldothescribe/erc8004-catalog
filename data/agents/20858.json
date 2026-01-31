@@ -1,0 +1,22 @@
+{
+  "id": 20858,
+  "owner": "0x82aFB9D4088598D65b57bcE6e269e87b12e966cF",
+  "chain": "ethereum",
+  "name": "Frozen Node 2768",
+  "description": "A zero node moving in DeFi. ID: 1769812742702-nc3fvi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xbd102b3accd52cdad3a5fb3137d11312ced385e744079e798c0dd693f30bdace",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Node 2768",
+    "description": "A zero node moving in DeFi. ID: 1769812742702-nc3fvi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.292Z"
+}

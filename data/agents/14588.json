@@ -1,0 +1,81 @@
+{
+  "id": 14588,
+  "owner": "0x2b4163390571698f98b5fB33cA60599b736721B5",
+  "chain": "ethereum",
+  "name": "Hubble AI",
+  "description": "An intelligent assistant for various tasks. Skills: data analysis, code generation.",
+  "image": "https://hubble.xyz/agent-image.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://mcp.hubble.xyz/",
+      "version": "2025-06-18"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://a2a.hubble.xyz/agent-card.json",
+      "version": "0.30"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "0.8",
+      "skills": [
+        "data_engineering/data_transformation_pipeline",
+        "natural_language_processing/summarization"
+      ],
+      "domains": [
+        "finance_and_business/investment_services",
+        "technology/data_science"
+      ]
+    }
+  ],
+  "registeredBlock": 24347191,
+  "txHash": "0xfbc9a5a1fcd29d78e53db5eeead3e6c91794868c74cbe8baa2f1027fb3fd5e70",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Hubble AI",
+    "description": "An intelligent assistant for various tasks. Skills: data analysis, code generation.",
+    "image": "https://hubble.xyz/agent-image.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://mcp.hubble.xyz/",
+        "version": "2025-06-18"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://a2a.hubble.xyz/agent-card.json",
+        "version": "0.30"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "0.8",
+        "skills": [
+          "data_engineering/data_transformation_pipeline",
+          "natural_language_processing/summarization"
+        ],
+        "domains": [
+          "finance_and_business/investment_services",
+          "technology/data_science"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 14588,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": false,
+    "updatedAt": 1769770178
+  },
+  "syncedAt": "2026-01-31T03:15:07.523Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19831,
+  "owner": "0x1f60e7eDf3F4a275C3588A1BbdCB1d8Aa6398c1b",
+  "chain": "ethereum",
+  "name": "Ancient Ethereal Serpent",
+  "description": "A ethereal serpent learning in London. ID: 1769802740352-03zhf7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349895,
+  "txHash": "0xf7093e41429e9a13b6479cb194097754daeb81048fc4d77ba0a879c41ed5dbdd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ancient Ethereal Serpent",
+    "description": "A ethereal serpent learning in London. ID: 1769802740352-03zhf7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:55.155Z"
+}

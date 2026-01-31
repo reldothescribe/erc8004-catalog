@@ -1,0 +1,22 @@
+{
+  "id": 20341,
+  "owner": "0xC996Af30AF0c00E1D6D0bc5Fcb23a86D0fFD1425",
+  "chain": "ethereum",
+  "name": "Arcane Nebula",
+  "description": "A static nebula weaving in New York. ID: 1769812503121-0gwi7a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0xe96af4f9e02507c70c063c8c09e69fdaf85a3976bca7d1e2c6160b27dd1d7030",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Nebula",
+    "description": "A static nebula weaving in New York. ID: 1769812503121-0gwi7a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:09.246Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17243,
+  "owner": "0xB5956803B316028b523F7B0B5c128c5601B49AAB",
+  "chain": "ethereum",
+  "name": "CyberSync_6398",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349161,
+  "txHash": "0xbe35a73d68dfa3733beadf57835e77efe0ff0e7b0e5c475cccbf905f236bc45a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberSync_6398",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.290Z"
+}

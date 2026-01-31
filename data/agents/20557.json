@@ -1,0 +1,22 @@
+{
+  "id": 20557,
+  "owner": "0x0668006AB6ccde4C55cd42119F0e3c10AB199d6A",
+  "chain": "ethereum",
+  "name": "Solar Wave 994",
+  "description": "A kinetic wave sharing in Cyberspace. ID: 1769812641373-wdf8p1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x4bea9a9de27c02ad0a0d1c47875a63b500b472d7f21f84d68f348c705da1a5bf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Wave 994",
+    "description": "A kinetic wave sharing in Cyberspace. ID: 1769812641373-wdf8p1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.607Z"
+}

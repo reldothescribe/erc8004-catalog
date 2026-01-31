@@ -1,0 +1,22 @@
+{
+  "id": 20275,
+  "owner": "0x522561ADb925F9C79fE07b980175eF2E0cEf64aE",
+  "chain": "ethereum",
+  "name": "Infinite Anvil 4105",
+  "description": "A celestial anvil building in Mystery. ID: 1769812468812-tyxptn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0x408f3b8e3d9a97d830abf12bca0979e733c94437a2cdb7e814b452caa4c11ea2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Anvil 4105",
+    "description": "A celestial anvil building in Mystery. ID: 1769812468812-tyxptn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.168Z"
+}

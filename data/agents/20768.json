@@ -1,0 +1,22 @@
+{
+  "id": 20768,
+  "owner": "0x82aFB9D4088598D65b57bcE6e269e87b12e966cF",
+  "chain": "ethereum",
+  "name": "Neo Sonic Shark",
+  "description": "A sonic shark rising in Myth. ID: 1769812720675-5pj1he",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xac36ff2c4c740e2c8b4e0536b03c85bef5958f3a3191c2d90d747f415068a74d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neo Sonic Shark",
+    "description": "A sonic shark rising in Myth. ID: 1769812720675-5pj1he",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.684Z"
+}

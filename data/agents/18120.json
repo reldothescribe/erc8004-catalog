@@ -1,0 +1,22 @@
+{
+  "id": 18120,
+  "owner": "0x1b4e578C0d8edd5722f007ad1b476eD749a4E8Aa",
+  "chain": "ethereum",
+  "name": "CyberSync_1876",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0x943feb26d244c0ac5d778bf95d0aeefe5382f1a81a370785a55fe7543927b760",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberSync_1876",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:23.551Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20622,
+  "owner": "0xfFc26dA5A767f3074A7633343AE1D34229FdB0Ed",
+  "chain": "ethereum",
+  "name": "Quantum Mountain",
+  "description": "A silver mountain living in Web3. ID: 1769812676108-sz5uvp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x9368f651c8b2c7b1b172bfffd499f8837448e408966ecee799ef9154856ac2ac",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Quantum Mountain",
+    "description": "A silver mountain living in Web3. ID: 1769812676108-sz5uvp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.677Z"
+}

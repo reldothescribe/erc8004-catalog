@@ -1,0 +1,22 @@
+{
+  "id": 20361,
+  "owner": "0x03bb312c66Bf7b5D54a14e03C1C7E45b7F62DBc4",
+  "chain": "ethereum",
+  "name": "Primal Frozen Whale",
+  "description": "A frozen whale waiting in the Chain. ID: 1769812567748-gl4dut",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350710,
+  "txHash": "0xa94ef8e688952b44465fad94d3239853e9186df84e1c316a7e8eba95c6ecbe26",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Frozen Whale",
+    "description": "A frozen whale waiting in the Chain. ID: 1769812567748-gl4dut",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:10.265Z"
+}

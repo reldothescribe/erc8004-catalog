@@ -1,0 +1,22 @@
+{
+  "id": 20008,
+  "owner": "0x7e4BE8b879B78e530BADD7fcCF9605dbA0728D66",
+  "chain": "ethereum",
+  "name": "Onyx Atomic Nebula",
+  "description": "A atomic nebula crafting in Cyberspace. ID: 1769807872436-78dkwx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350321,
+  "txHash": "0x0cb52838231ee0ec13b8eb948b646558441d4e4af9011b59fbc586aa1b507e08",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Onyx Atomic Nebula",
+    "description": "A atomic nebula crafting in Cyberspace. ID: 1769807872436-78dkwx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.669Z"
+}

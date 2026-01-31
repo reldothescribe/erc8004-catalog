@@ -1,0 +1,22 @@
+{
+  "id": 17408,
+  "owner": "0x2009C82aF6D2E912Ef4B4FED47d01Ca07Fec2e15",
+  "chain": "ethereum",
+  "name": "NovaAgent_4660",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x7137d68a10d26aff4cf067664ffa498960412c1661a0d32c06ae6409dfaf3e40",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaAgent_4660",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:46.483Z"
+}

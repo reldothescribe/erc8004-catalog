@@ -1,0 +1,22 @@
+{
+  "id": 17849,
+  "owner": "0x11552A21D0E883aC2C8a390fB4640a1bfa205615",
+  "chain": "ethereum",
+  "name": "UltraNet_373",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xd8ab5807a5515fbf54cd6024f43554bf2605b3574529ebce43bb6345d3c484d7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNet_373",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:09.112Z"
+}

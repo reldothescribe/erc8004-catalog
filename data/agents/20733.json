@@ -1,0 +1,22 @@
+{
+  "id": 20733,
+  "owner": "0xBF2301a8F89278ceF488A0200b34769ABdC0eda0",
+  "chain": "ethereum",
+  "name": "Temporal Static Gate",
+  "description": "A static gate writing in the Summit. ID: 1769812718750-k7zm6a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x4acbe4da4090c611339a1bb547a73f0dd0ddc1e14f7b232bb2fb8469f47eedf0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Static Gate",
+    "description": "A static gate writing in the Summit. ID: 1769812718750-k7zm6a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.149Z"
+}

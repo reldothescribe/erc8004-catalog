@@ -1,0 +1,22 @@
+{
+  "id": 19994,
+  "owner": "0xa0F33B0A6fD8a4677dCA0B431a30Df5834f6BA00",
+  "chain": "ethereum",
+  "name": "Amber Spectral Crown",
+  "description": "A spectral crown stopping in the Network. ID: 1769807801333-j4q0dh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350314,
+  "txHash": "0xf740ae55b0ce4426641d95480cd2ee0646676a26278abc4c951db1eeed3cb7b6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Spectral Crown",
+    "description": "A spectral crown stopping in the Network. ID: 1769807801333-j4q0dh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.158Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17513,
+  "owner": "0xA470c9f4AC0Ce141172CACec549dcDb788a6dcAD",
+  "chain": "ethereum",
+  "name": "HyperCore_7785",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349178,
+  "txHash": "0x700833da1afe69d48392e7a3e663825cf411d674b2caa49ba948074ff8bd5517",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperCore_7785",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:52.115Z"
+}

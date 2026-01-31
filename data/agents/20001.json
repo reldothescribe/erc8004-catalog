@@ -1,0 +1,22 @@
+{
+  "id": 20001,
+  "owner": "0x7CEe19C61DA43dbb655122BC0A74A1Fd17C14E9F",
+  "chain": "ethereum",
+  "name": "Quantum Castle 9285",
+  "description": "A lunar castle diving in Pluto. ID: 1769807811788-ygvs73",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350316,
+  "txHash": "0xdb5a31060fb63e2bd4925e2d13d84254140f48d3d677022ae226a31714f5c0bb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Quantum Castle 9285",
+    "description": "A lunar castle diving in Pluto. ID: 1769807811788-ygvs73",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.158Z"
+}

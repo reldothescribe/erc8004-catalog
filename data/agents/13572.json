@@ -1,0 +1,25 @@
+{
+  "id": 13572,
+  "owner": "0x6d4D2886449f29feA5c4D5698501715FCF3e3DD1",
+  "chain": "ethereum",
+  "name": "musk886",
+  "description": "Trading agent, capable of buying and selling tokens and monitoring",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24344203,
+  "txHash": "0xac294e5f314bcee9de939e13cf4a45d46f1309fce6224c32044726fac4fb87a5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "musk886",
+    "description": "Trading agent, capable of buying and selling tokens and monitoring",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:08.363Z"
+}

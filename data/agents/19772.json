@@ -1,0 +1,22 @@
+{
+  "id": 19772,
+  "owner": "0xEFA8f080dcE7b3917ad7F3A409B52d944047BF1f",
+  "chain": "ethereum",
+  "name": "Obsidian Void Helm",
+  "description": "A void helm ending in the Core. ID: 1769802557353-v7cosd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349879,
+  "txHash": "0x9c94e752218d32e8f61f8b52484efff771061d65c0e83f6f5fbaa17b85cab309",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Obsidian Void Helm",
+    "description": "A void helm ending in the Core. ID: 1769802557353-v7cosd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.143Z"
+}

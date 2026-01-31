@@ -1,0 +1,22 @@
+{
+  "id": 20295,
+  "owner": "0x93027780E6EFD6Fd80C9101357f47865abd49625",
+  "chain": "ethereum",
+  "name": "Orderly Bridge 9380",
+  "description": "A ageless bridge falling in DeFi. ID: 1769812482387-ercdp5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0x6686132dde76da0c2da158ddff4c42d16976ee3c78bf8b32ac306f914acd129e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Bridge 9380",
+    "description": "A ageless bridge falling in DeFi. ID: 1769812482387-ercdp5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.192Z"
+}

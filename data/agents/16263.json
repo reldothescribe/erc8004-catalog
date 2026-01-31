@@ -1,0 +1,22 @@
+{
+  "id": 16263,
+  "owner": "0x24eB9da566A3F36ef0b533099c289B2C560bF5FE",
+  "chain": "ethereum",
+  "name": "A4",
+  "description": "111111111111111111111111111111111111111111111111111111111111111111",
+  "image": "111111",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348936,
+  "txHash": "0x2effbb3a7f01a239ea427ad76736963db9a14363e5d547d9bdecb182863b3c26",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "A4",
+    "description": "111111111111111111111111111111111111111111111111111111111111111111",
+    "image": "111111",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:45.055Z"
+}

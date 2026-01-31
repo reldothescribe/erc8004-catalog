@@ -1,0 +1,22 @@
+{
+  "id": 18335,
+  "owner": "0xcce0F6840407F572d88AE7fCb917B669De5f2CC9",
+  "chain": "ethereum",
+  "name": "SolAgent_42ee",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349250,
+  "txHash": "0x5a40c1d38a25be1df93aa33ec2309b8416ee4b9cf55684c96a088c201f08d4a9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolAgent_42ee",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:35.798Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20837,
+  "owner": "0x783d425a3c86CDd57eBe3b781ad9Ecf85cB917c3",
+  "chain": "ethereum",
+  "name": "Obsidian Sky 9703",
+  "description": "A hidden sky living in the Ledger. ID: 1769812741948-5royu7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xb74a99fac36ec92de37b0ff619719604b388135d527ad5da3a1402734a4a1f18",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Obsidian Sky 9703",
+    "description": "A hidden sky living in the Ledger. ID: 1769812741948-5royu7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.268Z"
+}

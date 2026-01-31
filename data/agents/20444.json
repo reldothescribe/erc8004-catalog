@@ -1,0 +1,22 @@
+{
+  "id": 20444,
+  "owner": "0x32b9DC823e3126D909C83fA1baa80Eb13dEc248a",
+  "chain": "ethereum",
+  "name": "Savage Alpha Ocean",
+  "description": "A alpha ocean carving in Space. ID: 1769812624169-0dhycw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350715,
+  "txHash": "0xee7a849aa122a62e23e5e75bdc43aa665848dfd79a8e836c1dcc4c1c98a9df7d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Savage Alpha Ocean",
+    "description": "A alpha ocean carving in Space. ID: 1769812624169-0dhycw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:14.975Z"
+}

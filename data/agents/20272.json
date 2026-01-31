@@ -1,0 +1,22 @@
+{
+  "id": 20272,
+  "owner": "0x57E3696FBC41E612fadac8AF7a2139b1e7CbEE67",
+  "chain": "ethereum",
+  "name": "Lunar Chimera 6585",
+  "description": "A primal chimera giving in Paris. ID: 1769812468812-8h4xuf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0x04e642aeaeaa27a4336c33df11c13949594ad3ef19170ed21160217d1e25d839",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Chimera 6585",
+    "description": "A primal chimera giving in Paris. ID: 1769812468812-8h4xuf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.656Z"
+}

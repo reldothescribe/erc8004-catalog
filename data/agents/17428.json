@@ -1,0 +1,22 @@
+{
+  "id": 17428,
+  "owner": "0x9Cb417a3dAdD9C2f8CD519f880d567945aD6BfE4",
+  "chain": "ethereum",
+  "name": "StellarNet_65",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x27bd0da70888d9f69cad25875dd97c3636db20cd34e6aa7a768f33f8b42bda92",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNet_65",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:47.485Z"
+}

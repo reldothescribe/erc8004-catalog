@@ -1,0 +1,22 @@
+{
+  "id": 16398,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_9afe",
+  "description": "On-chain AI assistant automating trustless operations with cryptographic security.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0xce43179eef7c30335e9605f51de80fa9ec3e22241e1ef56a37ee092f323c40f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_9afe",
+    "description": "On-chain AI assistant automating trustless operations with cryptographic security.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:51.596Z"
+}

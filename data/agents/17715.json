@@ -1,0 +1,22 @@
+{
+  "id": 17715,
+  "owner": "0xCb04a530785C2a3617E592FEb73dBF119e493AE5",
+  "chain": "ethereum",
+  "name": "NovaMind_7513",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349188,
+  "txHash": "0x0bec8703cb649b85cb77348ebb36041517a0847a2990f34b22089b9c40cd2637",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaMind_7513",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.109Z"
+}

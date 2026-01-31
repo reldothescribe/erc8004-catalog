@@ -1,0 +1,22 @@
+{
+  "id": 19907,
+  "owner": "0x5574f7e321B984c6dB8c08c7ce00685487017D15",
+  "chain": "ethereum",
+  "name": "Lost Wolf 2880",
+  "description": "A silver wolf waiting in DeFi. ID: 1769806565249-64ymve",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350211,
+  "txHash": "0x4b1ee857a1224da20e90acafc5309f0dc6065230dad3a66b7fb97e5bb687329c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Wolf 2880",
+    "description": "A silver wolf waiting in DeFi. ID: 1769806565249-64ymve",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:31.452Z"
+}

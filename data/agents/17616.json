@@ -1,0 +1,22 @@
+{
+  "id": 17616,
+  "owner": "0xb9926bfEeBb13fDd3f6a9d73869b6026B4CE1eE9",
+  "chain": "ethereum",
+  "name": "StellarLink_5110",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0xdd4c2c769bf88f40ff2f3211ab03c2dd36808303a5ede7aa30104268a15c295a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarLink_5110",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:56.998Z"
+}

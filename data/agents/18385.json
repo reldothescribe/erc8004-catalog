@@ -1,0 +1,22 @@
+{
+  "id": 18385,
+  "owner": "0xCF1a2014593d426E3942C10159B23D4d1491d2D8",
+  "chain": "ethereum",
+  "name": "AxiLink_27f4",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349255,
+  "txHash": "0xffc0219acb111bb8bd0c90e2d41ee50b99e977f64cb65f7b9fa1adfd7c7e5c33",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiLink_27f4",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:38.401Z"
+}

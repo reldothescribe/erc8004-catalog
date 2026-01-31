@@ -1,0 +1,22 @@
+{
+  "id": 19791,
+  "owner": "0x760bAff32A0c85B6b64A020de9375B59aD2E868b",
+  "chain": "ethereum",
+  "name": "Eternal Silent Druid",
+  "description": "A silent druid waking in the Past. ID: 1769802613627-wprsfd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349884,
+  "txHash": "0xfdd4def3d2a4eb013862c4e50f50c2f0d27bf90b592b9f77cdf73fe710a2c0b8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Eternal Silent Druid",
+    "description": "A silent druid waking in the Past. ID: 1769802613627-wprsfd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.156Z"
+}

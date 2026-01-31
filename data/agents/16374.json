@@ -1,0 +1,22 @@
+{
+  "id": 16374,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_60b2",
+  "description": "Next-gen AI operator processing DeFi strategies with verifiable execution.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0xa380a94bb808d0b6d46ac52dc67228bb8320e818624324c2fec23da45eca168b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_60b2",
+    "description": "Next-gen AI operator processing DeFi strategies with verifiable execution.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:50.572Z"
+}

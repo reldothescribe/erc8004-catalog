@@ -1,0 +1,22 @@
+{
+  "id": 20372,
+  "owner": "0x2305B9eb9c50A64eead0f50647659694aedb70B0",
+  "chain": "ethereum",
+  "name": "Swift Flower 3707",
+  "description": "A silent flower starting in Cyberspace. ID: 1769812580389-ergnur",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0x42e67a99b01a4c5238db8dd691f10b987e140ad604808c0f888f1f5d3a25f1d9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Flower 3707",
+    "description": "A silent flower starting in Cyberspace. ID: 1769812580389-ergnur",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:10.729Z"
+}

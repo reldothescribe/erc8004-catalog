@@ -1,0 +1,22 @@
+{
+  "id": 17485,
+  "owner": "0x43D7390345ec662aBbBC45D7C942ADa19B1FDa42",
+  "chain": "ethereum",
+  "name": "NovaHub_6571",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x6a213519329d9cdf8885679f1f7b49ae8ba82087b417f4b77e845266c0a973b8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaHub_6571",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:50.577Z"
+}

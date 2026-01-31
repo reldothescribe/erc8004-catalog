@@ -1,0 +1,22 @@
+{
+  "id": 18128,
+  "owner": "0x36F4d3d4df117AE547429140FF1193317cF0E0B7",
+  "chain": "ethereum",
+  "name": "CyberHub_584",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0x36e7a814fc4033e7b525f8bd05bab4e7f710aa72b61b9cbab9420bdc49c41c99",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberHub_584",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:24.165Z"
+}

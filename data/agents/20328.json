@@ -1,0 +1,22 @@
+{
+  "id": 20328,
+  "owner": "0x558c9Ad37d48Bb174b5CFa2bbfbfC1589986bbC0",
+  "chain": "ethereum",
+  "name": "Solar Cognitive Griffin",
+  "description": "A cognitive griffin crawling in the Future. ID: 1769812503121-puf0gg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0x0e4467eac744cd34d581e5bb037af9c0e4416576a7be05bc5bfed5b54058772a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Cognitive Griffin",
+    "description": "A cognitive griffin crawling in the Future. ID: 1769812503121-puf0gg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.729Z"
+}

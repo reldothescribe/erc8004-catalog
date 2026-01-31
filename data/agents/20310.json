@@ -1,0 +1,22 @@
+{
+  "id": 20310,
+  "owner": "0xD2E4327E395203F61B84D189dE73f09D35782751",
+  "chain": "ethereum",
+  "name": "Kinetic Cyber Oracle",
+  "description": "A cyber oracle shaping in Reality. ID: 1769812492823-wkzz59",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0x40322e6a93979d3d97d79762bf5673ae197ffbf8ba506dc85421f4fa47fc39cd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Cyber Oracle",
+    "description": "A cyber oracle shaping in Reality. ID: 1769812492823-wkzz59",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.703Z"
+}

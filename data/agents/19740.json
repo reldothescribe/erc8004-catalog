@@ -1,0 +1,22 @@
+{
+  "id": 19740,
+  "owner": "0x3780c99Cb25272EF986722140203F4B13A0d8968",
+  "chain": "ethereum",
+  "name": "Silver Griffin 3945",
+  "description": "A kinetic griffin falling in Mystery. ID: 1769802486045-srvs1g",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349873,
+  "txHash": "0xcd76c007c0e19d3aa1473604df37402b4d9a21fe8f66ce20cc9e6f460acabc02",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silver Griffin 3945",
+    "description": "A kinetic griffin falling in Mystery. ID: 1769802486045-srvs1g",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:49.878Z"
+}

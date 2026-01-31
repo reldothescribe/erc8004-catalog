@@ -1,0 +1,22 @@
+{
+  "id": 17764,
+  "owner": "0x46adCC108e5ebFf4D69E101965fB9aFBcd2e3b2d",
+  "chain": "ethereum",
+  "name": "MetaSync_3975",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0x51edee12342c10b4b2f03c54407e2a656d5d2bce5f1beecdc414ba9d62514535",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaSync_3975",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.666Z"
+}

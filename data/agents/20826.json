@@ -1,0 +1,22 @@
+{
+  "id": 20826,
+  "owner": "0xa485F12123EdBaCEFae4E74D6F3ffdd37ddF34D1",
+  "chain": "ethereum",
+  "name": "Radiant Ghost 1538",
+  "description": "A lost ghost healing in Dimension X. ID: 1769812741948-hvnv60",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x6ec5aba21e6f35aa4ff03e8c2d50d54431185ffc563c3e28490c01bdac3692fd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Ghost 1538",
+    "description": "A lost ghost healing in Dimension X. ID: 1769812741948-hvnv60",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.754Z"
+}

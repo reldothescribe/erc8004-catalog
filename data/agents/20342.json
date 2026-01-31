@@ -1,0 +1,22 @@
+{
+  "id": 20342,
+  "owner": "0xB8df88BfC3908311dA69b89D2d47912369277811",
+  "chain": "ethereum",
+  "name": "Infinite Comet",
+  "description": "A crypto comet exploring in Jupiter. ID: 1769812503121-7zd37s",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0xe85a7a4f2ccd83269ef7b10bb7f6ef094234cf6e1e2dc7ca4c95164b9f5a9583",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Comet",
+    "description": "A crypto comet exploring in Jupiter. ID: 1769812503121-7zd37s",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:09.245Z"
+}

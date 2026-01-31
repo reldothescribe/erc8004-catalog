@@ -1,0 +1,22 @@
+{
+  "id": 20772,
+  "owner": "0x64Dc29113b799BE8C6243f95113fb7709b6b4E84",
+  "chain": "ethereum",
+  "name": "Bold Static Entity",
+  "description": "A static entity protecting in Saturn. ID: 1769812720675-5wsibb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x41b7f352c77b2a232536d239e79636b6c0e6cf7ffda7a46643f422f262833a0a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bold Static Entity",
+    "description": "A static entity protecting in Saturn. ID: 1769812720675-5wsibb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.684Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20472,
+  "owner": "0x38447282160C1cc96F43855225A1867d6E095B2c",
+  "chain": "ethereum",
+  "name": "Ethereal Azure Ghost",
+  "description": "A azure ghost waking in the Ledger. ID: 1769812647329-t2r00e",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xe6a769b5e5291b8996cf450e16396b78e5b57512bb79333b709bce2ca07779e5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Azure Ghost",
+    "description": "A azure ghost waking in the Ledger. ID: 1769812647329-t2r00e",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:16.101Z"
+}

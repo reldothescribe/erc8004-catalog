@@ -1,0 +1,22 @@
+{
+  "id": 20115,
+  "owner": "0x8037d7a491DD3B3c3A9F4199e5D9aF3c94143D5e",
+  "chain": "ethereum",
+  "name": "Blazing Rogue",
+  "description": "A holographic rogue creating in Pluto. ID: 1769812334527-kwav3b",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350691,
+  "txHash": "0x1e947aee38e2131d53e2a0114331a60e9a285fb9adc0da0d308ab0d24908358d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Rogue",
+    "description": "A holographic rogue creating in Pluto. ID: 1769812334527-kwav3b",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:57.826Z"
+}

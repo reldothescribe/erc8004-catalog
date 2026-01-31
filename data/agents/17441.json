@@ -1,0 +1,22 @@
+{
+  "id": 17441,
+  "owner": "0x90D917A28D5A5AF07cC7f3ad7De0b759cF3662FE",
+  "chain": "ethereum",
+  "name": "PrimeNet_2383",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x3f295e1e4c35a7cf52e5b47144a235681e68dcc5fb18e393630a9bd532d1e7f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeNet_2383",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:47.949Z"
+}

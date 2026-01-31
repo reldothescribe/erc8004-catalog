@@ -1,0 +1,22 @@
+{
+  "id": 19934,
+  "owner": "0xa0F33B0A6fD8a4677dCA0B431a30Df5834f6BA00",
+  "chain": "ethereum",
+  "name": "Arcane Wanderer 9470",
+  "description": "A frozen wanderer dreaming in the Grid. ID: 1769806638437-g5h4dq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350218,
+  "txHash": "0x22d322fb1aec05869b28a2a1b68cdf4adf06ea1e10ece57b0a045686e4d021ef",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Wanderer 9470",
+    "description": "A frozen wanderer dreaming in the Grid. ID: 1769806638437-g5h4dq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.085Z"
+}

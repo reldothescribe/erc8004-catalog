@@ -1,0 +1,22 @@
+{
+  "id": 20013,
+  "owner": "0x7e55680A41F0dcFb0198401CF82da7DcBdDC2B3B",
+  "chain": "ethereum",
+  "name": "Alpha Watcher",
+  "description": "A savage watcher reading in the Edge. ID: 1769807898437-fiqo57",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350322,
+  "txHash": "0x7184b865a16f648fc3d6e53fdb79a123ecc64f52f75228602649b6f709d0bebc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Alpha Watcher",
+    "description": "A savage watcher reading in the Edge. ID: 1769807898437-fiqo57",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:41.184Z"
+}

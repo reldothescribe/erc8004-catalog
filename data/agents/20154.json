@@ -1,0 +1,22 @@
+{
+  "id": 20154,
+  "owner": "0x93027780E6EFD6Fd80C9101357f47865abd49625",
+  "chain": "ethereum",
+  "name": "Neural Ethereal Door",
+  "description": "A ethereal door stopping in Pluto. ID: 1769812365392-qlej9m",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0xec90e67b5bc803c7f47dfb5c7776eb46771a1764e0b9e071743a6d1a981c95e7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neural Ethereal Door",
+    "description": "A ethereal door stopping in Pluto. ID: 1769812365392-qlej9m",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.022Z"
+}

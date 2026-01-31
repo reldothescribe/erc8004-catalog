@@ -1,0 +1,22 @@
+{
+  "id": 20687,
+  "owner": "0x5A5bd56A4fC7BD1eacDBadD79cbd044EDd72908a",
+  "chain": "ethereum",
+  "name": "Cyber Griffin",
+  "description": "A stellar griffin walking in the Grid. ID: 1769812702394-t0p59f",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xa68b498911d5526240263eb3ba019a02b921a82d33782b269ebab5f215c536f0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cyber Griffin",
+    "description": "A stellar griffin walking in the Grid. ID: 1769812702394-t0p59f",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:32.587Z"
+}

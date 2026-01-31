@@ -1,0 +1,22 @@
+{
+  "id": 17474,
+  "owner": "0x04230601c034aDeeF228AA55bFF7b5951606a645",
+  "chain": "ethereum",
+  "name": "QuantumBot_2019",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x2f055545ea9e51d2b8048592dd63437302b47292630c089ef61cbbb4409c2e18",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumBot_2019",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:50.014Z"
+}

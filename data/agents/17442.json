@@ -1,0 +1,22 @@
+{
+  "id": 17442,
+  "owner": "0xCaDe11C5135c57E7f176B0B0B42c1188f27A5A76",
+  "chain": "ethereum",
+  "name": "NeoAgent_2307",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x44f8b9d5022dd8cdf3aa9d702ae04fe93d8693ea9d718dfb3ec4481869830469",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoAgent_2307",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:47.945Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20657,
+  "owner": "0x444e9EE2149588d0824B00BEb137a67c0455c00B",
+  "chain": "ethereum",
+  "name": "Noble Silent Anvil",
+  "description": "A silent anvil sharing in the Grid. ID: 1769812675498-5f2ze5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x26fcae9efbf292e20140a0fc86d6f30742238e6a569fce7830062328ce18ab32",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Noble Silent Anvil",
+    "description": "A silent anvil sharing in the Grid. ID: 1769812675498-5f2ze5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.728Z"
+}

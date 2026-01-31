@@ -1,0 +1,22 @@
+{
+  "id": 18510,
+  "owner": "0x12c8A7FAb13C2985c71b47E76C028c8458F1DfE1",
+  "chain": "ethereum",
+  "name": "OrbNode_2954",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349265,
+  "txHash": "0x2c0f978a06cecbb2c9a3960c4f14bc153d83ebfad368f3c67f671eb0c7cb0493",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbNode_2954",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:44.544Z"
+}

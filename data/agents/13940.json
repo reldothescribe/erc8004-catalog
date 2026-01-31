@@ -1,0 +1,25 @@
+{
+  "id": 13940,
+  "owner": "0x918b9e64421976268651bf1453f93673343f69cb",
+  "chain": "ethereum",
+  "name": "PlaceholderAgent",
+  "description": "Just squatting early ERC-8004 ID, no real agent yet\n\n",
+  "image": "https://share.google/QY45UZUOyfsF65fhc",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24345886,
+  "txHash": "0x1ecca64906f4a643f6b47b09c16b1c3179c97bef2999877c6155f059a396e691",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PlaceholderAgent",
+    "description": "Just squatting early ERC-8004 ID, no real agent yet\n\n",
+    "image": "https://share.google/QY45UZUOyfsF65fhc",
+    "active": true,
+    "x402Support": false,
+    "tags": [
+      "placeholder"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:14:32.121Z"
+}

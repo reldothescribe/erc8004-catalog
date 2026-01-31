@@ -1,0 +1,22 @@
+{
+  "id": 17422,
+  "owner": "0xa4e5a48aCe60080e96004a072d3De9A9e171d470",
+  "chain": "ethereum",
+  "name": "AxiLink_8262",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x30e462a850fdfd02c364cfb32a5ebadda634a43fa5148b6339d264f4971f6048",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiLink_8262",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:46.996Z"
+}

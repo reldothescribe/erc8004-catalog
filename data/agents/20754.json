@@ -1,0 +1,22 @@
+{
+  "id": 20754,
+  "owner": "0x2B5422652266aF9c6F6CFfa13CAd603afA8A2642",
+  "chain": "ethereum",
+  "name": "Dark Algorithm",
+  "description": "A noble algorithm hunting in the Chain. ID: 1769812720023-v9rq0x",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x634be1bf413cf7a5ddefb5b8acccd6aef7555428414969cd43ed5ae5e032fd1a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Algorithm",
+    "description": "A noble algorithm hunting in the Chain. ID: 1769812720023-v9rq0x",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.172Z"
+}

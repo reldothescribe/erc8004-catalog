@@ -1,0 +1,22 @@
+{
+  "id": 20517,
+  "owner": "0x783d425a3c86CDd57eBe3b781ad9Ecf85cB917c3",
+  "chain": "ethereum",
+  "name": "Digital Dolphin 9502",
+  "description": "A hidden dolphin moving in Tokyo. ID: 1769812647997-tpx3z0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x5e71da949e77f1373e374f90a220e0676be7e4f4bf6143578c5d5cc5a664611a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Dolphin 9502",
+    "description": "A hidden dolphin moving in Tokyo. ID: 1769812647997-tpx3z0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.577Z"
+}

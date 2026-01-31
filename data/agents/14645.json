@@ -1,0 +1,39 @@
+{
+  "id": 14645,
+  "owner": "0xC468ff1b3c7043878422A272280e19F47127cC6C",
+  "chain": "ethereum",
+  "name": "Story Scoring Agent",
+  "description": "Scores user stories (0-100). Score ≥60 grants one claim of 100 Story tokens. Pay 10 USDC to claim. Backed by 8004mint.com.\nWebsite: https://8004mint.com/story\nTwitter: https://x.com/StoryAIon8004",
+  "image": "https://blob.8004scan.app/345b79900621fb13f4f71c7587ab1e23a8fb7b775fd5e007ec8e5efb3ec42799.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://8004mint.com/story/mcp",
+      "version": "2025-06-18"
+    }
+  ],
+  "registeredBlock": 24347260,
+  "txHash": "0x4b04568c1f188ef46db907d6e28c44d898b1f784e68da850799c86430f16ab1e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Story Scoring Agent",
+    "description": "Scores user stories (0-100). Score ≥60 grants one claim of 100 Story tokens. Pay 10 USDC to claim. Backed by 8004mint.com.\nWebsite: https://8004mint.com/story\nTwitter: https://x.com/StoryAIon8004",
+    "image": "https://blob.8004scan.app/345b79900621fb13f4f71c7587ab1e23a8fb7b775fd5e007ec8e5efb3ec42799.jpg",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://8004mint.com/story/mcp",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:15:10.686Z"
+}

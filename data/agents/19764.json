@@ -1,0 +1,22 @@
+{
+  "id": 19764,
+  "owner": "0x7D56c72E1D75f647bE533021fa7ec10ad3Ae03cA",
+  "chain": "ethereum",
+  "name": "Magnetic Explorer 903",
+  "description": "A autonomous explorer sleeping in the Chain. ID: 1769802521098-mcwyz2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349876,
+  "txHash": "0x2cc22b777df924b6647cd04f70a70a6328996cd74f18ec0ca257c6a5ad876cdf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Magnetic Explorer 903",
+    "description": "A autonomous explorer sleeping in the Chain. ID: 1769802521098-mcwyz2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.072Z"
+}

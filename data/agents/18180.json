@@ -1,0 +1,22 @@
+{
+  "id": 18180,
+  "owner": "0xB32CDAa835452B9a7BF5C03FAC43476E4105466B",
+  "chain": "ethereum",
+  "name": "NeoCore_6987",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0x26b5907310aa80480cbc0e2819198f999e338fb042f124295a9cc04bdcc66b94",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoCore_6987",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:27.857Z"
+}

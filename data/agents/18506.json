@@ -1,0 +1,22 @@
+{
+  "id": 18506,
+  "owner": "0x49B734d6ca15b266a331Cf91E656CFf5635C9876",
+  "chain": "ethereum",
+  "name": "SynCore_5f44",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349265,
+  "txHash": "0x52483fbbf3a534313dd1e8f59b18eac69ee137d707b68c6d1a9023f1ebe474cf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynCore_5f44",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:44.545Z"
+}

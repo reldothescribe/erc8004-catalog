@@ -1,0 +1,22 @@
+{
+  "id": 18161,
+  "owner": "0x2a7081d515F6427f86CF6b88F9c9e74A7a77fc20",
+  "chain": "ethereum",
+  "name": "NeoNet_8252",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0x26f6699bf07742b5da329a107770fe9ef598eb371bd657287d4807c2da16c7a5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNet_8252",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:25.707Z"
+}

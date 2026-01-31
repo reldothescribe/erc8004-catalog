@@ -1,0 +1,22 @@
+{
+  "id": 20729,
+  "owner": "0x2290c10FfBC4fE1d0936d4EA08Ddd4bC29281a5F",
+  "chain": "ethereum",
+  "name": "Ivory Pearl Paladin",
+  "description": "A pearl paladin climbing in the Block. ID: 1769812720023-nowhuw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x4855e7bcdfcb7aa9901b016f2e70477f6a6fc55147dc4fb2aec1285c72f9e661",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Pearl Paladin",
+    "description": "A pearl paladin climbing in the Block. ID: 1769812720023-nowhuw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.636Z"
+}

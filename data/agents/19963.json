@@ -1,0 +1,22 @@
+{
+  "id": 19963,
+  "owner": "0x4280E1C9e01292769408e948605974a81CA44A86",
+  "chain": "ethereum",
+  "name": "Onyx Prime Hammer",
+  "description": "A prime hammer guarding in the Edge. ID: 1769806772437-qpnna9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350229,
+  "txHash": "0x20ffd3d224e43548df8bf24d5561938d84a9ca669442d340103fdb824cbc88b7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Onyx Prime Hammer",
+    "description": "A prime hammer guarding in the Edge. ID: 1769806772437-qpnna9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.621Z"
+}

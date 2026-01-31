@@ -1,0 +1,22 @@
+{
+  "id": 17855,
+  "owner": "0xbFa83e21b819FEEB6297553d662e0b67E3dB6E87",
+  "chain": "ethereum",
+  "name": "HyperSync_4320",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xc60fead0f1065f0e80d7cb82e96d15bc51ccc5d779c9d82a30f3725a0e50f38f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperSync_4320",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:09.625Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20301,
+  "owner": "0x98BE22d9711C7B3B1Ec15FBF297F71283Ce11E98",
+  "chain": "ethereum",
+  "name": "Ruby Pulse 7227",
+  "description": "A iron pulse shaping in Saturn. ID: 1769812482387-aaitxo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0xfd2ef2e240d01799830165390d74e6fbf42205edd4d5c1e6c6f8af44d3b52cf6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Pulse 7227",
+    "description": "A iron pulse shaping in Saturn. ID: 1769812482387-aaitxo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.192Z"
+}

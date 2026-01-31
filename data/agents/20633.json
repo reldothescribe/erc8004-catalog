@@ -1,0 +1,22 @@
+{
+  "id": 20633,
+  "owner": "0x9bB7bc5a1741a11E73409772775E2358532dD47c",
+  "chain": "ethereum",
+  "name": "Found Tower 7430",
+  "description": "A emerald tower keeping in Dimension X. ID: 1769812676108-vhhdz4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x69c9e078286a52c53a07d3e73fd2027ec62134ceed89f412a0b6364c7c176cb2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Tower 7430",
+    "description": "A emerald tower keeping in Dimension X. ID: 1769812676108-vhhdz4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.703Z"
+}

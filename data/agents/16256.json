@@ -1,0 +1,25 @@
+{
+  "id": 16256,
+  "owner": "0x2a0Dbb9bDc08f96919D8d0C485fbAAE993282D76",
+  "chain": "ethereum",
+  "name": "ABC1",
+  "description": "111111111111111111111111111111111111111111111111111111111111111111",
+  "image": "111111",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348932,
+  "txHash": "0x448b6636a58526c5fbce98e0a41d9138e23388809034c15a6a18fb5f85005e05",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ABC1",
+    "description": "111111111111111111111111111111111111111111111111111111111111111111",
+    "image": "111111",
+    "active": true,
+    "x402Support": false,
+    "oasf_domains": [
+      "healthcare/diagnosis_support"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:16:44.582Z"
+}

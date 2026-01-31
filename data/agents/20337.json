@@ -1,0 +1,22 @@
+{
+  "id": 20337,
+  "owner": "0x1f60e7eDf3F4a275C3588A1BbdCB1d8Aa6398c1b",
+  "chain": "ethereum",
+  "name": "Dark Alpha Golem",
+  "description": "A alpha golem weaving in the Depths. ID: 1769812503121-l08c4r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0xf344640967c70fbb134c1d3352f002b37a90c7460a766356f2331a0cce2b1afc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Alpha Golem",
+    "description": "A alpha golem weaving in the Depths. ID: 1769812503121-l08c4r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:09.245Z"
+}

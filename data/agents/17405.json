@@ -1,0 +1,22 @@
+{
+  "id": 17405,
+  "owner": "0x25ECaBbe8b67cB110af7A189dAEB5d5375bA3e06",
+  "chain": "ethereum",
+  "name": "HyperLink_2836",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x7a28c6685d21241f23bea1a7361c991ce71cde8cedaa41d0d1dcc0cc5ca53cda",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperLink_2836",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:46.483Z"
+}

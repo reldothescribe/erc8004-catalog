@@ -1,0 +1,22 @@
+{
+  "id": 17292,
+  "owner": "0xcA2149028fCe107b41c99eC14e2bd952A3551371",
+  "chain": "ethereum",
+  "name": "MetaLink_4054",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349163,
+  "txHash": "0x4e1f4aad42b764f82f836855336ff6dc3925620364efc3e25dd4bce12a615a79",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaLink_4054",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:40.338Z"
+}

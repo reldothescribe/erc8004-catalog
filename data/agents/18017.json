@@ -1,0 +1,22 @@
+{
+  "id": 18017,
+  "owner": "0x4617E662Adb7698B3A60fA1d22483e8cB44438b2",
+  "chain": "ethereum",
+  "name": "CyberSync_7411",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x431aa4b3e5653ae82c5cb05f7d4c2a2b6acf9792cac01d7ed28651c9745d2602",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberSync_7411",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:17.921Z"
+}

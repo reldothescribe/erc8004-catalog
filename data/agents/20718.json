@@ -1,0 +1,22 @@
+{
+  "id": 20718,
+  "owner": "0x2290c10FfBC4fE1d0936d4EA08Ddd4bC29281a5F",
+  "chain": "ethereum",
+  "name": "Dynamic Seeker",
+  "description": "A ruby seeker singing in the Abyss. ID: 1769812703051-7hloik",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x42a9171051756578046d79a9f3b6a1abe666d0c45d9ef8916bc40fa310b10749",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Seeker",
+    "description": "A ruby seeker singing in the Abyss. ID: 1769812703051-7hloik",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.124Z"
+}

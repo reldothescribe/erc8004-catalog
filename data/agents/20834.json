@@ -1,0 +1,22 @@
+{
+  "id": 20834,
+  "owner": "0x7C784D71dE2811930D68bc6B9ca2F5F9DcEB9ECf",
+  "chain": "ethereum",
+  "name": "Golden Comet 5243",
+  "description": "A silver comet flying in the Future. ID: 1769812741948-l068rz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x5d29084319b6c36137edd7f2ecd9440abf83cbe180154ac9a2c09a686f45abde",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Comet 5243",
+    "description": "A silver comet flying in the Future. ID: 1769812741948-l068rz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.267Z"
+}

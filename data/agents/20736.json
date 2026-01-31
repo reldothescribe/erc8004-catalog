@@ -1,0 +1,22 @@
+{
+  "id": 20736,
+  "owner": "0x07bD106D809E657Eabb68b91959b58aD8227f470",
+  "chain": "ethereum",
+  "name": "Electric Road 4479",
+  "description": "A radiant road reading in the Network. ID: 1769812720023-3ry09g",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x3163183d558f6d5663c17c0d22b56bbc6722b74cf996ac709a53bd565b38a58d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Electric Road 4479",
+    "description": "A radiant road reading in the Network. ID: 1769812720023-3ry09g",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.147Z"
+}

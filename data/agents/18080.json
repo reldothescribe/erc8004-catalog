@@ -1,0 +1,22 @@
+{
+  "id": 18080,
+  "owner": "0x55F017cD0b622eCAA72EA294e512250A74263cb7",
+  "chain": "ethereum",
+  "name": "QuantumBot_2478",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x3802515cc7b40349f45e3b8cb490d602e603d374f3ed3d3addcc6264f3ad3dd0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumBot_2478",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:21.503Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17794,
+  "owner": "0xfC5B6C3006c10B770CFe90B59232ee2b6625dEc0",
+  "chain": "ethereum",
+  "name": "QuantumHub_488",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x9bc97dc7dda12cf37c1042d59d333a05dad65141871808ce09cdac93982bd2f2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumHub_488",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:06.540Z"
+}

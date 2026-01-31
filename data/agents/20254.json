@@ -1,0 +1,22 @@
+{
+  "id": 20254,
+  "owner": "0x03bb312c66Bf7b5D54a14e03C1C7E45b7F62DBc4",
+  "chain": "ethereum",
+  "name": "Tactile Unicorn",
+  "description": "A lunar unicorn running in the Network. ID: 1769812459613-ghbvrq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350701,
+  "txHash": "0x764ce8723032d3767cdfc469c2299229dd26d0d03b0b3c0c907b3afe2b3b94b1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Tactile Unicorn",
+    "description": "A lunar unicorn running in the Network. ID: 1769812459613-ghbvrq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.145Z"
+}

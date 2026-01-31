@@ -1,0 +1,22 @@
+{
+  "id": 20747,
+  "owner": "0x9bbd5211B64028E6ce22D3De69286c92BAf90fe9",
+  "chain": "ethereum",
+  "name": "Solar Sentinel 3133",
+  "description": "A dark sentinel learning in Berlin. ID: 1769812703727-jzte9u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x99380fd8f94153a3425c55aeb41f7d5c3790db49718d2f8995e4a2958a6e3633",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Sentinel 3133",
+    "description": "A dark sentinel learning in Berlin. ID: 1769812703727-jzte9u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.661Z"
+}

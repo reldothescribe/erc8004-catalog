@@ -1,0 +1,22 @@
+{
+  "id": 20437,
+  "owner": "0xBC2989F905450f55cD101d5C07Aaf70ab58FCA2A",
+  "chain": "ethereum",
+  "name": "Hyper Meta Echo",
+  "description": "A meta echo writing in Mystery. ID: 1769812610950-b91o7b",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350714,
+  "txHash": "0xee8d526f6be1c295b4fc67e26185ead14cc2708f5b41185ae72c1bf7fa064358",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Meta Echo",
+    "description": "A meta echo writing in Mystery. ID: 1769812610950-b91o7b",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:14.462Z"
+}

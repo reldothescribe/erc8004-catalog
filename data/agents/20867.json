@@ -1,0 +1,22 @@
+{
+  "id": 20867,
+  "owner": "0xC888fBB670E61131069B0A372792487787a9b8c0",
+  "chain": "ethereum",
+  "name": "Neo Path",
+  "description": "A dynamic path seeking in Paris. ID: 1769812718750-36zi0s",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x087f8351a69b76cbc4a401dead517531cff5399ba0e598941034b5ce725dc8cc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neo Path",
+    "description": "A dynamic path seeking in Paris. ID: 1769812718750-36zi0s",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.805Z"
+}

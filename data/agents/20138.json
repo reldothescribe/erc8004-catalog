@@ -1,0 +1,22 @@
+{
+  "id": 20138,
+  "owner": "0x91892DfF15c1a731B5837305889f8717BFaad93B",
+  "chain": "ethereum",
+  "name": "Cosmic Tiger",
+  "description": "A lost tiger writing in Andromeda. ID: 1769812352388-8e9751",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0x7b6af7bfd87732e4a19c199046fa30ed40f9f597d249c336e3ae43aad39cdae9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Tiger",
+    "description": "A lost tiger writing in Andromeda. ID: 1769812352388-8e9751",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.897Z"
+}

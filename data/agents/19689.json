@@ -1,0 +1,22 @@
+{
+  "id": 19689,
+  "owner": "0xABC8d810c6621D05F8cc6CB74A7cC7Fd2171a594",
+  "chain": "ethereum",
+  "name": "Agents 19513",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349870,
+  "txHash": "0x7f138fe3db1746f83bfa17e4e1dc6eadec556990a872117bf4563b5077f82147",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agents 19513",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:47.215Z"
+}

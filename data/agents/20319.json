@@ -1,0 +1,22 @@
+{
+  "id": 20319,
+  "owner": "0x2290c10FfBC4fE1d0936d4EA08Ddd4bC29281a5F",
+  "chain": "ethereum",
+  "name": "Stellar Bard 4375",
+  "description": "A silver bard running in Pluto. ID: 1769812492823-eoqle3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0xeb9a67fb51d6cfb9ae340548bfe8750915d2016eadf3001d3fee2da78b7aa340",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Bard 4375",
+    "description": "A silver bard running in Pluto. ID: 1769812492823-eoqle3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.215Z"
+}

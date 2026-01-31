@@ -1,0 +1,22 @@
+{
+  "id": 18143,
+  "owner": "0x5dd67B7c19419353205B6D7C2C20BDF39b5ab326",
+  "chain": "ethereum",
+  "name": "QuantumNode_2701",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0xb9e1be71e203a7e18aee4bfd4c3f7e26b28a134529a6781b2c5556f1c6c53d6d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumNode_2701",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:25.131Z"
+}

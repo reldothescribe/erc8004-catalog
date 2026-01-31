@@ -1,0 +1,22 @@
+{
+  "id": 19905,
+  "owner": "0x928e91dF67dB5694B64df933b39a3D9e7Ae23c5C",
+  "chain": "ethereum",
+  "name": "Dark Bridge 3800",
+  "description": "A infernal bridge trading in Dimension X. ID: 1769806565249-k6zi41",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350211,
+  "txHash": "0x8256da9a8e2e80745c5c2ae4ae75b6f3b104b39e025edaedd4756eb465eac994",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Bridge 3800",
+    "description": "A infernal bridge trading in Dimension X. ID: 1769806565249-k6zi41",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:33.497Z"
+}

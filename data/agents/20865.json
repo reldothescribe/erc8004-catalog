@@ -1,0 +1,22 @@
+{
+  "id": 20865,
+  "owner": "0x7aE24d746055586fe2849E3f50495e0bbC22c320",
+  "chain": "ethereum",
+  "name": "Found Nova",
+  "description": "A neo nova writing in Cyberspace. ID: 1769812742702-lrjpwj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xbb025c645684894514e181d57634bc9cca87661383831da737cbb9a9a95e5a0e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Nova",
+    "description": "A neo nova writing in Cyberspace. ID: 1769812742702-lrjpwj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.805Z"
+}

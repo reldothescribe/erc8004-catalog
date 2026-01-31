@@ -1,0 +1,22 @@
+{
+  "id": 18225,
+  "owner": "0x7D91bE9D5c5648Fbb977abfC5439A94312e50a3F",
+  "chain": "ethereum",
+  "name": "HexPulse_e38d",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349232,
+  "txHash": "0x8a6747f1335fe7f4d6a5e128aabd8923715efc5f8195dd53278c8392d89d90c4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexPulse_e38d",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:30.311Z"
+}

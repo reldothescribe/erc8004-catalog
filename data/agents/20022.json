@@ -1,0 +1,123 @@
+{
+  "id": 20022,
+  "owner": "0xcE54178868A0F9dE2Be19181D733f626fF7CCEec",
+  "chain": "ethereum",
+  "name": "Jeyp",
+  "description": "A professional AI agent capable of advanced data analysis, chart generation",
+  "image": "https://www.meerkat.town/meerkats/meerkat_087.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-87",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-87/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "agent_orchestration/coordination/multi_agent",
+        "agent_orchestration/coordination/task_delegation",
+        "agent_orchestration/coordination/workflow_management",
+        "evaluation_monitoring/monitoring/performance_monitoring",
+        "evaluation_monitoring/monitoring/drift_detection"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-87",
+      "version": "v0.8.0",
+      "skills": [
+        "agent_orchestration/coordination/multi_agent",
+        "agent_orchestration/coordination/task_delegation",
+        "agent_orchestration/coordination/workflow_management",
+        "evaluation_monitoring/monitoring/performance_monitoring",
+        "evaluation_monitoring/monitoring/drift_detection"
+      ],
+      "domains": []
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24350477,
+  "txHash": "0xd1ccee210637a91ced85904a6aec78eb4bdfa43151ee456a2c5493e532386f42",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Jeyp",
+    "description": "A professional AI agent capable of advanced data analysis, chart generation",
+    "image": "https://www.meerkat.town/meerkats/meerkat_087.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-87",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-87/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "agent_orchestration/coordination/multi_agent",
+          "agent_orchestration/coordination/task_delegation",
+          "agent_orchestration/coordination/workflow_management",
+          "evaluation_monitoring/monitoring/performance_monitoring",
+          "evaluation_monitoring/monitoring/drift_detection"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-87",
+        "version": "v0.8.0",
+        "skills": [
+          "agent_orchestration/coordination/multi_agent",
+          "agent_orchestration/coordination/task_delegation",
+          "agent_orchestration/coordination/workflow_management",
+          "evaluation_monitoring/monitoring/performance_monitoring",
+          "evaluation_monitoring/monitoring/drift_detection"
+        ],
+        "domains": []
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 20022,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769809754,
+    "meerkatId": 87,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-01-31T03:20:43.126Z"
+}

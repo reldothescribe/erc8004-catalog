@@ -1,0 +1,22 @@
+{
+  "id": 16736,
+  "owner": "0x5d0046bA16e49320307Fa0f837B8328473123B34",
+  "chain": "ethereum",
+  "name": "NovaAgent_2196",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349112,
+  "txHash": "0xeff6063a2e3aff6bfe1c032e8da1b5d4fdbc12ed20cb9f4a2bafd1df95430821",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaAgent_2196",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:10.744Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18392,
+  "owner": "0xA3B336793e8BFb08914d2607Db2cE6BE9BeCd25C",
+  "chain": "ethereum",
+  "name": "LuxVault_dcb7",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349256,
+  "txHash": "0xc689aeffe7129e5ebbfb91c0fb3175a3e31c135d1ce0bfaed07edb6fbef610b5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxVault_dcb7",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:38.402Z"
+}

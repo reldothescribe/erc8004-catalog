@@ -1,0 +1,22 @@
+{
+  "id": 20614,
+  "owner": "0x7b14b4B5E38B98733d0A89cA09C5a2323DBA4d72",
+  "chain": "ethereum",
+  "name": "Divine Node 8391",
+  "description": "A future node crafting in the Boundary. ID: 1769812674861-rmd8nn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xb9d8cb7d6e4e55bdc35a6609f90bc9832a479eedfb54de817ab5af35dc44517b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Divine Node 8391",
+    "description": "A future node crafting in the Boundary. ID: 1769812674861-rmd8nn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.677Z"
+}

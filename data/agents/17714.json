@@ -1,0 +1,22 @@
+{
+  "id": 17714,
+  "owner": "0xB7DA4E2b97d357731642510B6274C4b7dFF09d3e",
+  "chain": "ethereum",
+  "name": "AxiMind_1736",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349188,
+  "txHash": "0x40cb1382972251924f58b9cf74a41b609e696fecebbed6c97c333a6af65d2f0c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiMind_1736",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.109Z"
+}

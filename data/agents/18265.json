@@ -1,0 +1,22 @@
+{
+  "id": 18265,
+  "owner": "0xCDBC97C2384B4CdA8aE14c1C64efb88C8a22F877",
+  "chain": "ethereum",
+  "name": "PyrVault_9584",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349247,
+  "txHash": "0x1c0b6ddb190580ad603970173ea1e9ebc32b1982bb66c5918373c7eca578a039",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PyrVault_9584",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:32.358Z"
+}

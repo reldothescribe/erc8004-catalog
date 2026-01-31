@@ -1,0 +1,22 @@
+{
+  "id": 14024,
+  "owner": "0x918b9e64421976268651bf1453f93673343f69cb",
+  "chain": "ethereum",
+  "name": "UpdateReadyAgent",
+  "description": "ERC-8004 代币已预留，可随时更新元数据。目前为纯持有者。有意者请发送邮件至：btc45325181@gmail.com\n\n",
+  "image": "https://via.placeholder.com/400",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24346158,
+  "txHash": "0x48f6f7dba18362ce7d6b37840a3b6fe5710b6753ac846891017a70777f00e5db",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "UpdateReadyAgent",
+    "description": "ERC-8004 代币已预留，可随时更新元数据。目前为纯持有者。有意者请发送邮件至：btc45325181@gmail.com\n\n",
+    "image": "https://via.placeholder.com/400",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:14:36.730Z"
+}

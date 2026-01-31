@@ -1,0 +1,22 @@
+{
+  "id": 17291,
+  "owner": "0xFa880BC18e6269bF3BAba89E210Ab320c4a36a00",
+  "chain": "ethereum",
+  "name": "StellarSync_356",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349163,
+  "txHash": "0x435e09ef046d96ff13d00e3e37f8353dc04ab18230b9e02d02ca6e2d1b17cf72",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarSync_356",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:40.338Z"
+}

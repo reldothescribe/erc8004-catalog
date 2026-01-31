@@ -1,0 +1,22 @@
+{
+  "id": 19812,
+  "owner": "0xc9D349736BC96Cc1Ab36741072D709761E327a85",
+  "chain": "ethereum",
+  "name": "Burning Dolphin",
+  "description": "A gentle dolphin learning in the Block. ID: 1769802682351-n50g1s",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349890,
+  "txHash": "0xfb299655235d910b9dd1c48b862d7f1b1e4fbfed4ccd4d61c048f5bbec78e332",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Dolphin",
+    "description": "A gentle dolphin learning in the Block. ID: 1769802682351-n50g1s",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:54.181Z"
+}

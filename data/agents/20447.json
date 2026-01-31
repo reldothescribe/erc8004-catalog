@@ -1,0 +1,22 @@
+{
+  "id": 20447,
+  "owner": "0x7D04C6D91C5cfFc18d02208575829818eC8Cf1a4",
+  "chain": "ethereum",
+  "name": "Atomic Monk 229",
+  "description": "A static monk coding in the Consensus. ID: 1769812647996-e3wp8b",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xc85f2f58c514076f9993aa384f315ab2b3211ff655ef221438f55f442a4ec27e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Monk 229",
+    "description": "A static monk coding in the Consensus. ID: 1769812647996-e3wp8b",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:14.976Z"
+}

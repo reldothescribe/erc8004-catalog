@@ -1,0 +1,22 @@
+{
+  "id": 20330,
+  "owner": "0x876671dA52768e3F1904BC46fE573C674283a4dA",
+  "chain": "ethereum",
+  "name": "Orderly Leviathan 8742",
+  "description": "A atomic leviathan watching in Saturn. ID: 1769812503121-z5t0s5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0x8d24bcb132ae32e7aba964b40e0cb670b259ef01bfc4a95ec84d32f7deb1a021",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Leviathan 8742",
+    "description": "A atomic leviathan watching in Saturn. ID: 1769812503121-z5t0s5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.728Z"
+}

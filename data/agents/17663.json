@@ -1,0 +1,22 @@
+{
+  "id": 17663,
+  "owner": "0xc6C409242D0B8341D3e1c5DD0F436F9F053490fA",
+  "chain": "ethereum",
+  "name": "NeoFlow_875",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0xfb8e9e0a113ea3d7aa9f9f3b78c4bd66e2d5ae47ec3199e1f4981887ecacf74a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoFlow_875",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:59.595Z"
+}

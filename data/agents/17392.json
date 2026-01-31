@@ -1,0 +1,22 @@
+{
+  "id": 17392,
+  "owner": "0xA8d5bbA70C72d613334926bC327b2fB19087Fe61",
+  "chain": "ethereum",
+  "name": "CyberBot_8344",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0xb90454f3929e63433fab75930f5b32bbd8612d415516855a2bbcbc7b031a8200",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberBot_8344",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:45.464Z"
+}

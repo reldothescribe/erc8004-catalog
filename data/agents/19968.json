@@ -1,0 +1,22 @@
+{
+  "id": 19968,
+  "owner": "0xD426b70A9176aD403F2873f597c174A3E2E93a43",
+  "chain": "ethereum",
+  "name": "Iron Door",
+  "description": "A void door walking in the Grid. ID: 1769806861845-ukml4u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350239,
+  "txHash": "0x71b296df4445020d724d6ce673238e4638d08900eaed5c0a774d5e083b2f818f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Door",
+    "description": "A void door walking in the Grid. ID: 1769806861845-ukml4u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.622Z"
+}

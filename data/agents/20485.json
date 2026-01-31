@@ -1,0 +1,22 @@
+{
+  "id": 20485,
+  "owner": "0x444e9EE2149588d0824B00BEb137a67c0455c00B",
+  "chain": "ethereum",
+  "name": "Neural Quantum Storm",
+  "description": "A quantum storm ending in the Chain. ID: 1769812640758-ybsixg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xbda7fba1575addb430850bb1f96b674077bfb4d0747ece146b29955212770652",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neural Quantum Storm",
+    "description": "A quantum storm ending in the Chain. ID: 1769812640758-ybsixg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.124Z"
+}

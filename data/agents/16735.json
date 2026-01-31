@@ -1,0 +1,22 @@
+{
+  "id": 16735,
+  "owner": "0x8EFa9246aEC6DC7Aed352a87A8df6026391D2DEb",
+  "chain": "ethereum",
+  "name": "AxiCore_6799",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349111,
+  "txHash": "0xbddc786edc97b2cfdbef16cf713f89f987a83b4042b29b03137255e831a574bf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiCore_6799",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:10.745Z"
+}

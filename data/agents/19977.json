@@ -1,0 +1,22 @@
+{
+  "id": 19977,
+  "owner": "0x5574f7e321B984c6dB8c08c7ce00685487017D15",
+  "chain": "ethereum",
+  "name": "Sonic Data 3089",
+  "description": "A automated data losing in the Depths. ID: 1769807717447-639gsh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350307,
+  "txHash": "0x35d93dd47dcfd2ad709ba6fe5b5cd406f7920a45f00b491ac9fb7318ab1eb350",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Data 3089",
+    "description": "A automated data losing in the Depths. ID: 1769807717447-639gsh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.132Z"
+}

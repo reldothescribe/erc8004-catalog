@@ -1,0 +1,22 @@
+{
+  "id": 20468,
+  "owner": "0x876671dA52768e3F1904BC46fE573C674283a4dA",
+  "chain": "ethereum",
+  "name": "Onyx Echo 5551",
+  "description": "A synthetic echo walking in the Depths. ID: 1769812648624-oydfho",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x0e2fd0d995f62998f1aeea2a309e4d0aa829cf312fdbdfebaeab49fed997d078",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Onyx Echo 5551",
+    "description": "A synthetic echo walking in the Depths. ID: 1769812648624-oydfho",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:16.101Z"
+}

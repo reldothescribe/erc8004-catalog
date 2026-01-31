@@ -1,0 +1,22 @@
+{
+  "id": 17331,
+  "owner": "0xA1ef9e1811dc7D34E82e625a1Ac7D55a7402B9CB",
+  "chain": "ethereum",
+  "name": "StellarSync_9855",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0xd82f36ced5c5856b61a7c9da68fbb3ae03649c5f0708357aacab338a370b87c2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarSync_9855",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.352Z"
+}

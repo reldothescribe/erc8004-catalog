@@ -1,0 +1,22 @@
+{
+  "id": 18060,
+  "owner": "0x0E466e8F3C4525Df3CA27dA3222BC3c1bfa14dd4",
+  "chain": "ethereum",
+  "name": "UltraMind_5006",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x5f5c3f33909a11027f1548f95e45bf249ae5438f2ef7e26b947f288fe7034de8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraMind_5006",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:19.968Z"
+}

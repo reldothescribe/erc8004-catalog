@@ -1,0 +1,22 @@
+{
+  "id": 17974,
+  "owner": "0xBf2C07bC5De5e0D0E08E14B5eb3DD47aa7018320",
+  "chain": "ethereum",
+  "name": "NovaFlow_9234",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xab21c8adb7848fce06100b1500f921bb1e98da31220a6cd5c0e2e02ca7a2bcdf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaFlow_9234",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:15.872Z"
+}

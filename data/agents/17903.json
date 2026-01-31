@@ -1,0 +1,22 @@
+{
+  "id": 17903,
+  "owner": "0x762e6Da13E38493f08aBE46B333f608eD1bBf017",
+  "chain": "ethereum",
+  "name": "AxiNode_5929",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xeaf912086baeb1c4747938dfeb478b4e3f32d85b18a98bd82bcd300c489d3e03",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiNode_5929",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:12.185Z"
+}

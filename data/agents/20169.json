@@ -1,0 +1,22 @@
+{
+  "id": 20169,
+  "owner": "0x833a42CC1EC90E3C181E0d56E977Bed4147ddedC",
+  "chain": "ethereum",
+  "name": "Liquid Bridge 4941",
+  "description": "A golden bridge diving in Technology. ID: 1769812372387-mfzhpy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0x049196481252586366bfc39eeb72a0e370cba8f0c86b4e6dcd75a6cc3503c8ef",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Bridge 4941",
+    "description": "A golden bridge diving in Technology. ID: 1769812372387-mfzhpy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.538Z"
+}

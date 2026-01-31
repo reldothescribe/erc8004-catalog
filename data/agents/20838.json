@@ -1,0 +1,22 @@
+{
+  "id": 20838,
+  "owner": "0x833a42CC1EC90E3C181E0d56E977Bed4147ddedC",
+  "chain": "ethereum",
+  "name": "Meta Castle",
+  "description": "A silver castle trading in the Protocol. ID: 1769812741948-f0y078",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xa7cebec44576e4b7a1c34850f6bf9a0ab8666113edd093c68ec8b74e4b43d104",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Castle",
+    "description": "A silver castle trading in the Protocol. ID: 1769812741948-f0y078",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.267Z"
+}

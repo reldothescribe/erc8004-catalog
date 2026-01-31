@@ -1,0 +1,22 @@
+{
+  "id": 20398,
+  "owner": "0x55162C086AE82df3F00DD541a35E4b6cC6Bed4ca",
+  "chain": "ethereum",
+  "name": "Shadow Bridge 7556",
+  "description": "A solar bridge moving in the Hash. ID: 1769812588611-7qxjdo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350712,
+  "txHash": "0x7dd4a23ef8172f7ffe37284010350fa33f80628ae006acb8c6a6324bca657190",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Bridge 7556",
+    "description": "A solar bridge moving in the Hash. ID: 1769812588611-7qxjdo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.415Z"
+}

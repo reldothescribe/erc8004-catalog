@@ -1,0 +1,22 @@
+{
+  "id": 18100,
+  "owner": "0x98d31F545EF5D9EC1e830aE1087c53b3F467f9b8",
+  "chain": "ethereum",
+  "name": "CyberFlow_6805",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x494449d1af5689d09679fe08e41e3e40d128b79c246817283069b75850de8f56",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberFlow_6805",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:22.527Z"
+}

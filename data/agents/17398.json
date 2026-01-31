@@ -1,0 +1,22 @@
+{
+  "id": 17398,
+  "owner": "0x101058919037021841008fdD0Dc9E6DC717f98DA",
+  "chain": "ethereum",
+  "name": "NeoNet_2120",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x98a563b0795f864a73e38f5e7f4c18392eaa2afbe3c3e59ad61d9dc9fe126eca",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNet_2120",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:45.971Z"
+}

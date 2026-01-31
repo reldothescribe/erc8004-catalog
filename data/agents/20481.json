@@ -1,0 +1,22 @@
+{
+  "id": 20481,
+  "owner": "0xC832657277a616286B231AD764f4D8370a797A00",
+  "chain": "ethereum",
+  "name": "Rapid Secret Mage",
+  "description": "A secret mage keeping in the Ledger. ID: 1769812646698-jnnvw0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xebf66639e426e85c93fbd6cacd15d8f44ce9b6292308b3fe1e8c138c76efc2b8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Secret Mage",
+    "description": "A secret mage keeping in the Ledger. ID: 1769812646698-jnnvw0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:16.613Z"
+}

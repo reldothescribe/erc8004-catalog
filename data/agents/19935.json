@@ -1,0 +1,22 @@
+{
+  "id": 19935,
+  "owner": "0xdbe0B5984a2a7e2148E6228c710a8d0656212AB1",
+  "chain": "ethereum",
+  "name": "Frozen Wanderer",
+  "description": "A meta wanderer singing in the Heights. ID: 1769806638437-a423ua",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350218,
+  "txHash": "0x28ca81f6f9e7aabbf3ed0bb01faaa781903c70cb1d27acd0ee69c1e87bf12030",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Wanderer",
+    "description": "A meta wanderer singing in the Heights. ID: 1769806638437-a423ua",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.085Z"
+}

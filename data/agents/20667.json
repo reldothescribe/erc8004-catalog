@@ -1,0 +1,22 @@
+{
+  "id": 20667,
+  "owner": "0xd0F18Bc62cEE2Cb49b771F2470D95574B1cB1964",
+  "chain": "ethereum",
+  "name": "Omega Qubit 1092",
+  "description": "A valiant qubit weaving in the Chain. ID: 1769812674861-h004bx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x01f1f233f353cbc5718ba077bc4b4f88ac0f96625559d86d18feeef7c5c95e27",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Omega Qubit 1092",
+    "description": "A valiant qubit weaving in the Chain. ID: 1769812674861-h004bx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.238Z"
+}

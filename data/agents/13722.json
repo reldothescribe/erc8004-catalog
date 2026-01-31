@@ -1,0 +1,22 @@
+{
+  "id": 13722,
+  "owner": "0x57790383be61AfdF85D1e4255450E5D107c65ee1",
+  "chain": "ethereum",
+  "name": "love",
+  "description": "Implementation of the ERC-8004 protocol for agent discovery",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24345614,
+  "txHash": "0x855e9c833c26492af5c0bf7ce4c1c420e28e2a8ea3aa775b44fde6d001ac1a0a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "love",
+    "description": "Implementation of the ERC-8004 protocol for agent discovery",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:14:18.604Z"
+}

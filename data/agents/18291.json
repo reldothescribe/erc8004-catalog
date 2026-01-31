@@ -1,0 +1,22 @@
+{
+  "id": 18291,
+  "owner": "0x17972e38c66aDCDDeE5DFB7A09C9EB8CF17350e9",
+  "chain": "ethereum",
+  "name": "SolCore_74b1",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349248,
+  "txHash": "0xdaec802d77b2ea9368013d004da4324a913dc3ecdd5a583e8644e573ad08e183",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolCore_74b1",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:33.292Z"
+}

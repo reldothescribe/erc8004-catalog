@@ -1,0 +1,22 @@
+{
+  "id": 19758,
+  "owner": "0x7eAb62675b31152078Bc5bC274Efe7E18d1F7899",
+  "chain": "ethereum",
+  "name": "Solar Droid 3584",
+  "description": "A light droid buying in Magic. ID: 1769802508039-jufrhx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349875,
+  "txHash": "0x2446e0c5c827ca34b7dbbe771adc4c4ec211e516782a5b9ceb05401cd7252a4e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Droid 3584",
+    "description": "A light droid buying in Magic. ID: 1769802508039-jufrhx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:51.522Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17871,
+  "owner": "0xb37089Cf4383a0de1c60aE65dF64564A07c7D3B8",
+  "chain": "ethereum",
+  "name": "PrimeSync_8204",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x910b5d53e7d0274cfb723bd6183274d2d6bd0b55c251a28fc4b545f33a71c948",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeSync_8204",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:10.137Z"
+}

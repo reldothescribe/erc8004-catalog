@@ -1,0 +1,22 @@
+{
+  "id": 17721,
+  "owner": "0xB92d34C3916049d2CF4f2234A8bec2F8b8aED76b",
+  "chain": "ethereum",
+  "name": "MetaLink_1284",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349202,
+  "txHash": "0x5dacc70679ef2b2f2640a59539b836a03e9698220f0dc81ad293f018f8918bbd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaLink_1284",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.099Z"
+}

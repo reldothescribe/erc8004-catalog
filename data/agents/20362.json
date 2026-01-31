@@ -1,0 +1,22 @@
+{
+  "id": 20362,
+  "owner": "0xD4cb3981f23c51fC0DE2E27fda9Be9c37ecD6c65",
+  "chain": "ethereum",
+  "name": "Iron Traveler",
+  "description": "A synthetic traveler singing in the Heights. ID: 1769812567748-faupqz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350710,
+  "txHash": "0xa4407b1b57547fdb161a119204e821e91b5a79edc0c45150af8d74c3fed2c425",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Traveler",
+    "description": "A synthetic traveler singing in the Heights. ID: 1769812567748-faupqz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:10.265Z"
+}

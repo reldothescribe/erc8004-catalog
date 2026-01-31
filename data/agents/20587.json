@@ -1,0 +1,22 @@
+{
+  "id": 20587,
+  "owner": "0x64Dc29113b799BE8C6243f95113fb7709b6b4E84",
+  "chain": "ethereum",
+  "name": "Astral Bold Bot",
+  "description": "A bold bot losing in the Hash. ID: 1769812642685-frexiy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x9bc03952ee4bc2e8d8f6d68122b749063a2766e704a240930ee63b6eb5acc5aa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Bold Bot",
+    "description": "A bold bot losing in the Hash. ID: 1769812642685-frexiy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.143Z"
+}

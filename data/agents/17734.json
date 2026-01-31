@@ -1,0 +1,22 @@
+{
+  "id": 17734,
+  "owner": "0x20C29Bf87F63174d86F790F9bFFEf15f22980084",
+  "chain": "ethereum",
+  "name": "AxiAgent_1233",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349202,
+  "txHash": "0x2729ddf8e6829fa132c7de8105786ab85070fba7af1153ec02ca5ec6cf1301fe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiAgent_1233",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:03.173Z"
+}

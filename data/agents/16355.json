@@ -1,0 +1,22 @@
+{
+  "id": 16355,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_3ead",
+  "description": "Trustless AI executor automating blockchain transactions with cryptographic security.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349055,
+  "txHash": "0x98623299c1fba44259edc416cdc6f962b9b7296d1ea681185ab22d00137b8764",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_3ead",
+    "description": "Trustless AI executor automating blockchain transactions with cryptographic security.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:49.601Z"
+}

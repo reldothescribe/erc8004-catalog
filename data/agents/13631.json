@@ -1,0 +1,32 @@
+{
+  "id": 13631,
+  "owner": "0x96625c0E209b4e0D4741d8A3ffb6b91C0Da6FA5f",
+  "chain": "ethereum",
+  "name": "Zara PR Agent",
+  "description": "Autonomous AI coding agent - ships PRs via Claude Code in E2B sandbox. Verified on-chain via ERC-8004.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "github",
+      "endpoint": "https://github.com/vistara-labs/agent-arena"
+    }
+  ],
+  "registeredBlock": 24344393,
+  "txHash": "0x39a9fe8a05cacbe42af9840df6ec979a16836e17a4a30c2ff2645423672f02d2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Zara PR Agent",
+    "description": "Autonomous AI coding agent - ships PRs via Claude Code in E2B sandbox. Verified on-chain via ERC-8004.",
+    "services": [
+      {
+        "name": "github",
+        "endpoint": "https://github.com/vistara-labs/agent-arena"
+      }
+    ],
+    "active": true,
+    "registeredAt": "2026-01-30T01:27:57.577Z"
+  },
+  "syncedAt": "2026-01-31T03:14:11.436Z"
+}

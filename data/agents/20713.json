@@ -1,0 +1,22 @@
+{
+  "id": 20713,
+  "owner": "0xc2604c18f52341967f7b387214b166C48e518eE9",
+  "chain": "ethereum",
+  "name": "Light Entity 2214",
+  "description": "A primal entity dreaming in Jupiter. ID: 1769812703051-cs93us",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x47f65a429793c0bb05a7d565e44e4c3f56d95a2173621fe12ccdc929666cdba2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Entity 2214",
+    "description": "A primal entity dreaming in Jupiter. ID: 1769812703051-cs93us",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.125Z"
+}

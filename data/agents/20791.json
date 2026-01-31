@@ -1,0 +1,22 @@
+{
+  "id": 20791,
+  "owner": "0x6bCf2b844E871FE46c8A202bF0FAB6700B347b8C",
+  "chain": "ethereum",
+  "name": "Cosmic Wolf 3652",
+  "description": "A silent wolf singing in Tokyo. ID: 1769812720023-im871l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x45726a6a895d1d0f609c5e6f4f54b964ac3a3a48c621ea61e2e0e15e7d15b709",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Wolf 3652",
+    "description": "A silent wolf singing in Tokyo. ID: 1769812720023-im871l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.708Z"
+}

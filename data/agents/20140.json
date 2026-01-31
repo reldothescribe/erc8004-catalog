@@ -1,0 +1,22 @@
+{
+  "id": 20140,
+  "owner": "0x444e9EE2149588d0824B00BEb137a67c0455c00B",
+  "chain": "ethereum",
+  "name": "Hyper Throne",
+  "description": "A ruby throne weaving in Myth. ID: 1769812352388-l1qmua",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0x71c5e4ecb4bbb1bd23ac386823eba95edd41b86ebe75369141e238dfaf78f390",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Throne",
+    "description": "A ruby throne weaving in Myth. ID: 1769812352388-l1qmua",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:58.898Z"
+}

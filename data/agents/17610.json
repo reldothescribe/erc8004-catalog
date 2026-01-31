@@ -1,0 +1,22 @@
+{
+  "id": 17610,
+  "owner": "0xc1aef42f8980ca428d852F0Bd5e3167521FD3A4c",
+  "chain": "ethereum",
+  "name": "NeoNode_7866",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x267f89cc59478209d052346e8066b32af6aa5f2eb6a92beb745d4684d1ff3058",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNode_7866",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:56.533Z"
+}

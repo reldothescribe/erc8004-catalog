@@ -1,0 +1,22 @@
+{
+  "id": 20848,
+  "owner": "0x64Dc29113b799BE8C6243f95113fb7709b6b4E84",
+  "chain": "ethereum",
+  "name": "Quantum Path",
+  "description": "A blazing path forging in New York. ID: 1769812742702-lxm0s8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x42186a968a1aee4ab1654bb1b3f955cdb6fc03acf108878c4c4352f65c138917",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Quantum Path",
+    "description": "A blazing path forging in New York. ID: 1769812742702-lxm0s8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.781Z"
+}

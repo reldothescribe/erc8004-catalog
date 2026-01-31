@@ -1,0 +1,22 @@
+{
+  "id": 17431,
+  "owner": "0x44290D245c28c207a5357629320Ceca7C4B832DF",
+  "chain": "ethereum",
+  "name": "CyberNet_7567",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x1b3d663901d1581b0841e6d92ad7dce8714cdd67ba0c4bb112168754994cb3b8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberNet_7567",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:47.485Z"
+}

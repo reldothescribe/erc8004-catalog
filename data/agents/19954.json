@@ -1,0 +1,22 @@
+{
+  "id": 19954,
+  "owner": "0x7e55680A41F0dcFb0198401CF82da7DcBdDC2B3B",
+  "chain": "ethereum",
+  "name": "Frozen Planet",
+  "description": "A infernal planet resting in the Depths. ID: 1769806694407-hi6o7u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350222,
+  "txHash": "0x8ec64f1e165bf9e9ca599ddf67a4b90fdeb50ee86480817ccb206b81f1d5e6e2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Planet",
+    "description": "A infernal planet resting in the Depths. ID: 1769806694407-hi6o7u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.111Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18330,
+  "owner": "0xe690704b01Ac8d5F669606FCC63320aD1B90f4e2",
+  "chain": "ethereum",
+  "name": "PyrMind_c063",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349250,
+  "txHash": "0xcd5e54559a0318e3507ba654279b745f0ab79ebe61d973cd048fb3e358089b5e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PyrMind_c063",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:35.329Z"
+}

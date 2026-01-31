@@ -1,0 +1,22 @@
+{
+  "id": 20385,
+  "owner": "0xD1dAF1EEcea3f7016d306e0499572BC11549C21C",
+  "chain": "ethereum",
+  "name": "Divine Silent Bear",
+  "description": "A silent bear taking in Technology. ID: 1769812580389-tju2kr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0x5da20f015ae69211fc25f0d4a3e915e175edcf553fa2639dbce3922db437561d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Divine Silent Bear",
+    "description": "A silent bear taking in Technology. ID: 1769812580389-tju2kr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.902Z"
+}

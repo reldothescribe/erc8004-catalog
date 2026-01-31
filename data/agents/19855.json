@@ -1,0 +1,22 @@
+{
+  "id": 19855,
+  "owner": "0x4F1b90D54b3F864cA20626d7Fbc5194dBFBA4055",
+  "chain": "ethereum",
+  "name": "Aether Guide",
+  "description": "An ethereal AI agent that navigates users through complex knowledge realms, offering wisdom and clarity on diverse topics.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350167,
+  "txHash": "0x4331feb7688787fc8de13b9510d27af231916ad523a973ad16cc407c67b21637",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Aether Guide",
+    "description": "An ethereal AI agent that navigates users through complex knowledge realms, offering wisdom and clarity on diverse topics.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:26.746Z"
+}

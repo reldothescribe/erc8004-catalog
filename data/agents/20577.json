@@ -1,0 +1,22 @@
+{
+  "id": 20577,
+  "owner": "0x5A5bd56A4fC7BD1eacDBadD79cbd044EDd72908a",
+  "chain": "ethereum",
+  "name": "Rapid Data",
+  "description": "A cyber data building in Myth. ID: 1769812647329-g4igxi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x87770df4621453bde06689645eb4faa7e3b5e7acec683eb59dba5c0777a07feb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Data",
+    "description": "A cyber data building in Myth. ID: 1769812647329-g4igxi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.631Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20562,
+  "owner": "0x42D46C954df6ED04F7d949fA886A1466ED9500fD",
+  "chain": "ethereum",
+  "name": "Hidden Castle",
+  "description": "A synthetic castle falling in the Network. ID: 1769812647329-uqs0fs",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xaa2a03a8607b8cedcf06a2610c25368d59c8f3ad0f16c35d93378b48f9bbe30e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Castle",
+    "description": "A synthetic castle falling in the Network. ID: 1769812647329-uqs0fs",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.607Z"
+}

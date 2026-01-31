@@ -1,0 +1,22 @@
+{
+  "id": 20199,
+  "owner": "0x4371c3f7b6390108ad6d71844C6d62af1Fa2E207",
+  "chain": "ethereum",
+  "name": "Future Onyx Pilot",
+  "description": "A onyx pilot resting in the Past. ID: 1769812385392-gbpzpn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x8d8128a48b11fd8cafb050f419604431101d3fa462b5bf045ef5e8ab835e397e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Onyx Pilot",
+    "description": "A onyx pilot resting in the Past. ID: 1769812385392-gbpzpn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:02.019Z"
+}

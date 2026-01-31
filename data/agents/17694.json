@@ -1,0 +1,22 @@
+{
+  "id": 17694,
+  "owner": "0xDd03D09E6De7049B032b93Ac2bCa24fa3dA46dB8",
+  "chain": "ethereum",
+  "name": "PrimeNet_777",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x5d6b3711e43e1f17510a4d5ac9ba6bac4d793e9f5d6e6eb7c5748ed2510491b4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeNet_777",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:01.102Z"
+}

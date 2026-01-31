@@ -1,0 +1,22 @@
+{
+  "id": 17593,
+  "owner": "0x9D62f3A50Df2f3E5401522873A90ed73dF9c98A0",
+  "chain": "ethereum",
+  "name": "UltraNet_983",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x7f2b94c2ce72c1d0c6b7373a8eedb11085f74973768c6c8d25458ff62ecf8312",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNet_983",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:56.068Z"
+}

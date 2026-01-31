@@ -1,0 +1,22 @@
+{
+  "id": 20724,
+  "owner": "0xCAF816fCB00207A2B729bc1895956E639860b37c",
+  "chain": "ethereum",
+  "name": "Bounded Neural Hydra",
+  "description": "A neural hydra gathering in Legend. ID: 1769812720675-kow0my",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x4f9519cc112d7ff3d9d92b3deff5af693f2df4bc0645781d93c9833c80441c92",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bounded Neural Hydra",
+    "description": "A neural hydra gathering in Legend. ID: 1769812720675-kow0my",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.637Z"
+}

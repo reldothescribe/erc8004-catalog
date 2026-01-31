@@ -1,0 +1,22 @@
+{
+  "id": 18494,
+  "owner": "0x578b0D7EeB7CE133Af219c5185B7E75022767030",
+  "chain": "ethereum",
+  "name": "AxiCore_48b0",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349265,
+  "txHash": "0xedd606a156b4d13d9749ef0fca2bd71a8ea519fbaa31e5c5bb54c075b7ad44ce",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiCore_48b0",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:44.033Z"
+}

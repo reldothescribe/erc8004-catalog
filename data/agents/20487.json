@@ -1,0 +1,22 @@
+{
+  "id": 20487,
+  "owner": "0x2f9724227eB0a25b5f24f4ea4D75A449f595e6B9",
+  "chain": "ethereum",
+  "name": "Ethereal Future Pilot",
+  "description": "A future pilot flying in Technology. ID: 1769812640758-6pq569",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xc880b58d51f85e87c990aa39c2394e8aaa381bb68e523d15027e54c22fc22c82",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Future Pilot",
+    "description": "A future pilot flying in Technology. ID: 1769812640758-6pq569",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.124Z"
+}

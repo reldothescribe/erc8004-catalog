@@ -1,0 +1,22 @@
+{
+  "id": 20470,
+  "owner": "0xe51eDE7595E9c125789286Ff6A40Bd19F25E1fA1",
+  "chain": "ethereum",
+  "name": "Ether Arcane Sun",
+  "description": "A arcane sun protecting in the Consensus. ID: 1769812647329-ra6wib",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x6e18ac08f5bb0e2befed603b87a648cca1f7b6f0a84110bd6bc167471a55baa4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Arcane Sun",
+    "description": "A arcane sun protecting in the Consensus. ID: 1769812647329-ra6wib",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:16.101Z"
+}

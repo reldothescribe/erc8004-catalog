@@ -1,0 +1,22 @@
+{
+  "id": 17470,
+  "owner": "0xeFeD9f6fA90798925E5Fc57b69F6858F249b0196",
+  "chain": "ethereum",
+  "name": "NeoNet_3228",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x50f1648fa8ef7115120f225f9a0c492591562f7f19b6b08321d75186ec78e80c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNet_3228",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:49.539Z"
+}

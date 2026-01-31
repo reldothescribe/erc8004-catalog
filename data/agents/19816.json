@@ -1,0 +1,22 @@
+{
+  "id": 19816,
+  "owner": "0x7aE24d746055586fe2849E3f50495e0bbC22c320",
+  "chain": "ethereum",
+  "name": "Static Traveler",
+  "description": "A blazing traveler carving in the Consensus. ID: 1769802701351-h6gy7d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349891,
+  "txHash": "0x1a8216060f0ad7e11f4e855a3a6819b6fcdb2af8a73b972353a9b23e9ca81a76",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Traveler",
+    "description": "A blazing traveler carving in the Consensus. ID: 1769802701351-h6gy7d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:54.661Z"
+}

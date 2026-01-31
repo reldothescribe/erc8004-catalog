@@ -1,0 +1,22 @@
+{
+  "id": 20739,
+  "owner": "0x2f9724227eB0a25b5f24f4ea4D75A449f595e6B9",
+  "chain": "ethereum",
+  "name": "Magnetic Titan 5603",
+  "description": "A stellar titan fighting in the Grid. ID: 1769812718750-2gt2ej",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x744a0fc66da3321443d115fbc39412b390c3debf18a4380ac50bb7970fee2df5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Magnetic Titan 5603",
+    "description": "A stellar titan fighting in the Grid. ID: 1769812718750-2gt2ej",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.147Z"
+}

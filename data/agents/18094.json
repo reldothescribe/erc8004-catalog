@@ -1,0 +1,22 @@
+{
+  "id": 18094,
+  "owner": "0x5D2ec8A53Ec2Ae87B67264cCcA50a7d3C29Cca6D",
+  "chain": "ethereum",
+  "name": "AxiFlow_3760",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x41762b9559f4000081d7a87a3ae9b07b0859ded374e3b5014014b61693f2c853",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiFlow_3760",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:22.528Z"
+}

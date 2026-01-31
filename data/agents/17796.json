@@ -1,0 +1,22 @@
+{
+  "id": 17796,
+  "owner": "0x119FB3F2620e15a1e20F983C4CeB996B57e94e07",
+  "chain": "ethereum",
+  "name": "HyperNet_111",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x9658a0424ab85843071fcf09c8d20a91659b050e071053cf2505eb9596c90e4a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperNet_111",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:06.559Z"
+}

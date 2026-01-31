@@ -1,0 +1,22 @@
+{
+  "id": 17456,
+  "owner": "0x932e2F8819F4FbF8550Bd91C24DE792D3e1bA8A3",
+  "chain": "ethereum",
+  "name": "QuantumLink_342",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x9f8b079b7afa5b4c07cbba0b88da60c28b6dc3c83556d30753eae7c5637ecfc8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumLink_342",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:49.042Z"
+}

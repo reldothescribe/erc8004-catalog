@@ -1,0 +1,22 @@
+{
+  "id": 17418,
+  "owner": "0x99C1754B461525561CBCD4c27BA6A1a584BF02Fd",
+  "chain": "ethereum",
+  "name": "UltraBot_7317",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x42af8b7050b82ba63ad2f54171ed44d78ef92c0ac85033cf03fb4c501237b9a2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraBot_7317",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:46.997Z"
+}

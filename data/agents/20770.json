@@ -1,0 +1,22 @@
+{
+  "id": 20770,
+  "owner": "0x98BE22d9711C7B3B1Ec15FBF297F71283Ce11E98",
+  "chain": "ethereum",
+  "name": "Rapid Wanderer",
+  "description": "A prime wanderer living in Science. ID: 1769812719367-ysx3af",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xd926697e4d861a3604b66e2d28cac8e005a8bfe411af52701588be142da08556",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Wanderer",
+    "description": "A prime wanderer living in Science. ID: 1769812719367-ysx3af",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.684Z"
+}

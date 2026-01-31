@@ -1,0 +1,22 @@
+{
+  "id": 20781,
+  "owner": "0x1f60e7eDf3F4a275C3588A1BbdCB1d8Aa6398c1b",
+  "chain": "ethereum",
+  "name": "Jade Light Key",
+  "description": "A light key healing in DeFi. ID: 1769812720675-whnt6r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x0b9bb97739559c21d7bf838b582099374328bddce180e3d2033ce75efcabcb81",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Light Key",
+    "description": "A light key healing in DeFi. ID: 1769812720675-whnt6r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.200Z"
+}

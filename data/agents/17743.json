@@ -1,0 +1,22 @@
+{
+  "id": 17743,
+  "owner": "0xdE99Db9aD267EB139910dFa6391553C87950AC41",
+  "chain": "ethereum",
+  "name": "PrimeBot_1163",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0x94072acc1f8b4ca2849cd2dfed1ae12c6572dd4a8fd81c844dc9c8b303c85450",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeBot_1163",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:03.686Z"
+}

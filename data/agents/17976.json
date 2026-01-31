@@ -1,0 +1,22 @@
+{
+  "id": 17976,
+  "owner": "0x6B18f6297837E6ca410a3c11535599528905d671",
+  "chain": "ethereum",
+  "name": "QuantumMind_8807",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xabff5535dbad310e89c821604b8afb98dfe554322cebc7c8a7b26bf522f58ed6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumMind_8807",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:15.872Z"
+}

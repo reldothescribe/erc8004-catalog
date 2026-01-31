@@ -1,0 +1,22 @@
+{
+  "id": 17226,
+  "owner": "0xdF2Dd1B967d295fB163e51AFC82fc921eDF84Fcc",
+  "chain": "ethereum",
+  "name": "CyberFlow_7910",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349160,
+  "txHash": "0xac2ed3cfd4ca18fc661facdd4cd572d54bb1e707929aa5e88ad6f95dd622fd7c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberFlow_7910",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:37.218Z"
+}

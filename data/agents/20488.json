@@ -1,0 +1,22 @@
+{
+  "id": 20488,
+  "owner": "0x2f9724227eB0a25b5f24f4ea4D75A449f595e6B9",
+  "chain": "ethereum",
+  "name": "Virtual Nova",
+  "description": "A zero nova buying in Jupiter. ID: 1769812646698-vjdxhl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xfdd021f57054e68e8e9f8d01468703b0c2f224b9199e97795486a198da9ed4d9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Virtual Nova",
+    "description": "A zero nova buying in Jupiter. ID: 1769812646698-vjdxhl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.123Z"
+}

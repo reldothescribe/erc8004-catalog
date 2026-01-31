@@ -1,0 +1,22 @@
+{
+  "id": 17543,
+  "owner": "0x1D839F03AcB30834Be029F3fe431a3D15CA2A6b7",
+  "chain": "ethereum",
+  "name": "HyperLink_6073",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x36397fbb86e9c1970b044fa9cdeee3c2ffdf12ef4ad4f734c2158c22feef6a0a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperLink_6073",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:53.651Z"
+}

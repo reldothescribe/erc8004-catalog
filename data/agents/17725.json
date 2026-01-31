@@ -1,0 +1,22 @@
+{
+  "id": 17725,
+  "owner": "0xC23Ed70Eb9003833aac57c1a77D09156791e14B2",
+  "chain": "ethereum",
+  "name": "UltraNet_2067",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349202,
+  "txHash": "0x0e562b6f97e951497bf3d6b0df4c032119fb16b9c475fe4aac00cbbeb852389a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraNet_2067",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:02.665Z"
+}

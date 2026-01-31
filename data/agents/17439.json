@@ -1,0 +1,22 @@
+{
+  "id": 17439,
+  "owner": "0x63b49b59BF794F52E346B625bB4138d45FeF56F7",
+  "chain": "ethereum",
+  "name": "StellarAgent_2664",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x38bb65e450379127daced75dc8aa983accd6db0e530c984bbf0b9fe0e767beb7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarAgent_2664",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:47.973Z"
+}

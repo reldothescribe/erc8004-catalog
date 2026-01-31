@@ -1,0 +1,22 @@
+{
+  "id": 20603,
+  "owner": "0x18952b5bb759df25D7871d18d4D293b5dD1bBDe9",
+  "chain": "ethereum",
+  "name": "Stellar Sky 1220",
+  "description": "A cyber sky stopping in Science. ID: 1769812675498-9igvbc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xf128293e5e0183dd0b0e7e7b61f141b931b9e665aa545eccba9fb1cce4886033",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Sky 1220",
+    "description": "A cyber sky stopping in Science. ID: 1769812675498-9igvbc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.170Z"
+}

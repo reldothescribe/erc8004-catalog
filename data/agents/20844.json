@@ -1,0 +1,22 @@
+{
+  "id": 20844,
+  "owner": "0xBF2301a8F89278ceF488A0200b34769ABdC0eda0",
+  "chain": "ethereum",
+  "name": "Stellar Hunter",
+  "description": "A random hunter trading in the Block. ID: 1769812740544-wr9fpu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xe08b17cfce4e9747c97a3726cf182bd56fdae2347cbc36b826cb049649fc6eb1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Hunter",
+    "description": "A random hunter trading in the Block. ID: 1769812740544-wr9fpu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.782Z"
+}

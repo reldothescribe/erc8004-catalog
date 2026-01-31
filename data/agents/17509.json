@@ -1,0 +1,22 @@
+{
+  "id": 17509,
+  "owner": "0xbA9A8c12e2b47798CB8738D15a9d4c29655638af",
+  "chain": "ethereum",
+  "name": "PrimeCore_7273",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349178,
+  "txHash": "0xbe619c79742575f494c0ca124a15ce84d2a1f8dc7922d70edba2ed28823be59d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeCore_7273",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:51.603Z"
+}

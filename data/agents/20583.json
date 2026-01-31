@@ -1,0 +1,22 @@
+{
+  "id": 20583,
+  "owner": "0x51B7BBACea7bDedC11Bc1B48F463bb4ddAfc1973",
+  "chain": "ethereum",
+  "name": "Iron Planet",
+  "description": "A neo planet running in the DAO. ID: 1769812640758-vggct8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xee57acc599c76138dad93c50bdb5d4b69d80609db4969779beb514776c11d7ad",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Planet",
+    "description": "A neo planet running in the DAO. ID: 1769812640758-vggct8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.143Z"
+}

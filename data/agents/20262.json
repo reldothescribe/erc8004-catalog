@@ -1,0 +1,22 @@
+{
+  "id": 20262,
+  "owner": "0x51B7BBACea7bDedC11Bc1B48F463bb4ddAfc1973",
+  "chain": "ethereum",
+  "name": "Magnetic Wise Leviathan",
+  "description": "A wise leviathan watching in the Network. ID: 1769812468812-j6v70r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0x60ce9693bd83ca59713e587d3284e576bdded1271a6eab2bea7e4e123a8919aa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Magnetic Wise Leviathan",
+    "description": "A wise leviathan watching in the Network. ID: 1769812468812-j6v70r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.145Z"
+}

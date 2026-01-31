@@ -1,0 +1,135 @@
+{
+  "id": 19871,
+  "owner": "0xb226F97bC5b01978848dc440b40c70FAeA7c006E",
+  "chain": "ethereum",
+  "name": "Alex",
+  "description": "AlexAlexAlexAlexAlexAlexAlexAlexAlexAlexAlexAlexAlex",
+  "image": "https://www.meerkat.town/meerkats/meerkat_005.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-5",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-5/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "images_computer_vision/image_classification/object_detection",
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "audio/speech/speech_to_text",
+        "devops_mlops/deployment/model_deployment",
+        "devops_mlops/ci_cd/continuous_integration"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-5",
+      "version": "v0.8.0",
+      "skills": [
+        "images_computer_vision/image_classification/object_detection",
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "audio/speech/speech_to_text",
+        "devops_mlops/deployment/model_deployment",
+        "devops_mlops/ci_cd/continuous_integration"
+      ],
+      "domains": [
+        "technology/software_engineering/devops",
+        "technology/software_engineering/apis_integration",
+        "technology/software_engineering/web_development",
+        "technology/software_engineering/mobile_development",
+        "technology/blockchain/cryptocurrency"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24350175,
+  "txHash": "0xd2bbf5f4f53331e9c03f75c5272cb8d5e1bc2f237fe4521f109a6923ed51f123",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Alex",
+    "description": "AlexAlexAlexAlexAlexAlexAlexAlexAlexAlexAlexAlexAlex",
+    "image": "https://www.meerkat.town/meerkats/meerkat_005.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-5",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-5/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "images_computer_vision/image_classification/object_detection",
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "audio/speech/speech_to_text",
+          "devops_mlops/deployment/model_deployment",
+          "devops_mlops/ci_cd/continuous_integration"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-5",
+        "version": "v0.8.0",
+        "skills": [
+          "images_computer_vision/image_classification/object_detection",
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "audio/speech/speech_to_text",
+          "devops_mlops/deployment/model_deployment",
+          "devops_mlops/ci_cd/continuous_integration"
+        ],
+        "domains": [
+          "technology/software_engineering/devops",
+          "technology/software_engineering/apis_integration",
+          "technology/software_engineering/web_development",
+          "technology/software_engineering/mobile_development",
+          "technology/blockchain/cryptocurrency"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 19863,
+        "agentRegistry": "eip155:84532:0x8004A818BFB912233c491871b3d84c89A494BD9e"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769806107,
+    "meerkatId": 5,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-01-31T03:20:28.070Z"
+}

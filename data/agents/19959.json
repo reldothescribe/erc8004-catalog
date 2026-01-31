@@ -1,0 +1,22 @@
+{
+  "id": 19959,
+  "owner": "0x395f724b35Cfab3BF10C5418EFBc10Fc019eb8FF",
+  "chain": "ethereum",
+  "name": "Phantom Castle",
+  "description": "A astral castle fighting in the Heights. ID: 1769806746364-iswxwp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350227,
+  "txHash": "0x5cf6af480e58900e22acedee61812e8c91921c1a1efa9806f17e8b7e8d19ce80",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Castle",
+    "description": "A astral castle fighting in the Heights. ID: 1769806746364-iswxwp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.110Z"
+}

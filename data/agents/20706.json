@@ -1,0 +1,22 @@
+{
+  "id": 20706,
+  "owner": "0x55162C086AE82df3F00DD541a35E4b6cC6Bed4ca",
+  "chain": "ethereum",
+  "name": "Found Soul 4591",
+  "description": "A dynamic soul waiting in Pluto. ID: 1769812702394-xnu5hy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x8761f060d39b12e152cf9cc4183e678f00c8756697e061c162c4b7f48bb08d7f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Soul 4591",
+    "description": "A dynamic soul waiting in Pluto. ID: 1769812702394-xnu5hy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.611Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18507,
+  "owner": "0xC5e62E03C0607D1ee916f42ED1Fb3d1f14e3d073",
+  "chain": "ethereum",
+  "name": "NexAgent_de05",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349265,
+  "txHash": "0x49001d428125830e257d8e0c86d8aab2f4dce7cf396082f37e54cf69862c52e9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexAgent_de05",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:44.544Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19083,
+  "owner": "0x90D636b8bA0BAB45dD8536f29c3d4DC4649976F5",
+  "chain": "ethereum",
+  "name": "Obsidian Silver Droid",
+  "description": "A silver droid molding in DeFi. ID: 1769796677329-h4exgh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349393,
+  "txHash": "0x1982e475d471cdbc41b41e37edf0a79692a051f3e040cc389a003713b0d8694c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Obsidian Silver Droid",
+    "description": "A silver droid molding in DeFi. ID: 1769796677329-h4exgh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:15.780Z"
+}

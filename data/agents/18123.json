@@ -1,0 +1,22 @@
+{
+  "id": 18123,
+  "owner": "0xF156E573DA05568642Dc6d4Dc3741b4d9F13Fa43",
+  "chain": "ethereum",
+  "name": "StellarBot_7474",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0xbc90c4e65270db340b8e6903e509a96db0dad2ec60124c892961ffbba63f8bb9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarBot_7474",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:24.165Z"
+}

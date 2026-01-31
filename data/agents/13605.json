@@ -1,0 +1,25 @@
+{
+  "id": 13605,
+  "owner": "0x115e307529Ae54F037408Db0d6D090F8613e16fE",
+  "chain": "ethereum",
+  "name": "heyi",
+  "description": "Trading agent, capable of buying and selling tokens and monitoring",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24344275,
+  "txHash": "0xdbd4f52078e66132bcd8979f77e66631608b851f0e161bbf352381f221445322",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "heyi",
+    "description": "Trading agent, capable of buying and selling tokens and monitoring",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:10.379Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18383,
+  "owner": "0x33D739f9e3d2C92B4fC09745585Aa91Bc65C3141",
+  "chain": "ethereum",
+  "name": "VorWave_25e3",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349254,
+  "txHash": "0xa66d710f813eb2dac309fccc5c131cdc05e1544caf5e8951d5c7e61c3209ddee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VorWave_25e3",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:38.402Z"
+}

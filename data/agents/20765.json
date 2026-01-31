@@ -1,0 +1,22 @@
+{
+  "id": 20765,
+  "owner": "0x0c890A7F4AC5B8AEC2fF9F449125EC42BE00d371",
+  "chain": "ethereum",
+  "name": "Young Alpha Shark",
+  "description": "A alpha shark living in the Past. ID: 1769812718750-9t3g3k",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xf77f581c02c3aa272d3cb5a9e7846e5bc4977ef0d3b974090f4fd0a53b385ba4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Alpha Shark",
+    "description": "A alpha shark living in the Past. ID: 1769812718750-9t3g3k",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.684Z"
+}

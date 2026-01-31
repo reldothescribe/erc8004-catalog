@@ -1,0 +1,22 @@
+{
+  "id": 19767,
+  "owner": "0x51B7BBACea7bDedC11Bc1B48F463bb4ddAfc1973",
+  "chain": "ethereum",
+  "name": "Determined Astral Titan",
+  "description": "A astral titan working in Mystery. ID: 1769802538351-e9516h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349878,
+  "txHash": "0x470a54c43dc148033ded708c5ee0066378e9315197374095af785319cea2f346",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Determined Astral Titan",
+    "description": "A astral titan working in Mystery. ID: 1769802538351-e9516h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.058Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17228,
+  "owner": "0x03c566633c2B2Cd161E8f7845f3c65E970b7F7a5",
+  "chain": "ethereum",
+  "name": "CyberMind_1125",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349160,
+  "txHash": "0x5d8959ef636769f2519b98f65baf9e2407cce2389023d3613ef2f408a75892f2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberMind_1125",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:37.219Z"
+}

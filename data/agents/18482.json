@@ -1,0 +1,22 @@
+{
+  "id": 18482,
+  "owner": "0x4182118be518B36bCEe03115888A17cF2ae91058",
+  "chain": "ethereum",
+  "name": "LuxLink_0c78",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349262,
+  "txHash": "0x8f3a348c1ec803a4ccec51ea45cc18dfe0d12bdb96af630c002fd6e4c41394ec",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxLink_0c78",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:43.009Z"
+}

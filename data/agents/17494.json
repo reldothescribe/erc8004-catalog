@@ -1,0 +1,22 @@
+{
+  "id": 17494,
+  "owner": "0xb3DBd7E565aF3d8b53392D1a08417a3424f1c99B",
+  "chain": "ethereum",
+  "name": "HyperMind_8083",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xa9c5efc46d0dbba0f55a06976513605bf928614371f727608babc375f709dbbf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperMind_8083",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:51.040Z"
+}

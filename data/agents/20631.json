@@ -1,0 +1,22 @@
+{
+  "id": 20631,
+  "owner": "0x4598FAbA3799568ADcc61E20AA7C1Ba30d2E7D7A",
+  "chain": "ethereum",
+  "name": "Atomic Key 5525",
+  "description": "A ether key crawling in the Frontier. ID: 1769812674861-7444wc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x6f89ce401c593c252267d22d7ee36692567b4c1fce720dd89209a039c7d50805",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Key 5525",
+    "description": "A ether key crawling in the Frontier. ID: 1769812674861-7444wc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.192Z"
+}

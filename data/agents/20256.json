@@ -1,0 +1,22 @@
+{
+  "id": 20256,
+  "owner": "0xAb3eB869d2a44b60A758ebFc7462cf05Cefec3F8",
+  "chain": "ethereum",
+  "name": "Infernal Explorer",
+  "description": "A wise explorer giving in the Grid. ID: 1769812459613-dtoyq6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350701,
+  "txHash": "0x5c217553db9ccf8f39478d969120c9d7474aedb3a86a05d36cf12ac7bef3204d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Explorer",
+    "description": "A wise explorer giving in the Grid. ID: 1769812459613-dtoyq6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.145Z"
+}

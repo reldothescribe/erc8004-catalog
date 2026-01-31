@@ -1,0 +1,22 @@
+{
+  "id": 18538,
+  "owner": "0x9C68145F2792943a3780355E688b3CbF691D402b",
+  "chain": "ethereum",
+  "name": "ZenAgent_fa51",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349269,
+  "txHash": "0xe4402a72cdda690b9e706e7491caa5adb74daf3086bc32dfc4c06a355bae2e9e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ZenAgent_fa51",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:46.306Z"
+}

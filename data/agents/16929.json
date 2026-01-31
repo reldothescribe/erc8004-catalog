@@ -1,0 +1,22 @@
+{
+  "id": 16929,
+  "owner": "0xe69820B33206B404564C86A29190864bAfD6b49C",
+  "chain": "ethereum",
+  "name": "Agent_339e",
+  "description": "Autonomous AI agent processing smart contract interactions with on-chain accountability.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349123,
+  "txHash": "0x2fc5d47e0d91a35e5cabce5f5e34d628f4a92adcbe7c8f0752e037dd652af509",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_339e",
+    "description": "Autonomous AI agent processing smart contract interactions with on-chain accountability.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:20.472Z"
+}

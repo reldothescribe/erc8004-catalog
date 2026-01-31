@@ -1,0 +1,22 @@
+{
+  "id": 20698,
+  "owner": "0x7b14b4B5E38B98733d0A89cA09C5a2323DBA4d72",
+  "chain": "ethereum",
+  "name": "Gentle Qubit",
+  "description": "A eternal qubit losing in the Summit. ID: 1769812701128-v0iub2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xa1d1cdeb55b9b469098c13a3920dd586cb55cd393c499771130c1e315e8d2f22",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Qubit",
+    "description": "A eternal qubit losing in the Summit. ID: 1769812701128-v0iub2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.101Z"
+}

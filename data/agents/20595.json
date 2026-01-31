@@ -1,0 +1,22 @@
+{
+  "id": 20595,
+  "owner": "0xD1dAF1EEcea3f7016d306e0499572BC11549C21C",
+  "chain": "ethereum",
+  "name": "Silver Lock",
+  "description": "A young lock decoding in Magic. ID: 1769812640758-enzywn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x52d8e5b29c53456be3842ad7987a07e6381c1c40db5d5d701394b3e2e8ddd696",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silver Lock",
+    "description": "A young lock decoding in Magic. ID: 1769812640758-enzywn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.656Z"
+}

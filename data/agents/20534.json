@@ -1,0 +1,22 @@
+{
+  "id": 20534,
+  "owner": "0xBC2989F905450f55cD101d5C07Aaf70ab58FCA2A",
+  "chain": "ethereum",
+  "name": "Neo Qubit 3858",
+  "description": "A infinite qubit painting in Science. ID: 1769812642685-qqqv2m",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x6597f9bb929fc523f02e3a605b26e6ecb41f68f2b52a5f7b9d95d10f807ed80f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neo Qubit 3858",
+    "description": "A infinite qubit painting in Science. ID: 1769812642685-qqqv2m",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.585Z"
+}

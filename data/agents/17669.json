@@ -1,0 +1,22 @@
+{
+  "id": 17669,
+  "owner": "0x807727BE620F4E7E0A08816F64E9D70538641ca1",
+  "chain": "ethereum",
+  "name": "MetaMind_870",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x7f0abee9407c89c57537d3148370382587d93e6d85f0ae96d0e38dfbdf963d30",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaMind_870",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:59.596Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17380,
+  "owner": "0x0bA6CB6b95f6B425F98E786c13bB10Fa95B700D0",
+  "chain": "ethereum",
+  "name": "UltraCore_3168",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0xecf21e4ef04aca1daddb19c8c9d418d470568d9ece76dca1bc5651696dda2ffd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraCore_3168",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:44.946Z"
+}

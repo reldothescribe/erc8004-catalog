@@ -1,0 +1,22 @@
+{
+  "id": 20662,
+  "owner": "0x876671dA52768e3F1904BC46fE573C674283a4dA",
+  "chain": "ethereum",
+  "name": "Astral Ruby Star",
+  "description": "A ruby star dreaming in Berlin. ID: 1769812677397-5c7kdu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x14815416ae4ede2dc4107e1d758c060ccd3f527fee03fcaa265f0356a6eb93aa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Ruby Star",
+    "description": "A ruby star dreaming in Berlin. ID: 1769812677397-5c7kdu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.728Z"
+}

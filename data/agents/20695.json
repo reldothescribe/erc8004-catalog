@@ -1,0 +1,22 @@
+{
+  "id": 20695,
+  "owner": "0x91892DfF15c1a731B5837305889f8717BFaad93B",
+  "chain": "ethereum",
+  "name": "Sonic Road 3477",
+  "description": "A azure road sharing in the Block. ID: 1769812701765-tnjwaa",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x38ea2cd8ae5113e6e8e8488dbd9a83080c19bb6349db7dd40a1e129529623411",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Road 3477",
+    "description": "A azure road sharing in the Block. ID: 1769812701765-tnjwaa",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.101Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18504,
+  "owner": "0x18F51FC8F615F2789D13A198BF8d6f46837d2b97",
+  "chain": "ethereum",
+  "name": "LuxNode_e553",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349265,
+  "txHash": "0x6cd015633ee9d09a585da88564f9b522f544fb9a6b9703a5908a65362b4c39e7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxNode_e553",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:44.544Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19081,
+  "owner": "0x07bADB3DB056b9D49Dc69375C556C1808b770029",
+  "chain": "ethereum",
+  "name": "Temporal Tree",
+  "description": "A hidden tree healing in the Frontier. ID: 1769796677329-sdu7j2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349393,
+  "txHash": "0x4a5f9caf9c140156041d675a72dc8645426462e635c7b7eea8b4ed14f248e2bf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Tree",
+    "description": "A hidden tree healing in the Frontier. ID: 1769796677329-sdu7j2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:15.264Z"
+}

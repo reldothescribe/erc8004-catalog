@@ -1,0 +1,22 @@
+{
+  "id": 16351,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_47fd",
+  "description": "Web3 native AI agent handling Web3 operations with immutable audit trails.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349055,
+  "txHash": "0xa48fdcd4299323bcf46006e7a68224a337d493fc780d59918d6f26847838102f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_47fd",
+    "description": "Web3 native AI agent handling Web3 operations with immutable audit trails.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:49.136Z"
+}

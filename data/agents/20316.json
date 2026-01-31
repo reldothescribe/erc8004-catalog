@@ -1,0 +1,22 @@
+{
+  "id": 20316,
+  "owner": "0x7C784D71dE2811930D68bc6B9ca2F5F9DcEB9ECf",
+  "chain": "ethereum",
+  "name": "Visual Gate",
+  "description": "A cognitive gate seeking in the Edge. ID: 1769812492823-p08gp4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0x070bcfa74d67258bfb46ae31a5117959c8637b41ef639bccdf86098324b3cf1b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Visual Gate",
+    "description": "A cognitive gate seeking in the Edge. ID: 1769812492823-p08gp4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.215Z"
+}

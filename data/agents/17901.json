@@ -1,0 +1,22 @@
+{
+  "id": 17901,
+  "owner": "0x3a2aa399a1949E9458EE0301315555091Fe94756",
+  "chain": "ethereum",
+  "name": "NovaHub_2597",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xfc670eba9cca1f622a9da6c3d8fc052f9b4a909fef33a216475d37405462d7a7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaHub_2597",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:11.674Z"
+}

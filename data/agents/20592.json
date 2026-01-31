@@ -1,0 +1,22 @@
+{
+  "id": 20592,
+  "owner": "0x522561ADb925F9C79fE07b980175eF2E0cEf64aE",
+  "chain": "ethereum",
+  "name": "Nexus Tensor",
+  "description": "A golden tensor taking in Web3. ID: 1769812640758-xmnsvc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x75df97c6687252547b6a0a3158b793483cba6226c5131e6ebd110793e085d65c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Tensor",
+    "description": "A golden tensor taking in Web3. ID: 1769812640758-xmnsvc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.143Z"
+}

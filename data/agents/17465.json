@@ -1,0 +1,22 @@
+{
+  "id": 17465,
+  "owner": "0x31748c97286B58DdF39727fd08ED743237b7E067",
+  "chain": "ethereum",
+  "name": "AxiFlow_2086",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xba94c995c6ede7977fb604bf86b259c6a33af27a9a7f6e8642a601ddce0e2194",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiFlow_2086",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:49.539Z"
+}

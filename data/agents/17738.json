@@ -1,0 +1,22 @@
+{
+  "id": 17738,
+  "owner": "0x09a430af63678A0479DA763c3Fda61c607EC7f82",
+  "chain": "ethereum",
+  "name": "MetaMind_4466",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349202,
+  "txHash": "0x83c302a03c0af945b46c72a74218a9cca37a48a7d256011bb9b87961017466e0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaMind_4466",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:03.174Z"
+}

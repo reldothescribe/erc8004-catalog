@@ -1,0 +1,22 @@
+{
+  "id": 18242,
+  "owner": "0x420761f542D002837756D0142FBF18c4c4Ce7B09",
+  "chain": "ethereum",
+  "name": "NexPulse_44ba",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349246,
+  "txHash": "0xc1161b64f881b6377a724043c618f85a7ecbfcad6bdd6de600f364f4d28fc443",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexPulse_44ba",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:30.822Z"
+}

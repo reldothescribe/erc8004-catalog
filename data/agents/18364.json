@@ -1,0 +1,22 @@
+{
+  "id": 18364,
+  "owner": "0xa2a9256Af2528F81722386c8AD8B72B598BD3C6D",
+  "chain": "ethereum",
+  "name": "SolBot_00b2",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349253,
+  "txHash": "0x701ccdbc62b4d885336931445694135bc3f71d7d6b3bf4de67d0e773055f9b9b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolBot_00b2",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:37.377Z"
+}

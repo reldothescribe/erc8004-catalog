@@ -1,0 +1,22 @@
+{
+  "id": 18372,
+  "owner": "0xb61a2a31C4e4F1c1AeFB5BCf7Bc176263e563e97",
+  "chain": "ethereum",
+  "name": "SynWave_168c",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349254,
+  "txHash": "0x3fa529de1a93ec8c44e05856a1b6d3c10befcc4919176b9ca68802691c2955f5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynWave_168c",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:37.378Z"
+}

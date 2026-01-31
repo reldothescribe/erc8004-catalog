@@ -1,0 +1,22 @@
+{
+  "id": 13719,
+  "owner": "0x57790383be61AfdF85D1e4255450E5D107c65ee1",
+  "chain": "ethereum",
+  "name": "NEWAI",
+  "description": "Define trading strategies in plain language and let it run your automations",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24345561,
+  "txHash": "0x7a5ce8cbff25078fdf10d856c0b67e3cba7f9dd83cea09230646f334b9099f08",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NEWAI",
+    "description": "Define trading strategies in plain language and let it run your automations",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:14:18.605Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20265,
+  "owner": "0x444e9EE2149588d0824B00BEb137a67c0455c00B",
+  "chain": "ethereum",
+  "name": "Automated Bridge 6377",
+  "description": "A shadow bridge weaving in London. ID: 1769812468812-zk514q",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0x4d5347aac3b486e041629d972f0927e2d9fd4aa4227763d14668feb49659424b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Automated Bridge 6377",
+    "description": "A shadow bridge weaving in London. ID: 1769812468812-zk514q",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.655Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20453,
+  "owner": "0xd0F18Bc62cEE2Cb49b771F2470D95574B1cB1964",
+  "chain": "ethereum",
+  "name": "Frozen Hammer",
+  "description": "A silver hammer forging in the Future. ID: 1769812646073-7nisfv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xd8ed21a3ddc02533e7c7d208f762b9652396605f0d1642de4408fd5d5ec061b2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Hammer",
+    "description": "A silver hammer forging in the Future. ID: 1769812646073-7nisfv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:15.552Z"
+}

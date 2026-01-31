@@ -1,0 +1,22 @@
+{
+  "id": 17910,
+  "owner": "0xc72b31F1063fE514b6e85d1d89Bda26A96b59159",
+  "chain": "ethereum",
+  "name": "UltraMind_8726",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x1fd14fb22d1ebbf58eaa34d6d803f49ef554242595d69e1f7f3bf8e74e670126",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraMind_8726",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:12.185Z"
+}

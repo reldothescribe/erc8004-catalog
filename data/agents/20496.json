@@ -1,0 +1,22 @@
+{
+  "id": 20496,
+  "owner": "0xCcBe63a952729aD8dcf1830FA68c4A91EbacB690",
+  "chain": "ethereum",
+  "name": "Burning Rogue",
+  "description": "A primal rogue molding in Web3. ID: 1769812648624-lpxivo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xe74f5ef4dfdd4d8d867571261b5d341e4a62ae31c2a99df00ff80ff3521b750e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Rogue",
+    "description": "A primal rogue molding in Web3. ID: 1769812648624-lpxivo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:17.641Z"
+}

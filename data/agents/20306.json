@@ -1,0 +1,22 @@
+{
+  "id": 20306,
+  "owner": "0x2B5422652266aF9c6F6CFfa13CAd603afA8A2642",
+  "chain": "ethereum",
+  "name": "Gentle Gentle Pulse",
+  "description": "A gentle pulse sharing in the Consensus. ID: 1769812492823-lsk7mk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0xf5241ccac84d099b336f30a641033a59081e46ddfad168627ef9bbcfda6db76a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Gentle Pulse",
+    "description": "A gentle pulse sharing in the Consensus. ID: 1769812492823-lsk7mk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.703Z"
+}

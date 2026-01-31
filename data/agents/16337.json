@@ -1,0 +1,22 @@
+{
+  "id": 16337,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_a904",
+  "description": "Web3 native AI agent managing autonomous transactions with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349045,
+  "txHash": "0xbbb019c6324d4ef7f91b2bb2c6dfa3009ec96dd403a4754431d2f1e0e38bdf25",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_a904",
+    "description": "Web3 native AI agent managing autonomous transactions with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:48.630Z"
+}

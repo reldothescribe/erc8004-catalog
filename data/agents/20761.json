@@ -1,0 +1,22 @@
+{
+  "id": 20761,
+  "owner": "0x565953D1d360818D1486aF1dBAB6EAC2DB47f91E",
+  "chain": "ethereum",
+  "name": "Prime Onyx Door",
+  "description": "A onyx door healing in the Ledger. ID: 1769812719368-8yygz0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x06d178facc3c0cc8ed037393604111b57db90ef10ff2c4b9b9fb1f759906ba7e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Prime Onyx Door",
+    "description": "A onyx door healing in the Ledger. ID: 1769812719368-8yygz0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.173Z"
+}

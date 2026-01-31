@@ -1,0 +1,22 @@
+{
+  "id": 18183,
+  "owner": "0xCb6A87Bf0F29b0169741ef7dc7407cb4a0969a0A",
+  "chain": "ethereum",
+  "name": "MetaNet_9978",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0x3dfd02ce81ce99c4a64fb362cb05cba253b0778070d3d37afb2ba24aa4548725",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNet_9978",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.332Z"
+}

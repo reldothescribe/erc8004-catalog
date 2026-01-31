@@ -1,0 +1,22 @@
+{
+  "id": 17943,
+  "owner": "0x469655498A324A2B2dEC655be2d874201878966c",
+  "chain": "ethereum",
+  "name": "NeoCore_2666",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xb618018c76fe498c47c673f6e19d83c4390321c044fff7547b3ee05220d8c554",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoCore_2666",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:14.235Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 15153,
+  "owner": "0xc7777F6A5517881Df6eCDc3015aE9c4430de40Ca",
+  "chain": "ethereum",
+  "name": "x402",
+  "description": "Everything is contained within, and the future holds infinite possibilities.Everything is contained within, and the future holds infinite possibilities.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348030,
+  "txHash": "0xd538562382977dbb0e2b347352a20584580e57def2431555a52b4ed6704e0c27",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "x402",
+    "description": "Everything is contained within, and the future holds infinite possibilities.Everything is contained within, and the future holds infinite possibilities.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "tee-attestation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:15:37.353Z"
+}

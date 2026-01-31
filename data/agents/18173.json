@@ -1,0 +1,22 @@
+{
+  "id": 18173,
+  "owner": "0x9f8aeB07c136B4d1BE015542159071db8786ca71",
+  "chain": "ethereum",
+  "name": "NeoLink_170",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xec37e8501cd410073bf115c2a85beda982be31563f68820c1e2086822470da07",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoLink_170",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:27.857Z"
+}

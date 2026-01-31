@@ -1,0 +1,22 @@
+{
+  "id": 14025,
+  "owner": "0x918b9e64421976268651bf1453f93673343f69cb",
+  "chain": "ethereum",
+  "name": "EndpointPitKingsd",
+  "description": "新增邮件联系点，方便联系。主网早期占位符。联系方式：btc45325181@gmail.com\n  asd",
+  "image": "https://via.placeholder.com/400",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24346159,
+  "txHash": "0xc67bec92400a5e88272a5e58ff74d74ed32e56efa04ffe5c14b96d5ad1859955",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "EndpointPitKingsd",
+    "description": "新增邮件联系点，方便联系。主网早期占位符。联系方式：btc45325181@gmail.com\n  asd",
+    "image": "https://via.placeholder.com/400",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:14:36.729Z"
+}

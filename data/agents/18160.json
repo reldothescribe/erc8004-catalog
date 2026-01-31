@@ -1,0 +1,22 @@
+{
+  "id": 18160,
+  "owner": "0xff121be67ba9324BE5D299C8f4f5D9b9B3f5Cc04",
+  "chain": "ethereum",
+  "name": "AxiCore_5929",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0x7e4b7d9306ab9e49452a9df1be90f8ae52b5414f5ba23728573c63e230f03517",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiCore_5929",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:25.708Z"
+}

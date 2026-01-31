@@ -1,0 +1,22 @@
+{
+  "id": 20266,
+  "owner": "0x384b5530EeAFB055E997C82b5B5cDb76D136b906",
+  "chain": "ethereum",
+  "name": "Prime Eagle",
+  "description": "A sapphire eagle keeping in Saturn. ID: 1769812468812-we6vya",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0x7e6b624381c7bcfd238ee95c9630b959393a4510fe7f071124cf868c007b48f0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Prime Eagle",
+    "description": "A sapphire eagle keeping in Saturn. ID: 1769812468812-we6vya",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.656Z"
+}

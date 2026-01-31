@@ -1,0 +1,22 @@
+{
+  "id": 20602,
+  "owner": "0x760bAff32A0c85B6b64A020de9375B59aD2E868b",
+  "chain": "ethereum",
+  "name": "Bold Whale 350",
+  "description": "A orderly whale shaping in the Center. ID: 1769812676108-yavqvj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xf1b3cbd238599e55288431764b110e749eb3f061999ff845ed70adab1860603d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bold Whale 350",
+    "description": "A orderly whale shaping in the Center. ID: 1769812676108-yavqvj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.656Z"
+}

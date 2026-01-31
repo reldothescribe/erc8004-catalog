@@ -1,0 +1,22 @@
+{
+  "id": 20703,
+  "owner": "0x18952b5bb759df25D7871d18d4D293b5dD1bBDe9",
+  "chain": "ethereum",
+  "name": "Secret Oracle",
+  "description": "A future oracle forging in Magic. ID: 1769812701765-rr7md9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xfcaffd4843d9ff2cf48bdc9298f45cea96a67964a3cafc11ba6b2e4aaca4be62",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Oracle",
+    "description": "A future oracle forging in Magic. ID: 1769812701765-rr7md9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.612Z"
+}

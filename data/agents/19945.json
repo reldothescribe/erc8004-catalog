@@ -1,0 +1,22 @@
+{
+  "id": 19945,
+  "owner": "0xd5397Bbf7FAa50e94c0FA772067Ab401c1B881E6",
+  "chain": "ethereum",
+  "name": "Astral Droid 6243",
+  "description": "A young droid running in Berlin. ID: 1769806673686-xz3j7r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350220,
+  "txHash": "0xa7a6d70b08e65c8d3a9ae3b1e6bc224dfadc661ac85ace6cf5ac74593f7809a0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Droid 6243",
+    "description": "A young droid running in Berlin. ID: 1769806673686-xz3j7r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.597Z"
+}

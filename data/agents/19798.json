@@ -1,0 +1,22 @@
+{
+  "id": 19798,
+  "owner": "0xbF8233FCe9038600D5eA01284B42E9ae01458451",
+  "chain": "ethereum",
+  "name": "Sentient Bard",
+  "description": "A wise bard selling in the Blockchain. ID: 1769802626680-rh6p74",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349885,
+  "txHash": "0xeb8f75ba7076d3c8940f4744e42e3a18fcda7bf4b6417bd9ebefececfb093667",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sentient Bard",
+    "description": "A wise bard selling in the Blockchain. ID: 1769802626680-rh6p74",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.666Z"
+}

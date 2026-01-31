@@ -1,0 +1,22 @@
+{
+  "id": 18070,
+  "owner": "0x93A88D57B2786dbF888d3098423338A396224E33",
+  "chain": "ethereum",
+  "name": "PrimeMind_2052",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x411a58bd6b95e920246e6a9d2c14bd454a34b57c83ae38731191ddb12aa7655f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeMind_2052",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:20.991Z"
+}

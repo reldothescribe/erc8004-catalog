@@ -1,0 +1,22 @@
+{
+  "id": 18005,
+  "owner": "0xFE99DC7a1fF65fDe2E3E17DafC5f22fFBAcdA9b5",
+  "chain": "ethereum",
+  "name": "UltraFlow_2123",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x7d7021366ffab2f76e50f0228ec30b6c1225ea96cf7a534ba04bd4fda791b8ac",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraFlow_2123",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:17.409Z"
+}

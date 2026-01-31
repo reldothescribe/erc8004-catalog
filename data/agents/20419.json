@@ -1,0 +1,22 @@
+{
+  "id": 20419,
+  "owner": "0x833a42CC1EC90E3C181E0d56E977Bed4147ddedC",
+  "chain": "ethereum",
+  "name": "Frozen Moon",
+  "description": "A ivory moon living in the Hash. ID: 1769812601824-0bad8s",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350713,
+  "txHash": "0x1132f4744ae669dd22c73a21b348d6cf48c360b3083c8461fc8feb97a8209c43",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Moon",
+    "description": "A ivory moon living in the Hash. ID: 1769812601824-0bad8s",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.439Z"
+}

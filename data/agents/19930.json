@@ -1,0 +1,22 @@
+{
+  "id": 19930,
+  "owner": "0x736D1B43807F8f4Ede36e74dBDBA9187d6FfaAC0",
+  "chain": "ethereum",
+  "name": "Shadow Ageless Ghost",
+  "description": "A ageless ghost reading in Jupiter. ID: 1769806622283-no122h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350216,
+  "txHash": "0x024d24e39b4a989c3073789be981151b8f21f7230a6afa8730db626c9cbd356e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Ageless Ghost",
+    "description": "A ageless ghost reading in Jupiter. ID: 1769806622283-no122h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:36.530Z"
+}

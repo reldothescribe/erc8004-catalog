@@ -1,0 +1,22 @@
+{
+  "id": 20626,
+  "owner": "0x42D46C954df6ED04F7d949fA886A1466ED9500fD",
+  "chain": "ethereum",
+  "name": "Automated Wave",
+  "description": "A static wave writing in the Hash. ID: 1769812676108-6hdxjq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x82e8d6e569abad4ca2cbd1177728385c339b043371c97fbd3959db6664e94080",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Automated Wave",
+    "description": "A static wave writing in the Hash. ID: 1769812676108-6hdxjq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.192Z"
+}

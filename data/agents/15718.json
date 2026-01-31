@@ -1,0 +1,25 @@
+{
+  "id": 15718,
+  "owner": "0xec51B8939905Ce76CC9bb33a0074469CE1E2f997",
+  "chain": "ethereum",
+  "name": "8004",
+  "description": "800480048004800480048004800480048004800480048004800480048004800480048004800480048004800480048004",
+  "image": "https://blob.8004scan.app/b5c8bf733b05dbbfd9d8df48f70ac95a5d7574ff85fd0f1f03df5ebdb988826f.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348888,
+  "txHash": "0x7fc7279fce009e913323d7774e65f804a2c56598897ff9591994629c83677961",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "8004",
+    "description": "800480048004800480048004800480048004800480048004800480048004800480048004800480048004800480048004",
+    "image": "https://blob.8004scan.app/b5c8bf733b05dbbfd9d8df48f70ac95a5d7574ff85fd0f1f03df5ebdb988826f.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:16:16.984Z"
+}

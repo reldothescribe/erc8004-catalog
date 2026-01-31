@@ -1,0 +1,22 @@
+{
+  "id": 17515,
+  "owner": "0xD96970063a34C1e2317726f1969e71370aA63D24",
+  "chain": "ethereum",
+  "name": "PrimeHub_135",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349178,
+  "txHash": "0x2ca53d58a3b819baa6385e93a5ba251526d2f607c4fb4939ddaad839dd76007a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeHub_135",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:52.115Z"
+}

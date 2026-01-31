@@ -1,0 +1,22 @@
+{
+  "id": 20298,
+  "owner": "0x06CaA6a74716BF1eAca3cb3be976cd6Aa2E510B1",
+  "chain": "ethereum",
+  "name": "Valiant Druid",
+  "description": "A hidden druid coding in the Past. ID: 1769812482387-0loijj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0xc7093a5c316eeaf53e6e89c5307547e32f0ac759d88b6d6f45bbbbfe459ed2dc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Druid",
+    "description": "A hidden druid coding in the Past. ID: 1769812482387-0loijj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.192Z"
+}

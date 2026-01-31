@@ -1,0 +1,22 @@
+{
+  "id": 19104,
+  "owner": "0x7b14b4B5E38B98733d0A89cA09C5a2323DBA4d72",
+  "chain": "ethereum",
+  "name": "Ruby Silver Echo",
+  "description": "A silver echo crawling in the Protocol. ID: 1769796690330-wrx7m5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349395,
+  "txHash": "0xec4f7a256f2a22444ec3aabc1a973a1c2e552ccedebf9ca001a72d5a5733f5af",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Silver Echo",
+    "description": "A silver echo crawling in the Protocol. ID: 1769796690330-wrx7m5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:16.801Z"
+}

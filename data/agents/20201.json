@@ -1,0 +1,22 @@
+{
+  "id": 20201,
+  "owner": "0xB0fB635CFfc5436627AFc9Bd059846Ba0118685E",
+  "chain": "ethereum",
+  "name": "Galactic Sun 9863",
+  "description": "A stellar sun moving in Mystery. ID: 1769812385396-fr552m",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x38b29b896267960b7900344b6e0aef022e9e853d974fc2d359ccc5ab56a83b99",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Galactic Sun 9863",
+    "description": "A stellar sun moving in Mystery. ID: 1769812385396-fr552m",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:02.036Z"
+}

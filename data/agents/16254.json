@@ -1,0 +1,22 @@
+{
+  "id": 16254,
+  "owner": "0x478462c9B50D146aec60E478d431Af0A1764A78a",
+  "chain": "ethereum",
+  "name": "Ashea",
+  "description": "111111111111111111111111111111111111111111111111111111111111111111",
+  "image": "111111",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348930,
+  "txHash": "0x9536ef64bfdfe2724f23ba18a13e7d6de18e59d87f4873b97fc4b462adff0ffd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Ashea",
+    "description": "111111111111111111111111111111111111111111111111111111111111111111",
+    "image": "111111",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:44.581Z"
+}

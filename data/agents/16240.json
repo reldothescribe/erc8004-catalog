@@ -1,0 +1,22 @@
+{
+  "id": 16240,
+  "owner": "0xC8E973E4E0dea85C26C908bf4811f39Dffb541c4",
+  "chain": "ethereum",
+  "name": "Agent #16240",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348921,
+  "txHash": "0x296cc75bdc8bd034691a2a224d28de351a43654a4d66623e353ae763e3d57c92",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "",
+    "description": "",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:43.552Z"
+}

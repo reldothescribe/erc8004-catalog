@@ -1,0 +1,22 @@
+{
+  "id": 17533,
+  "owner": "0xbBBfBc1464A6f327543adAdE421F69F37A5BB1BC",
+  "chain": "ethereum",
+  "name": "NovaLink_4341",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0xbdde3bc2fe4df6305422c4b68307a33b870e40e10264844325f438ac881dff46",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaLink_4341",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:53.143Z"
+}

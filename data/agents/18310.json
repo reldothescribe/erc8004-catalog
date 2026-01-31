@@ -1,0 +1,22 @@
+{
+  "id": 18310,
+  "owner": "0x781b5F30b576Fe77D013359F66B181c1b0C441d7",
+  "chain": "ethereum",
+  "name": "OrbLink_0fcd",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349249,
+  "txHash": "0x7b235be41451dadd57cfde7878f4eba07543a01a49d5a9705028e332755053ca",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbLink_0fcd",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:34.310Z"
+}

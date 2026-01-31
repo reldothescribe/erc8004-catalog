@@ -1,0 +1,22 @@
+{
+  "id": 20119,
+  "owner": "0x7b14b4B5E38B98733d0A89cA09C5a2323DBA4d72",
+  "chain": "ethereum",
+  "name": "Random Mage",
+  "description": "A electric mage resting in London. ID: 1769812334527-m0yqly",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350691,
+  "txHash": "0x94b5916050459f4d201acae4e304506322802201f78673eda08338b815819798",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Random Mage",
+    "description": "A electric mage resting in London. ID: 1769812334527-m0yqly",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:57.825Z"
+}

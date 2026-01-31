@@ -1,0 +1,22 @@
+{
+  "id": 18207,
+  "owner": "0x3da01379003a2BeFCD07E2C38aB03Ed322C1409a",
+  "chain": "ethereum",
+  "name": "HyperMind_5527",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349224,
+  "txHash": "0x87dccf1bff1fca7547825aaf345a8563c5796353c8d80ba8df6a6f8bded56c04",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperMind_5527",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:29.321Z"
+}

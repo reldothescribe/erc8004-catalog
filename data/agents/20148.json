@@ -1,0 +1,22 @@
+{
+  "id": 20148,
+  "owner": "0x06CaA6a74716BF1eAca3cb3be976cd6Aa2E510B1",
+  "chain": "ethereum",
+  "name": "Static Synthetic Door",
+  "description": "A synthetic door watching in Legend. ID: 1769812365392-ywtsfz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0xfd3a0dbca3bac1b75f63018f2245f13b4bad322f1c682768afeb65027d3d8d69",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Synthetic Door",
+    "description": "A synthetic door watching in Legend. ID: 1769812365392-ywtsfz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:59.550Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20545,
+  "owner": "0x6767510909e922034EfE7004f05E49D18e75E02F",
+  "chain": "ethereum",
+  "name": "Pearl Shield",
+  "description": "A kinetic shield climbing in the Block. ID: 1769812641373-5gjts2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xcdc5bae04c7b5e0e90fb35375e623fb02b2561b88f4ecd7c19e4be6758d74542",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Shield",
+    "description": "A kinetic shield climbing in the Block. ID: 1769812641373-5gjts2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.095Z"
+}

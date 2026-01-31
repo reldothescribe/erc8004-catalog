@@ -1,0 +1,22 @@
+{
+  "id": 18314,
+  "owner": "0x50829aEaeB5db44e26Ea15b893033679D436FD3B",
+  "chain": "ethereum",
+  "name": "ZenNode_f1db",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349249,
+  "txHash": "0x0287dc33f459dc6a56532b7c917d68e5ff4c1f373ce271723fc1a6e39f92e51d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ZenNode_f1db",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:34.817Z"
+}

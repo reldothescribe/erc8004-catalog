@@ -1,0 +1,22 @@
+{
+  "id": 19909,
+  "owner": "0x1318ae35ecd9cF2Fcb27120Da496B0D1019D2E10",
+  "chain": "ethereum",
+  "name": "Cunning Bold Serpent",
+  "description": "A bold serpent sleeping in Dimension X. ID: 1769806575613-uxlw4s",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350212,
+  "txHash": "0x2c3e645c535ba0e9bdc0cad2a0b8e450aac1b60f3a6c7cbf594c1b0c822536cd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Bold Serpent",
+    "description": "A bold serpent sleeping in Dimension X. ID: 1769806575613-uxlw4s",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:31.452Z"
+}

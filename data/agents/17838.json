@@ -1,0 +1,22 @@
+{
+  "id": 17838,
+  "owner": "0x81B4F8898388A5F7cC5010B4C5bEe596AF7Df940",
+  "chain": "ethereum",
+  "name": "MetaFlow_8461",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349211,
+  "txHash": "0xc1ebf400cbec09965e5ad6f8f9c629743bf82df6e1bc2fb46ae7f683f2007115",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaFlow_8461",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:08.601Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19808,
+  "owner": "0xEd37DFdf716F83871D6cC03120aD9439E70Cfc4b",
+  "chain": "ethereum",
+  "name": "Organic Echo",
+  "description": "A silent echo watching in the Chain. ID: 1769802657351-4y6bl4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349888,
+  "txHash": "0x73f9fc6c4e4172b20e93605b6eb83a4ccc97c9bf076583badf8600ddf8dd5147",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Organic Echo",
+    "description": "A silent echo watching in the Chain. ID: 1769802657351-4y6bl4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:54.181Z"
+}

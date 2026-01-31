@@ -1,0 +1,22 @@
+{
+  "id": 20647,
+  "owner": "0xD1dAF1EEcea3f7016d306e0499572BC11549C21C",
+  "chain": "ethereum",
+  "name": "Autonomous Chimera",
+  "description": "A nexus chimera creating in London. ID: 1769812675498-iw5d46",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x44be19a1b7cc1d6f885bbda435fa639303fe170b0236efc7bce3b88cfe060674",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Chimera",
+    "description": "A nexus chimera creating in London. ID: 1769812675498-iw5d46",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.215Z"
+}

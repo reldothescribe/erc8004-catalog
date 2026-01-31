@@ -1,0 +1,22 @@
+{
+  "id": 17940,
+  "owner": "0xbA7a63Ad63C8A190fD7c35e63B6AaB7C9312Eb26",
+  "chain": "ethereum",
+  "name": "HyperAgent_3316",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x7000bea7c979cb4e814636a66806a8ebc36493accd6240d1413b3c1a176de478",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperAgent_3316",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:13.724Z"
+}

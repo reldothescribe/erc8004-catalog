@@ -1,0 +1,22 @@
+{
+  "id": 18230,
+  "owner": "0x9e180518Cb890a563AB3637DF25Ca44d5e75548d",
+  "chain": "ethereum",
+  "name": "SolBot_8549",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349232,
+  "txHash": "0xa8abe6538518ca48b50047ae3146d7851be76502c4eeb85da2f8b08d7b6aab17",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolBot_8549",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:30.311Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20776,
+  "owner": "0x7aE24d746055586fe2849E3f50495e0bbC22c320",
+  "chain": "ethereum",
+  "name": "Secret Priest 1819",
+  "description": "A phantom priest molding in Paris. ID: 1769812720675-j4rfdo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x22e23c692aac666a4ddf1975f03d39bc448724a03f2a85db0b9cd9f70aa29cbb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Priest 1819",
+    "description": "A phantom priest molding in Paris. ID: 1769812720675-j4rfdo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.200Z"
+}

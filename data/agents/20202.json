@@ -1,0 +1,22 @@
+{
+  "id": 20202,
+  "owner": "0x13CeBf4C857a1DF6fDA8D080d09aC58455e19A47",
+  "chain": "ethereum",
+  "name": "Future Ruby Planet",
+  "description": "A ruby planet singing in Berlin. ID: 1769812385395-2uyzfb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0xb34f4e2efd6652f49f748000f3fa3c44409d0e6a9258436ba7d96cb45ad7ccdc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Ruby Planet",
+    "description": "A ruby planet singing in Berlin. ID: 1769812385395-2uyzfb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:02.023Z"
+}

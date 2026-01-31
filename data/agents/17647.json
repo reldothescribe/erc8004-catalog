@@ -1,0 +1,22 @@
+{
+  "id": 17647,
+  "owner": "0x8F136D5e71e61De96289021121D2455995266333",
+  "chain": "ethereum",
+  "name": "CyberBot_9733",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349184,
+  "txHash": "0x83d3988d4508c652b5102b932fbc3b41c0eff0b1d6e98f81539b19b44c0267c1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberBot_9733",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:58.520Z"
+}

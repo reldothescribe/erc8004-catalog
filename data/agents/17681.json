@@ -1,0 +1,22 @@
+{
+  "id": 17681,
+  "owner": "0xB1f7C9b1522F2cf3f697990dB2704eDa4cdF2A19",
+  "chain": "ethereum",
+  "name": "HyperCore_2249",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0xe64cb632475df292a56ed06f37fd80d2f4e7b99b1896f9fa4216d10f5c5d4943",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperCore_2249",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:00.102Z"
+}

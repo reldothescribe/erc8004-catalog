@@ -1,0 +1,22 @@
+{
+  "id": 17550,
+  "owner": "0x42a929374f25cfdba1c8E0329fA44FC7E019d905",
+  "chain": "ethereum",
+  "name": "StellarBot_3366",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0xe96c45dbed51a3d4fad5a863667f506e34c0fcbf350606078438663f722e075c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarBot_3366",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:53.650Z"
+}

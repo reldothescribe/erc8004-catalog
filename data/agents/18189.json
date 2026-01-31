@@ -1,0 +1,22 @@
+{
+  "id": 18189,
+  "owner": "0x58Ec95bb20297Ab800ba8943b6Ea08BF296b42b8",
+  "chain": "ethereum",
+  "name": "PrimeLink_1855",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0x534c26685acc45e267a4417936791059fc5f012a1fc509f782a33073fb45a227",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeLink_1855",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.332Z"
+}

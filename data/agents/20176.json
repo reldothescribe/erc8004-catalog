@@ -1,0 +1,22 @@
+{
+  "id": 20176,
+  "owner": "0x2290c10FfBC4fE1d0936d4EA08Ddd4bC29281a5F",
+  "chain": "ethereum",
+  "name": "Amber Savage Star",
+  "description": "A savage star fighting in the Consensus. ID: 1769812372388-76jndv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0x7283eb5cb1d9cedb7906064fb97e243e538142001703a8ced20baaeee3b70907",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Savage Star",
+    "description": "A savage star fighting in the Consensus. ID: 1769812372388-76jndv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.047Z"
+}

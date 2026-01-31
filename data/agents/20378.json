@@ -1,0 +1,22 @@
+{
+  "id": 20378,
+  "owner": "0x57E3696FBC41E612fadac8AF7a2139b1e7CbEE67",
+  "chain": "ethereum",
+  "name": "Sonic Storm 4534",
+  "description": "A temporal storm carving in Technology. ID: 1769812580389-9ccxr5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0x8f17f520710ca2dd6fdb3d9f5f53ac9bfc36f4005992a34fff03b3a3ccea4f16",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Storm 4534",
+    "description": "A temporal storm carving in Technology. ID: 1769812580389-9ccxr5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.390Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17265,
+  "owner": "0xd0f8CdCD398F63Cfc11f72EbFECCb2eAB18Dd700",
+  "chain": "ethereum",
+  "name": "HyperSync_8177",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349162,
+  "txHash": "0x15c99746eaa7b7650b33efc40b5ebbb3bdb29322742844d22eb528b1450d0e20",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperSync_8177",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:39.316Z"
+}

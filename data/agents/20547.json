@@ -1,0 +1,22 @@
+{
+  "id": 20547,
+  "owner": "0x18a25c72F9e4859234C3D3434e2180b63E52b2a0",
+  "chain": "ethereum",
+  "name": "Amber Monk",
+  "description": "A determined monk calculating in Magic. ID: 1769812641373-gv2zf1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x5c657875160460f31f9850b74427985f3893c0aa98b33bfaec7fe181c8a47a92",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Monk",
+    "description": "A determined monk calculating in Magic. ID: 1769812641373-gv2zf1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.095Z"
+}

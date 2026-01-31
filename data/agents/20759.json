@@ -1,0 +1,22 @@
+{
+  "id": 20759,
+  "owner": "0x4371c3f7b6390108ad6d71844C6d62af1Fa2E207",
+  "chain": "ethereum",
+  "name": "Jade Surge",
+  "description": "A automated surge running in the Future. ID: 1769812703727-xsi26f",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xa1eabf5392a554e3ae2cd4192287239a8c2250d2c4d312bd35fa13a3baad6cc4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Surge",
+    "description": "A automated surge running in the Future. ID: 1769812703727-xsi26f",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.172Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19931,
+  "owner": "0x95e956d9456609735F2Fe185A19a8622bF35e01c",
+  "chain": "ethereum",
+  "name": "Digital Dragon 657",
+  "description": "A wise dragon rising in Legend. ID: 1769806622283-soczs8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350216,
+  "txHash": "0x46e3b43904342eb15c4c118676d43ab15645489be34bb43c2da0f4f6fc6ef1b1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Dragon 657",
+    "description": "A wise dragon rising in Legend. ID: 1769806622283-soczs8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:36.539Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18011,
+  "owner": "0xc590E5808eb848642e47A8F23cDCD3e8c9250384",
+  "chain": "ethereum",
+  "name": "StellarHub_6989",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xd4bfebe99857b744dae162bee255aae645de73c8e47ad39a1a6717c384d902ca",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarHub_6989",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:17.409Z"
+}

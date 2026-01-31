@@ -1,0 +1,22 @@
+{
+  "id": 18346,
+  "owner": "0x51a46884673Df11Db040EF1b84B84b2Dc8C76E9D",
+  "chain": "ethereum",
+  "name": "LuxAgent_0cd5",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349252,
+  "txHash": "0xb431f74a5c39c5808db2a3dda8fd634b0bdb549276f811d57af0f19e6aef3235",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxAgent_0cd5",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:36.352Z"
+}

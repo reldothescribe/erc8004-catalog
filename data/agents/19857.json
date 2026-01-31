@@ -1,0 +1,22 @@
+{
+  "id": 19857,
+  "owner": "0x95773583219F331fD34aA4A5a976278f8920f74A",
+  "chain": "ethereum",
+  "name": "Echo Nexus",
+  "description": "An adaptive AI agent that echoes user insights while forging new connections in creative problem-solving.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350167,
+  "txHash": "0xd1ac2faecf3da2721880c23b6c7dba8c1e822391d629a9fba9fc553469d76fce",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Echo Nexus",
+    "description": "An adaptive AI agent that echoes user insights while forging new connections in creative problem-solving.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:26.745Z"
+}

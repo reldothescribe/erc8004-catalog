@@ -1,0 +1,22 @@
+{
+  "id": 20322,
+  "owner": "0x833a42CC1EC90E3C181E0d56E977Bed4147ddedC",
+  "chain": "ethereum",
+  "name": "Ancient Soul",
+  "description": "A neural soul buying in DeFi. ID: 1769812492823-sts66c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0xc1eaad5a17886537d7d272f27bf9278dde3c0ce7e921a243a6ab098156e2b6f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ancient Soul",
+    "description": "A neural soul buying in DeFi. ID: 1769812492823-sts66c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.215Z"
+}

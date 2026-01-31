@@ -1,0 +1,22 @@
+{
+  "id": 20179,
+  "owner": "0x7D04C6D91C5cfFc18d02208575829818eC8Cf1a4",
+  "chain": "ethereum",
+  "name": "Cunning Stellar Castle",
+  "description": "A stellar castle reading in the Unknown. ID: 1769812372387-utyldp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0xca97df022c27731c61d375fd75f6e191f8d95de4019160e40ff104934e9a7f07",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Stellar Castle",
+    "description": "A stellar castle reading in the Unknown. ID: 1769812372387-utyldp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.047Z"
+}

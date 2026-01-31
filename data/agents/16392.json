@@ -1,0 +1,22 @@
+{
+  "id": 16392,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_a338",
+  "description": "On-chain AI assistant performing cross-chain operations with permissionless access.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349056,
+  "txHash": "0x70ffd886a0060d9f5cf1fd818fa1892d64370c813593e4a6ec3eddf5f191c598",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_a338",
+    "description": "On-chain AI assistant performing cross-chain operations with permissionless access.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:51.051Z"
+}

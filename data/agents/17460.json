@@ -1,0 +1,22 @@
+{
+  "id": 17460,
+  "owner": "0x6eff7158B0Df116B717F4a6c4e77d058350A6E89",
+  "chain": "ethereum",
+  "name": "NeoFlow_9226",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xb580020e83a94e97496bf0b01be64750ca9fee8dc9e9022d76537e1a8dd1cef2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoFlow_9226",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:49.041Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17510,
+  "owner": "0x94329e902Bc0e7b60060B405541DDe381CF223aa",
+  "chain": "ethereum",
+  "name": "AxiLink_9827",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349178,
+  "txHash": "0xb93ad0fa1ba4fd3b1d9fcbcd0923c1e13c282b519530835a6604488b523a0164",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiLink_9827",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:51.604Z"
+}

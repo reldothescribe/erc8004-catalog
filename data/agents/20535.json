@@ -1,0 +1,22 @@
+{
+  "id": 20535,
+  "owner": "0xBC2989F905450f55cD101d5C07Aaf70ab58FCA2A",
+  "chain": "ethereum",
+  "name": "Solar Qubit 6736",
+  "description": "A silver qubit carving in the Void. ID: 1769812648624-rskxvv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x4427d60c47ea0d309ef215d757e74e4a99fa42e767637cd0fe96d7f15682226d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Qubit 6736",
+    "description": "A silver qubit carving in the Void. ID: 1769812648624-rskxvv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.585Z"
+}

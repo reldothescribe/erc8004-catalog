@@ -1,0 +1,22 @@
+{
+  "id": 17659,
+  "owner": "0xBB6AF0A60cc0B3d18e1d3144E9A7fBeF0540f0DF",
+  "chain": "ethereum",
+  "name": "AxiAgent_8953",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x65c5f002772ac1f77c1b0bad373e7ca589e4d14ad185246818c75dc6ea882623",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiAgent_8953",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:59.078Z"
+}

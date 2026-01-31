@@ -1,0 +1,22 @@
+{
+  "id": 20753,
+  "owner": "0x7D56c72E1D75f647bE533021fa7ec10ad3Ae03cA",
+  "chain": "ethereum",
+  "name": "Infernal Whale 7386",
+  "description": "A crypto whale sleeping in Berlin. ID: 1769812718750-l2uxfb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xe39846fc67cfbcce71ab3e973e8c580e43f4f551df662cee23751354c9d16c38",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Whale 7386",
+    "description": "A crypto whale sleeping in Berlin. ID: 1769812718750-l2uxfb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.172Z"
+}

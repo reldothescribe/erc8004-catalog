@@ -1,0 +1,22 @@
+{
+  "id": 17514,
+  "owner": "0xaC25087dd524786720335d80d2C01ac515245c44",
+  "chain": "ethereum",
+  "name": "UltraFlow_3",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349178,
+  "txHash": "0x6a0b8e85087d5983e9cec8a4fa524894400d2903d431d5067b2845a69dbc4cb6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraFlow_3",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:52.115Z"
+}

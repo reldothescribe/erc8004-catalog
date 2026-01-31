@@ -1,0 +1,22 @@
+{
+  "id": 18351,
+  "owner": "0x3c628bBc577301A5B37faAF4868FcA26717ff62c",
+  "chain": "ethereum",
+  "name": "OrbNode_e38b",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349252,
+  "txHash": "0x891fb2379eeb1d6e60463e49138503ac8e1d01ffa673d267733b19cb876c2c57",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbNode_e38b",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:36.353Z"
+}

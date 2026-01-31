@@ -1,0 +1,22 @@
+{
+  "id": 16848,
+  "owner": "0x21642E85A58cDf0Ea947D4768fDd8b523B293f27",
+  "chain": "ethereum",
+  "name": "Agent_c66e",
+  "description": "AI-powered agent performing smart contract interactions with permissionless access.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349120,
+  "txHash": "0xcb9724db2cef766af1c9083ceebf43a35bc91e373ade0df3681d161208726018",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_c66e",
+    "description": "AI-powered agent performing smart contract interactions with permissionless access.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:16.377Z"
+}

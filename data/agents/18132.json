@@ -1,0 +1,22 @@
+{
+  "id": 18132,
+  "owner": "0xFb5EcBD6783Aebb498F9b7821FD6dCd53bDD23e9",
+  "chain": "ethereum",
+  "name": "HyperHub_1984",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0x949f2b70bc9a006297f53d739470c44a4b06393247e82c0113eae135c54f7b25",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperHub_1984",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:24.166Z"
+}

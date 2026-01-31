@@ -1,0 +1,25 @@
+{
+  "id": 13942,
+  "owner": "0x0766ec2E41d6F4B350CE270f7b9548b1d59b6719",
+  "chain": "ethereum",
+  "name": "DOG Agent",
+  "description": "dog\ngoooooooooooooooooooooooooooooooooooooooooooooooooo",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24345921,
+  "txHash": "0xca80931cebeb8da55b00f44886601972d64df761998622bda111fcc2d4ccaecd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DOG Agent",
+    "description": "dog\ngoooooooooooooooooooooooooooooooooooooooooooooooooo",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:14:32.121Z"
+}

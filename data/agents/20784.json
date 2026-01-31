@@ -1,0 +1,22 @@
+{
+  "id": 20784,
+  "owner": "0xc3664a81B40d5b99F3838A53ac6271bEA082F319",
+  "chain": "ethereum",
+  "name": "Tactile Silent Droid",
+  "description": "A silent droid building in Mars. ID: 1769812720023-7fxkns",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x762d17394154ff5705d49e6eaefc4c1408623f2321734030ebe5b9f88055237e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Tactile Silent Droid",
+    "description": "A silent droid building in Mars. ID: 1769812720023-7fxkns",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.708Z"
+}

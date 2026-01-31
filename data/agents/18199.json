@@ -1,0 +1,22 @@
+{
+  "id": 18199,
+  "owner": "0x10495F4F846e3930153aE546c0f9dDfb7b953c00",
+  "chain": "ethereum",
+  "name": "PrimeHub_8153",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0x85204f8e7c70f33ae44c564f4e330af2acccd668f737ef15b42c527ffb854353",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeHub_8153",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.833Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18387,
+  "owner": "0x90D636b8bA0BAB45dD8536f29c3d4DC4649976F5",
+  "chain": "ethereum",
+  "name": "Arcane Phantom",
+  "description": "A pearl phantom learning in the Protocol. ID: 1769795022746-c75j8p",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349256,
+  "txHash": "0x779797a4c8580d359a3dee0c9f99f203d59dfb1f40145f7a30f4d8d412b6eb2b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Phantom",
+    "description": "A pearl phantom learning in the Protocol. ID: 1769795022746-c75j8p",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:38.402Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18140,
+  "owner": "0x7079F7777FE8d9Ab11F7e4D2d5F500aBA5b2f6DA",
+  "chain": "ethereum",
+  "name": "PrimeFlow_1266",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0xb595395aee63ddf1213218af0a3f6a09b8060ae84c83a3d40f5eed60748c32dc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeFlow_1266",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:24.657Z"
+}

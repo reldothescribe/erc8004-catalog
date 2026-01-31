@@ -1,0 +1,22 @@
+{
+  "id": 17612,
+  "owner": "0x0A336167ea40C6baf2d9c461B49398Bfe308FBBE",
+  "chain": "ethereum",
+  "name": "MetaNet_5920",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x8617e4647bc0b2076befc617e374ac19d25abc5bfa21b405a673e7097d835544",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNet_5920",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:56.530Z"
+}

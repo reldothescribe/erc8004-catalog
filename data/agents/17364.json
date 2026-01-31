@@ -1,0 +1,22 @@
+{
+  "id": 17364,
+  "owner": "0x5bB97bd88646698d69AAcf135854e0806A2E0Ccf",
+  "chain": "ethereum",
+  "name": "NovaCore_5118",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x3e7efa64663eb3d71ed99d4f2c92f1b7801501d390ac9d070c232448fb674bc7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaCore_5118",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:44.435Z"
+}

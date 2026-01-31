@@ -1,0 +1,22 @@
+{
+  "id": 20276,
+  "owner": "0x91892DfF15c1a731B5837305889f8717BFaad93B",
+  "chain": "ethereum",
+  "name": "Random Omega Node",
+  "description": "A omega node carving in the Heights. ID: 1769812468812-84yvxg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0xefee63f23850af57b47ad6662881a2d9b2004d5e5260c6f2260cd42c04320bc5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Random Omega Node",
+    "description": "A omega node carving in the Heights. ID: 1769812468812-84yvxg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.169Z"
+}

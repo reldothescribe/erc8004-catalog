@@ -1,0 +1,22 @@
+{
+  "id": 18516,
+  "owner": "0x516a2eb3Fad90c9A603834414a8121B4C262FD4e",
+  "chain": "ethereum",
+  "name": "VorLink_80b6",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349266,
+  "txHash": "0x85f174686e3ccffc4bb17c98148d58859d662810423fa561b56659e849d8341a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VorLink_80b6",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:45.055Z"
+}

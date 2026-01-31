@@ -1,0 +1,22 @@
+{
+  "id": 16352,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_27de",
+  "description": "Next-gen AI operator coordinating smart contract interactions with on-chain accountability.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349055,
+  "txHash": "0x28efd2c0372aa55a9bb98cf7987b09ea904deb3e0e6a7f7508709fcabd0318ac",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_27de",
+    "description": "Next-gen AI operator coordinating smart contract interactions with on-chain accountability.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:49.137Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17863,
+  "owner": "0x9CE87a2859475e2a73C9E0B6c1D8bf6459Cd39a4",
+  "chain": "ethereum",
+  "name": "CyberBot_8758",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xa4ed46701207ed066b1bd0e203815d968a965f4f65f21792e7ee3325411e7b0a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberBot_8758",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:10.137Z"
+}

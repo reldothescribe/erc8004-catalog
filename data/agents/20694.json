@@ -1,0 +1,22 @@
+{
+  "id": 20694,
+  "owner": "0xBF2301a8F89278ceF488A0200b34769ABdC0eda0",
+  "chain": "ethereum",
+  "name": "Iron Griffin",
+  "description": "A shadow griffin hunting in the Summit. ID: 1769812701765-i3kyaj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xbd7ab94168aec1b3e612b9acc691ba4a012b3a152b4d2e48205c3483ff37f321",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Griffin",
+    "description": "A shadow griffin hunting in the Summit. ID: 1769812701765-i3kyaj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.102Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17387,
+  "owner": "0x563fF217643B3D349B3d38fd38EB8485fce3aFaF",
+  "chain": "ethereum",
+  "name": "PrimeBot_5156",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0xd15447ea4bf158cb88008d4509154ea3fe307c11c287d30e79b1c838a6e07c92",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeBot_5156",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:45.464Z"
+}

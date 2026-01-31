@@ -1,0 +1,22 @@
+{
+  "id": 18519,
+  "owner": "0xf0C802D31c67FC4cc1212955977BA78d1f860293",
+  "chain": "ethereum",
+  "name": "VorVault_bb75",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349266,
+  "txHash": "0xdd7e296a775cc66336e29604db1170459658a26da6b9e3fd2e046c2185f84059",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VorVault_bb75",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:45.259Z"
+}

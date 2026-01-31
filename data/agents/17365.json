@@ -1,0 +1,22 @@
+{
+  "id": 17365,
+  "owner": "0x9eA12F5B78aFB053420Cd5c9EFaFe3A957AF1b5C",
+  "chain": "ethereum",
+  "name": "CyberCore_55",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x28994bcbdabb5d762d06e3dad6018f140c73d5d7a6b5bc99f4bb30a7d1eed665",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberCore_55",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:44.435Z"
+}

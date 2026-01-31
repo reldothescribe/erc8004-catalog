@@ -1,0 +1,22 @@
+{
+  "id": 19742,
+  "owner": "0x8037d7a491DD3B3c3A9F4199e5D9aF3c94143D5e",
+  "chain": "ethereum",
+  "name": "Crimson Anvil",
+  "description": "A gentle anvil ending in the Void. ID: 1769802486045-rjvkym",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349873,
+  "txHash": "0xd184c6ee1f324cfbb788e7d50926a38b76177edfd6f4e7e23643506c3a8252c7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Anvil",
+    "description": "A gentle anvil ending in the Void. ID: 1769802486045-rjvkym",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:49.878Z"
+}

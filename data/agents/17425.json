@@ -1,0 +1,22 @@
+{
+  "id": 17425,
+  "owner": "0xbC0be0d9853A26656c09bA8cc0868CE2edCb422B",
+  "chain": "ethereum",
+  "name": "AxiCore_9810",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x2decbec3fafe4e5f0f358c4f7ee2f3e502bed1026fb7df3e2570bdaad107bc31",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiCore_9810",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:47.485Z"
+}

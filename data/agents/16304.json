@@ -1,0 +1,22 @@
+{
+  "id": 16304,
+  "owner": "0x627A331Dad24fE90dd335CDA24E191ff1720c9Da",
+  "chain": "ethereum",
+  "name": "BTC",
+  "description": "btc btc btc btc btc btc btc btc btc btc btc btc btc ",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348961,
+  "txHash": "0x167974d4975c15f36e050db640e5af87dba8954dc79e0516e297dd2c5a811ded",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "BTC",
+    "description": "btc btc btc btc btc btc btc btc btc btc btc btc btc ",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:47.041Z"
+}

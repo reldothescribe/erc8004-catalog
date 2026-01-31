@@ -1,0 +1,22 @@
+{
+  "id": 18508,
+  "owner": "0x309D21EB2718419779c4d7B33451E16AeD64a65b",
+  "chain": "ethereum",
+  "name": "LuxCore_9973",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349265,
+  "txHash": "0x4672d4356c1bf97ff362894ef726e4eb1e3e090ad503445f52fa791ffdd539c1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxCore_9973",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:44.544Z"
+}

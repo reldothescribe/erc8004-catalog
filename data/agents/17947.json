@@ -1,0 +1,22 @@
+{
+  "id": 17947,
+  "owner": "0x416Aa1517180C02F5B015A88E3c04694E412E14F",
+  "chain": "ethereum",
+  "name": "StellarSync_9209",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x28f0d2b553dd360c51dc19050fef03e980fb28d4dbbc5493c6572db881415286",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarSync_9209",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:14.235Z"
+}

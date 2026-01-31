@@ -1,0 +1,22 @@
+{
+  "id": 18068,
+  "owner": "0xA006C6180542E40268990D99333ED7C866c7c36D",
+  "chain": "ethereum",
+  "name": "QuantumFlow_434",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x72d93db1a49d1bba595d54273f5301957c697c1052ebbcb99daa8ec394c28a8c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumFlow_434",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:20.992Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20548,
+  "owner": "0x18a25c72F9e4859234C3D3434e2180b63E52b2a0",
+  "chain": "ethereum",
+  "name": "Sonic Mage 6662",
+  "description": "A galactic mage stopping in the Heights. ID: 1769812647329-5l36xz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x409ae650339ba209a7f05a202cf5e081adc6ec72e8527a28e5a2d92ea438df94",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Mage 6662",
+    "description": "A galactic mage stopping in the Heights. ID: 1769812647329-5l36xz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.095Z"
+}

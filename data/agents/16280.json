@@ -1,0 +1,22 @@
+{
+  "id": 16280,
+  "owner": "0x0F69f0C9465f570D49Ae4206c9BaeE5851316605",
+  "chain": "ethereum",
+  "name": "Intelligent Investment Assistant",
+  "description": "The Smart Investment Assistant is an on-chain AI agent based on the ERC-8004 protocol, designed specifically for DeFi users. It analyzes market data in real time, automatically executes optimal trading strategies, manages portfolio risk, and supports custom parameter settings. The agent ensures transparent and secure transactions through smart contracts, and users can interact with it via simple commands, requiring no programming experience. Currently, a free trial and premium subscription models are available.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348941,
+  "txHash": "0x150fcd0e6462cf6e105b3ee61e221fc6835ab107003a2a1919264d28abeeb99e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Intelligent Investment Assistant",
+    "description": "The Smart Investment Assistant is an on-chain AI agent based on the ERC-8004 protocol, designed specifically for DeFi users. It analyzes market data in real time, automatically executes optimal trading strategies, manages portfolio risk, and supports custom parameter settings. The agent ensures transparent and secure transactions through smart contracts, and users can interact with it via simple commands, requiring no programming experience. Currently, a free trial and premium subscription models are available.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:45.552Z"
+}

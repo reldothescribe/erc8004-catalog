@@ -1,0 +1,22 @@
+{
+  "id": 17261,
+  "owner": "0x4618CcDfE3111C3b132735FCAd7DCeEbf8fcbDd7",
+  "chain": "ethereum",
+  "name": "PrimeNet_31",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349161,
+  "txHash": "0xbe266b243ea0e5a87f33280110dbb25fd34697a080b113b8257967ee14c9aee4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeNet_31",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.801Z"
+}

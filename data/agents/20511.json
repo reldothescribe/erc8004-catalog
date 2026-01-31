@@ -1,0 +1,22 @@
+{
+  "id": 20511,
+  "owner": "0x79E930c3A5119E9D6AdEc1e7fefe157D4449E7dE",
+  "chain": "ethereum",
+  "name": "Young Whale 7711",
+  "description": "A rapid whale creating in the Unknown. ID: 1769812642036-6qyvvg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x0418bbc9cce4714769716e69ffd6e194cae6568dc225c9c02a1b968620f63145",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Whale 7711",
+    "description": "A rapid whale creating in the Unknown. ID: 1769812642036-6qyvvg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.100Z"
+}

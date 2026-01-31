@@ -1,0 +1,22 @@
+{
+  "id": 19793,
+  "owner": "0x565953D1d360818D1486aF1dBAB6EAC2DB47f91E",
+  "chain": "ethereum",
+  "name": "Ageless Helm 6994",
+  "description": "A radiant helm giving in Paris. ID: 1769802613627-3ot4oi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349884,
+  "txHash": "0x46bba89781b5f7eceb239e20b4055eee7f91d9c6976db6da0bb8593b8c22c38c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ageless Helm 6994",
+    "description": "A radiant helm giving in Paris. ID: 1769802613627-3ot4oi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.666Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17617,
+  "owner": "0x320F2CB0E858769e2A3FEd4b66170A6Fa24FB4BD",
+  "chain": "ethereum",
+  "name": "NeoBot_5664",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x0539826595030636230b1003318dbcb86dac54557c76ab22f37cff398826ed36",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoBot_5664",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:57.007Z"
+}

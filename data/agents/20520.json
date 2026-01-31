@@ -1,0 +1,22 @@
+{
+  "id": 20520,
+  "owner": "0x23f5ae384043f6c653d7922C9fB0Bf2D487cc4B1",
+  "chain": "ethereum",
+  "name": "Lunar Planet 7865",
+  "description": "A determined planet working in Mars. ID: 1769812641373-jlb0xk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x3f45b164d9a6c74fe3497ec23fe5e54dac37fd1d223ecd4ba129ec80dd8ee002",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Planet 7865",
+    "description": "A determined planet working in Mars. ID: 1769812641373-jlb0xk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.577Z"
+}

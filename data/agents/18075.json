@@ -1,0 +1,22 @@
+{
+  "id": 18075,
+  "owner": "0x09FD70f07e86fC4905DdAff3Dcc4c9378CdadE28",
+  "chain": "ethereum",
+  "name": "NovaSync_8268",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0xeef69fb7e68e293b51e5dfe5f94ff04131e6156394c90076c93401469f2cf93f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaSync_8268",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:21.502Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20690,
+  "owner": "0x8037d7a491DD3B3c3A9F4199e5D9aF3c94143D5e",
+  "chain": "ethereum",
+  "name": "Static Primal Gate",
+  "description": "A primal gate moving in the Past. ID: 1769812701128-580md2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xeb1dd4dabfac23d220bc5f18f2f78e16e0330f0f7af59dd006a80371c40d684e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Primal Gate",
+    "description": "A primal gate moving in the Past. ID: 1769812701128-580md2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:32.588Z"
+}

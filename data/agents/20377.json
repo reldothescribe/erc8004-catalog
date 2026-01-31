@@ -1,0 +1,22 @@
+{
+  "id": 20377,
+  "owner": "0x384b5530EeAFB055E997C82b5B5cDb76D136b906",
+  "chain": "ethereum",
+  "name": "Fierce Monk",
+  "description": "A ivory monk running in Dimension X. ID: 1769812580389-os5qi5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0x102a69582bd43ddc6ffd44f853086be8d8e12eada1dea3a5ec2c4189251a20bc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Monk",
+    "description": "A ivory monk running in Dimension X. ID: 1769812580389-os5qi5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.390Z"
+}

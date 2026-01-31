@@ -1,0 +1,22 @@
+{
+  "id": 18066,
+  "owner": "0xDd8662Fd1635D035E5e96F6ba0e43D095123EAe7",
+  "chain": "ethereum",
+  "name": "QuantumCore_6891",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x61579e2208ef8cd5c653315f5b8b90acac105149ee5afa72f6aee7da446da80b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumCore_6891",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:20.991Z"
+}

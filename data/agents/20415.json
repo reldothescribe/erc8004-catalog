@@ -1,0 +1,22 @@
+{
+  "id": 20415,
+  "owner": "0x79E930c3A5119E9D6AdEc1e7fefe157D4449E7dE",
+  "chain": "ethereum",
+  "name": "Ageless Vortex",
+  "description": "A dynamic vortex selling in Andromeda. ID: 1769812601824-uuytyt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350713,
+  "txHash": "0x4bf8101eadd2d2373198f65834eb3312d4a9c6b053c88f0455f4060b32488790",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ageless Vortex",
+    "description": "A dynamic vortex selling in Andromeda. ID: 1769812601824-uuytyt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.439Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20451,
+  "owner": "0x94EF34c082fad6a1DfF5C7f3884BbDc35Acd4794",
+  "chain": "ethereum",
+  "name": "Primal Hydra",
+  "description": "A virtual hydra giving in the Block. ID: 1769812647329-wuq90a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xce399706746ced638d1f53da9896b931697ffee0338995b8463d34aa0cd81b5b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Hydra",
+    "description": "A virtual hydra giving in the Block. ID: 1769812647329-wuq90a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:14.976Z"
+}

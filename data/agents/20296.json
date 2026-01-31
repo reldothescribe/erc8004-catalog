@@ -1,0 +1,22 @@
+{
+  "id": 20296,
+  "owner": "0x42D46C954df6ED04F7d949fA886A1466ED9500fD",
+  "chain": "ethereum",
+  "name": "Gentle Comet",
+  "description": "A spectral comet giving in the Network. ID: 1769812482387-kisgh3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0x68d0299b1719721e8e479eb3acf71854e7d96d2185690d1146c9647b8de33bde",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Comet",
+    "description": "A spectral comet giving in the Network. ID: 1769812482387-kisgh3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.192Z"
+}

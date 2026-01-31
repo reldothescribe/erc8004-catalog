@@ -1,0 +1,22 @@
+{
+  "id": 20195,
+  "owner": "0x2523cB03C15BCA5210C7c2c48af128B677f3C379",
+  "chain": "ethereum",
+  "name": "Meta Hidden Phantom",
+  "description": "A hidden phantom crafting in DeFi. ID: 1769812385392-lh7a1z",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x349c72e7ce9a8dec6d1b114429e91be859f87ff5f87662f1e2a9c7050e695bab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Hidden Phantom",
+    "description": "A hidden phantom crafting in DeFi. ID: 1769812385392-lh7a1z",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:02.023Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20745,
+  "owner": "0xB194614F3b7953D97f01c80C7A15fc0e867b57c3",
+  "chain": "ethereum",
+  "name": "Cyber Bear 2235",
+  "description": "A temporal bear soaring in the Block. ID: 1769812720023-t9cmhf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x771de7e79d20a4e71f9a355e5311e1bf82456de9054bd6ddfd8fdc3e57b5d82c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cyber Bear 2235",
+    "description": "A temporal bear soaring in the Block. ID: 1769812720023-t9cmhf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.661Z"
+}

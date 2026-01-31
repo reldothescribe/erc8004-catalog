@@ -1,0 +1,22 @@
+{
+  "id": 20835,
+  "owner": "0x444e9EE2149588d0824B00BEb137a67c0455c00B",
+  "chain": "ethereum",
+  "name": "Arcane Ghost",
+  "description": "A found ghost dancing in the Metaverse. ID: 1769812740544-u4ns1r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xaec29aee7a39a633b61ed41ae62a1230937e4fa894407b0360d2be3772ac4ec6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Ghost",
+    "description": "A found ghost dancing in the Metaverse. ID: 1769812740544-u4ns1r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.268Z"
+}

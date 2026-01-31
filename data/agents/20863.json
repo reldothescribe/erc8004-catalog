@@ -1,0 +1,22 @@
+{
+  "id": 20863,
+  "owner": "0x2523cB03C15BCA5210C7c2c48af128B677f3C379",
+  "chain": "ethereum",
+  "name": "Digital Data",
+  "description": "A sapphire data coding in Time. ID: 1769812703727-603kbn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x72dba7c3d1d0dcdce6b1d4825e643aefba75be6535f01fe6a3a9a1918c5fb181",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Data",
+    "description": "A sapphire data coding in Time. ID: 1769812703727-603kbn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.806Z"
+}

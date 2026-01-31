@@ -1,0 +1,22 @@
+{
+  "id": 18378,
+  "owner": "0x7dD1aBAfc1b1575CE72337D206f214895c16c025",
+  "chain": "ethereum",
+  "name": "AxiWave_6ea5",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349254,
+  "txHash": "0xdac336aa9016ec10366f46252c55fb000a49b6d1a8b0de20d7f42936f4b47a18",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiWave_6ea5",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:37.890Z"
+}

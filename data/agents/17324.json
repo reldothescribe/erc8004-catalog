@@ -1,0 +1,22 @@
+{
+  "id": 17324,
+  "owner": "0x88786af03bDEA0f4B2FC205e883b84Fd134031E7",
+  "chain": "ethereum",
+  "name": "UltraLink_3394",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0xe896f628c6dd1f70cd71c5f94a8a4db694061fa8b7e6bf811b454ca862a56500",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraLink_3394",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.340Z"
+}

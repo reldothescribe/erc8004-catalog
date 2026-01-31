@@ -1,0 +1,22 @@
+{
+  "id": 20166,
+  "owner": "0xa485F12123EdBaCEFae4E74D6F3ffdd37ddF34D1",
+  "chain": "ethereum",
+  "name": "Synthetic Leviathan",
+  "description": "A lost leviathan protecting in Andromeda. ID: 1769812372388-g4d844",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0x9d3766f1b34d79dccafd73f2f0a38eb17c5c41a799fa44276de57993444587e1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Leviathan",
+    "description": "A lost leviathan protecting in Andromeda. ID: 1769812372388-g4d844",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.538Z"
+}

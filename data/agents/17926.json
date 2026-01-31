@@ -1,0 +1,22 @@
+{
+  "id": 17926,
+  "owner": "0x6C8BbB0E7eE91b049dd12BA5FB99999207d602e4",
+  "chain": "ethereum",
+  "name": "NovaHub_1919",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x111ba37748b54ea2006897ea8ac8c570e187892d812a3c973bad348f9f5918dd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaHub_1919",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:13.211Z"
+}

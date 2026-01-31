@@ -1,0 +1,22 @@
+{
+  "id": 19818,
+  "owner": "0x2523cB03C15BCA5210C7c2c48af128B677f3C379",
+  "chain": "ethereum",
+  "name": "Astral Star",
+  "description": "A holographic star keeping in Mystery. ID: 1769802701351-9r6vdk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349891,
+  "txHash": "0x2c6703ca41e56eca35626bc2fd6b6244b3a9c7badf532677739a3f3a6582f692",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Star",
+    "description": "A holographic star keeping in Mystery. ID: 1769802701351-9r6vdk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:54.658Z"
+}

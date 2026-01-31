@@ -1,0 +1,25 @@
+{
+  "id": 16294,
+  "owner": "0xC8CED5c1C7EA95512eef9Ecfa29B7079c73Ef1FD",
+  "chain": "ethereum",
+  "name": "abc1",
+  "description": "abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348951,
+  "txHash": "0x49d47091c627b43c4c4fa58c21bb6432d30ecc9d40be7ed1f5046b374a32d49f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "abc1",
+    "description": "abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1abc1",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:16:46.577Z"
+}

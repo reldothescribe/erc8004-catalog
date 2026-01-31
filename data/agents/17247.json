@@ -1,0 +1,22 @@
+{
+  "id": 17247,
+  "owner": "0x9e413C753acbba1fd8E859b298dC861C03ca1876",
+  "chain": "ethereum",
+  "name": "QuantumNet_7649",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349161,
+  "txHash": "0xc2628d3010dc4819419bee095d6f68de73184db10fa1ac7af7daa257f1b253c1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumNet_7649",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.289Z"
+}

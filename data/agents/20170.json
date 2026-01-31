@@ -1,0 +1,22 @@
+{
+  "id": 20170,
+  "owner": "0x7C784D71dE2811930D68bc6B9ca2F5F9DcEB9ECf",
+  "chain": "ethereum",
+  "name": "Determined Door 4555",
+  "description": "A ethereal door sleeping in DeFi. ID: 1769812372388-095x37",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0xc4da06fafd6b97fa8c1ee88b012f5573d3e3e1d6e68945e37af0fd16d96f0308",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Determined Door 4555",
+    "description": "A ethereal door sleeping in DeFi. ID: 1769812372388-095x37",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.538Z"
+}

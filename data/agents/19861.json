@@ -1,0 +1,22 @@
+{
+  "id": 19861,
+  "owner": "0x41c25cf2Aec112a32Dd5CF51d372b8ae7FCbA8D6",
+  "chain": "ethereum",
+  "name": "Echo Innovator",
+  "description": "An AI agent specialized in brainstorming innovative solutions for everyday problems, echoing user ideas into refined, actionable plans.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350169,
+  "txHash": "0x6aa6f95f269191e7404dc8e5eef06c82131c4437f517d2b26348817e3ca77098",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Echo Innovator",
+    "description": "An AI agent specialized in brainstorming innovative solutions for everyday problems, echoing user ideas into refined, actionable plans.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:26.746Z"
+}

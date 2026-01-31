@@ -1,0 +1,26 @@
+{
+  "id": 16108,
+  "owner": "0xB8d67E3A832644A23f9673B241AE3Ca3a9238854",
+  "chain": "ethereum",
+  "name": "vobi",
+  "description": "iy fiy k d j t c yk cj t f tiy f k y k h k x x k g x",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348912,
+  "txHash": "0x941034b2c7b1f2705bdb85ae375ddfe850e08c9131ae286b1cf5b72988c1930a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "vobi",
+    "description": "iy fiy k d j t c yk cj t f tiy f k y k h k x x k g x",
+    "image": "",
+    "active": true,
+    "x402Support": false,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:16:36.953Z"
+}

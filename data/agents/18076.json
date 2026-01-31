@@ -1,0 +1,22 @@
+{
+  "id": 18076,
+  "owner": "0xb63Abbef9ea0a19FD8479c3d170f79d986c4731a",
+  "chain": "ethereum",
+  "name": "CyberSync_429",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x4b84df1bfa0b0d8c41e5e5a3fe68a93fe78943d0d1fae766b3ba7b5f16763238",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberSync_429",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:21.503Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18088,
+  "owner": "0xA178Eaf70Dcdcdb24b38368Acae44ad06ccBb134",
+  "chain": "ethereum",
+  "name": "NovaCore_1111",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x08601dee0b8eb2e1f8529ee2be192c19605f7508d92d1ebaeb7343f222db4151",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaCore_1111",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:22.017Z"
+}

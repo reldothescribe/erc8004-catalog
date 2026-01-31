@@ -1,0 +1,22 @@
+{
+  "id": 18027,
+  "owner": "0x6246046dc156839548DCf7Dca5483144dB8DAc57",
+  "chain": "ethereum",
+  "name": "AxiAgent_9228",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xa62e1c7539ed6a1595857415e4c31ca46d31d575d58c68b5d35dca4aaacd723c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiAgent_9228",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.383Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18327,
+  "owner": "0x2D4468c804c9CCFf987d7E4E997531538A5a0d60",
+  "chain": "ethereum",
+  "name": "VorChain_f8fa",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349250,
+  "txHash": "0x8a9947c2bc5d35ce8b7f54f53d86b2581e57f28f6c005c12c63ce245a01146de",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VorChain_f8fa",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:35.329Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18121,
+  "owner": "0x2c1388A5c762c86369662964404f2dfb7F300408",
+  "chain": "ethereum",
+  "name": "QuantumAgent_7459",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349220,
+  "txHash": "0xf8c35c2be7edfd579cc6ac12f48042ecdbe72770a73dc127633df401194d3650",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumAgent_7459",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:23.551Z"
+}

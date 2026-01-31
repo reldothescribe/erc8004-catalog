@@ -1,0 +1,22 @@
+{
+  "id": 20367,
+  "owner": "0x8037d7a491DD3B3c3A9F4199e5D9aF3c94143D5e",
+  "chain": "ethereum",
+  "name": "Hyper Network",
+  "description": "A liquid network fighting in Paris. ID: 1769812567748-zbg4np",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350710,
+  "txHash": "0x4aca2d08d9f065b6c098ac7a8f09126973e8778110f102bd1408f3bb9e36de63",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Network",
+    "description": "A liquid network fighting in Paris. ID: 1769812567748-zbg4np",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:10.735Z"
+}

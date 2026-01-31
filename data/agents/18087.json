@@ -1,0 +1,22 @@
+{
+  "id": 18087,
+  "owner": "0x1114848944860ba17bF784f879154017C5D03696",
+  "chain": "ethereum",
+  "name": "PrimeLink_3249",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x18248b1bf11fd2454e705cca62a4eea5d9c0d6da06f5843e534d96e139e87e06",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeLink_3249",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:22.017Z"
+}

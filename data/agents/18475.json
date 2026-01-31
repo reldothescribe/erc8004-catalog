@@ -1,0 +1,22 @@
+{
+  "id": 18475,
+  "owner": "0x42129EEf228e398d18295E9d765f6b12eA9E106e",
+  "chain": "ethereum",
+  "name": "ZenVault_af6c",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349262,
+  "txHash": "0xd8a3454ae836c39b777b3db2c99e118c284b2a5245bececc02dfe28e8a57f9f1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ZenVault_af6c",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:43.009Z"
+}

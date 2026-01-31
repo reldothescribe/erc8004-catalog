@@ -1,0 +1,22 @@
+{
+  "id": 20767,
+  "owner": "0x82aFB9D4088598D65b57bcE6e269e87b12e966cF",
+  "chain": "ethereum",
+  "name": "Sentient Sky",
+  "description": "A chaotic sky destroying in the Center. ID: 1769812703727-cxbsxe",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x3e38563cb0eb032d496c79a4b3d48ceab643c8c033bf05e9a396369d7115f39e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sentient Sky",
+    "description": "A chaotic sky destroying in the Center. ID: 1769812703727-cxbsxe",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.684Z"
+}

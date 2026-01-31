@@ -1,0 +1,22 @@
+{
+  "id": 19960,
+  "owner": "0x5f6a353c4AB6127a97487d11D18d49698D1E3A2a",
+  "chain": "ethereum",
+  "name": "Fierce Algorithm",
+  "description": "A valiant algorithm forging in the Summit. ID: 1769806772437-4jj08w",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350229,
+  "txHash": "0x9ce00db9938bea2807388bf188b10b8139220d820575f11147716a87f76d8198",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Algorithm",
+    "description": "A valiant algorithm forging in the Summit. ID: 1769806772437-4jj08w",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.110Z"
+}

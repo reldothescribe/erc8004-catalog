@@ -1,0 +1,22 @@
+{
+  "id": 17225,
+  "owner": "0x1B6F20C51E5263112B2E5feB25F95b09302a0144",
+  "chain": "ethereum",
+  "name": "UltraFlow_4321",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349160,
+  "txHash": "0x8d4231d3374c3291f5d29e2ab6aedb7db93854c7e5148bb8cdff4321d2fa475b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraFlow_4321",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:37.218Z"
+}

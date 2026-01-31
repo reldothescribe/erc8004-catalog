@@ -1,0 +1,22 @@
+{
+  "id": 17276,
+  "owner": "0x76d9848E5f72a69599301e3C6b83028311cF0BEa",
+  "chain": "ethereum",
+  "name": "UltraAgent_2164",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349162,
+  "txHash": "0x2acf4bdc757204895720e4154212dc235ad842dda82b0c68efe944586d1981e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraAgent_2164",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:39.826Z"
+}

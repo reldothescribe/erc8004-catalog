@@ -1,0 +1,22 @@
+{
+  "id": 18502,
+  "owner": "0x501cF558D3F592229040D21490e9cD31208180c6",
+  "chain": "ethereum",
+  "name": "NexBot_c04c",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349265,
+  "txHash": "0x87c5a7a50e26436c292f8350b49e71064edcad1ba43c97740e948fdeabb9eecd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexBot_c04c",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:44.034Z"
+}

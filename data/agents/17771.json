@@ -1,0 +1,22 @@
+{
+  "id": 17771,
+  "owner": "0xf67b1790Ff617AFE4F3cAFba6c98aE1d019fF982",
+  "chain": "ethereum",
+  "name": "PrimeCore_7565",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0xb7dfd8f25825a3cba2f1ec5f72f1d0474a5c33487a5bb1c0db179fa934995c08",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeCore_7565",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.655Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18218,
+  "owner": "0xfC1Fc8323Fe1BaA56CbbA378cC072D8605FBe5F5",
+  "chain": "ethereum",
+  "name": "PrimeFlow_461",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349224,
+  "txHash": "0xc22d96af97312ea89ed5967e9dedc590b1b0dadbe8d22e653350840ee1c70aa6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeFlow_461",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:29.798Z"
+}

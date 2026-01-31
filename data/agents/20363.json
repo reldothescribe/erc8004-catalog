@@ -1,0 +1,22 @@
+{
+  "id": 20363,
+  "owner": "0xd0F18Bc62cEE2Cb49b771F2470D95574B1cB1964",
+  "chain": "ethereum",
+  "name": "Wise Sun",
+  "description": "A silver sun writing in New York. ID: 1769812567748-5od12k",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350710,
+  "txHash": "0x9474a5419dd8b91846707778f4a038465103f971eab07cf82769695d0ae5db7f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Wise Sun",
+    "description": "A silver sun writing in New York. ID: 1769812567748-5od12k",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:10.720Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20192,
+  "owner": "0x558c9Ad37d48Bb174b5CFa2bbfbfC1589986bbC0",
+  "chain": "ethereum",
+  "name": "Ancient Vector 2196",
+  "description": "A amber vector falling in the Ledger. ID: 1769812385395-bhyxok",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x6e69bd8cf1c3c430ab651b3872658bc449e6c651705d126b1fa0742df098501f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ancient Vector 2196",
+    "description": "A amber vector falling in the Ledger. ID: 1769812385395-bhyxok",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.560Z"
+}

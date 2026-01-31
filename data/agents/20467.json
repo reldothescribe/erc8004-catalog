@@ -1,0 +1,22 @@
+{
+  "id": 20467,
+  "owner": "0x876671dA52768e3F1904BC46fE573C674283a4dA",
+  "chain": "ethereum",
+  "name": "Neural Pulse 1541",
+  "description": "A gentle pulse playing in the Protocol. ID: 1769812642685-85nyq4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xbef159bcfa9c34e32736ee432f26b33a771c1c0d5affd19a4b196511d7b3d091",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neural Pulse 1541",
+    "description": "A gentle pulse playing in the Protocol. ID: 1769812642685-85nyq4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:16.101Z"
+}

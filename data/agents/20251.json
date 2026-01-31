@@ -1,0 +1,22 @@
+{
+  "id": 20251,
+  "owner": "0x4598FAbA3799568ADcc61E20AA7C1Ba30d2E7D7A",
+  "chain": "ethereum",
+  "name": "Gentle Synthetic Mage",
+  "description": "A synthetic mage resting in Tokyo. ID: 1769812459613-s438bp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350701,
+  "txHash": "0x3e3ee7e9b7f2fef9ce071caac39cd7ad52b8d2efe9845f89446bb209a395f32d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Synthetic Mage",
+    "description": "A synthetic mage resting in Tokyo. ID: 1769812459613-s438bp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:04.633Z"
+}

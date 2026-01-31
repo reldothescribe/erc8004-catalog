@@ -1,0 +1,22 @@
+{
+  "id": 20775,
+  "owner": "0x7aE24d746055586fe2849E3f50495e0bbC22c320",
+  "chain": "ethereum",
+  "name": "Synthetic Titan",
+  "description": "A savage titan shaping in Jupiter. ID: 1769812703727-lsl8nv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x7761e5614113a7e50296c98021d03cd370d9e98fa8d2f83ff4dc39d9377c0c19",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Titan",
+    "description": "A savage titan shaping in Jupiter. ID: 1769812703727-lsl8nv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.200Z"
+}

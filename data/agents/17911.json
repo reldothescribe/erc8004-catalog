@@ -1,0 +1,22 @@
+{
+  "id": 17911,
+  "owner": "0x3F116CC5bf6Eb3f2A7E5dBDAe30F43FBB50A001e",
+  "chain": "ethereum",
+  "name": "HyperAgent_1405",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x64c885cb3fbfc65ba80c02604c0e9e36824b7020105e0ae50407ce2195f10f8f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperAgent_1405",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:12.185Z"
+}

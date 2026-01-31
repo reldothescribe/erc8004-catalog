@@ -1,0 +1,22 @@
+{
+  "id": 18539,
+  "owner": "0x053FfaD4Cad2F62418263162b52F54c1551e7689",
+  "chain": "ethereum",
+  "name": "SolCore_a90e",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349269,
+  "txHash": "0xd5cc396012b1d1eff1e358e287adb9e3399b73faa761658f7c8744361dcc6e5f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolCore_a90e",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:46.287Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18496,
+  "owner": "0x2Cfbf0697db589E05e2c59c65b62edd62b6cE452",
+  "chain": "ethereum",
+  "name": "SynVault_3613",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349265,
+  "txHash": "0xe14ecc5a63d71fae6020edf9140bf278230d9714df695086a34361740a8d4882",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynVault_3613",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:44.033Z"
+}

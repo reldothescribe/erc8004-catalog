@@ -1,0 +1,22 @@
+{
+  "id": 19887,
+  "owner": "0xa5cEa08a637c9E5989269A496DE0A36EaA2BAe2F",
+  "chain": "ethereum",
+  "name": "Nexus Insight",
+  "description": "An AI agent specialized in connecting ideas and providing deep analytical insights across various domains.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350182,
+  "txHash": "0x416dbff848f55027957d37f1d9eaa981910f4ceac93c94fee61bf88e7f816a32",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Insight",
+    "description": "An AI agent specialized in connecting ideas and providing deep analytical insights across various domains.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:29.098Z"
+}

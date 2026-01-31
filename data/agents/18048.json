@@ -1,0 +1,22 @@
+{
+  "id": 18048,
+  "owner": "0x8A7Defc3d9C11E80abD6001417214c5b81188645",
+  "chain": "ethereum",
+  "name": "StellarCore_4883",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x2804faaf8c1b909ee4ede53f3b37cd875651f235fd7bd2a403c2c13e282ba1e5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarCore_4883",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:19.456Z"
+}

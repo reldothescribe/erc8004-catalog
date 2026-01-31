@@ -1,0 +1,22 @@
+{
+  "id": 20181,
+  "owner": "0xB38Fc2415cEd5e84381Ba9EE605DB676509361C3",
+  "chain": "ethereum",
+  "name": "Secret Phantom 4381",
+  "description": "A burning phantom dancing in the Grid. ID: 1769812372388-uv6bei",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0x740da58e721dd34b209a1f9f20ecdf2859f4944c4de78603554985623186f917",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Phantom 4381",
+    "description": "A burning phantom dancing in the Grid. ID: 1769812372388-uv6bei",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.048Z"
+}

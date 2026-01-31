@@ -1,0 +1,22 @@
+{
+  "id": 20388,
+  "owner": "0x91892DfF15c1a731B5837305889f8717BFaad93B",
+  "chain": "ethereum",
+  "name": "Frozen Gate 284",
+  "description": "A synthetic gate falling in the Chain. ID: 1769812580389-ixbvxr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0x4fe15870d73f784e5f0b58aa8a8b30b660513c0cd679518ae06090a33e6028b9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Gate 284",
+    "description": "A synthetic gate falling in the Chain. ID: 1769812580389-ixbvxr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.903Z"
+}

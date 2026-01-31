@@ -1,0 +1,22 @@
+{
+  "id": 20624,
+  "owner": "0xB4B28fAe4c438285a38EB8f72d6C4891656736b3",
+  "chain": "ethereum",
+  "name": "Hidden Warrior",
+  "description": "A frozen warrior crafting in the Hash. ID: 1769812675498-19zxoq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x8c6d5b1beb6b9184b7d9be3af99b634e2f82e3233b579861005493ca289ed3a4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Warrior",
+    "description": "A frozen warrior crafting in the Hash. ID: 1769812675498-19zxoq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.192Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20294,
+  "owner": "0x565953D1d360818D1486aF1dBAB6EAC2DB47f91E",
+  "chain": "ethereum",
+  "name": "Onyx Guardian",
+  "description": "A frozen guardian resting in Technology. ID: 1769812482388-dn959e",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0xd6921b5d0e20e731515a077d8fd3865ec961dfb9e206a84fcdf2f4a32fa9ce73",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Onyx Guardian",
+    "description": "A frozen guardian resting in Technology. ID: 1769812482388-dn959e",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:07.192Z"
+}

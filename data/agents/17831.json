@@ -1,0 +1,22 @@
+{
+  "id": 17831,
+  "owner": "0xa7B2e67dcd1581B3d764b2752af21d93E6a4C637",
+  "chain": "ethereum",
+  "name": "NovaLink_9927",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x0725684d4cc605980eb1b116757100c0b2eb57ced24df13cefa0e7cab0aa753a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaLink_9927",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:08.107Z"
+}

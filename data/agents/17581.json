@@ -1,0 +1,22 @@
+{
+  "id": 17581,
+  "owner": "0xA18810adF5B59fF0f4ADe9cf39aae8743121ac32",
+  "chain": "ethereum",
+  "name": "MetaCore_2050",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x4f8235e3dfeef154426aaad7cf0ee9b3fadab0e3740f0a195c5dfa3884677552",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaCore_2050",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:55.089Z"
+}

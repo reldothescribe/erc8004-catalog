@@ -1,0 +1,22 @@
+{
+  "id": 19944,
+  "owner": "0x30FEc1535501e43da409EdD1afd3C316f1a2EA4E",
+  "chain": "ethereum",
+  "name": "Noble Ruby Cipher",
+  "description": "A ruby cipher painting in the Network. ID: 1769806673686-7jkfgd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350220,
+  "txHash": "0xe558380a02f39894cab0026a269bb6054eb197bcc3c8da5443abeb9610eb955a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Noble Ruby Cipher",
+    "description": "A ruby cipher painting in the Network. ID: 1769806673686-7jkfgd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.597Z"
+}

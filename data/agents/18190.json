@@ -1,0 +1,22 @@
+{
+  "id": 18190,
+  "owner": "0x678C22bE8FEF03726A6d1C3D8A424146eAC95756",
+  "chain": "ethereum",
+  "name": "NeoSync_5297",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xf1350888747083550c4370563b9b69d7b1f5bf503329a6860f59255f49982b94",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoSync_5297",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.332Z"
+}

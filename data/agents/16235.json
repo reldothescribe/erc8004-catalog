@@ -1,0 +1,22 @@
+{
+  "id": 16235,
+  "owner": "0x8eF49b95981af334bE4660fe8343364188628177",
+  "chain": "ethereum",
+  "name": "TYREVOR",
+  "description": "00101",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348917,
+  "txHash": "0xa99cda259a841d3814e5e9c3b5230a0b6cb0f4f8b36bc953d3ef6f78eeca07f9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "TYREVOR",
+    "description": "00101",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:43.570Z"
+}

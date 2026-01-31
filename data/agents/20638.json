@@ -1,0 +1,22 @@
+{
+  "id": 20638,
+  "owner": "0xD5Cac16F69Fde4b57f3CD29a0d164d30F00e5fBD",
+  "chain": "ethereum",
+  "name": "Alpha Colossus 2163",
+  "description": "A iron colossus crafting in the DAO. ID: 1769812676750-g6lc2w",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x5f61dc2114644cec4096c1c68ce7a325e6ac92728515cff5323cee96e53a9368",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Alpha Colossus 2163",
+    "description": "A iron colossus crafting in the DAO. ID: 1769812676750-g6lc2w",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.702Z"
+}

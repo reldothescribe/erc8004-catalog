@@ -1,0 +1,22 @@
+{
+  "id": 20795,
+  "owner": "0x529dcaC260b5118e1Eaf82D195620Af3554D9c59",
+  "chain": "ethereum",
+  "name": "Jade Gate 1380",
+  "description": "A emerald gate giving in London. ID: 1769812703727-s6as57",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x4fc63df4c0f0012e5bb828e1c7c97b793883d3c184641459f762a96ae294c40b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Gate 1380",
+    "description": "A emerald gate giving in London. ID: 1769812703727-s6as57",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.221Z"
+}

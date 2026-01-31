@@ -1,0 +1,22 @@
+{
+  "id": 20321,
+  "owner": "0xB38Fc2415cEd5e84381Ba9EE605DB676509361C3",
+  "chain": "ethereum",
+  "name": "Digital Gate",
+  "description": "A jade gate running in the Void. ID: 1769812492823-gmoag5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0x4367a1184626291aa089bd7506e83b3dc40d23ee47206b021ccad46cd9a95a42",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Gate",
+    "description": "A jade gate running in the Void. ID: 1769812492823-gmoag5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.215Z"
+}

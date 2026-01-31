@@ -1,0 +1,22 @@
+{
+  "id": 15712,
+  "owner": "0x16070E99fA3CCE18A4514854070472b5fA52A5CD",
+  "chain": "ethereum",
+  "name": "blobAI",
+  "description": "ai agent for blob\nnext generation of ai\ndevelop for web3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348886,
+  "txHash": "0x2814547a06ac9e1e250ef3c0f491f147a9848cf3674bce0810a92ae51b30ad43",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "blobAI",
+    "description": "ai agent for blob\nnext generation of ai\ndevelop for web3",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:16.422Z"
+}

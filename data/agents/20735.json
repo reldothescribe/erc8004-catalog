@@ -1,0 +1,22 @@
+{
+  "id": 20735,
+  "owner": "0xD1dAF1EEcea3f7016d306e0499572BC11549C21C",
+  "chain": "ethereum",
+  "name": "Valiant Tempest 9993",
+  "description": "A crimson tempest trading in Jupiter. ID: 1769812718750-tv9rmo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xe7c4292c888d1076fce5ac1bc5bcb3731446e51666419c672f645994070fb804",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Tempest 9993",
+    "description": "A crimson tempest trading in Jupiter. ID: 1769812718750-tv9rmo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.149Z"
+}

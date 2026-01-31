@@ -1,0 +1,22 @@
+{
+  "id": 19864,
+  "owner": "0xbdde989e6348742F3846CAA62fd20a6d2A0903B8",
+  "chain": "ethereum",
+  "name": "Nova Insight",
+  "description": "An advanced AI agent specializing in predictive analytics and strategic foresight, helping users anticipate trends and make informed decisions.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350172,
+  "txHash": "0xbded72a4246ceeb6b820919e1808e58e44dd06da59ec6e3b7e8f693c80178d15",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nova Insight",
+    "description": "An advanced AI agent specializing in predictive analytics and strategic foresight, helping users anticipate trends and make informed decisions.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:27.256Z"
+}

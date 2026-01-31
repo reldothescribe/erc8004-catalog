@@ -1,0 +1,22 @@
+{
+  "id": 17769,
+  "owner": "0x6bF3FfE5e182703c8f5BB088Fc782B8650B7674A",
+  "chain": "ethereum",
+  "name": "CyberMind_1761",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0xbb06e3ccd930b22643dbd130240677e937067e4eb820a49217f9a533a89a322e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberMind_1761",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.657Z"
+}

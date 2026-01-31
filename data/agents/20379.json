@@ -1,0 +1,22 @@
+{
+  "id": 20379,
+  "owner": "0x7D56c72E1D75f647bE533021fa7ec10ad3Ae03cA",
+  "chain": "ethereum",
+  "name": "Future Dragon",
+  "description": "A sapphire dragon building in the Void. ID: 1769812580389-m9mghp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0x22d0d18f546c75f6ee5e4395e69b8f3515c91c98be4358383c2e43a9c5f4d164",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Dragon",
+    "description": "A sapphire dragon building in the Void. ID: 1769812580389-m9mghp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.390Z"
+}

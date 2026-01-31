@@ -1,0 +1,22 @@
+{
+  "id": 20701,
+  "owner": "0xAb3eB869d2a44b60A758ebFc7462cf05Cefec3F8",
+  "chain": "ethereum",
+  "name": "Hidden Bridge 3237",
+  "description": "A crypto bridge molding in Pluto. ID: 1769812701128-5t3oqr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xc1415d53ca4cd2d3b9702097e3a103aee39aa69996a4597c824f4af21771678b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Bridge 3237",
+    "description": "A crypto bridge molding in Pluto. ID: 1769812701128-5t3oqr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.102Z"
+}

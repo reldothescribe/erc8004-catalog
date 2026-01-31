@@ -1,0 +1,22 @@
+{
+  "id": 17747,
+  "owner": "0xFE590A4956c8B83D2788B5684d5d7326a821BA2A",
+  "chain": "ethereum",
+  "name": "StellarNet_2494",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0x01a978d10408f2ec6463aa7b72bb576754cfd51358567d151287df00afa3a290",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNet_2494",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:03.685Z"
+}

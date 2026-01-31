@@ -1,0 +1,22 @@
+{
+  "id": 18155,
+  "owner": "0xfB874b13d259297287e375CF2dd899280EA3E3c7",
+  "chain": "ethereum",
+  "name": "QuantumSync_6899",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0x0eed5619dc9314ebe17b27510da85f946beec10a4689ba86b0fe767fd632d6b5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumSync_6899",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:25.708Z"
+}

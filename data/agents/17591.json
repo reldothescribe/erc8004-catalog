@@ -1,0 +1,22 @@
+{
+  "id": 17591,
+  "owner": "0xD6331AF97D16b69555Be450Ad3F1296DF74983dD",
+  "chain": "ethereum",
+  "name": "AxiNode_5651",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0xbc66d9522bd9ba72fb84c029d93c547e998e5e5b1287947f67873eb76986f120",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiNode_5651",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:55.600Z"
+}

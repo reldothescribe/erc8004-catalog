@@ -1,0 +1,22 @@
+{
+  "id": 17791,
+  "owner": "0xaA19b9ed36012b50e4E07dAF512663b64E2cD8F5",
+  "chain": "ethereum",
+  "name": "MetaBot_5609",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0xb5f152fecca853d01b978a2578bcba00084b56cd571f41091488c955ba69f2d5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaBot_5609",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:06.040Z"
+}

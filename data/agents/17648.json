@@ -1,0 +1,22 @@
+{
+  "id": 17648,
+  "owner": "0xA2c8e9B78A70067e82A77848d6a2b972A83d1A51",
+  "chain": "ethereum",
+  "name": "PrimeLink_2607",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349184,
+  "txHash": "0x9f74cb75a7c12e4197178be9537c28efe8967e9bded38409515b04470ee05ea9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeLink_2607",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:58.520Z"
+}

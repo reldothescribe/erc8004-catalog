@@ -1,0 +1,22 @@
+{
+  "id": 17970,
+  "owner": "0x923B29E54497f2c3Cb6B90B669Cd7981a38bB71A",
+  "chain": "ethereum",
+  "name": "NovaLink_7624",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x401081e51d91b242d1b0b4dfab7055137e38b24b7141ced6e48452080d777d46",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaLink_7624",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:15.360Z"
+}

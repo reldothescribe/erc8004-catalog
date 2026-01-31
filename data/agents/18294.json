@@ -1,0 +1,22 @@
+{
+  "id": 18294,
+  "owner": "0xb53f9c8571bc0Fa6a8904cF7f0aa652882A5050f",
+  "chain": "ethereum",
+  "name": "PyrCore_8a4b",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349248,
+  "txHash": "0x19d09581ec7f939a66515f92a5e9fb07f68b052e925e1aa62e05872d6759bb4e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PyrCore_8a4b",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:33.792Z"
+}

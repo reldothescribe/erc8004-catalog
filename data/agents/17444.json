@@ -1,0 +1,22 @@
+{
+  "id": 17444,
+  "owner": "0x7d5950c785E19d122f7bAFb80DfD1aa315c088F1",
+  "chain": "ethereum",
+  "name": "AxiSync_7520",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xf850e0905ca3327a4a0832bab678b280a6a95b6c983fab1f940aee321dd55ac9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiSync_7520",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:48.531Z"
+}

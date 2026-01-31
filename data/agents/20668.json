@@ -1,0 +1,22 @@
+{
+  "id": 20668,
+  "owner": "0xc9D7C09E32ae8B422047fa9c8E14ec4dba671692",
+  "chain": "ethereum",
+  "name": "Bounded Watcher",
+  "description": "A future watcher losing in the Metaverse. ID: 1769812674861-kwpqr1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x0034aad814628e16f2c62d3b76d4b77596f8f619f06bbb0a73163cb7496fec51",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bounded Watcher",
+    "description": "A future watcher losing in the Metaverse. ID: 1769812674861-kwpqr1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.238Z"
+}

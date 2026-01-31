@@ -1,0 +1,22 @@
+{
+  "id": 20648,
+  "owner": "0xeAEEf21647AB21110AA174B819893ff4995Bfd4b",
+  "chain": "ethereum",
+  "name": "Magnetic Monk",
+  "description": "A savage monk carving in the Depths. ID: 1769812676108-g71wr5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x3bd8e525a9a202cb93a93b01e171505fdacefb58403ec80de8e1cab259d110c2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Magnetic Monk",
+    "description": "A savage monk carving in the Depths. ID: 1769812676108-g71wr5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.216Z"
+}

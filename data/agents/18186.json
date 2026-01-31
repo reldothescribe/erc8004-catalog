@@ -1,0 +1,22 @@
+{
+  "id": 18186,
+  "owner": "0xA4317C3fBD33b6527AEA1012CD1B662d16992A08",
+  "chain": "ethereum",
+  "name": "StellarNet_7361",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xe94573fbc458d24b178b59337482a8a4df76e190d85efd3916f8c108ceb5a253",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNet_7361",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.332Z"
+}

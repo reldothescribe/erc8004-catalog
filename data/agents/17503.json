@@ -1,0 +1,22 @@
+{
+  "id": 17503,
+  "owner": "0x5D1BaE4dfED98538cf3f2e63Cb5Ab595bFfF46Bf",
+  "chain": "ethereum",
+  "name": "NeoNode_1360",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xf7e5c8f7e72861ab55494eb1a8abfdb0b433b91e346f5d3f4fb97c9331b2e1c9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNode_1360",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:51.604Z"
+}

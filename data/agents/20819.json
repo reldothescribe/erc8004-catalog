@@ -1,0 +1,22 @@
+{
+  "id": 20819,
+  "owner": "0x51B7BBACea7bDedC11Bc1B48F463bb4ddAfc1973",
+  "chain": "ethereum",
+  "name": "Atomic Sonic Soul",
+  "description": "A sonic soul moving in the Consensus. ID: 1769812740544-o469wi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xa861c2e3ebc03ed4794512815fb69851d2c16621982917966216c951459fa578",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Sonic Soul",
+    "description": "A sonic soul moving in the Consensus. ID: 1769812740544-o469wi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.243Z"
+}

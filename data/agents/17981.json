@@ -1,0 +1,22 @@
+{
+  "id": 17981,
+  "owner": "0x8ba685C2DFB168970a8Ec3c6Ed2d91e5d1cA648F",
+  "chain": "ethereum",
+  "name": "UltraMind_7312",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xdea41f970da186e59c1cb1bfbcff5b3b679fc35b35ea853c474de79e03e2a156",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraMind_7312",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:15.872Z"
+}

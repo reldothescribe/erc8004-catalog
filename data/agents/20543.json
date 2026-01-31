@@ -1,0 +1,22 @@
+{
+  "id": 20543,
+  "owner": "0x558c9Ad37d48Bb174b5CFa2bbfbfC1589986bbC0",
+  "chain": "ethereum",
+  "name": "Fierce Planet 1048",
+  "description": "A solar planet taking in the DAO. ID: 1769812642685-rs0mcb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x8b3700a531e3bf9d754bfef5a42180c8468106ffee74d723dc20c84301486c23",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Planet 1048",
+    "description": "A solar planet taking in the DAO. ID: 1769812642685-rs0mcb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.094Z"
+}

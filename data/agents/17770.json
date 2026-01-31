@@ -1,0 +1,22 @@
+{
+  "id": 17770,
+  "owner": "0xB3bf46e53868fE403ea9bB298AC7999A4a73Fd97",
+  "chain": "ethereum",
+  "name": "PrimeMind_2034",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0xfb95e16f98dea876d3439972760c2e16403b9625f967d2e8938514324fa2153d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeMind_2034",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.657Z"
+}

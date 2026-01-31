@@ -1,0 +1,22 @@
+{
+  "id": 20334,
+  "owner": "0x9bbd5211B64028E6ce22D3De69286c92BAf90fe9",
+  "chain": "ethereum",
+  "name": "Golden Wanderer",
+  "description": "A liquid wanderer thinking in the Depths. ID: 1769812503121-7nuvi1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0x73697d7940231472e165daab377f813fe2f06d1f007bb2281780540dc4991663",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Wanderer",
+    "description": "A liquid wanderer thinking in the Depths. ID: 1769812503121-7nuvi1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:09.246Z"
+}

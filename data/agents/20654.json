@@ -1,0 +1,22 @@
+{
+  "id": 20654,
+  "owner": "0xe51eDE7595E9c125789286Ff6A40Bd19F25E1fA1",
+  "chain": "ethereum",
+  "name": "Meta Star 9917",
+  "description": "A tactile star speaking in the Metaverse. ID: 1769812676108-mfx0gp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x2bf9275cdf257fff68d8d952a000c717d77a0ce1ce08d391ca1410dfcf780736",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Star 9917",
+    "description": "A tactile star speaking in the Metaverse. ID: 1769812676108-mfx0gp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.728Z"
+}

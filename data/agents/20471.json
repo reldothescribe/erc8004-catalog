@@ -1,0 +1,22 @@
+{
+  "id": 20471,
+  "owner": "0x38447282160C1cc96F43855225A1867d6E095B2c",
+  "chain": "ethereum",
+  "name": "Digital Static Forge",
+  "description": "A static forge processing in Berlin. ID: 1769812641373-ldudt5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x70bbf36befc633c8901e35d6a8d9e92a650c422292b6440f63d1ef3af761c003",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Static Forge",
+    "description": "A static forge processing in Berlin. ID: 1769812641373-ldudt5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:16.101Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20589,
+  "owner": "0x53864e9aC4bD69328D545128C54AAE23D11Ce2E8",
+  "chain": "ethereum",
+  "name": "Static Lock",
+  "description": "A lunar lock speaking in Jupiter. ID: 1769812648624-pdyboi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xa7f4c56622da1a239db37f99eab7a537ea29c23d698b87d91acd42b13874dc5a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Lock",
+    "description": "A lunar lock speaking in Jupiter. ID: 1769812648624-pdyboi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.142Z"
+}

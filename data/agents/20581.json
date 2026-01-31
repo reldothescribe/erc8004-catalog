@@ -1,0 +1,22 @@
+{
+  "id": 20581,
+  "owner": "0x7D56c72E1D75f647bE533021fa7ec10ad3Ae03cA",
+  "chain": "ethereum",
+  "name": "Divine Bridge",
+  "description": "A amber bridge ending in Science. ID: 1769812640758-z48vr2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x506bd0b60d4a6720aa9c44542a57dcca79e66a4a235c44afb962a829044d1544",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Divine Bridge",
+    "description": "A amber bridge ending in Science. ID: 1769812640758-z48vr2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.631Z"
+}

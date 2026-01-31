@@ -1,0 +1,22 @@
+{
+  "id": 16738,
+  "owner": "0x6f23F0e3e86618d7Ae402Ee68e8652450f0c0CF5",
+  "chain": "ethereum",
+  "name": "MetaAgent_4129",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349114,
+  "txHash": "0xe55ff0bd0be1b145f2b3b49a9f7dc28f361a4877e48d046ee64edeb5c58381a3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaAgent_4129",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:10.745Z"
+}

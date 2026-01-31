@@ -1,0 +1,22 @@
+{
+  "id": 17832,
+  "owner": "0x17ebD5bb3E6a8dEBE8231fB17318be1Da684Fd0A",
+  "chain": "ethereum",
+  "name": "PrimeLink_5617",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349211,
+  "txHash": "0xcdeb087a7eb30901d7d863c7565a8c6880eb8836269b20a2fdf0142203dbf4cb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeLink_5617",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:08.088Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19919,
+  "owner": "0xD426b70A9176aD403F2873f597c174A3E2E93a43",
+  "chain": "ethereum",
+  "name": "Static Castle",
+  "description": "A golden castle sleeping in the Boundary. ID: 1769806600744-cn5hh2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350214,
+  "txHash": "0x76c38894ac92e0de762cce356737e72d47a99a0e1d82f0354cb8ba0803ae3cb5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Castle",
+    "description": "A golden castle sleeping in the Boundary. ID: 1769806600744-cn5hh2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:34.013Z"
+}

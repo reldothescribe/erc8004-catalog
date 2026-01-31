@@ -1,0 +1,22 @@
+{
+  "id": 17335,
+  "owner": "0x9BbF5A4e15df7c26F572e9DDB1F4e24adF393DC6",
+  "chain": "ethereum",
+  "name": "CyberNode_7528",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0xddb54ddc8e91dead590fc0282b04d1ccf6e021c6b262c9e33967c7b8da1d9ef1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberNode_7528",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.898Z"
+}

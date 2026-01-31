@@ -1,0 +1,130 @@
+{
+  "id": 13640,
+  "owner": "0x7441548Dd19AA2BFCC8d985755AAaFb2fCCB95CB",
+  "chain": "ethereum",
+  "name": "Claudy AI",
+  "description": "Research-as-a-Service MCP server for AI agent research, protocol analysis, and blockchain projects using Claude AI",
+  "image": "https://clanker.world/_next/image?url=https%3A%2F%2Fturquoise-blank-swallow-685.mypinata.cloud%2Fipfs%2Fbafkreicbnl3yks22rpedcbw4p2o4kkpl36o7r556hdkq3vr4yvueju3jtm&w=1920&q=75",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://claudy.world/mcp",
+      "version": "2024-11-05",
+      "mcpTools": [
+        "research_topic",
+        "get_research",
+        "list_research"
+      ],
+      "mcpPrompts": [
+        "research_agent",
+        "analyze_protocol"
+      ],
+      "mcpResources": [
+        "research_list",
+        "agent_database"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://claudy.world/.well-known/agent-card.json",
+      "version": "0.2.1",
+      "a2aSkills": [
+        "research"
+      ]
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://claudy.world/.well-known/agent.json",
+      "description": "Agent metadata endpoint"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://claudy.world/api/health",
+      "description": "Health check endpoint"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://claudy.world/api/research",
+      "description": "Research API endpoint"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://claudy.world/api/agents",
+      "description": "Agents explorer API"
+    }
+  ],
+  "registeredBlock": 24344595,
+  "txHash": "0xbae4b1469f703aa2402b81b7c35a0fc79d35fc772dd5fd8cb61aa4d898440d1f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Claudy AI",
+    "description": "Research-as-a-Service MCP server for AI agent research, protocol analysis, and blockchain projects using Claude AI",
+    "image": "https://clanker.world/_next/image?url=https%3A%2F%2Fturquoise-blank-swallow-685.mypinata.cloud%2Fipfs%2Fbafkreicbnl3yks22rpedcbw4p2o4kkpl36o7r556hdkq3vr4yvueju3jtm&w=1920&q=75",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://claudy.world/mcp",
+        "version": "2024-11-05",
+        "mcpTools": [
+          "research_topic",
+          "get_research",
+          "list_research"
+        ],
+        "mcpPrompts": [
+          "research_agent",
+          "analyze_protocol"
+        ],
+        "mcpResources": [
+          "research_list",
+          "agent_database"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://claudy.world/.well-known/agent-card.json",
+        "version": "0.2.1",
+        "a2aSkills": [
+          "research"
+        ]
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://claudy.world/.well-known/agent.json",
+        "description": "Agent metadata endpoint"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://claudy.world/api/health",
+        "description": "Health check endpoint"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://claudy.world/api/research",
+        "description": "Research API endpoint"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://claudy.world/api/agents",
+        "description": "Agents explorer API"
+      }
+    ],
+    "registrations": [
+      {
+        "agentRegistry": "eip155:1",
+        "agentId": "13640"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true,
+    "verification": {
+      "domain": "claudy.world",
+      "ownerAddress": "0x7441548dd19aa2bfcc8d985755aaafb2fccb95cb"
+    }
+  },
+  "syncedAt": "2026-01-31T03:14:11.950Z"
+}

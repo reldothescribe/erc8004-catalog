@@ -1,0 +1,22 @@
+{
+  "id": 20313,
+  "owner": "0x6bCf2b844E871FE46c8A202bF0FAB6700B347b8C",
+  "chain": "ethereum",
+  "name": "Eternal Rogue",
+  "description": "A noble rogue fighting in Andromeda. ID: 1769812492823-bucrf5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350704,
+  "txHash": "0x88b0dd481dd5597d6624c4084463783113f43739858fa6d72403d2687b9fd453",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Eternal Rogue",
+    "description": "A noble rogue fighting in Andromeda. ID: 1769812492823-bucrf5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:08.215Z"
+}

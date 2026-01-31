@@ -1,0 +1,22 @@
+{
+  "id": 17643,
+  "owner": "0x5F3b2ba5042B466338e1810f3878d98a43a4fB55",
+  "chain": "ethereum",
+  "name": "AxiMind_8305",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x6418111aca4959d7a03e0e2bf0e934e12dc359706ec4d42fc72e1225b9b5385f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiMind_8305",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:58.517Z"
+}

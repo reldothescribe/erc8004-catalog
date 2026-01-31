@@ -1,0 +1,22 @@
+{
+  "id": 20611,
+  "owner": "0x0c890A7F4AC5B8AEC2fF9F449125EC42BE00d371",
+  "chain": "ethereum",
+  "name": "Emerald Silver Tower",
+  "description": "A silver tower buying in History. ID: 1769812675498-jwvtvx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xcdce61a44879c99086355a36ecae4b1972314143ee573cc87cc1a27b1b20b868",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Emerald Silver Tower",
+    "description": "A silver tower buying in History. ID: 1769812675498-jwvtvx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.170Z"
+}

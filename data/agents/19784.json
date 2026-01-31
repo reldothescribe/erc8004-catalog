@@ -1,0 +1,22 @@
+{
+  "id": 19784,
+  "owner": "0x18a25c72F9e4859234C3D3434e2180b63E52b2a0",
+  "chain": "ethereum",
+  "name": "Lost Matrix",
+  "description": "A meta matrix thinking in Cyberspace. ID: 1769802591197-v0py5a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349882,
+  "txHash": "0x77d31aa8a7925dd759e6b76fc67d82a7e385b086c103c7bd8b930e7e47c2a6fe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Matrix",
+    "description": "A meta matrix thinking in Cyberspace. ID: 1769802591197-v0py5a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.157Z"
+}

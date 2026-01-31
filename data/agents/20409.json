@@ -1,0 +1,22 @@
+{
+  "id": 20409,
+  "owner": "0xa485F12123EdBaCEFae4E74D6F3ffdd37ddF34D1",
+  "chain": "ethereum",
+  "name": "Alpha Algorithm",
+  "description": "A galactic algorithm ending in the Core. ID: 1769812601824-u0l9ho",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350713,
+  "txHash": "0xa1023921a1060ca3956884905a254d0d702befe40fc9cd6541a5fd57aba75e29",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Alpha Algorithm",
+    "description": "A galactic algorithm ending in the Core. ID: 1769812601824-u0l9ho",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:12.927Z"
+}

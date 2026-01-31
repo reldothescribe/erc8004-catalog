@@ -1,0 +1,22 @@
+{
+  "id": 17862,
+  "owner": "0x16Bd62EC036641F9313dBb9C1d2392864AcD1775",
+  "chain": "ethereum",
+  "name": "NeoLink_1968",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xa96ba28548270bf73885b34771449a20f363561ab9bec7b642efb927982c375d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoLink_1968",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:09.625Z"
+}

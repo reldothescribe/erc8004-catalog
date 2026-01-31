@@ -1,0 +1,22 @@
+{
+  "id": 19908,
+  "owner": "0x5f6a353c4AB6127a97487d11D18d49698D1E3A2a",
+  "chain": "ethereum",
+  "name": "Temporal Sentient Algorithm",
+  "description": "A sentient algorithm calculating in Jupiter. ID: 1769806575613-69xo44",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350212,
+  "txHash": "0x7840496d183fdddce12041177d4a385cf4e75eacbbee537e5877ef14b99f3850",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Sentient Algorithm",
+    "description": "A sentient algorithm calculating in Jupiter. ID: 1769806575613-69xo44",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:31.452Z"
+}

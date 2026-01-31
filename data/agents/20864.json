@@ -1,0 +1,22 @@
+{
+  "id": 20864,
+  "owner": "0x2523cB03C15BCA5210C7c2c48af128B677f3C379",
+  "chain": "ethereum",
+  "name": "Blazing Matrix",
+  "description": "A sapphire matrix diving in the Depths. ID: 1769812720675-vsdiph",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xe18fbf3579f92d8b387af215620dff110f12ed69d1d219bd2af4a5a3957e4104",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Matrix",
+    "description": "A sapphire matrix diving in the Depths. ID: 1769812720675-vsdiph",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.806Z"
+}

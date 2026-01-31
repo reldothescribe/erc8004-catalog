@@ -1,0 +1,22 @@
+{
+  "id": 20789,
+  "owner": "0x23f5ae384043f6c653d7922C9fB0Bf2D487cc4B1",
+  "chain": "ethereum",
+  "name": "Cognitive Lion",
+  "description": "A autonomous lion shaping in Web3. ID: 1769812719368-g1pzlf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x2f4446963b3ce828c1e71579b489c1b0d3d29d8d838381704d069f73b5e77756",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cognitive Lion",
+    "description": "A autonomous lion shaping in Web3. ID: 1769812719368-g1pzlf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.708Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20172,
+  "owner": "0xEd37DFdf716F83871D6cC03120aD9439E70Cfc4b",
+  "chain": "ethereum",
+  "name": "Ruby Echo 6852",
+  "description": "A ancient echo forging in Paris. ID: 1769812372388-0u4aca",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0xd960ef2b15cf8ff75c7b26e4e62b11524152aef08740f64b395dda1a22201532",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Echo 6852",
+    "description": "A ancient echo forging in Paris. ID: 1769812372388-0u4aca",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:00.538Z"
+}

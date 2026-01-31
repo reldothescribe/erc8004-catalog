@@ -1,0 +1,22 @@
+{
+  "id": 17951,
+  "owner": "0x5B17B61C19f35C7a5b6e6c9786E4E00aAFBC6C65",
+  "chain": "ethereum",
+  "name": "PrimeCore_2514",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x72c8ff183a7d69204a4fee1312b7e56e956e846ccbf4f4eb2347c0ff21e7858a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeCore_2514",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:14.234Z"
+}

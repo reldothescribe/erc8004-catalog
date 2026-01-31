@@ -1,0 +1,22 @@
+{
+  "id": 19989,
+  "owner": "0x44A31F5857b17Ec143e368fC2E8b5C9165Adcb3D",
+  "chain": "ethereum",
+  "name": "Atomic Agent",
+  "description": "A static agent gathering in the Boundary. ID: 1769807790917-dle3yl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350313,
+  "txHash": "0x7c9de245460b6b10c7bdb42520064d78b41e2e063159171ddcaa19df744d25d4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Agent",
+    "description": "A static agent gathering in the Boundary. ID: 1769807790917-dle3yl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:39.646Z"
+}

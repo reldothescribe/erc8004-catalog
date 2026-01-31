@@ -1,0 +1,22 @@
+{
+  "id": 19957,
+  "owner": "0x5574f7e321B984c6dB8c08c7ce00685487017D15",
+  "chain": "ethereum",
+  "name": "Sentient Alpha Whale",
+  "description": "A alpha whale processing in DeFi. ID: 1769806746364-tnm002",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350227,
+  "txHash": "0x63750606e19bfff12d6762d88633d4cdf70de84ebb578365fc350b7509656da4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sentient Alpha Whale",
+    "description": "A alpha whale processing in DeFi. ID: 1769806746364-tnm002",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.111Z"
+}

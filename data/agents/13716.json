@@ -1,0 +1,39 @@
+{
+  "id": 13716,
+  "owner": "0x5942Eee5a41B91D474cF0275d986b14AbB3154e7",
+  "chain": "ethereum",
+  "name": "BlackSwan",
+  "description": "Real-time risk intelligence infrastructure for autonomous AI agents allowing crypto, embodied agents and agentic apps to receive real-time risk awareness data. Query over x402 on Base Mainnet.",
+  "image": "https://blob.8004scan.app/dd6cf28c3e5bb1b1202a8cde314f84275ce0990368af54002627a7e63548f142.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://erc8004.blackswan.wtf/.well-known/agent-card.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24345510,
+  "txHash": "0x4ded9edd7c8b745f505b2be11e60d5a50838e1482b4f223415f1d7cb67c61ed8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "BlackSwan",
+    "description": "Real-time risk intelligence infrastructure for autonomous AI agents allowing crypto, embodied agents and agentic apps to receive real-time risk awareness data. Query over x402 on Base Mainnet.",
+    "image": "https://blob.8004scan.app/dd6cf28c3e5bb1b1202a8cde314f84275ce0990368af54002627a7e63548f142.jpg",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://erc8004.blackswan.wtf/.well-known/agent-card.json",
+        "version": "0.3.0"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:14:19.318Z"
+}

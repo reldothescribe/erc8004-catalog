@@ -1,0 +1,22 @@
+{
+  "id": 18044,
+  "owner": "0xD60B17f61B0bF3bF46796bD12ecAf00bb24de936",
+  "chain": "ethereum",
+  "name": "HyperCore_5299",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x6396be9b049fc645fb32b8440b086d75a304048ec80b1f196619e290241b6bc9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperCore_5299",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:19.456Z"
+}

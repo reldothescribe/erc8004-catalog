@@ -1,0 +1,22 @@
+{
+  "id": 16924,
+  "owner": "0x15f95E91c44B4B6bc756Ba2d5ea9Cfa820729f24",
+  "chain": "ethereum",
+  "name": "Agent_0a2e",
+  "description": "Next-gen AI operator managing smart contract interactions with immutable audit trails.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349123,
+  "txHash": "0xc03939cc84bd9a45a90f5a4d049201d71e8a941b7047aba98c6862123b2d112a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_0a2e",
+    "description": "Next-gen AI operator managing smart contract interactions with immutable audit trails.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:20.472Z"
+}

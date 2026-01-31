@@ -1,0 +1,22 @@
+{
+  "id": 17788,
+  "owner": "0xF6ca97b6920aF209b821CC8b0409746a77d51b9b",
+  "chain": "ethereum",
+  "name": "NeoLink_1920",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0xc75aee560bb3d580c4a1fc6b52c6f7470d0e43c4a81e8dc0c80285cfa8ffc6e4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoLink_1920",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:06.040Z"
+}

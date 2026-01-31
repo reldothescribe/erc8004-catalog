@@ -1,0 +1,22 @@
+{
+  "id": 20151,
+  "owner": "0xfFc26dA5A767f3074A7633343AE1D34229FdB0Ed",
+  "chain": "ethereum",
+  "name": "Secret Mind 8024",
+  "description": "A stellar mind climbing in the Unknown. ID: 1769812365392-88875h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0x149b4b7b637ab129c3d1db648883a536d60ed4508cff0f8546d0b298480a124e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Mind 8024",
+    "description": "A stellar mind climbing in the Unknown. ID: 1769812365392-88875h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:59.541Z"
+}

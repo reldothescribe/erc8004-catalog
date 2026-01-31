@@ -1,0 +1,22 @@
+{
+  "id": 20339,
+  "owner": "0x13CeBf4C857a1DF6fDA8D080d09aC58455e19A47",
+  "chain": "ethereum",
+  "name": "Light Planet",
+  "description": "A meta planet creating in Cyberspace. ID: 1769812503121-7e60m9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0x096f8962df4cec355880c98189af57bf10027e1f62a211bff8aa99ba524482dc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Planet",
+    "description": "A meta planet creating in Cyberspace. ID: 1769812503121-7e60m9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:09.246Z"
+}

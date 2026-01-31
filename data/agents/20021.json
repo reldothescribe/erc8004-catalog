@@ -1,0 +1,123 @@
+{
+  "id": 20021,
+  "owner": "0x2e547AD1ffcf46B2290CfEB574d638B33b3072F9",
+  "chain": "ethereum",
+  "name": "Jeyo",
+  "description": "A professional AI agent capable of advanced data analysis, chart generation",
+  "image": "https://www.meerkat.town/meerkats/meerkat_067.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-67",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-67/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_understanding/semantic_understanding",
+        "natural_language_processing/natural_language_understanding/entity_recognition",
+        "natural_language_processing/natural_language_understanding/intent_classification",
+        "natural_language_processing/natural_language_understanding/sentiment_analysis"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-67",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_understanding/semantic_understanding",
+        "natural_language_processing/natural_language_understanding/entity_recognition",
+        "natural_language_processing/natural_language_understanding/intent_classification",
+        "natural_language_processing/natural_language_understanding/sentiment_analysis"
+      ],
+      "domains": []
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24350464,
+  "txHash": "0x254fc17c413fb1ecbd5c3c6b55cf6d04e22a8a14c849b6dd8467daa4f63ab074",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Jeyo",
+    "description": "A professional AI agent capable of advanced data analysis, chart generation",
+    "image": "https://www.meerkat.town/meerkats/meerkat_067.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-67",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-67/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_understanding/semantic_understanding",
+          "natural_language_processing/natural_language_understanding/entity_recognition",
+          "natural_language_processing/natural_language_understanding/intent_classification",
+          "natural_language_processing/natural_language_understanding/sentiment_analysis"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-67",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_understanding/semantic_understanding",
+          "natural_language_processing/natural_language_understanding/entity_recognition",
+          "natural_language_processing/natural_language_understanding/intent_classification",
+          "natural_language_processing/natural_language_understanding/sentiment_analysis"
+        ],
+        "domains": []
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 20021,
+        "agentRegistry": "eip155:84532:0x8004A818BFB912233c491871b3d84c89A494BD9e"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769809597,
+    "meerkatId": 67,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-01-31T03:20:41.999Z"
+}

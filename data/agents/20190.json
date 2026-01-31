@@ -1,0 +1,22 @@
+{
+  "id": 20190,
+  "owner": "0x876671dA52768e3F1904BC46fE573C674283a4dA",
+  "chain": "ethereum",
+  "name": "Neural Hidden Key",
+  "description": "A hidden key speaking in the Boundary. ID: 1769812385395-cc10ro",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0xc3596bd904d9c9b47eb4f5891632f7caca318031e417590e319f7c99ec4a06fa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neural Hidden Key",
+    "description": "A hidden key speaking in the Boundary. ID: 1769812385395-cc10ro",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.560Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17666,
+  "owner": "0x1f821f68Dbbc00c00c18D273CEe95CBd4a9EFe25",
+  "chain": "ethereum",
+  "name": "NeoAgent_5792",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x73638f0aece52ffcbfb4a2c77c56589c8ba7e01472531edef48bf0fb5db9cbf0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoAgent_5792",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:59.595Z"
+}

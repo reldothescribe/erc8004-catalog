@@ -1,0 +1,22 @@
+{
+  "id": 17784,
+  "owner": "0x32D1599e3da9cf369ec445Cb47D0047f8681Ef4b",
+  "chain": "ethereum",
+  "name": "PrimeFlow_9747",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0xdc3d142928f962896026c8140b249da9d0baa665c2188752bf4a72d986dc1d6f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeFlow_9747",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:06.040Z"
+}

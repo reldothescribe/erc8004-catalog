@@ -1,0 +1,22 @@
+{
+  "id": 17323,
+  "owner": "0xFcE9e68D313375712e9E86EE33684718AEb872C8",
+  "chain": "ethereum",
+  "name": "NovaFlow_2467",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0x6ec16ac0813a7ddb87aa383f7e43212aa9236270c339e1dc5ff02f93c7327b87",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaFlow_2467",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.340Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20526,
+  "owner": "0x32b9DC823e3126D909C83fA1baa80Eb13dEc248a",
+  "chain": "ethereum",
+  "name": "Lost Nova",
+  "description": "A random nova walking in the Smart Contract. ID: 1769812643353-5c0js7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xbda54e8ee9d447d6001571c41d157e150dc4279cc2e94fc050513ec3202b7924",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Nova",
+    "description": "A random nova walking in the Smart Contract. ID: 1769812643353-5c0js7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.070Z"
+}

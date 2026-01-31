@@ -1,0 +1,22 @@
+{
+  "id": 17618,
+  "owner": "0x3353dE295313a7eb5001281De4B6B8cC8630298B",
+  "chain": "ethereum",
+  "name": "MetaNode_138",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0xe085677530e8a665c5033a6ed8c730b9af1bcf640359da0e3e9e857e91169519",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNode_138",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:57.003Z"
+}

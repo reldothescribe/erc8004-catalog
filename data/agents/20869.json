@@ -1,0 +1,22 @@
+{
+  "id": 20869,
+  "owner": "0xC996Af30AF0c00E1D6D0bc5Fcb23a86D0fFD1425",
+  "chain": "ethereum",
+  "name": "Onyx Star",
+  "description": "A iron star walking in Paris. ID: 1769812742703-jsuo9p",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x828f1f4bf7caa0c48f577664a0f5a7ae35ce30ec4c99a601f0ba73bd7852e168",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Onyx Star",
+    "description": "A iron star walking in Paris. ID: 1769812742703-jsuo9p",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.805Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18165,
+  "owner": "0xB32dcC2ea5C2D8BD711583a1C1EF8a01D98ba7c1",
+  "chain": "ethereum",
+  "name": "HyperAgent_3703",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0xbf7eb6aa61cd4695b262fe026eba235a2a4df1b6a481608da4edf495ab2fbf87",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperAgent_3703",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:26.214Z"
+}

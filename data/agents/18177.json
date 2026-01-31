@@ -1,0 +1,22 @@
+{
+  "id": 18177,
+  "owner": "0x67d9755d6c4F8e662EA5a03370378A144cD03028",
+  "chain": "ethereum",
+  "name": "AxiNode_4123",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0x8a14693bea51db469612b3ab4b0643eeb909a292e46bd9fcd7674620327d157c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiNode_4123",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:27.857Z"
+}

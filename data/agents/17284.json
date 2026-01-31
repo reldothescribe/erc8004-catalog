@@ -1,0 +1,22 @@
+{
+  "id": 17284,
+  "owner": "0x83c40CDA7CdB58C1e5dcD595CA02c3B6698d1eab",
+  "chain": "ethereum",
+  "name": "QuantumFlow_3682",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349163,
+  "txHash": "0x2f9c7a9728aed300a28adc08f8be8b3e2801d41aa6f576e4abee1a5c8e92d4c7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumFlow_3682",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:40.338Z"
+}

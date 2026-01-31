@@ -1,0 +1,22 @@
+{
+  "id": 20642,
+  "owner": "0x65FB0414c5bEE20115114Be5B2e1521d22EDd675",
+  "chain": "ethereum",
+  "name": "Hyper Eternal Helm",
+  "description": "A eternal helm singing in the Abyss. ID: 1769812676108-x9ceze",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x56202770cebd85c05a3d67958e3fd5dbf014e52118416634c383a723166892fd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Eternal Helm",
+    "description": "A eternal helm singing in the Abyss. ID: 1769812676108-x9ceze",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:24.703Z"
+}

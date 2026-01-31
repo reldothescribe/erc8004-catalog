@@ -1,0 +1,22 @@
+{
+  "id": 20122,
+  "owner": "0x7D56c72E1D75f647bE533021fa7ec10ad3Ae03cA",
+  "chain": "ethereum",
+  "name": "Silver Lock 9988",
+  "description": "A crystal lock gathering in the Metaverse. ID: 1769812352388-nllxlm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350692,
+  "txHash": "0xb8355e5eaaf470ef7b56e38f82cc48f02ebfe88359658af988fa7d202151b639",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silver Lock 9988",
+    "description": "A crystal lock gathering in the Metaverse. ID: 1769812352388-nllxlm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:57.832Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18045,
+  "owner": "0xF51E6978D1FDc666c54CEE458fF326ce36c21420",
+  "chain": "ethereum",
+  "name": "PrimeCore_4028",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x457033e7d01d0c79268d00a8f39009a303d3778217a5fba3a5d1a02df4a30adf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeCore_4028",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:19.456Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18393,
+  "owner": "0x4C379695970CfB6787445446C6796C4BD09ebD94",
+  "chain": "ethereum",
+  "name": "VorLink_f900",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349256,
+  "txHash": "0xbbeebe525cde284e68129358ac16b9b30d77fc763ccadb7fb34ea439dd7bb38f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VorLink_f900",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:38.914Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17870,
+  "owner": "0x2BDc4E1A40963F8484adc2ec2C48E14fCd2F9252",
+  "chain": "ethereum",
+  "name": "QuantumAgent_9558",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x9528c0233da2bf128ee53d2fe28a7c281fe170ca09f4ede20b644f0f3aaf7a53",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumAgent_9558",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:10.136Z"
+}

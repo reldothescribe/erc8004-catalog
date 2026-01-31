@@ -1,0 +1,22 @@
+{
+  "id": 17505,
+  "owner": "0x3a4A947c33147F8aDbabEBb05C8f36aec734E483",
+  "chain": "ethereum",
+  "name": "NeoAgent_1151",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x4763df219201a7bca7de7d6543bf460901270d76d5116e51a9d790480f03528e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoAgent_1151",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:51.603Z"
+}

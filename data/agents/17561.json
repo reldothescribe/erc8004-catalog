@@ -1,0 +1,22 @@
+{
+  "id": 17561,
+  "owner": "0x5fe354906feAbDEAfD1d0915c72362d1B26A4bE6",
+  "chain": "ethereum",
+  "name": "PrimeSync_6628",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x91b9ed541945c5e82528b9313f19dea115bf57733f72c7ffad08a4cc48298ad5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeSync_6628",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:54.163Z"
+}

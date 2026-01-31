@@ -1,0 +1,22 @@
+{
+  "id": 17300,
+  "owner": "0x3Afc1D830E3D289ECA8a82705b48731a301Df3f4",
+  "chain": "ethereum",
+  "name": "StellarBot_9581",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349164,
+  "txHash": "0x2282014eec4d06f571b6b669f67e9428b2d413b6ae2373d2fde439229b85a4af",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarBot_9581",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:40.851Z"
+}

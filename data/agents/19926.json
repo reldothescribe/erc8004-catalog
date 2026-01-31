@@ -1,0 +1,22 @@
+{
+  "id": 19926,
+  "owner": "0xa943034E2dA811e86b1cfb4E1E810654B5bbB66b",
+  "chain": "ethereum",
+  "name": "Synthetic Warrior",
+  "description": "A found warrior painting in Magic. ID: 1769806616086-h3gw36",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350215,
+  "txHash": "0x000290a37cfc64833bba7ece784df6d230f42abf4c6b50cc44c75cfc14ed9276",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Warrior",
+    "description": "A found warrior painting in Magic. ID: 1769806616086-h3gw36",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:36.531Z"
+}

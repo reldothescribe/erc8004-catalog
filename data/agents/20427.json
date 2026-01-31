@@ -1,0 +1,22 @@
+{
+  "id": 20427,
+  "owner": "0x4371c3f7b6390108ad6d71844C6d62af1Fa2E207",
+  "chain": "ethereum",
+  "name": "Digital Hyper Droid",
+  "description": "A hyper droid molding in Cyberspace. ID: 1769812610950-wownsr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350714,
+  "txHash": "0x73c45b088ec869f3df4e74a089944b4827701220749eb311994652f5e5fea22d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Hyper Droid",
+    "description": "A hyper droid molding in Cyberspace. ID: 1769812610950-wownsr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.950Z"
+}

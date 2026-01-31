@@ -1,0 +1,22 @@
+{
+  "id": 17317,
+  "owner": "0xc840790D00a7bF4c35f789A092EB6b12CA7F0C5b",
+  "chain": "ethereum",
+  "name": "QuantumSync_4521",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0xf498f0287ce18b7c7f80b2a6e16f048f6b5884a20eb230afb42ca05fde689da6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumSync_4521",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:41.875Z"
+}

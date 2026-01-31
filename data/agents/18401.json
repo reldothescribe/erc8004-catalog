@@ -1,0 +1,22 @@
+{
+  "id": 18401,
+  "owner": "0x5203e38132A494B74D0a041f96e51ba7498D7266",
+  "chain": "ethereum",
+  "name": "VorLink_5032",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349256,
+  "txHash": "0x38bd87bc9d29e389fcac84588ea72d081dcd72d80b066542192106baf24aba1b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VorLink_5032",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:38.914Z"
+}

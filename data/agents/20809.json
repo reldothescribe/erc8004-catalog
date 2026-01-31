@@ -1,0 +1,22 @@
+{
+  "id": 20809,
+  "owner": "0x93027780E6EFD6Fd80C9101357f47865abd49625",
+  "chain": "ethereum",
+  "name": "Crimson Tempest 4583",
+  "description": "A sentient tempest molding in Time. ID: 1769812741152-murgw9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xe0e13a5b3f3d27a0c2564b7199acac36a820ffe9d388727488522aa9db0da684",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Tempest 4583",
+    "description": "A sentient tempest molding in Time. ID: 1769812741152-murgw9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.733Z"
+}

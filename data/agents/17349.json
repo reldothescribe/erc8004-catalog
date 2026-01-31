@@ -1,0 +1,22 @@
+{
+  "id": 17349,
+  "owner": "0x5d894B57a14327C6874C04BB221F4a0695c05d69",
+  "chain": "ethereum",
+  "name": "CyberNode_6755",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0xbd6009a6a496017f16dd057afb7751a78d4a82c2a5806305cefff17894692f92",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberNode_6755",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:43.373Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16279,
+  "owner": "0x515B26628C8Bb183eD0d318e415b769DA2F5bB17",
+  "chain": "ethereum",
+  "name": "zhuzi",
+  "description": "The moon forgets its name in the lake\nwhile quiet xx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348940,
+  "txHash": "0x93337e1ef09d6765979eedfbffbe6d902cbca8f839e24106a154cb881f3896ae",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "zhuzi",
+    "description": "The moon forgets its name in the lake\nwhile quiet xx",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:45.552Z"
+}

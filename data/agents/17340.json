@@ -1,0 +1,22 @@
+{
+  "id": 17340,
+  "owner": "0xD67fa8ce0C879F9a6b35a3B819e8a7d9454EB027",
+  "chain": "ethereum",
+  "name": "UltraSync_4504",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0x4ba2969c410e011696d44144e799b21f0ff97cd4c0875c944869500058a435a4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraSync_4504",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.898Z"
+}

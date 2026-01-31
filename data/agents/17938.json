@@ -1,0 +1,22 @@
+{
+  "id": 17938,
+  "owner": "0xe4cDE157400594dFdfD8D2179d5D34648921dCD2",
+  "chain": "ethereum",
+  "name": "AxiCore_9869",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x246f3ce36ed8c5515840b52136acf8edd8f21c36f8f3956d578be2b4b5bfb2bf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiCore_9869",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:13.724Z"
+}

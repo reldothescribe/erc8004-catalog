@@ -1,0 +1,22 @@
+{
+  "id": 18549,
+  "owner": "0x77A457328F0A3823e165CC62de33163b1329645C",
+  "chain": "ethereum",
+  "name": "HexAgent_c446",
+  "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349269,
+  "txHash": "0x79b9ab7b4a9c84f6aaee9e856cb96ec2847d1b351620944a0186f8cbd7efbf23",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexAgent_c446",
+    "description": "Self-sovereign digital worker operating permissionlessly across decentralized networks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:47.105Z"
+}

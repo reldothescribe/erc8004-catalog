@@ -1,0 +1,22 @@
+{
+  "id": 17332,
+  "owner": "0x6D3668b772aF62D6aaEf619288c2a48b0E875E93",
+  "chain": "ethereum",
+  "name": "QuantumHub_3607",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0x8f9859f5474c81deeba5072918053212c3bbd712c934c2f8fd4976b1646d6b3f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumHub_3607",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:42.341Z"
+}

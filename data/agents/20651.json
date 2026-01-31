@@ -1,0 +1,22 @@
+{
+  "id": 20651,
+  "owner": "0xeb931ea591076ebed08Df787709FF7A3131ac7e4",
+  "chain": "ethereum",
+  "name": "Light Sky 1319",
+  "description": "A cosmic sky diving in Reality. ID: 1769812675498-ephcqo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x31ea61297875b7866702504f06adaf15ae7644fb7a2f52e081238a0751cd3624",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Sky 1319",
+    "description": "A cosmic sky diving in Reality. ID: 1769812675498-ephcqo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.216Z"
+}

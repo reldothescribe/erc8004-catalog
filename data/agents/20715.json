@@ -1,0 +1,22 @@
+{
+  "id": 20715,
+  "owner": "0x07bD106D809E657Eabb68b91959b58aD8227f470",
+  "chain": "ethereum",
+  "name": "Arcane Seeker 5240",
+  "description": "A silver seeker giving in Pluto. ID: 1769812703051-oi7zx7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x2ab8e1f3cd62c7595d45dcc28bd217003be73b99fadb8c786c870fb88eabe2fd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Seeker 5240",
+    "description": "A silver seeker giving in Pluto. ID: 1769812703051-oi7zx7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.125Z"
+}

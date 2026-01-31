@@ -1,0 +1,22 @@
+{
+  "id": 20678,
+  "owner": "0x51B7BBACea7bDedC11Bc1B48F463bb4ddAfc1973",
+  "chain": "ethereum",
+  "name": "Infinite Forge",
+  "description": "A amber forge rising in the Metaverse. ID: 1769812701765-00jrpj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x2e0333641a8cef8af2f817561ce5a0a7bb857700d5463d3b61ea9343ca8975a0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Forge",
+    "description": "A amber forge rising in the Metaverse. ID: 1769812701765-00jrpj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.751Z"
+}

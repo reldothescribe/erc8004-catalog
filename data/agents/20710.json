@@ -1,0 +1,22 @@
+{
+  "id": 20710,
+  "owner": "0xEd37DFdf716F83871D6cC03120aD9439E70Cfc4b",
+  "chain": "ethereum",
+  "name": "Crypto Sentinel 5068",
+  "description": "A onyx sentinel moving in the Edge. ID: 1769812703051-z6780h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x27db8a8baa902a9e11043e19f433e5d7994b92f8031a156754fd9c2612ceda78",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crypto Sentinel 5068",
+    "description": "A onyx sentinel moving in the Edge. ID: 1769812703051-z6780h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.611Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20709,
+  "owner": "0x760bAff32A0c85B6b64A020de9375B59aD2E868b",
+  "chain": "ethereum",
+  "name": "Found Echo",
+  "description": "A sonic echo diving in Mystery. ID: 1769812702394-8osvs3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x556c51e97ab32a878ecee14d3aa128bd96b84baac14111a5912eede3a034e9c3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Echo",
+    "description": "A sonic echo diving in Mystery. ID: 1769812702394-8osvs3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.612Z"
+}

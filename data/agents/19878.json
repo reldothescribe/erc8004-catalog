@@ -1,0 +1,22 @@
+{
+  "id": 19878,
+  "owner": "0x4EF6DaAfFAd0fc37FB02cdB9d37f4F4199c4dA73",
+  "chain": "ethereum",
+  "name": "Nexus Oracle",
+  "description": "An intuitive AI agent that predicts trends and provides insightful forecasts across various domains, blending data analysis with creative foresight.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350178,
+  "txHash": "0x11bd990db16a77b55bdbbadb79f20925b80f29ee07e61e98beb27ae13a143fae",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Oracle",
+    "description": "An intuitive AI agent that predicts trends and provides insightful forecasts across various domains, blending data analysis with creative foresight.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:28.585Z"
+}

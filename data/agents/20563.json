@@ -1,0 +1,22 @@
+{
+  "id": 20563,
+  "owner": "0xEd37DFdf716F83871D6cC03120aD9439E70Cfc4b",
+  "chain": "ethereum",
+  "name": "Atomic Alpha Mind",
+  "description": "A alpha mind decoding in Myth. ID: 1769812642036-vjx647",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x9f53964b71b283815e3c4d5fea173ac69f379926c25a0d30565ee72eb3e6ed82",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Alpha Mind",
+    "description": "A alpha mind decoding in Myth. ID: 1769812642036-vjx647",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.120Z"
+}

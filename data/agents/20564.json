@@ -1,0 +1,22 @@
+{
+  "id": 20564,
+  "owner": "0x5f66Ab37c9Ffc78E6f79A62816173f637A1E5D1A",
+  "chain": "ethereum",
+  "name": "Visual River 1081",
+  "description": "A gentle river buying in Paris. ID: 1769812640758-ax8w15",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xd08e931c600383dbb0ee3711dc6b7102a863fec57ca44316973a1baf78cf6609",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Visual River 1081",
+    "description": "A gentle river buying in Paris. ID: 1769812640758-ax8w15",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:21.120Z"
+}

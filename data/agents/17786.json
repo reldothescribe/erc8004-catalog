@@ -1,0 +1,22 @@
+{
+  "id": 17786,
+  "owner": "0xd57FfECB4C7be9C73Ee7171879E1170eCaF7C961",
+  "chain": "ethereum",
+  "name": "StellarNode_952",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0xd0ef7cb368c85d8346c3c1b0e01fd5a084f96a5284ad54b379de8bf21f8e24a1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNode_952",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:06.040Z"
+}

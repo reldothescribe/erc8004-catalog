@@ -1,0 +1,22 @@
+{
+  "id": 20757,
+  "owner": "0xE28D7Db180a8AB302b77789eAeD07303fbc34D54",
+  "chain": "ethereum",
+  "name": "Void Dolphin",
+  "description": "A future dolphin crawling in the Blockchain. ID: 1769812720675-u119c5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0xb058234471e21f6219214bb8da2fe039dc0a2f597f8b20641484bd20e934eeb5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Void Dolphin",
+    "description": "A future dolphin crawling in the Blockchain. ID: 1769812720675-u119c5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:36.172Z"
+}

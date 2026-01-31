@@ -1,0 +1,22 @@
+{
+  "id": 18077,
+  "owner": "0x258Ef547f55f0E2FAeFd51CFF31a2DdD619CD987",
+  "chain": "ethereum",
+  "name": "NeoSync_9671",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0xbaf2b57f970e031db2090d73a90eb68a20a8cff4dbd0825b5ef85f8b23467fa8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoSync_9671",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:21.503Z"
+}

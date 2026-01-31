@@ -1,0 +1,22 @@
+{
+  "id": 17677,
+  "owner": "0x3034229181c5645496ea66C82C160C201Bf54f07",
+  "chain": "ethereum",
+  "name": "QuantumSync_5013",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x2af8cc9a97fb2ed2912e8b2da29ba826f4ec4e63fd47bedea6f3ca50cf112b7b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumSync_5013",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:00.103Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19885,
+  "owner": "0x30FEc1535501e43da409EdD1afd3C316f1a2EA4E",
+  "chain": "ethereum",
+  "name": "AstraMind",
+  "description": "An innovative AI agent specialized in creative brainstorming and futuristic ideation, helping users explore bold new concepts and strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350182,
+  "txHash": "0x0605887c127bae1dbfa2b266e934e5c50dba1686dca7db0776f2435e0a029092",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "AstraMind",
+    "description": "An innovative AI agent specialized in creative brainstorming and futuristic ideation, helping users explore bold new concepts and strategies.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:29.098Z"
+}

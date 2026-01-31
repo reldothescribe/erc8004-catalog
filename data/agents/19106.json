@@ -1,0 +1,22 @@
+{
+  "id": 19106,
+  "owner": "0x348BB547e67DBf0Beab7a0B5dA0F7b3F0C582DF2",
+  "chain": "ethereum",
+  "name": "Amber Liquid Lion",
+  "description": "A liquid lion keeping in the Void. ID: 1769796690330-sjaeg7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349395,
+  "txHash": "0xab524cc1dd7397dca90faff3306ec1a58d31fc12b286829d0ad7d173e770c57a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Liquid Lion",
+    "description": "A liquid lion keeping in the Void. ID: 1769796690330-sjaeg7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:16.801Z"
+}

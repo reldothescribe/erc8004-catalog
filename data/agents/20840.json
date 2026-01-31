@@ -1,0 +1,22 @@
+{
+  "id": 20840,
+  "owner": "0x65FB0414c5bEE20115114Be5B2e1521d22EDd675",
+  "chain": "ethereum",
+  "name": "Orderly Colossus",
+  "description": "A hyper colossus molding in Space. ID: 1769812741152-a7pyvm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x17a77907c6c8fbbe339931a569868667a9d0cf46ff165027e2147f73d8762859",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Colossus",
+    "description": "A hyper colossus molding in Space. ID: 1769812741152-a7pyvm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:40.268Z"
+}

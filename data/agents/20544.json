@@ -1,0 +1,22 @@
+{
+  "id": 20544,
+  "owner": "0x558c9Ad37d48Bb174b5CFa2bbfbfC1589986bbC0",
+  "chain": "ethereum",
+  "name": "Chaotic Astral Hammer",
+  "description": "A astral hammer working in the Core. ID: 1769812648624-n2omxn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xc6d5b7c7eb561658426aa15208133b0b2eecc5ba0cebea3890ab4c37e840b3c5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Astral Hammer",
+    "description": "A astral hammer working in the Core. ID: 1769812648624-n2omxn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.095Z"
+}

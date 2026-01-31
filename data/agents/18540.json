@@ -1,0 +1,22 @@
+{
+  "id": 18540,
+  "owner": "0xBF2193204096a4e1203a47766E4DaF0fa616625a",
+  "chain": "ethereum",
+  "name": "VorCore_6246",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349269,
+  "txHash": "0xc334e5e17bf8972eeec08e928b76f190a0df63a90ccdde9d6d25440b5cfc0a64",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VorCore_6246",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:46.287Z"
+}

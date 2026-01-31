@@ -1,0 +1,22 @@
+{
+  "id": 17933,
+  "owner": "0xb5F43BB70eaa269FCB5642DFF5e13854B99c6D3F",
+  "chain": "ethereum",
+  "name": "HyperSync_7980",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x28cbae68ba46a57216342f9200e04bf506a57d9fb5b39ab77fc479b072684251",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperSync_7980",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:13.724Z"
+}

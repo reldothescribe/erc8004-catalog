@@ -1,0 +1,22 @@
+{
+  "id": 17429,
+  "owner": "0x9164e2179eC6b6A27E676e93B02989b7a886ea67",
+  "chain": "ethereum",
+  "name": "NeoAgent_3315",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x1f70cdbb411c1ad06fee5155d4891065ca4305a52afe33ef7a7ab89c18e6d4ae",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoAgent_3315",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:47.485Z"
+}

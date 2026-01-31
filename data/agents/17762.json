@@ -1,0 +1,22 @@
+{
+  "id": 17762,
+  "owner": "0xdd5533b4056B2559EbAe2C18878A87580820afa6",
+  "chain": "ethereum",
+  "name": "QuantumHub_4541",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0x51639e9e6a0404f7242b618b3be163ae4aa329dfcca08316af33b72838647d05",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumHub_4541",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.197Z"
+}

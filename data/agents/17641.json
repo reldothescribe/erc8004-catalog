@@ -1,0 +1,22 @@
+{
+  "id": 17641,
+  "owner": "0x02C66F82686861be0274A0fB6F6Ad941Fd7D5d25",
+  "chain": "ethereum",
+  "name": "NovaMind_4799",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0xdc1c2dd3b7f11819cf561d930aa7f178c7a268dd30c5518a05bf31fa8d9528ee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaMind_4799",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:58.055Z"
+}

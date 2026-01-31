@@ -1,0 +1,22 @@
+{
+  "id": 18344,
+  "owner": "0x0793C2D3c9BC93a0E3FAFBDe659fACA561A4Dd81",
+  "chain": "ethereum",
+  "name": "PyrPulse_95f5",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349252,
+  "txHash": "0x76e626c49b4344233137eb0e30f9834a4c12a9f1cdde90eb1776515a34fae5cc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PyrPulse_95f5",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:36.352Z"
+}

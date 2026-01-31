@@ -1,0 +1,22 @@
+{
+  "id": 19956,
+  "owner": "0x1f5C9055D11e39371Cb76b035e2976ec079aA7ba",
+  "chain": "ethereum",
+  "name": "Cognitive Ether Shark",
+  "description": "A ether shark dreaming in the Edge. ID: 1769806746364-eopuk8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350227,
+  "txHash": "0x889c2062e5be12086895203eddfd89a8bccc3d22b4b787f9eb3e45c7d70a502c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cognitive Ether Shark",
+    "description": "A ether shark dreaming in the Edge. ID: 1769806746364-eopuk8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:38.110Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17913,
+  "owner": "0x7a4912Ee4DCc933cc1dE3E20a0911Aa95fb63C2E",
+  "chain": "ethereum",
+  "name": "NovaNet_4315",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x3262cdcca16bd80307ae582df23571485365b3e3759ae5d70f0847a9d70bcc28",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaNet_4315",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:12.648Z"
+}

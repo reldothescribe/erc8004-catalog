@@ -1,0 +1,22 @@
+{
+  "id": 18149,
+  "owner": "0x151f26Fc65A57aF5B6EcFC2CBA29D7C851efFE07",
+  "chain": "ethereum",
+  "name": "StellarAgent_5015",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0xb798bb77629a10d2241a79bd192434f85c7b34109b199ae1519bedb603f64232",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarAgent_5015",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:25.131Z"
+}

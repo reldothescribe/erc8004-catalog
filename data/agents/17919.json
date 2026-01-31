@@ -1,0 +1,22 @@
+{
+  "id": 17919,
+  "owner": "0x67c24f1240fD2fd45638BF910814c8D2AF815423",
+  "chain": "ethereum",
+  "name": "HyperBot_1721",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x4394ced366f53799152ce938e73a09f36f23ef9330a0d9e917d73831052dfc40",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperBot_1721",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:12.657Z"
+}

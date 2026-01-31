@@ -1,0 +1,22 @@
+{
+  "id": 20653,
+  "owner": "0xCcBe63a952729aD8dcf1830FA68c4A91EbacB690",
+  "chain": "ethereum",
+  "name": "Chaotic Shark",
+  "description": "A cyber shark thinking in the Frontier. ID: 1769812677397-ez5jks",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x2cf9b43340abb5bf3080b1d7a249d361dd2fb6ffe3b00cfdfecd6fd1596b145a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Shark",
+    "description": "A cyber shark thinking in the Frontier. ID: 1769812677397-ez5jks",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.728Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17579,
+  "owner": "0x4516D055f7f8301FB25be68Bd119cDA4d0a77dbe",
+  "chain": "ethereum",
+  "name": "MetaMind_612",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349180,
+  "txHash": "0x800a7fc63165e664b7c90e4a8abf9e7dbcb91d6c42a519f4e6e7aa723e6acb30",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaMind_612",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:55.090Z"
+}

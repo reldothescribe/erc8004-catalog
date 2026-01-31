@@ -1,0 +1,22 @@
+{
+  "id": 20456,
+  "owner": "0x833a42CC1EC90E3C181E0d56E977Bed4147ddedC",
+  "chain": "ethereum",
+  "name": "Dark Flower 4021",
+  "description": "A arcane flower falling in the Ledger. ID: 1769812647996-tm9rvd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x72798c4b831d4daccabfbed37d274e095167a4b89270fee34e5a0eba8d058b7d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Flower 4021",
+    "description": "A arcane flower falling in the Ledger. ID: 1769812647996-tm9rvd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:15.550Z"
+}

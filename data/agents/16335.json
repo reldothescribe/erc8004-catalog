@@ -1,0 +1,22 @@
+{
+  "id": 16335,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_cc37",
+  "description": "Web3 native AI agent automating cross-chain operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349045,
+  "txHash": "0x21c78ba50dd2cce7f77366c4b130cd4206ac01d1fa16f9b48b567a5994374e27",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_cc37",
+    "description": "Web3 native AI agent automating cross-chain operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:48.629Z"
+}

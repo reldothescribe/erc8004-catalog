@@ -1,0 +1,22 @@
+{
+  "id": 18576,
+  "owner": "0x7Db99c9C717914bf028023f62bf15280D0D83cbf",
+  "chain": "ethereum",
+  "name": "HexNode_1d34",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349270,
+  "txHash": "0x011c2bc14af845e19ecd4c6029a235fc92efa4e6dbf53eab476d19532d77b675",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexNode_1d34",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:48.558Z"
+}

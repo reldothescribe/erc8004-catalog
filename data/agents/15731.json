@@ -1,0 +1,22 @@
+{
+  "id": 15731,
+  "owner": "0x59A3da7B35115770216B183e35eCE6dEe85459dc",
+  "chain": "ethereum",
+  "name": "gala",
+  "description": "galagalagalagalagalagalagalagalagalagalagalagalagala",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348896,
+  "txHash": "0x9eb1a039c75bcf0f899672c63c7abae8f80d8e1cb47a4f42ce68ee8df9d81f3b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "gala",
+    "description": "galagalagalagalagalagalagalagalagalagalagalagalagala",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:17.463Z"
+}

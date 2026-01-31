@@ -1,0 +1,22 @@
+{
+  "id": 17882,
+  "owner": "0x692069B175757B8BB885aAe29b70563521CCf665",
+  "chain": "ethereum",
+  "name": "UltraLink_5030",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x684081b462da352717501e37fd884d5ec053cb56dcd5fbf00a3aeb343ad562b7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraLink_5030",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:10.600Z"
+}

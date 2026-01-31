@@ -1,0 +1,22 @@
+{
+  "id": 20697,
+  "owner": "0xC832657277a616286B231AD764f4D8370a797A00",
+  "chain": "ethereum",
+  "name": "Mystic Hidden Soul",
+  "description": "A hidden soul waiting in Jupiter. ID: 1769812701765-0ckl25",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x5d0db9ba5c6891dc8d9295b772fea31abbd8853fe48488458dde7f88f665b416",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Mystic Hidden Soul",
+    "description": "A hidden soul waiting in Jupiter. ID: 1769812701765-0ckl25",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.102Z"
+}

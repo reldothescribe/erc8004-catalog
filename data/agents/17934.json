@@ -1,0 +1,22 @@
+{
+  "id": 17934,
+  "owner": "0xaad7b5094a872FE83796839aDf06DD709c2089e0",
+  "chain": "ethereum",
+  "name": "UltraFlow_24",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x6e38b620a344d864658a8efba24c47af395cbb9947e9f3182547b04830b0cbd5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraFlow_24",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:13.724Z"
+}

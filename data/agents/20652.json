@@ -1,0 +1,22 @@
+{
+  "id": 20652,
+  "owner": "0x7D04C6D91C5cfFc18d02208575829818eC8Cf1a4",
+  "chain": "ethereum",
+  "name": "Nexus Primal Unicorn",
+  "description": "A primal unicorn writing in Web3. ID: 1769812676750-0buqpe",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x2e317c2d1ff2690a252c520acd119fa9d1c882391bb07fbdd3a3f33cebe55e88",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Primal Unicorn",
+    "description": "A primal unicorn writing in Web3. ID: 1769812676750-0buqpe",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.216Z"
+}

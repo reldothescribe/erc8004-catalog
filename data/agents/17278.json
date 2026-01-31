@@ -1,0 +1,22 @@
+{
+  "id": 17278,
+  "owner": "0x5fC0B0abD43Dde823FC74D8B0704c535F0cADA13",
+  "chain": "ethereum",
+  "name": "HyperBot_4289",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349162,
+  "txHash": "0xff9ac6688837a6c92e275184b6f74b1662b4d00b5fdfda77345e8a2c94e1e5fa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperBot_4289",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:39.826Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20551,
+  "owner": "0xB4B28fAe4c438285a38EB8f72d6C4891656736b3",
+  "chain": "ethereum",
+  "name": "Infernal Phantom",
+  "description": "A visual phantom coding in Jupiter. ID: 1769812640758-ak88tc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x1be083b893541413af64444310e472c4dba426a6a01c442dc5c75a3fbc2525d2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Phantom",
+    "description": "A visual phantom coding in Jupiter. ID: 1769812640758-ak88tc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:20.095Z"
+}

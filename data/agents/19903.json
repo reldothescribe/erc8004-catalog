@@ -1,0 +1,22 @@
+{
+  "id": 19903,
+  "owner": "0x1f5C9055D11e39371Cb76b035e2976ec079aA7ba",
+  "chain": "ethereum",
+  "name": "Emerald Determined Mage",
+  "description": "A determined mage gathering in Nature. ID: 1769806565249-6025wc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350211,
+  "txHash": "0xb213d71f06102c47c4f7bd1b584fbbb5c0ac4e73a76e63816bc332a6b662ce69",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Emerald Determined Mage",
+    "description": "A determined mage gathering in Nature. ID: 1769806565249-6025wc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:31.451Z"
+}

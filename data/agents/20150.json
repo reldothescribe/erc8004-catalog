@@ -1,0 +1,22 @@
+{
+  "id": 20150,
+  "owner": "0xeAEEf21647AB21110AA174B819893ff4995Bfd4b",
+  "chain": "ethereum",
+  "name": "Atomic Light Tiger",
+  "description": "A light tiger carving in the Unknown. ID: 1769812365392-jgxyz2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0x1c80abc5aacf514daf50341a75a476151c13a6d0677d513a9db7c527f4a58634",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Light Tiger",
+    "description": "A light tiger carving in the Unknown. ID: 1769812365392-jgxyz2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:59.541Z"
+}

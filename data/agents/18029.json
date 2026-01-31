@@ -1,0 +1,22 @@
+{
+  "id": 18029,
+  "owner": "0xD36059B22F5621C61b21aCB61435CB10Fe82Eff7",
+  "chain": "ethereum",
+  "name": "NeoSync_2107",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x90c7619da21b8e4d1d21446b5b8fd7c911e4603b4b2969dbf00b6743d636f603",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoSync_2107",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.381Z"
+}

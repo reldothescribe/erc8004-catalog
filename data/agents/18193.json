@@ -1,0 +1,22 @@
+{
+  "id": 18193,
+  "owner": "0x62d61A229084b89A2A12EC209c36B46155e9A3D1",
+  "chain": "ethereum",
+  "name": "MetaAgent_6182",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xd889607d44f6636375efd02377e1eedef416e90050bdcd09e25eab907125f636",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaAgent_6182",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.827Z"
+}

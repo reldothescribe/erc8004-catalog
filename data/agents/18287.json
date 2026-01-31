@@ -1,0 +1,22 @@
+{
+  "id": 18287,
+  "owner": "0x75D1091896B5c489C8E79A5424667160B603681A",
+  "chain": "ethereum",
+  "name": "SynPulse_973c",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349248,
+  "txHash": "0xc58d3daa8bcb6fe7252a101ca78cd4c759ed84328250680daa0d845699e24773",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynPulse_973c",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:33.290Z"
+}

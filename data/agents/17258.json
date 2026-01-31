@@ -1,0 +1,22 @@
+{
+  "id": 17258,
+  "owner": "0x635C18bD952A2F6DFAeA58A6548968089aa09f6a",
+  "chain": "ethereum",
+  "name": "CyberNet_4242",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349161,
+  "txHash": "0x8f1f7d019139c52e2a3fd4a7688c033e52ef603607a9bcc1fb4feaf13721cef0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberNet_4242",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.802Z"
+}

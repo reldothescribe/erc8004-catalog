@@ -1,0 +1,22 @@
+{
+  "id": 20261,
+  "owner": "0x0c890A7F4AC5B8AEC2fF9F449125EC42BE00d371",
+  "chain": "ethereum",
+  "name": "Bold Node 8300",
+  "description": "A golden node keeping in Nature. ID: 1769812468812-p9inh3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0xb73450c2a107349535220fb9032d761e079f62e6e4d5222676ce360e5030da5d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bold Node 8300",
+    "description": "A golden node keeping in Nature. ID: 1769812468812-p9inh3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.145Z"
+}

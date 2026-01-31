@@ -1,0 +1,22 @@
+{
+  "id": 17915,
+  "owner": "0x0e5e1c09d5878F40eBe38f1379DB8AF99EC345c1",
+  "chain": "ethereum",
+  "name": "CyberLink_4966",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xcc6b8e090a339fc2b8e0fc23e6c54113dd11beabc8701dd944668e49fc1cfc5d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberLink_4966",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:12.665Z"
+}

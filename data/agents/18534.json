@@ -1,0 +1,55 @@
+{
+  "id": 18534,
+  "owner": "0xfe4DE64F24afffcC5A97e1867EDeBFA335ef546f",
+  "chain": "ethereum",
+  "name": "TextToSlides",
+  "description": "AI agent that converts text documents into presentation slides. Powered by Gemini 3 flash. Free tier: 5 req/min, $0.10/day budget.",
+  "image": "https://slidrrrrr.vercel.app/logo.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://slidrrrrr.vercel.app/api/a2a",
+      "version": "1.0.0"
+    }
+  ],
+  "registeredBlock": 24349268,
+  "txHash": "0xdb2f6d3e72586606044c82c5882791f4d4e78f8d18d8b9c70b95ee7d1d356e93",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "TextToSlides",
+    "description": "AI agent that converts text documents into presentation slides. Powered by Gemini 3 flash. Free tier: 5 req/min, $0.10/day budget.",
+    "image": "https://slidrrrrr.vercel.app/logo.png",
+    "url": "https://slidrrrrr.vercel.app",
+    "version": "1.0.0",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://slidrrrrr.vercel.app/api/a2a",
+        "version": "1.0.0"
+      }
+    ],
+    "capabilities": {
+      "taxonomy": "OASF",
+      "category": "data",
+      "subcategory": "transformation",
+      "skills": [
+        "text-to-slides",
+        "document-processing",
+        "summarization"
+      ],
+      "streaming": true,
+      "pushNotifications": false
+    },
+    "active": true,
+    "x402Support": true,
+    "registrations": [
+      {
+        "agentId": 18534,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-01-31T03:18:46.558Z"
+}

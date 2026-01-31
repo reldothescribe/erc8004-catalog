@@ -1,0 +1,22 @@
+{
+  "id": 18093,
+  "owner": "0xf6614564D1BEB52d963dB42330CD68078ba7B396",
+  "chain": "ethereum",
+  "name": "HyperBot_6020",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0xe34da090b3bc113d823eeda4441ecfc69d9497f4c3cd395bc9a79f9126d35146",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperBot_6020",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:22.528Z"
+}

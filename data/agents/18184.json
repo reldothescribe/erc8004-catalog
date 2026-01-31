@@ -1,0 +1,22 @@
+{
+  "id": 18184,
+  "owner": "0xb231dDd1F21A9B156BCdEC958F092a42f771B05d",
+  "chain": "ethereum",
+  "name": "NeoLink_4485",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0x13403396bbf8828bfef4f7b19b8169c975ed9316dfc521c925861afd50f6298e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoLink_4485",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.331Z"
+}

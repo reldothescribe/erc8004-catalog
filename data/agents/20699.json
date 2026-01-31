@@ -1,0 +1,22 @@
+{
+  "id": 20699,
+  "owner": "0xc9D7C09E32ae8B422047fa9c8E14ec4dba671692",
+  "chain": "ethereum",
+  "name": "Spectral Tree",
+  "description": "A static tree sharing in the Heights. ID: 1769812701128-fdkm43",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xec63f7512226f0064f22fbeefab1622317c9ef66367d8db631389f44cb3c6b99",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Spectral Tree",
+    "description": "A static tree sharing in the Heights. ID: 1769812701128-fdkm43",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:33.102Z"
+}

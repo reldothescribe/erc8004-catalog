@@ -1,0 +1,22 @@
+{
+  "id": 17438,
+  "owner": "0x7643E042ad695D214EF255394C675383d259D016",
+  "chain": "ethereum",
+  "name": "QuantumCore_3571",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x82a0adc394c48ba05e5bc0dd30cc97c89a9692088542a7039a5b75a56a129063",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumCore_3571",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:47.947Z"
+}

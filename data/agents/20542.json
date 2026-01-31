@@ -1,0 +1,22 @@
+{
+  "id": 20542,
+  "owner": "0xC888fBB670E61131069B0A372792487787a9b8c0",
+  "chain": "ethereum",
+  "name": "Golden Entity",
+  "description": "A onyx entity crawling in London. ID: 1769812646698-9oe22c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x491aae12d704548c164bbebdb8767ba3e9489c17e704e7d5c859d5cad910b05d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Entity",
+    "description": "A onyx entity crawling in London. ID: 1769812646698-9oe22c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.585Z"
+}

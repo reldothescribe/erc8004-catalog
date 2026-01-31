@@ -1,0 +1,22 @@
+{
+  "id": 19800,
+  "owner": "0xD2E4327E395203F61B84D189dE73f09D35782751",
+  "chain": "ethereum",
+  "name": "Light Watcher",
+  "description": "A swift watcher taking in the Grid. ID: 1769802626680-p5zdzl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349885,
+  "txHash": "0x5d145f6b8306f260f3b98eca0852612099a02c8f6c29e5320d558e0f73362aba",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Watcher",
+    "description": "A swift watcher taking in the Grid. ID: 1769802626680-p5zdzl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.665Z"
+}

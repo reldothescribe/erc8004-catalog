@@ -1,0 +1,22 @@
+{
+  "id": 20813,
+  "owner": "0x13CeBf4C857a1DF6fDA8D080d09aC58455e19A47",
+  "chain": "ethereum",
+  "name": "Organic Griffin",
+  "description": "A burning griffin creating in the Chain. ID: 1769812742702-667ws8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xd7462fb8cc4fecb442d1e38a46c0b36e556d27792594a4cd83193e1a1b191f6c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Organic Griffin",
+    "description": "A burning griffin creating in the Chain. ID: 1769812742702-667ws8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.243Z"
+}

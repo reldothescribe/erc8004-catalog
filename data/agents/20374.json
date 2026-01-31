@@ -1,0 +1,22 @@
+{
+  "id": 20374,
+  "owner": "0xB4B28fAe4c438285a38EB8f72d6C4891656736b3",
+  "chain": "ethereum",
+  "name": "Liquid Whale",
+  "description": "A gentle whale playing in Science. ID: 1769812580389-kx7na4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0x7c6c7c46083534de009edef35d5fb0c5ab9f1aa7019a0c3bc38920dbe346a176",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Whale",
+    "description": "A gentle whale playing in Science. ID: 1769812580389-kx7na4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.390Z"
+}

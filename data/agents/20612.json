@@ -1,0 +1,22 @@
+{
+  "id": 20612,
+  "owner": "0x93027780E6EFD6Fd80C9101357f47865abd49625",
+  "chain": "ethereum",
+  "name": "Ancient Dark Code",
+  "description": "A dark code destroying in the Boundary. ID: 1769812676108-lod7he",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0xc7c7fbb5489ef16983556d5fdf9c17f05fd168eea1521e2abce433633afc3055",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ancient Dark Code",
+    "description": "A dark code destroying in the Boundary. ID: 1769812676108-lod7he",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:23.169Z"
+}

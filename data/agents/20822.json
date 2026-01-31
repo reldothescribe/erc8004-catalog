@@ -1,0 +1,22 @@
+{
+  "id": 20822,
+  "owner": "0x0668006AB6ccde4C55cd42119F0e3c10AB199d6A",
+  "chain": "ethereum",
+  "name": "Holographic Dragon",
+  "description": "A atomic dragon stopping in Nature. ID: 1769812741152-zu3ldo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0xd63c1f5b1800328ae3a78852fcb3cd6e77ea5afb4727ba7b1d969fa2a023a179",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Holographic Dragon",
+    "description": "A atomic dragon stopping in Nature. ID: 1769812741152-zu3ldo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:39.244Z"
+}

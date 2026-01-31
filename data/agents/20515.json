@@ -1,0 +1,22 @@
+{
+  "id": 20515,
+  "owner": "0x3780c99Cb25272EF986722140203F4B13A0d8968",
+  "chain": "ethereum",
+  "name": "Future Oracle 306",
+  "description": "A sentient oracle protecting in Magic. ID: 1769812646073-kvw8u5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xfbedc46da006ebb818636a590d686aa6e1e7d5a1a46d05371a717840e10e36eb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Oracle 306",
+    "description": "A sentient oracle protecting in Magic. ID: 1769812646073-kvw8u5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.574Z"
+}

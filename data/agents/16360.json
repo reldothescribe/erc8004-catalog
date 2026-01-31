@@ -1,0 +1,22 @@
+{
+  "id": 16360,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_38f2",
+  "description": "Decentralized AI agent automating protocol integrations with decentralized verification.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349055,
+  "txHash": "0xad1b2f0392f9a5e18be55114175e122e91477298247b14fa18a4bc151afa6a60",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_38f2",
+    "description": "Decentralized AI agent automating protocol integrations with decentralized verification.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:49.604Z"
+}

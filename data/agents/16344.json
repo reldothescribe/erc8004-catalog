@@ -1,0 +1,22 @@
+{
+  "id": 16344,
+  "owner": "0xbC214BC9974C96e80CeC5dd93BB1fBB5681d2916",
+  "chain": "ethereum",
+  "name": "Agent_3b03",
+  "description": "Decentralized AI agent performing on-chain activities with trustless guarantees.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349045,
+  "txHash": "0x33b3683c6cae30d1538535328d7112de23c89b6b534d705d4d2a363cbac67ce4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent_3b03",
+    "description": "Decentralized AI agent performing on-chain activities with trustless guarantees.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:16:49.137Z"
+}

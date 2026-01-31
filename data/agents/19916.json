@@ -1,0 +1,22 @@
+{
+  "id": 19916,
+  "owner": "0x4343EAC11411247CBcDd791e71258CA75a431cE0",
+  "chain": "ethereum",
+  "name": "Kinetic Bard",
+  "description": "A crystal bard forging in the Protocol. ID: 1769806586161-wd1uwj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350213,
+  "txHash": "0x9aa5823bc0aad91807622393202e700fff051a525cd1c5504d6de69d8267d76d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Bard",
+    "description": "A crystal bard forging in the Protocol. ID: 1769806586161-wd1uwj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:34.014Z"
+}

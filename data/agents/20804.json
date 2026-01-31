@@ -1,0 +1,22 @@
+{
+  "id": 20804,
+  "owner": "0xe51eDE7595E9c125789286Ff6A40Bd19F25E1fA1",
+  "chain": "ethereum",
+  "name": "Divine Ocean",
+  "description": "A ruby ocean waiting in Berlin. ID: 1769812719368-q3bgml",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x373e9c69a2ba3f531c488459ec83cfbda2db61207fac7b307ba0b53168497f46",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Divine Ocean",
+    "description": "A ruby ocean waiting in Berlin. ID: 1769812719368-q3bgml",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:38.734Z"
+}

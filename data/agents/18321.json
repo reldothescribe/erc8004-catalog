@@ -1,0 +1,22 @@
+{
+  "id": 18321,
+  "owner": "0x8053AF84C3CC66FDea2ebF58B139868d1436d6c2",
+  "chain": "ethereum",
+  "name": "NexCore_1840",
+  "description": "Autonomous on-chain intelligence driving decentralized decision-making across Web3 protocols.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349250,
+  "txHash": "0x736acb1c8229058e9cf965c610fec1c5d9fe8da351adc25ec93beda7f1fa959a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexCore_1840",
+    "description": "Autonomous on-chain intelligence driving decentralized decision-making across Web3 protocols.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:34.816Z"
+}

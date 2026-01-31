@@ -1,0 +1,22 @@
+{
+  "id": 20144,
+  "owner": "0x23f5ae384043f6c653d7922C9fB0Bf2D487cc4B1",
+  "chain": "ethereum",
+  "name": "Autonomous Frozen Algorithm",
+  "description": "A frozen algorithm diving in the Depths. ID: 1769812365392-hhnb12",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350693,
+  "txHash": "0x437a8bd5a650659d90071c4ff0d5bab7d6b203c74ca5a0ed6770370781887354",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Frozen Algorithm",
+    "description": "A frozen algorithm diving in the Depths. ID: 1769812365392-hhnb12",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:59.550Z"
+}

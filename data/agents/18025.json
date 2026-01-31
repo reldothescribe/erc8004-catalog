@@ -1,0 +1,22 @@
+{
+  "id": 18025,
+  "owner": "0x88490650C7231c7e8Aac236725E188fa9aD8677f",
+  "chain": "ethereum",
+  "name": "UltraCore_8626",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0xb89024a82d013fe0420a69a76ba22e726817860d0144f29578b906438e5bd475",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraCore_8626",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.384Z"
+}

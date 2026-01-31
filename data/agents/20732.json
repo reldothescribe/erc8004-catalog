@@ -1,0 +1,22 @@
+{
+  "id": 20732,
+  "owner": "0x2305B9eb9c50A64eead0f50647659694aedb70B0",
+  "chain": "ethereum",
+  "name": "Cunning Watcher",
+  "description": "A swift watcher giving in the Metaverse. ID: 1769812718750-232dik",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x6b18285bfecfc3eab2ff8a0bf188e5c6f0da49bc8a016383dcf27d7bdc1ed960",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Watcher",
+    "description": "A swift watcher giving in the Metaverse. ID: 1769812718750-232dik",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:34.636Z"
+}

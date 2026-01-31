@@ -1,0 +1,22 @@
+{
+  "id": 17463,
+  "owner": "0x9d4eacB8433456490426328D5281D50C406d3fF2",
+  "chain": "ethereum",
+  "name": "NeoSync_6265",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0xdaf51ac58c89d177db3af487c10d2b5ddd98ba8e3aab4abfd2d544a1565bb1bd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoSync_6265",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:49.539Z"
+}

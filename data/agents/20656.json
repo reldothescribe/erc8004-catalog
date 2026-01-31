@@ -1,0 +1,22 @@
+{
+  "id": 20656,
+  "owner": "0xE28D7Db180a8AB302b77789eAeD07303fbc34D54",
+  "chain": "ethereum",
+  "name": "Electric Bot",
+  "description": "A silent bot swimming in the DAO. ID: 1769812677397-7fp9eg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350719,
+  "txHash": "0x29e772fe9e1da77e439397113163c9de75ed2e9028a1860c03f04aee2a9a0563",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Electric Bot",
+    "description": "A silent bot swimming in the DAO. ID: 1769812677397-7fp9eg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:25.728Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17166,
+  "owner": "0xBCAc44A348EDB8aD16bc5B8B4dfe72652aEb86CA",
+  "chain": "ethereum",
+  "name": "StellarAgent_8311",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349142,
+  "txHash": "0xf94f5e606ed19d8ab8a608ab74e8a9db7e4d265875ce714d3e4698099c1522c3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarAgent_8311",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:34.195Z"
+}

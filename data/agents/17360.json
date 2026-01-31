@@ -1,0 +1,22 @@
+{
+  "id": 17360,
+  "owner": "0xe2c2b497681C32a09f4Bc4EB1bea65B5116FF239",
+  "chain": "ethereum",
+  "name": "AxiMind_9520",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349173,
+  "txHash": "0xbaf02abaad4780993b85d6e578e183b6f35a25d0129d3c0f106151559f531b8f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiMind_9520",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:43.923Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17386,
+  "owner": "0x7E33C4808970b841d5bb100abf50DB572312f42A",
+  "chain": "ethereum",
+  "name": "StellarSync_9133",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0xd476cd6d6b128b8d8c9c5010f8f06a1e840b667e1b1c070cd3dc57514e211399",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarSync_9133",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:45.464Z"
+}

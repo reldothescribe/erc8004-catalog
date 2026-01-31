@@ -1,0 +1,22 @@
+{
+  "id": 18194,
+  "owner": "0x92d0BEf27A03c3ABA4F908e1F7959Af91d4f7b1f",
+  "chain": "ethereum",
+  "name": "AxiHub_5165",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0xd5821099546c58301384ba84f3dc62c7e007a87ecacc5bcd0ba1c4efa99ce5d3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "AxiHub_5165",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.820Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18234,
+  "owner": "0x926Cd557D1FD802759cd75e475766a33f35C9308",
+  "chain": "ethereum",
+  "name": "HexPulse_36be",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349232,
+  "txHash": "0x2a717ac71559ee44b6b104f0b12ce766012c71bfb1ec16983d06a8f55ff62033",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexPulse_36be",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:30.822Z"
+}

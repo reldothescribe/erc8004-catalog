@@ -1,0 +1,22 @@
+{
+  "id": 17760,
+  "owner": "0xbda7C48B10d7bAD11Ac0DFfb847F4df95d4266AA",
+  "chain": "ethereum",
+  "name": "UltraFlow_9511",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0x15dfd2f37b8438158da2c054e94f8a926a7ffc46bc8186e9f6f0edcac5bfe46c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraFlow_9511",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.197Z"
+}

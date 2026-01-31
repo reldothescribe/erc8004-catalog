@@ -1,0 +1,22 @@
+{
+  "id": 20424,
+  "owner": "0xCcBe63a952729aD8dcf1830FA68c4A91EbacB690",
+  "chain": "ethereum",
+  "name": "Burning Network",
+  "description": "A phantom network swimming in the Center. ID: 1769812610950-dpx8du",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350714,
+  "txHash": "0xcc3da53d5e60838b06c4b2f423212b830aeecf737bb23ec6ebddd7e9b2b86bcb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Network",
+    "description": "A phantom network swimming in the Center. ID: 1769812610950-dpx8du",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:13.950Z"
+}

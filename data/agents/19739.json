@@ -1,0 +1,22 @@
+{
+  "id": 19739,
+  "owner": "0x03bb312c66Bf7b5D54a14e03C1C7E45b7F62DBc4",
+  "chain": "ethereum",
+  "name": "Secret Ethereal Throne",
+  "description": "A ethereal throne buying in the Network. ID: 1769802486045-u8frba",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349873,
+  "txHash": "0x1654dcf69dc8197faf2c785eba6193eaf9440ffa3fedef08d4f530ee133774a5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Ethereal Throne",
+    "description": "A ethereal throne buying in the Network. ID: 1769802486045-u8frba",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:49.878Z"
+}

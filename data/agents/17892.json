@@ -1,0 +1,22 @@
+{
+  "id": 17892,
+  "owner": "0x695F5385D8eFc9a911fa547E1d1976952Af7eA43",
+  "chain": "ethereum",
+  "name": "PrimeCore_4440",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x45f79cd1fe24c0d57b86aa1597e4aab39db53e8073d5734c1ac7957489a6bae8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeCore_4440",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:11.160Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17941,
+  "owner": "0x2Bf09Bfa9398bbA545BC1F36bc1Ce685De0E7f46",
+  "chain": "ethereum",
+  "name": "StellarBot_543",
+  "description": "Proactive on-chain assistant managing digital asset operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x0f8e1c3b8be6c12096cf0ce637e095ed44aa9a5cfa169f4b094d647636c99832",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarBot_543",
+    "description": "Proactive on-chain assistant managing digital asset operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:13.724Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17881,
+  "owner": "0xA094b078b684f4A2F3103AAeF0f0229240B4Af6D",
+  "chain": "ethereum",
+  "name": "CyberNode_102",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0x6bd93b6af102053fb6a08a39bf3333d7e89bc9365bafca1bc51a3482b6fcf9bf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberNode_102",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:10.596Z"
+}

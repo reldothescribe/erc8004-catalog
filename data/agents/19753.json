@@ -1,0 +1,22 @@
+{
+  "id": 19753,
+  "owner": "0xd0F18Bc62cEE2Cb49b771F2470D95574B1cB1964",
+  "chain": "ethereum",
+  "name": "Chaotic Sun",
+  "description": "A ruby sun living in the Past. ID: 1769802494983-0cvz8r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349874,
+  "txHash": "0xe9745a61c16c0375715eb0418370e4368bee94ef3328c830db6a35b513808e2c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Sun",
+    "description": "A ruby sun living in the Past. ID: 1769802494983-0cvz8r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:51.541Z"
+}

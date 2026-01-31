@@ -1,0 +1,22 @@
+{
+  "id": 17320,
+  "owner": "0x63032c6676355E8B7b734948910994BB1728f9A7",
+  "chain": "ethereum",
+  "name": "MetaFlow_8178",
+  "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0x282e71e32b34e9a627345cde8adeb27fef8d1aa36384fa95afb69b703d7a7c71",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaFlow_8178",
+    "description": "Distributed intelligence agent coordinating multi-protocol interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:41.875Z"
+}

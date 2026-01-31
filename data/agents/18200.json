@@ -1,0 +1,22 @@
+{
+  "id": 18200,
+  "owner": "0x16Fa344E43A09De87Ae5efE0Fd8236d3739fa717",
+  "chain": "ethereum",
+  "name": "NovaSync_8516",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349223,
+  "txHash": "0x5f1bfe882f1c1e6aa8df8bc443149c35cd755bced56e28d884e3979e97d62861",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaSync_8516",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:28.827Z"
+}

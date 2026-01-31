@@ -1,0 +1,22 @@
+{
+  "id": 18151,
+  "owner": "0x57D54EeE7C7f8FEcb2EA549eFfae2834eda47EFb",
+  "chain": "ethereum",
+  "name": "NeoNet_8972",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349221,
+  "txHash": "0x60f823013ca59c7125159006bf2cd4ef0f061ea31bfe11347474be642db5dee8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NeoNet_8972",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:25.135Z"
+}

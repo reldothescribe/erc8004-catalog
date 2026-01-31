@@ -1,0 +1,22 @@
+{
+  "id": 19780,
+  "owner": "0xC6506824E68402C9AC6957988A6e92a4Ec08c724",
+  "chain": "ethereum",
+  "name": "Digital Eagle",
+  "description": "A visual eagle living in Magic. ID: 1769802569939-81ewn6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349880,
+  "txHash": "0xc27c8705f23adf4c52823d387c37085cc9b96f9fe42273a26b446d8a19471649",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Eagle",
+    "description": "A visual eagle living in Magic. ID: 1769802569939-81ewn6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.644Z"
+}

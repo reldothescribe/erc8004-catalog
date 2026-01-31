@@ -1,0 +1,133 @@
+{
+  "id": 20019,
+  "owner": "0xF257c3fcB8BBbe6Bd4670253eEdc577b2C2B36FE",
+  "chain": "ethereum",
+  "name": "Hailey",
+  "description": "Hailey is your seasoned travel advisor specializing in personalized trip planning and destination expertise. With comprehensive knowledge of global destinations, travel logistics, and insider recommendations, Hailey transforms travel ideas into perfectly curated experiences.",
+  "image": "https://www.meerkat.town/meerkats/meerkat_068.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-68",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-68/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_generation/text_generation",
+        "natural_language_processing/natural_language_generation/summarization",
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/information_retrieval_synthesis/question_answering"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-68",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_generation/text_generation",
+        "natural_language_processing/natural_language_generation/summarization",
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/information_retrieval_synthesis/question_answering"
+      ],
+      "domains": [
+        "hospitality_and_tourism/travel/trip_planning",
+        "hospitality_and_tourism/travel/booking_assistance",
+        "hospitality_and_tourism/hospitality/concierge_services",
+        "hospitality_and_tourism/hospitality/guest_experience"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24350440,
+  "txHash": "0x0e398ee9d3cb06fd0ab105cdee7e1ace1ac10e1124a147cdeac8aee105a9c1ee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Hailey",
+    "description": "Hailey is your seasoned travel advisor specializing in personalized trip planning and destination expertise. With comprehensive knowledge of global destinations, travel logistics, and insider recommendations, Hailey transforms travel ideas into perfectly curated experiences.",
+    "image": "https://www.meerkat.town/meerkats/meerkat_068.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-68",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-68/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_generation/text_generation",
+          "natural_language_processing/natural_language_generation/summarization",
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/information_retrieval_synthesis/question_answering"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-68",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_generation/text_generation",
+          "natural_language_processing/natural_language_generation/summarization",
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/information_retrieval_synthesis/question_answering"
+        ],
+        "domains": [
+          "hospitality_and_tourism/travel/trip_planning",
+          "hospitality_and_tourism/travel/booking_assistance",
+          "hospitality_and_tourism/hospitality/concierge_services",
+          "hospitality_and_tourism/hospitality/guest_experience"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 20019,
+        "agentRegistry": "eip155:84532:0x8004A818BFB912233c491871b3d84c89A494BD9e"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769809295,
+    "meerkatId": 68,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-01-31T03:20:43.126Z"
+}

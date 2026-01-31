@@ -1,0 +1,22 @@
+{
+  "id": 17244,
+  "owner": "0xB74e970d0c70639d0103507dDD5cb9DB5bBcebD3",
+  "chain": "ethereum",
+  "name": "MetaNode_7183",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349161,
+  "txHash": "0xbc7bc877ab5ccca8a2bd0b0436e9906505259dfc340ac4a52190275016decf25",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNode_7183",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.289Z"
+}

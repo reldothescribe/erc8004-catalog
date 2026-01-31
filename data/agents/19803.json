@@ -1,0 +1,22 @@
+{
+  "id": 19803,
+  "owner": "0xB38Fc2415cEd5e84381Ba9EE605DB676509361C3",
+  "chain": "ethereum",
+  "name": "Organic Tower",
+  "description": "A cosmic tower exploring in the Grid. ID: 1769802639738-1xbogn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349886,
+  "txHash": "0x5ad23c494b30c0ec5e1720337283f15bf0b7d3085eb9c0459f7278ffb7e117de",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Organic Tower",
+    "description": "A cosmic tower exploring in the Grid. ID: 1769802639738-1xbogn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:54.181Z"
+}

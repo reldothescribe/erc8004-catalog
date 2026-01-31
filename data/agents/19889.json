@@ -1,0 +1,135 @@
+{
+  "id": 19889,
+  "owner": "0xb226F97bC5b01978848dc440b40c70FAeA7c006E",
+  "chain": "ethereum",
+  "name": "Alex-04",
+  "description": "https://x.com/sadd_asd77675\nhttps://x.com/sadd_asd77675\n",
+  "image": "https://www.meerkat.town/meerkats/meerkat_004.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-4",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-4/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_understanding/semantic_understanding",
+        "natural_language_processing/natural_language_understanding/entity_recognition",
+        "natural_language_processing/natural_language_understanding/sentiment_analysis",
+        "natural_language_processing/natural_language_understanding/intent_classification"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-4",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_understanding/semantic_understanding",
+        "natural_language_processing/natural_language_understanding/entity_recognition",
+        "natural_language_processing/natural_language_understanding/sentiment_analysis",
+        "natural_language_processing/natural_language_understanding/intent_classification"
+      ],
+      "domains": [
+        "technology/software_engineering/devops",
+        "technology/software_engineering/apis_integration",
+        "technology/software_engineering/web_development",
+        "technology/software_engineering/mobile_development",
+        "technology/blockchain/cryptocurrency"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24350184,
+  "txHash": "0xad5a2da3f612e65c1c1ecb08b80bdac43b715e92d14edf8d8b921a4c17ed3f47",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Alex-04",
+    "description": "https://x.com/sadd_asd77675\nhttps://x.com/sadd_asd77675\n",
+    "image": "https://www.meerkat.town/meerkats/meerkat_004.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-4",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-4/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_understanding/semantic_understanding",
+          "natural_language_processing/natural_language_understanding/entity_recognition",
+          "natural_language_processing/natural_language_understanding/sentiment_analysis",
+          "natural_language_processing/natural_language_understanding/intent_classification"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-4",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_understanding/semantic_understanding",
+          "natural_language_processing/natural_language_understanding/entity_recognition",
+          "natural_language_processing/natural_language_understanding/sentiment_analysis",
+          "natural_language_processing/natural_language_understanding/intent_classification"
+        ],
+        "domains": [
+          "technology/software_engineering/devops",
+          "technology/software_engineering/apis_integration",
+          "technology/software_engineering/web_development",
+          "technology/software_engineering/mobile_development",
+          "technology/blockchain/cryptocurrency"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 19884,
+        "agentRegistry": "eip155:84532:0x8004A818BFB912233c491871b3d84c89A494BD9e"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769806233,
+    "meerkatId": 4,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-01-31T03:20:29.708Z"
+}

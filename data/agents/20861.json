@@ -1,0 +1,22 @@
+{
+  "id": 20861,
+  "owner": "0x7D04C6D91C5cfFc18d02208575829818eC8Cf1a4",
+  "chain": "ethereum",
+  "name": "Cosmic Blade 200",
+  "description": "A wise blade living in DeFi. ID: 1769812741948-phzcxl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350728,
+  "txHash": "0x43fac476ade0345a1b99bc3b0c53ac6e3f0f63da65938b989ed017ea7d686862",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Blade 200",
+    "description": "A wise blade living in DeFi. ID: 1769812741948-phzcxl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:41.292Z"
+}

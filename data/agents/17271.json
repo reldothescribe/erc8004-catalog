@@ -1,0 +1,22 @@
+{
+  "id": 17271,
+  "owner": "0x66D22dBB1a48c9b20Ad7B12E8dfD85E3a6cD0bAc",
+  "chain": "ethereum",
+  "name": "StellarNode_8628",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349162,
+  "txHash": "0x9c2d537e48dd1b54d28446d9def1eb3098e7e121c3747ed05cc4379f9723cdd2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNode_8628",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:39.316Z"
+}

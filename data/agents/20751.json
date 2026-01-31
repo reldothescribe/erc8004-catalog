@@ -1,0 +1,22 @@
+{
+  "id": 20751,
+  "owner": "0x783d425a3c86CDd57eBe3b781ad9Ecf85cB917c3",
+  "chain": "ethereum",
+  "name": "Silent Valiant Echo",
+  "description": "A valiant echo falling in the DAO. ID: 1769812720023-aqv247",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x006f0703242ffabea82c9b01aa754c3d9283f6e40a87f9f210992e2c134ceb73",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Valiant Echo",
+    "description": "A valiant echo falling in the DAO. ID: 1769812720023-aqv247",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:35.661Z"
+}

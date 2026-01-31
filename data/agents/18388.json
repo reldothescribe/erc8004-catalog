@@ -1,0 +1,22 @@
+{
+  "id": 18388,
+  "owner": "0x252E9fEb335CFAc181635E908118831dE32963Be",
+  "chain": "ethereum",
+  "name": "AxiCore_ec48",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349256,
+  "txHash": "0xfba028b1e6193d75bade7d9ea0d329900aaf0989f2e218fd3d2846c81eef87ff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiCore_ec48",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:38.401Z"
+}

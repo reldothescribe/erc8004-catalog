@@ -1,0 +1,22 @@
+{
+  "id": 17763,
+  "owner": "0x21368F3F2Ca557c995550f9747cd4778FA80236e",
+  "chain": "ethereum",
+  "name": "UltraLink_1561",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349203,
+  "txHash": "0xe7316d5df7fe187008539b40b0380ecd58d9fb2beb84556f7c29e999ef6f016a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraLink_1561",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:04.657Z"
+}

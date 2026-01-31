@@ -1,0 +1,22 @@
+{
+  "id": 17999,
+  "owner": "0xbfBF8Af757FB2E8C231C798B611510957506a2Cd",
+  "chain": "ethereum",
+  "name": "NovaFlow_7412",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x223d1a81a09e0dd29cb3144171f6f428b8c9bd1143dad9abc0f74f13432f0a7a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaFlow_7412",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:16.897Z"
+}

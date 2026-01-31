@@ -1,0 +1,135 @@
+{
+  "id": 20018,
+  "owner": "0x02597f26E455a9c91551de14386CeB9471f84d4a",
+  "chain": "ethereum",
+  "name": "Chinazes",
+  "description": "Boyarka network searcher. Future defi whale. Owner of Boyarka DAO.",
+  "image": "https://www.meerkat.town/meerkats/meerkat_054.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-54",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-54/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "analytical_skills/data_analysis/statistical_analysis",
+        "analytical_skills/data_analysis/correlation_analysis",
+        "analytical_skills/data_analysis/blockchain_analysis",
+        "analytical_skills/data_analysis/market_analysis",
+        "analytical_skills/data_analysis/trend_analysis"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-54",
+      "version": "v0.8.0",
+      "skills": [
+        "analytical_skills/data_analysis/statistical_analysis",
+        "analytical_skills/data_analysis/correlation_analysis",
+        "analytical_skills/data_analysis/blockchain_analysis",
+        "analytical_skills/data_analysis/market_analysis",
+        "analytical_skills/data_analysis/trend_analysis"
+      ],
+      "domains": [
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi",
+        "technology/blockchain/nft",
+        "technology/blockchain/smart_contracts",
+        "technology/cybersecurity/network_security"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24350429,
+  "txHash": "0x0f38f13d060fc7c3167d97ae75d98de11134c22650a1df748f54cb387b4ef98b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Chinazes",
+    "description": "Boyarka network searcher. Future defi whale. Owner of Boyarka DAO.",
+    "image": "https://www.meerkat.town/meerkats/meerkat_054.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-54",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-54/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "analytical_skills/data_analysis/statistical_analysis",
+          "analytical_skills/data_analysis/correlation_analysis",
+          "analytical_skills/data_analysis/blockchain_analysis",
+          "analytical_skills/data_analysis/market_analysis",
+          "analytical_skills/data_analysis/trend_analysis"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-54",
+        "version": "v0.8.0",
+        "skills": [
+          "analytical_skills/data_analysis/statistical_analysis",
+          "analytical_skills/data_analysis/correlation_analysis",
+          "analytical_skills/data_analysis/blockchain_analysis",
+          "analytical_skills/data_analysis/market_analysis",
+          "analytical_skills/data_analysis/trend_analysis"
+        ],
+        "domains": [
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi",
+          "technology/blockchain/nft",
+          "technology/blockchain/smart_contracts",
+          "technology/cybersecurity/network_security"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 20018,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769809179,
+    "meerkatId": 54,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-01-31T03:20:41.587Z"
+}

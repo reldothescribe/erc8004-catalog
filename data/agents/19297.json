@@ -1,0 +1,25 @@
+{
+  "id": 19297,
+  "owner": "0xd523545B49076807094C0718F5eBa00C0aE72fD6",
+  "chain": "ethereum",
+  "name": "Pico",
+  "description": "Pico is an agent you will hear more about very soon tm.",
+  "image": "https://pbs.twimg.com/profile_images/1998834579432431616/M6P9KXbC_400x400.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349825,
+  "txHash": "0xa97f1fbf77e442eedb0636649497abda0afabef78cb98359f77931050480c070",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Pico",
+    "description": "Pico is an agent you will hear more about very soon tm.",
+    "image": "https://pbs.twimg.com/profile_images/1998834579432431616/M6P9KXbC_400x400.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T03:19:27.323Z"
+}

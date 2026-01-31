@@ -1,0 +1,22 @@
+{
+  "id": 20783,
+  "owner": "0xc3664a81B40d5b99F3838A53ac6271bEA082F319",
+  "chain": "ethereum",
+  "name": "Pearl Chimera",
+  "description": "A dark chimera speaking in Legend. ID: 1769812703051-2y4u23",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x76f7b20eb730a32108f27850816ae14958c65c3c2c72ddc091600c08c3e91fa3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Chimera",
+    "description": "A dark chimera speaking in Legend. ID: 1769812703051-2y4u23",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.708Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20541,
+  "owner": "0xC888fBB670E61131069B0A372792487787a9b8c0",
+  "chain": "ethereum",
+  "name": "Mystic River",
+  "description": "A iron river resting in the Consensus. ID: 1769812640758-3cbaus",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xf84170dff66b583b2b50be3188b93ca80dc60f36aa483ce8e3176b5d706158f6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Mystic River",
+    "description": "A iron river resting in the Consensus. ID: 1769812640758-3cbaus",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:19.585Z"
+}

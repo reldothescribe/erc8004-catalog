@@ -1,0 +1,22 @@
+{
+  "id": 18317,
+  "owner": "0x536B698d03fFF914293F98eF902417a9fd8E97d3",
+  "chain": "ethereum",
+  "name": "HexBot_b7f6",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349249,
+  "txHash": "0x1177992a191d4d2c5d6fbe5923668c82d421bab85d2424be1c48d5b76fd99e20",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HexBot_b7f6",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:34.817Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16954,
+  "owner": "0x32B3A16cB2461203209502fb5594B964f9Faf602",
+  "chain": "ethereum",
+  "name": "MetaAgent_4974",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349126,
+  "txHash": "0x7da05ac42530b7c2053082a246de7a58b5cb48e925bde39bb3ecab736b9a4056",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaAgent_4974",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:22.008Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17916,
+  "owner": "0xaAE11DC36f266b87a4C2b2E49cb5fBCae6cea71e",
+  "chain": "ethereum",
+  "name": "NovaCore_2820",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0x3efaccb777ce9aecae1c7a5777a09c0c0de5f9b1a124d0d95bf063cbc0a5daf0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaCore_2820",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:12.658Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20586,
+  "owner": "0xdc5404F78763197f81346504fBBa7EAf6327b3b6",
+  "chain": "ethereum",
+  "name": "Automated Bear",
+  "description": "A rapid bear fighting in Cyberspace. ID: 1769812647997-4ce1n6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xa03089b5e008508c45cba201e158991a95b0d2a82c943d5ad2c3fa7715cfa5b1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Automated Bear",
+    "description": "A rapid bear fighting in Cyberspace. ID: 1769812647997-4ce1n6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.142Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20465,
+  "owner": "0x1f60e7eDf3F4a275C3588A1BbdCB1d8Aa6398c1b",
+  "chain": "ethereum",
+  "name": "Silent Quantum Forge",
+  "description": "A quantum forge molding in the Past. ID: 1769812642686-zoytmu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0x6507c390af91e216f241f0dbd2715d06b98f40c972f639521189456a656c56d0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Quantum Forge",
+    "description": "A quantum forge molding in the Past. ID: 1769812642686-zoytmu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:16.101Z"
+}

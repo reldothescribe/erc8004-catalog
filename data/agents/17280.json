@@ -1,0 +1,22 @@
+{
+  "id": 17280,
+  "owner": "0x71764Edc6ae27adE97699Ba36A66f373E77c2298",
+  "chain": "ethereum",
+  "name": "UltraMind_6964",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349162,
+  "txHash": "0x9b56145e097c43ff3baa859bee9aa783ad0ad17ef570b0d82351443233770c0d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "UltraMind_6964",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:39.826Z"
+}

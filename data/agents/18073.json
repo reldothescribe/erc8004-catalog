@@ -1,0 +1,22 @@
+{
+  "id": 18073,
+  "owner": "0xF525A7F4A9296E3E6958d419083f0eFec5B844Ec",
+  "chain": "ethereum",
+  "name": "PrimeNet_416",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x543491b72bf89be55dd943f49f22f724f705442d8c2d742584ff2d2e59158ffb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "PrimeNet_416",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:21.503Z"
+}

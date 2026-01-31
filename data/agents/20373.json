@@ -1,0 +1,22 @@
+{
+  "id": 20373,
+  "owner": "0x18952b5bb759df25D7871d18d4D293b5dD1bBDe9",
+  "chain": "ethereum",
+  "name": "Tactile Rapid Agent",
+  "description": "A rapid agent carving in Legend. ID: 1769812580389-n4zdew",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350711,
+  "txHash": "0x14186c3e7ad1d58e6874828e44ac207097a232fe111bba8fa63559411a393aec",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Tactile Rapid Agent",
+    "description": "A rapid agent carving in Legend. ID: 1769812580389-n4zdew",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.389Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18062,
+  "owner": "0xcF34bbaC2C51707aF9a2CE0C654eC149C2BeF418",
+  "chain": "ethereum",
+  "name": "QuantumNode_6359",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x6c19b6eb9e37756640c0d3b9bc1e79f61bc30aa85dadd6506e1982498701bcce",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumNode_6359",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:19.968Z"
+}

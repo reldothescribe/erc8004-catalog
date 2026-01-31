@@ -1,0 +1,22 @@
+{
+  "id": 17411,
+  "owner": "0x07E1228A01a9BF828F2D83Bf84cC91116525ef5B",
+  "chain": "ethereum",
+  "name": "MetaNode_7305",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x649ebf86a63c21fdaa044b04f1735ff5be0b5c7aebe05608b6a5f2dd99a975dc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNode_7305",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:46.482Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17686,
+  "owner": "0x9eA7f2e059F4724b33BED1Dfd5d393fd428D2C97",
+  "chain": "ethereum",
+  "name": "StellarCore_4803",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349186,
+  "txHash": "0x0ca89a9a20f8a9251a77c99e292094ecbb31a5d028280a86a683a50fc4b2a63f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarCore_4803",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:00.613Z"
+}

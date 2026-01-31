@@ -1,0 +1,22 @@
+{
+  "id": 15411,
+  "owner": "0x6b0B1c8B5160ECF00372ad11df96E3C861666666",
+  "chain": "ethereum",
+  "name": "Autonomous",
+  "description": "Autonomous AI agents are reshaping Web3 — executing on-chain transactions, managing DeFi portfolios, and governing DAOs without human intervention.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348720,
+  "txHash": "0xdc21abeaeb2f6dd3c8c5e2acf59374b4a34b55b1491f4acfd359ed01a701e651",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Autonomous",
+    "description": "Autonomous AI agents are reshaping Web3 — executing on-chain transactions, managing DeFi portfolios, and governing DAOs without human intervention.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:15:51.539Z"
+}

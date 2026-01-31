@@ -1,0 +1,22 @@
+{
+  "id": 20338,
+  "owner": "0xCcBe63a952729aD8dcf1830FA68c4A91EbacB690",
+  "chain": "ethereum",
+  "name": "Light Cosmic Mage",
+  "description": "A cosmic mage flying in Dimension X. ID: 1769812503121-z2cm72",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350706,
+  "txHash": "0x8fdd17d9d0eaa22c352fbeaa62d9b9c557ad15a09af9428bcd3f64c7f8961715",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Cosmic Mage",
+    "description": "A cosmic mage flying in Dimension X. ID: 1769812503121-z2cm72",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:09.245Z"
+}

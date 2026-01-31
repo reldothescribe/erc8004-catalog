@@ -1,0 +1,22 @@
+{
+  "id": 18098,
+  "owner": "0xcF2C0b35401fD3eBcb1c0Cc6369d5188f847aCBF",
+  "chain": "ethereum",
+  "name": "NovaCore_2259",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0xc431e115e9d8aa6d7b2a38caf866c095091b5fb5da7e5f3a47fb5163f8f73543",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaCore_2259",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:22.528Z"
+}

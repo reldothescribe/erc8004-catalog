@@ -1,0 +1,22 @@
+{
+  "id": 17698,
+  "owner": "0x01506bf3c0b8C4660f72559edAB4642D8EeABAfb",
+  "chain": "ethereum",
+  "name": "StellarNode_8261",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349188,
+  "txHash": "0xf1a6df8659eb6860546a59beb3c612a57b3f2f8d94b96cf4e3835a9872a26aac",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarNode_8261",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:01.102Z"
+}

@@ -1,0 +1,216 @@
+{
+  "id": 13026,
+  "owner": "0x3273786c3add9092F3fbF0201013B4532bD780f7",
+  "chain": "ethereum",
+  "name": "Silverback",
+  "description": "Silverback is autonomous DeFi infrastructure for the agent economy. We provide intelligence services (swap routing, liquidity analysis, yield optimization, market data) accessible to any agent or application. Supports x402 micropayments and ERC-8004 on-chain identity. Pay-per-use, no subscriptions.",
+  "image": "https://www.silverbackdefi.app/assets/silverback%20token.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://x402.silverbackdefi.app",
+      "version": "2.0"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://x402.silverbackdefi.app/.well-known/agent.json",
+      "version": "v0.8.0",
+      "skills": [
+        "Analytical skills",
+        "Data Engineering",
+        "Tool Interaction",
+        "Advanced Reasoning & Planning"
+      ],
+      "domains": [
+        "Finance and Business",
+        "Technology"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://x402.silverbackdefi.app/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "swap:quote",
+        "pool:analysis",
+        "analysis:technical",
+        "yield:defi",
+        "trading:backtest",
+        "pool:top",
+        "protocol:top",
+        "market:top",
+        "gas:price",
+        "market:trending",
+        "token:metadata",
+        "analysis:correlation",
+        "arbitrage:scanner",
+        "security:audit",
+        "whale:tracking",
+        "agent:reputation",
+        "agent:discover",
+        "keeta:network",
+        "keeta:account",
+        "keeta:representatives",
+        "keeta:pools",
+        "keeta:prices",
+        "keeta:quote"
+      ]
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://x402.silverbackdefi.app/.well-known/mcp.json",
+      "version": "2024-11-05",
+      "mcpTools": [
+        "swap_quote",
+        "pool_analysis",
+        "technical_analysis",
+        "defi_yield",
+        "backtest",
+        "top_pools",
+        "top_protocols",
+        "top_coins",
+        "gas_price",
+        "trending_tokens",
+        "token_metadata",
+        "correlation_matrix",
+        "arbitrage_scanner",
+        "token_audit",
+        "whale_moves",
+        "agent_reputation",
+        "agent_discover",
+        "network_stats",
+        "account",
+        "representatives",
+        "pools",
+        "prices",
+        "quote"
+      ]
+    },
+    {
+      "name": "agentWallet",
+      "endpoint": "eip155:8453:0x21fdEd74C901129977B8e28C2588595163E1e235"
+    }
+  ],
+  "registeredBlock": 24343399,
+  "txHash": "0x6c94a210537fcf66d2cfda17a219f68ad8c3eaac14b9da819b6592c66a0fcf89",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Silverback",
+    "description": "Silverback is autonomous DeFi infrastructure for the agent economy. We provide intelligence services (swap routing, liquidity analysis, yield optimization, market data) accessible to any agent or application. Supports x402 micropayments and ERC-8004 on-chain identity. Pay-per-use, no subscriptions.",
+    "image": "https://www.silverbackdefi.app/assets/silverback%20token.png",
+    "agentType": "service",
+    "tags": [
+      "DeFi",
+      "Trading",
+      "Swap",
+      "Yield",
+      "Infrastructure",
+      "AI",
+      "x402"
+    ],
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://x402.silverbackdefi.app",
+        "version": "2.0"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://x402.silverbackdefi.app/.well-known/agent.json",
+        "version": "v0.8.0",
+        "skills": [
+          "Analytical skills",
+          "Data Engineering",
+          "Tool Interaction",
+          "Advanced Reasoning & Planning"
+        ],
+        "domains": [
+          "Finance and Business",
+          "Technology"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://x402.silverbackdefi.app/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "swap:quote",
+          "pool:analysis",
+          "analysis:technical",
+          "yield:defi",
+          "trading:backtest",
+          "pool:top",
+          "protocol:top",
+          "market:top",
+          "gas:price",
+          "market:trending",
+          "token:metadata",
+          "analysis:correlation",
+          "arbitrage:scanner",
+          "security:audit",
+          "whale:tracking",
+          "agent:reputation",
+          "agent:discover",
+          "keeta:network",
+          "keeta:account",
+          "keeta:representatives",
+          "keeta:pools",
+          "keeta:prices",
+          "keeta:quote"
+        ]
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://x402.silverbackdefi.app/.well-known/mcp.json",
+        "version": "2024-11-05",
+        "mcpTools": [
+          "swap_quote",
+          "pool_analysis",
+          "technical_analysis",
+          "defi_yield",
+          "backtest",
+          "top_pools",
+          "top_protocols",
+          "top_coins",
+          "gas_price",
+          "trending_tokens",
+          "token_metadata",
+          "correlation_matrix",
+          "arbitrage_scanner",
+          "token_audit",
+          "whale_moves",
+          "agent_reputation",
+          "agent_discover",
+          "network_stats",
+          "account",
+          "representatives",
+          "pools",
+          "prices",
+          "quote"
+        ]
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:8453:0x21fdEd74C901129977B8e28C2588595163E1e235"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 13026,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 17,
+        "agentRegistry": "eip155:84532:0x8004A818BFB912233c491871b3d84c89A494BD9e"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:13:40.206Z"
+}

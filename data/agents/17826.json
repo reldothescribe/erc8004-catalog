@@ -1,0 +1,22 @@
+{
+  "id": 17826,
+  "owner": "0x8FE1B5EC1170f214740E1BBB0582fc3c74C7136D",
+  "chain": "ethereum",
+  "name": "QuantumFlow_8768",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349210,
+  "txHash": "0x32c527ba396fa23b435176860ed78f93b911b44607afe79e48541b1eaa3ffedb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumFlow_8768",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:08.108Z"
+}

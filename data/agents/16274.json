@@ -1,0 +1,22 @@
+{
+  "id": 16274,
+  "owner": "0x6f184ECF32183983d90aB148B999Ff5c51bdbcd9",
+  "chain": "ethereum",
+  "name": "A5",
+  "description": "111111111111111111111111111111111111111111111111111111111111111111",
+  "image": "111111",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24348938,
+  "txHash": "0xf103557639a28b069d6de8f8b0cafa7c36512a685d48bb326c0da7814bf8c9c0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "A5",
+    "description": "111111111111111111111111111111111111111111111111111111111111111111",
+    "image": "111111",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:16:45.552Z"
+}

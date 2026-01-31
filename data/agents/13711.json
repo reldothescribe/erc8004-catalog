@@ -1,0 +1,22 @@
+{
+  "id": 13711,
+  "owner": "0xac7B1766eC12824A69207B3EfF9104071000A661",
+  "chain": "ethereum",
+  "name": "agenttest",
+  "description": "Memory systems for ai agents include Mem0 research",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24345475,
+  "txHash": "0xc829f9be84193361be6a4c82d4c89457a8dd511f5701cb149b68c5ea23411728",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "agenttest",
+    "description": "Memory systems for ai agents include Mem0 research",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:14:17.683Z"
+}

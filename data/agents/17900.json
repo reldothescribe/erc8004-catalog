@@ -1,0 +1,22 @@
+{
+  "id": 17900,
+  "owner": "0x9ac9b24d3aE1C08D702041b3f4d7523d7F3D6Df3",
+  "chain": "ethereum",
+  "name": "StellarBot_3741",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349214,
+  "txHash": "0xb1fdabad359bbc4b47b87d6d51fbace75c85da6b76db736e286f19937aedbc66",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarBot_3741",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:11.674Z"
+}

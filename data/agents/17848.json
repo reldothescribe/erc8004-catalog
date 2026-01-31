@@ -1,0 +1,22 @@
+{
+  "id": 17848,
+  "owner": "0x21A55716e6076a27D71bC2783168B91C40313953",
+  "chain": "ethereum",
+  "name": "MetaCore_20",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349212,
+  "txHash": "0xdfe22b06fe93ba2057d050941df71a9b2e03bd5cd2b79310057c4c6b39de4645",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaCore_20",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:09.113Z"
+}

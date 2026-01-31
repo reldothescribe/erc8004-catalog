@@ -1,0 +1,22 @@
+{
+  "id": 17251,
+  "owner": "0x055B83842A65E8e8fb3f46740b91eCF15B7C66F2",
+  "chain": "ethereum",
+  "name": "QuantumFlow_1800",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349161,
+  "txHash": "0xe79a9600815e64b6a52b67cfc3895ac2565f8c52435b592a23c20e4f32a73604",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumFlow_1800",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:38.289Z"
+}

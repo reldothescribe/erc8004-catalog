@@ -1,0 +1,22 @@
+{
+  "id": 20671,
+  "owner": "0x444e9EE2149588d0824B00BEb137a67c0455c00B",
+  "chain": "ethereum",
+  "name": "Crimson Radiant Castle",
+  "description": "A radiant castle keeping in Space. ID: 1769812701765-pe96t1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x6514e4cd315641c0868a3bf3fb112e53972c9fd63fee99d523783274ff712239",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Radiant Castle",
+    "description": "A radiant castle keeping in Space. ID: 1769812701765-pe96t1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:26.238Z"
+}

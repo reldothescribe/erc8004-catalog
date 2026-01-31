@@ -1,0 +1,22 @@
+{
+  "id": 18374,
+  "owner": "0xAC6aD7a1645CcBcE11332f58Ac3abD2F41759E85",
+  "chain": "ethereum",
+  "name": "NexChain_950e",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349254,
+  "txHash": "0x9dc13f764dcfeebb0d3b77ea52d3ae8e33a1eb7a233885009c8c3c27866fbb38",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexChain_950e",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:37.890Z"
+}

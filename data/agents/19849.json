@@ -1,0 +1,22 @@
+{
+  "id": 19849,
+  "owner": "0x4280E1C9e01292769408e948605974a81CA44A86",
+  "chain": "ethereum",
+  "name": "Nova Nexus",
+  "description": "An AI agent that connects disparate ideas into innovative solutions, sparking creativity across industries like a cosmic nexus.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350164,
+  "txHash": "0xdd2f92b45030877c6996ea7529928ff32ba7d774e2d8b80712a7afa0d3324c08",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nova Nexus",
+    "description": "An AI agent that connects disparate ideas into innovative solutions, sparking creativity across industries like a cosmic nexus.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:26.232Z"
+}

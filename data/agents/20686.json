@@ -1,0 +1,22 @@
+{
+  "id": 20686,
+  "owner": "0x06CaA6a74716BF1eAca3cb3be976cd6Aa2E510B1",
+  "chain": "ethereum",
+  "name": "Chaotic Cipher",
+  "description": "A neural cipher swimming in Dimension X. ID: 1769812702394-q25hvy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0xe7c4cd4f286e0e0f177edb9d3cdc842b1b003811081c5f7f8b57b45acb9ad07d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Cipher",
+    "description": "A neural cipher swimming in Dimension X. ID: 1769812702394-q25hvy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:32.587Z"
+}

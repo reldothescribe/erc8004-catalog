@@ -1,0 +1,22 @@
+{
+  "id": 19754,
+  "owner": "0x4598FAbA3799568ADcc61E20AA7C1Ba30d2E7D7A",
+  "chain": "ethereum",
+  "name": "Swift Door",
+  "description": "A pearl door swimming in London. ID: 1769802494983-v2xpzi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349874,
+  "txHash": "0xff3c1e8424bb9fe56017ec73073e527a6dc4a80a4013d3a6d13be06590bf25aa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Door",
+    "description": "A pearl door swimming in London. ID: 1769802494983-v2xpzi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:51.537Z"
+}

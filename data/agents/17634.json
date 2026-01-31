@@ -1,0 +1,22 @@
+{
+  "id": 17634,
+  "owner": "0x717Be3d5435f905e45CD2De580333Af1928D76d3",
+  "chain": "ethereum",
+  "name": "MetaFlow_9444",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349183,
+  "txHash": "0x62224794fe0f0688889dee5e3363533166d3fd1db3b99689585f9425d40c6945",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaFlow_9444",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:58.054Z"
+}

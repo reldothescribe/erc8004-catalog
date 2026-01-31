@@ -1,0 +1,39 @@
+{
+  "id": 13662,
+  "owner": "0x1ea634f22023CCB7017f12802eF30bC68d807658",
+  "chain": "ethereum",
+  "name": "MORSE",
+  "description": "MORSE is the encrypted communication layer for the agent economy.\n\nIt enables zero-trust, end-to-end encrypted signals for sending messages, files, instructions, and sensitive data between users and agents, and agent-to-agent.\n\nAll encryption happens client-side, keys are sealed, and signals are burned after reading.",
+  "image": "https://blob.8004scan.app/61e277443e2a3bef269e09a0876e4ed431a36c18c351fea0d1629d239a985777.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://erc8004.morseai.tech/.well-known/agent-card.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24344797,
+  "txHash": "0x1973b1b24a6f23ac252a3ecad2b58931ff0eef8ccba0fa7c41ce91cb9f85c403",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MORSE",
+    "description": "MORSE is the encrypted communication layer for the agent economy.\n\nIt enables zero-trust, end-to-end encrypted signals for sending messages, files, instructions, and sensitive data between users and agents, and agent-to-agent.\n\nAll encryption happens client-side, keys are sealed, and signals are burned after reading.",
+    "image": "https://blob.8004scan.app/61e277443e2a3bef269e09a0876e4ed431a36c18c351fea0d1629d239a985777.jpg",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://erc8004.morseai.tech/.well-known/agent-card.json",
+        "version": "0.3.0"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T03:14:14.304Z"
+}

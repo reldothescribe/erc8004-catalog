@@ -1,0 +1,22 @@
+{
+  "id": 19771,
+  "owner": "0x5f66Ab37c9Ffc78E6f79A62816173f637A1E5D1A",
+  "chain": "ethereum",
+  "name": "Elder Whale 908",
+  "description": "A holographic whale taking in Space. ID: 1769802557353-djt624",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349879,
+  "txHash": "0xe102a41a26ec938afd1cb45186fa4292f613c79c03efe3deefc28075032607a3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Whale 908",
+    "description": "A holographic whale taking in Space. ID: 1769802557353-djt624",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:52.075Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20004,
+  "owner": "0xa5cEa08a637c9E5989269A496DE0A36EaA2BAe2F",
+  "chain": "ethereum",
+  "name": "Atomic Qubit 6398",
+  "description": "A organic qubit protecting in New York. ID: 1769807844437-ehml4m",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350319,
+  "txHash": "0x6e61309fec212f85631f4e82624f9a146fe745b39d0e2d269bb14e2a3635d22b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Qubit 6398",
+    "description": "A organic qubit protecting in New York. ID: 1769807844437-ehml4m",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:40.669Z"
+}

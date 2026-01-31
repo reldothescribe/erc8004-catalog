@@ -1,0 +1,22 @@
+{
+  "id": 20521,
+  "owner": "0x23f5ae384043f6c653d7922C9fB0Bf2D487cc4B1",
+  "chain": "ethereum",
+  "name": "Infinite Hydra 2027",
+  "description": "A ruby hydra building in the Abyss. ID: 1769812647329-5i1q16",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0x6678dad5c87b1d4cb689a417d7faa17837a4d2bd616345c1e7419f790d94b3da",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Hydra 2027",
+    "description": "A ruby hydra building in the Abyss. ID: 1769812647329-5i1q16",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:18.577Z"
+}

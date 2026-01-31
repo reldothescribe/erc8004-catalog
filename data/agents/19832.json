@@ -1,0 +1,22 @@
+{
+  "id": 19832,
+  "owner": "0x53864e9aC4bD69328D545128C54AAE23D11Ce2E8",
+  "chain": "ethereum",
+  "name": "Azure Explorer 1942",
+  "description": "A radiant explorer stopping in Web3. ID: 1769802740352-8hlf27",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349895,
+  "txHash": "0x5b4dae3b6f7ccfe93f5bf3d4d8b969fd81f491cfc91e92a1290e504f428eba5f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Azure Explorer 1942",
+    "description": "A radiant explorer stopping in Web3. ID: 1769802740352-8hlf27",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:55.152Z"
+}

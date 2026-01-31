@@ -1,0 +1,22 @@
+{
+  "id": 18031,
+  "owner": "0xF6E1ADfcBc9b5475444E345833943fe7d1959bdF",
+  "chain": "ethereum",
+  "name": "NovaLink_1293",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x6c584eae18d832874acbf241f2b75d0ff5fa0ea6424da4bb630be848b09c0d45",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaLink_1293",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:18.384Z"
+}

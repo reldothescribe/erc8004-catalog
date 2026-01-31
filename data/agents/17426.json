@@ -1,0 +1,22 @@
+{
+  "id": 17426,
+  "owner": "0xaD05d4965426DAFa3683f7ae7E24D7433265700D",
+  "chain": "ethereum",
+  "name": "MetaHub_2537",
+  "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x2d2e549d2dafb8cd0c1fb3f86ee685cf08f817e84c99f3c742e171a4462e4c4e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaHub_2537",
+    "description": "Intelligent protocol coordinator for advanced DeFi automation.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:47.485Z"
+}

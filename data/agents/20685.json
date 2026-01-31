@@ -1,0 +1,22 @@
+{
+  "id": 20685,
+  "owner": "0xfFc26dA5A767f3074A7633343AE1D34229FdB0Ed",
+  "chain": "ethereum",
+  "name": "Ethereal Node 7923",
+  "description": "A sapphire node gathering in Tokyo. ID: 1769812702394-2b2hl4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350721,
+  "txHash": "0x843fe071543059a006b024fd4f04ff302713c7bc50e555e11c3edd5c32bfc707",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Node 7923",
+    "description": "A sapphire node gathering in Tokyo. ID: 1769812702394-2b2hl4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:32.587Z"
+}

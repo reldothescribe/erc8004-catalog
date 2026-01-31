@@ -1,0 +1,22 @@
+{
+  "id": 17992,
+  "owner": "0xdFb006fc09eaC862E1667CE25a6cb3ac76cE5aAB",
+  "chain": "ethereum",
+  "name": "MetaNet_8014",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x62142a67cf0a5385d8dc878183e6e7edad6839245ff61a132821930755f87360",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaNet_8014",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:16.384Z"
+}

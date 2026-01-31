@@ -1,0 +1,22 @@
+{
+  "id": 17282,
+  "owner": "0x5B7FddF44B8DD316ff3eF8EAC9dedba6F4B29631",
+  "chain": "ethereum",
+  "name": "MetaAgent_3511",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349163,
+  "txHash": "0xb2909aaf6e59056bb68540e61c2cad056f5ac47f5a29fa7717814fba56806dd4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaAgent_3511",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:39.826Z"
+}

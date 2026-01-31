@@ -1,0 +1,22 @@
+{
+  "id": 18336,
+  "owner": "0xC40B24Fe3a43cC185dF527BDB42685bCE7E92af0",
+  "chain": "ethereum",
+  "name": "LuxVault_8101",
+  "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349250,
+  "txHash": "0x58b413da639958998fb062b1b6f0a524edc108b9a2fc8e6b109b2baeb7cd3d28",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LuxVault_8101",
+    "description": "Next-gen autonomous agent bridging DeFi, governance, and on-chain analytics.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:35.795Z"
+}

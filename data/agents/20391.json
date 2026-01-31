@@ -1,0 +1,22 @@
+{
+  "id": 20391,
+  "owner": "0xeAEEf21647AB21110AA174B819893ff4995Bfd4b",
+  "chain": "ethereum",
+  "name": "Wise Shark",
+  "description": "A azure shark gathering in Dimension X. ID: 1769812588611-rbmthz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350712,
+  "txHash": "0xf027eab6540dc944b0bad24981b34bf4c9115bb96fa65c494e31d3e169fb7886",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Wise Shark",
+    "description": "A azure shark gathering in Dimension X. ID: 1769812588611-rbmthz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:11.903Z"
+}

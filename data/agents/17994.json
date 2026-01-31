@@ -1,0 +1,22 @@
+{
+  "id": 17994,
+  "owner": "0x458791cf7799a01CFc1a228D4585F42782834200",
+  "chain": "ethereum",
+  "name": "CyberBot_771",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349217,
+  "txHash": "0x4c5c2d9c0bcd2ec3fedc7e64d79efa61937bdcd9a31f7a3e0ba8db71b41c612c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "CyberBot_771",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:16.897Z"
+}

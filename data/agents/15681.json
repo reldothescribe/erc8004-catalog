@@ -1,0 +1,60 @@
+{
+  "id": 15681,
+  "owner": "0x07D8df3eB2edf8F2Aaf3c70993E6B76e448dB595",
+  "chain": "ethereum",
+  "name": "Ask Heurist Agent",
+  "description": "Crypto Q&A and research agent for traders. Ask questions about token analysis, market trends, trading strategies, macro news, and get in-depth analysis. Website: https://ask.heurist.ai Created by Heurist Mesh.",
+  "image": "https://raw.githubusercontent.com/heurist-network/heurist-agent-framework/refs/heads/main/mesh/images/AskHeurist.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://mesh.heurist.xyz/mcp/agents/AskHeuristAgent",
+      "version": "2025-06-18"
+    }
+  ],
+  "registeredBlock": 24348827,
+  "txHash": "0x7a42a3e18063940ac8ee79a059982b599c162e1bcbafc1e0597c57670e43f26a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Ask Heurist Agent",
+    "description": "Crypto Q&A and research agent for traders. Ask questions about token analysis, market trends, trading strategies, macro news, and get in-depth analysis. Website: https://ask.heurist.ai Created by Heurist Mesh.",
+    "image": "https://raw.githubusercontent.com/heurist-network/heurist-agent-framework/refs/heads/main/mesh/images/AskHeurist.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://mesh.heurist.xyz/mcp/agents/AskHeuristAgent",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 15681,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true,
+    "updatedAt": 1769789843,
+    "metadata": {
+      "x402Endpoints": {
+        "version": "v1",
+        "tools": {
+          "ask_heurist": {
+            "base": "https://mesh.heurist.xyz/x402/agents/AskHeuristAgent/ask_heurist",
+            "solana": "https://mesh.heurist.xyz/x402/solana/agents/AskHeuristAgent/ask_heurist"
+          },
+          "check_job_status": {
+            "base": "https://mesh.heurist.xyz/x402/agents/AskHeuristAgent/check_job_status",
+            "solana": "https://mesh.heurist.xyz/x402/solana/agents/AskHeuristAgent/check_job_status"
+          }
+        }
+      }
+    }
+  },
+  "syncedAt": "2026-01-31T03:16:14.931Z"
+}

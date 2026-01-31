@@ -1,0 +1,22 @@
+{
+  "id": 20466,
+  "owner": "0x1f60e7eDf3F4a275C3588A1BbdCB1d8Aa6398c1b",
+  "chain": "ethereum",
+  "name": "Magnetic Seeker",
+  "description": "A crystal seeker running in Science. ID: 1769812648624-94507v",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350717,
+  "txHash": "0xed84d586812a65a50c3dcdcaf2fb6b089ffe0a3f59a0af3c8b478b594f13d109",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Magnetic Seeker",
+    "description": "A crystal seeker running in Science. ID: 1769812648624-94507v",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:16.101Z"
+}

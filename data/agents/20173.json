@@ -1,0 +1,22 @@
+{
+  "id": 20173,
+  "owner": "0xD2E4327E395203F61B84D189dE73f09D35782751",
+  "chain": "ethereum",
+  "name": "Blazing Meta Chimera",
+  "description": "A meta chimera exploring in Time. ID: 1769812372387-mr7ter",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350694,
+  "txHash": "0x654efe9bf714a7efa43261b46e1d3a02febdcb24f27de2ed99d044a56a784c1c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Meta Chimera",
+    "description": "A meta chimera exploring in Time. ID: 1769812372387-mr7ter",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.047Z"
+}

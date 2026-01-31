@@ -1,0 +1,22 @@
+{
+  "id": 18406,
+  "owner": "0xcb5Cb502Fd16923625dB825494e599eb19FA582E",
+  "chain": "ethereum",
+  "name": "NexWave_131b",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349256,
+  "txHash": "0x12e3a4ff6eaa70e34f63a9e4b96c506e876596f949734fc60f2cab9ea7b4792b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexWave_131b",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:39.424Z"
+}

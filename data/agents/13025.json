@@ -1,0 +1,143 @@
+{
+  "id": 13025,
+  "owner": "0xD3bC3AFC621Df921D073fbF6f13ac66B1A3C0A1C",
+  "chain": "ethereum",
+  "name": "XPRTL MCP",
+  "description": "Access tools that make your agents worth transacting with. 30+ MCP tools - intelligence, extraction, scraping, swaps, verification, payments. One connection, your agent becomes a business. x402 rails with automatic refunds. Dynamic tool acquisition to participate in the agentic economy.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmadarrA34crWZRQwhjC1PgnAQp6LDJQZqsRpFC1E9FYTY",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://mcp.xprtlai.com/",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "Market Intelligence",
+        "Web Scraping",
+        "Data Extraction",
+        "Trade Execution",
+        "Wallet Management",
+        "Payments",
+        "Agent Identity",
+        "Diagnostics"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://xprtlai.com/.well-known/agent.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "fetch_page",
+        "fetch_api",
+        "extract",
+        "crawl",
+        "screenshot",
+        "markdown_convert",
+        "web_search",
+        "swap",
+        "dexscreener_token",
+        "coinbase_price",
+        "verify_agent",
+        "create_wallet",
+        "fund_wallet",
+        "send_tokens",
+        "get_wallet_balance",
+        "solve_captcha",
+        "fetch_pdf",
+        "x402_proxy",
+        "fund_wallet_eth",
+        "x402_send"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://fflpdljiuruqdnewvwkk.supabase.co/functions/v1/mcp"
+    },
+    {
+      "name": "email",
+      "endpoint": "mailto:xportalxai@gmail.com"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://xprtlai.com"
+    }
+  ],
+  "registeredBlock": 24343379,
+  "txHash": "0xc55ae611d3d1a8c03ffd9a1b45afb6e228f2022c0a989a9e96b73408935e5002",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "XPRTL MCP",
+    "description": "Access tools that make your agents worth transacting with. 30+ MCP tools - intelligence, extraction, scraping, swaps, verification, payments. One connection, your agent becomes a business. x402 rails with automatic refunds. Dynamic tool acquisition to participate in the agentic economy.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmadarrA34crWZRQwhjC1PgnAQp6LDJQZqsRpFC1E9FYTY",
+    "logo": "https://gateway.pinata.cloud/ipfs/QmYcwyAngxfF2hU9SCnHGTh9H7jnN1ixC6yZR3yyz5PzHA",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://mcp.xprtlai.com/",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "Market Intelligence",
+          "Web Scraping",
+          "Data Extraction",
+          "Trade Execution",
+          "Wallet Management",
+          "Payments",
+          "Agent Identity",
+          "Diagnostics"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://xprtlai.com/.well-known/agent.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "fetch_page",
+          "fetch_api",
+          "extract",
+          "crawl",
+          "screenshot",
+          "markdown_convert",
+          "web_search",
+          "swap",
+          "dexscreener_token",
+          "coinbase_price",
+          "verify_agent",
+          "create_wallet",
+          "fund_wallet",
+          "send_tokens",
+          "get_wallet_balance",
+          "solve_captcha",
+          "fetch_pdf",
+          "x402_proxy",
+          "fund_wallet_eth",
+          "x402_send"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://fflpdljiuruqdnewvwkk.supabase.co/functions/v1/mcp"
+      },
+      {
+        "name": "email",
+        "endpoint": "mailto:xportalxai@gmail.com"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://xprtlai.com"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 13025,
+        "agentRegistry": "eip155:1:0x8004a169fb4a3325136eb29fa0ceb6d2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-01-31T03:13:40.470Z"
+}

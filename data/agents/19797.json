@@ -1,0 +1,22 @@
+{
+  "id": 19797,
+  "owner": "0x7D04C6D91C5cfFc18d02208575829818eC8Cf1a4",
+  "chain": "ethereum",
+  "name": "Jade Algorithm",
+  "description": "A digital algorithm rising in London. ID: 1769802626680-0gncsf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24349885,
+  "txHash": "0x94db376fa085aec1433711ec4b55429c2245277aea0dd195ed15cb1eface9c16",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Algorithm",
+    "description": "A digital algorithm rising in London. ID: 1769802626680-0gncsf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:19:53.666Z"
+}

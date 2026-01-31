@@ -1,0 +1,22 @@
+{
+  "id": 19942,
+  "owner": "0x9879f025CCdD2F6678815Aa20a26A52B6921A36d",
+  "chain": "ethereum",
+  "name": "Pearl Sun 9640",
+  "description": "A serene sun buying in Time. ID: 1769806663309-r65o8v",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350219,
+  "txHash": "0x9e661fdbf444077697ba7ce099cb06b046ffe1c47f323c4b15bfacba580358d4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Sun 9640",
+    "description": "A serene sun buying in Time. ID: 1769806663309-r65o8v",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:37.086Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 17264,
+  "owner": "0xABAB6dd8Fc61Aac62116AEaab3698F8c3B284771",
+  "chain": "ethereum",
+  "name": "QuantumAgent_2907",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349162,
+  "txHash": "0x20f3ab2a089d3d1078b0e8ff2df1eafb77ce480d79622f886c231051778ab341",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "QuantumAgent_2907",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:39.316Z"
+}

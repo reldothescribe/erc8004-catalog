@@ -1,0 +1,22 @@
+{
+  "id": 17651,
+  "owner": "0xe296d0303AcC67537d6C1a0473bAAF0352BF7fcf",
+  "chain": "ethereum",
+  "name": "HyperLink_8725",
+  "description": "Decentralized automation node for seamless Web3 operations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349184,
+  "txHash": "0x07ceb184088ee603f48a760dd1dc74736ece5f35df1dc8b4ba76aa1b6e8cfe22",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "HyperLink_8725",
+    "description": "Decentralized automation node for seamless Web3 operations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:58.522Z"
+}

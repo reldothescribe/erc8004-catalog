@@ -1,0 +1,22 @@
+{
+  "id": 18554,
+  "owner": "0x64FCf9C8C318c3855eEc809BD98c90ab5BA01B27",
+  "chain": "ethereum",
+  "name": "SolMind_b522",
+  "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349269,
+  "txHash": "0x21922c8f09ae18ab31cc26dffd1ec45a725ab983598758d6bfec82f534c05600",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SolMind_b522",
+    "description": "AI-powered agent executing trustless operations with full blockchain transparency.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:47.617Z"
+}

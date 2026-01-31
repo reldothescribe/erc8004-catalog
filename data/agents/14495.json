@@ -1,0 +1,99 @@
+{
+  "id": 14495,
+  "owner": "0xc10561C1c0d718B3D362df9D510A1b4e4331a4Ee",
+  "chain": "ethereum",
+  "name": "GinsengSwap Vision Analysis",
+  "description": "AI-powered vision analysis agent using ByteDance Seed model. Capabilities include image understanding, visual Q&A, OCR text extraction, document/invoice analysis, chart interpretation, multi-image comparison, and code screenshot analysis. Accepts x402 payments in USDC on Ethereum Mainnet. Pricing: $0.50 USDC per request via vision_analysis() at https://ginsengswap.org/api/mcp/tools/vision-analysis",
+  "image": "https://ginsengswap.org/icons/vision-analysis.svg",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://ginsengswap.org/api/mcp/tools/vision-analysis",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "vision_analysis"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://ginsengswap.org/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "image_classification",
+        "object_detection",
+        "image_to_text",
+        "visual_qa"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://schema.oasf.outshift.com/0.8.0",
+      "version": "v0.8.0",
+      "skills": [
+        "image_classification",
+        "object_detection",
+        "image_segmentation",
+        "image_to_text",
+        "visual_qa",
+        "question_answering"
+      ]
+    }
+  ],
+  "registeredBlock": 24347022,
+  "txHash": "0x30e9c1c7a5e81bccdb5dd24389756976f6de9c302f3cb0631f74109a7f7427c7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "GinsengSwap Vision Analysis",
+    "description": "AI-powered vision analysis agent using ByteDance Seed model. Capabilities include image understanding, visual Q&A, OCR text extraction, document/invoice analysis, chart interpretation, multi-image comparison, and code screenshot analysis. Accepts x402 payments in USDC on Ethereum Mainnet. Pricing: $0.50 USDC per request via vision_analysis() at https://ginsengswap.org/api/mcp/tools/vision-analysis",
+    "image": "https://ginsengswap.org/icons/vision-analysis.svg",
+    "external_url": "https://ginsengswap.org",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://ginsengswap.org/api/mcp/tools/vision-analysis",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "vision_analysis"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://ginsengswap.org/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "image_classification",
+          "object_detection",
+          "image_to_text",
+          "visual_qa"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://schema.oasf.outshift.com/0.8.0",
+        "version": "v0.8.0",
+        "skills": [
+          "image_classification",
+          "object_detection",
+          "image_segmentation",
+          "image_to_text",
+          "visual_qa",
+          "question_answering"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 14495,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:15:02.600Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20286,
+  "owner": "0x760bAff32A0c85B6b64A020de9375B59aD2E868b",
+  "chain": "ethereum",
+  "name": "Light Orderly Storm",
+  "description": "A orderly storm speaking in the Network. ID: 1769812482388-12uaac",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350703,
+  "txHash": "0x81dd09fa22e1b9fbc79487f1429dc0950f7c818cd83d9cd661b1bcdfb9442aa5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Orderly Storm",
+    "description": "A orderly storm speaking in the Network. ID: 1769812482388-12uaac",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:06.681Z"
+}

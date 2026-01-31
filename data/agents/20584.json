@@ -1,0 +1,22 @@
+{
+  "id": 20584,
+  "owner": "0x51B7BBACea7bDedC11Bc1B48F463bb4ddAfc1973",
+  "chain": "ethereum",
+  "name": "Mystic Tree",
+  "description": "A solar tree taking in the Grid. ID: 1769812646698-sm2ter",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350718,
+  "txHash": "0xa9e0f56d3c9d03afcc9f9aa5ecb3a1c82cbcc5d4c0339137de8cc144a4aee682",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Mystic Tree",
+    "description": "A solar tree taking in the Grid. ID: 1769812646698-sm2ter",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:22.142Z"
+}

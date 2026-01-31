@@ -1,0 +1,22 @@
+{
+  "id": 20187,
+  "owner": "0xBC2989F905450f55cD101d5C07Aaf70ab58FCA2A",
+  "chain": "ethereum",
+  "name": "Ageless Navigator 5571",
+  "description": "A magnetic navigator soaring in the Void. ID: 1769812385392-8ybc2f",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350695,
+  "txHash": "0x1142b69f49e7bb9ee2a09958c8d603de59ae5418950aee76430a85af8a74f55b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ageless Navigator 5571",
+    "description": "A magnetic navigator soaring in the Void. ID: 1769812385392-8ybc2f",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:01.560Z"
+}

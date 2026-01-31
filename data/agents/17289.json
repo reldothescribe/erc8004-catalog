@@ -1,0 +1,22 @@
+{
+  "id": 17289,
+  "owner": "0xc97FD73F58Ce0Ff321C1943191cD0CF17591457c",
+  "chain": "ethereum",
+  "name": "StellarSync_8614",
+  "description": "Advanced blockchain automation system for decentralized workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349163,
+  "txHash": "0xbe0ccc4ff306831abf254cdc12b5819a4025e86456440494b8a9f8ea1b7a196e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "StellarSync_8614",
+    "description": "Advanced blockchain automation system for decentralized workflows.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:40.338Z"
+}

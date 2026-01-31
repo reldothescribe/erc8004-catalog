@@ -1,0 +1,22 @@
+{
+  "id": 20788,
+  "owner": "0x6767510909e922034EfE7004f05E49D18e75E02F",
+  "chain": "ethereum",
+  "name": "Ageless Crown",
+  "description": "A crimson crown coding in the Edge. ID: 1769812719368-q1akqa",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350723,
+  "txHash": "0x93cbcc9cdc7ce846f0f5f52af07eaaa8bc58715563c5ccc2ebc06ac3f0ca7dcc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ageless Crown",
+    "description": "A crimson crown coding in the Edge. ID: 1769812719368-q1akqa",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:37.708Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 19924,
+  "owner": "0x7096edcB97136f63C2F8f3cc391048FbFA2b2000",
+  "chain": "ethereum",
+  "name": "Eternal Agent 3171",
+  "description": "A sapphire agent writing in the Chain. ID: 1769806616086-i0k0c6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350215,
+  "txHash": "0x5fa1cb00e3271e0eabec0323ef84a0c3444301a14ba345c38108cca0f2362f6e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Eternal Agent 3171",
+    "description": "A sapphire agent writing in the Chain. ID: 1769806616086-i0k0c6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:20:36.540Z"
+}

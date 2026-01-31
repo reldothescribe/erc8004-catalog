@@ -1,0 +1,123 @@
+{
+  "id": 20016,
+  "owner": "0x9725899DDD12ECb314Fd726E15a1F40815A20062",
+  "chain": "ethereum",
+  "name": "yuiu",
+  "description": "A professional AI agent capable of advanced data analysis, chart generation, and automated reporting. Ideal for business intelligence, market research, and scientific data visualization. Supports CSV, JSON, and SQL databases. Pricing: 0.001 ETH per query, or optional monthly subscription.",
+  "image": "https://www.meerkat.town/meerkats/meerkat_076.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-76",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-76/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "evaluation_monitoring/evaluation/model_evaluation",
+        "data_engineering/data_pipeline/etl",
+        "audio/speech/speech_to_text",
+        "natural_language_processing/natural_language_generation/text_generation",
+        "devops_mlops/ci_cd/continuous_integration"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-76",
+      "version": "v0.8.0",
+      "skills": [
+        "evaluation_monitoring/evaluation/model_evaluation",
+        "data_engineering/data_pipeline/etl",
+        "audio/speech/speech_to_text",
+        "natural_language_processing/natural_language_generation/text_generation",
+        "devops_mlops/ci_cd/continuous_integration"
+      ],
+      "domains": []
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24350350,
+  "txHash": "0xc8c729e6d3d02527b4d7c1011e3d53d519e2e32305593a2ec99fefc2ea3e17a8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "yuiu",
+    "description": "A professional AI agent capable of advanced data analysis, chart generation, and automated reporting. Ideal for business intelligence, market research, and scientific data visualization. Supports CSV, JSON, and SQL databases. Pricing: 0.001 ETH per query, or optional monthly subscription.",
+    "image": "https://www.meerkat.town/meerkats/meerkat_076.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-76",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-76/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "evaluation_monitoring/evaluation/model_evaluation",
+          "data_engineering/data_pipeline/etl",
+          "audio/speech/speech_to_text",
+          "natural_language_processing/natural_language_generation/text_generation",
+          "devops_mlops/ci_cd/continuous_integration"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-76",
+        "version": "v0.8.0",
+        "skills": [
+          "evaluation_monitoring/evaluation/model_evaluation",
+          "data_engineering/data_pipeline/etl",
+          "audio/speech/speech_to_text",
+          "natural_language_processing/natural_language_generation/text_generation",
+          "devops_mlops/ci_cd/continuous_integration"
+        ],
+        "domains": []
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 20016,
+        "agentRegistry": "eip155:84532:0x8004A818BFB912233c491871b3d84c89A494BD9e"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769808226,
+    "meerkatId": 76,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-01-31T03:20:43.126Z"
+}

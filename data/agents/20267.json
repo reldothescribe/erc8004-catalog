@@ -1,0 +1,22 @@
+{
+  "id": 20267,
+  "owner": "0xeb931ea591076ebed08Df787709FF7A3131ac7e4",
+  "chain": "ethereum",
+  "name": "Valiant Quantum Bot",
+  "description": "A quantum bot falling in Legend. ID: 1769812468812-v9o7gi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350702,
+  "txHash": "0xc5736f536c582ccadaefcf712f1ebf84950c44c236d5e7489a978648fcb21210",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Quantum Bot",
+    "description": "A quantum bot falling in Legend. ID: 1769812468812-v9o7gi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:05.655Z"
+}

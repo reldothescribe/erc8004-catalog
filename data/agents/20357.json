@@ -1,0 +1,22 @@
+{
+  "id": 20357,
+  "owner": "0x07bADB3DB056b9D49Dc69375C556C1808b770029",
+  "chain": "ethereum",
+  "name": "Meta Node",
+  "description": "A light node reading in the Protocol. ID: 1769812567748-lrogo2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350710,
+  "txHash": "0xfee05014dd15a74ed30ffff4bce3315a9e915c61042a27a552286f00fb4002a8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Node",
+    "description": "A light node reading in the Protocol. ID: 1769812567748-lrogo2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:10.266Z"
+}

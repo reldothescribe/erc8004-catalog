@@ -1,0 +1,22 @@
+{
+  "id": 17459,
+  "owner": "0x39a7a5dBE3Ad49a2282e077a9c9447F97e355e92",
+  "chain": "ethereum",
+  "name": "NovaAgent_9583",
+  "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349177,
+  "txHash": "0x4fa8cb0bcb22a0a91ed72a04c018f1129df2db3ec2519981516b7e834f7ee02b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaAgent_9583",
+    "description": "Autonomous agent optimizing cross-chain operations and DeFi strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:49.041Z"
+}

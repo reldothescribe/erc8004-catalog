@@ -1,0 +1,22 @@
+{
+  "id": 18084,
+  "owner": "0xf4ba4E4126cA70F746D540efb22A61Cb242B3079",
+  "chain": "ethereum",
+  "name": "NovaHub_8937",
+  "description": "Autonomous executor for complex on-chain transaction sequences.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349219,
+  "txHash": "0x0534d87f9905810baaa25ee5f82c1eab5e9f65df0ef2a5f056142d2ec5f189da",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaHub_8937",
+    "description": "Autonomous executor for complex on-chain transaction sequences.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:22.017Z"
+}

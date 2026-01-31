@@ -1,0 +1,22 @@
+{
+  "id": 20358,
+  "owner": "0xFDF641b02610F312db0d3cAB2d74ef477FB75550",
+  "chain": "ethereum",
+  "name": "Meta Entity",
+  "description": "A crimson entity thinking in the Core. ID: 1769812567748-2ux4ep",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24350710,
+  "txHash": "0xfb63e10416fdc8010f0f08c7a17021e2efad9ad86612d3e12848afc09f0da7e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Entity",
+    "description": "A crimson entity thinking in the Core. ID: 1769812567748-2ux4ep",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T03:21:10.265Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18226,
+  "owner": "0x0F2B6FF31750313E84f041e4313125B710ea6e8F",
+  "chain": "ethereum",
+  "name": "AxiPulse_679b",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349232,
+  "txHash": "0x726edce9233f2e06c62af90564354a3f5e45a058aef9a00934211dc07f554e49",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiPulse_679b",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:30.311Z"
+}

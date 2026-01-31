@@ -1,0 +1,22 @@
+{
+  "id": 17397,
+  "owner": "0xB711Dd87ce68e6A48c1dB0785Bd8274c07916633",
+  "chain": "ethereum",
+  "name": "MetaFlow_4944",
+  "description": "Smart agent specializing in blockchain interoperability tasks.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349175,
+  "txHash": "0x9a2f535bcd9bcd881379715b79cff789f537b090a1ee31bb03c4f96f0ef65a51",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "MetaFlow_4944",
+    "description": "Smart agent specializing in blockchain interoperability tasks.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:45.972Z"
+}

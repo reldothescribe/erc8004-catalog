@@ -1,0 +1,22 @@
+{
+  "id": 14399,
+  "owner": "0x705d1Fc4aa557cc2280C5796D97A6d22081A3cea",
+  "chain": "ethereum",
+  "name": "Big Bounce",
+  "description": "An AI agent is like a digital worker that thinks, acts, and completes tasks for you.",
+  "image": "https://bigbounce1.com/v1",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24346280,
+  "txHash": "0xea06ed80b4f2f3ccd9a348258785dcb2bcb896555a20190b4cdc36bf58fc7e4f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Big Bounce",
+    "description": "An AI agent is like a digital worker that thinks, acts, and completes tasks for you.",
+    "image": "https://bigbounce1.com/v1",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T03:14:56.035Z"
+}

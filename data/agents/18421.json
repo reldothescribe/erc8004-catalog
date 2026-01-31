@@ -1,0 +1,22 @@
+{
+  "id": 18421,
+  "owner": "0xab809aD3d0Fd83181275167ef145921f525803eB",
+  "chain": "ethereum",
+  "name": "PyrBot_e097",
+  "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349257,
+  "txHash": "0x049b8b5fe4907e6d3276abafc288106838b876e7ee2282d4dc2777279ef4d998",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PyrBot_e097",
+    "description": "Intelligent on-chain entity automating complex multi-step blockchain interactions.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:18:39.937Z"
+}

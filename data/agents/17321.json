@@ -1,0 +1,22 @@
+{
+  "id": 17321,
+  "owner": "0x919aD366e590Bd4f8289C23EdFb4A1325A2cE170",
+  "chain": "ethereum",
+  "name": "NovaLink_3516",
+  "description": "Self-governing digital entity executing smart contract orchestrations.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24349171,
+  "txHash": "0xc491cd53366e2ce33983e4328f35312d334e284164273c6b320665e18bc90f1f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPs/eip-8004#registration-v1",
+    "name": "NovaLink_3516",
+    "description": "Self-governing digital entity executing smart contract orchestrations.",
+    "image": "",
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-01-31T03:17:41.874Z"
+}
