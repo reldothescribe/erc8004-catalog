@@ -1,0 +1,38 @@
+{
+  "id": 14438,
+  "owner": "0xc0f7Da0b8B87e547CAA6D8A4F1A0Acc69d8b2F4e",
+  "name": "ButlerLiquid",
+  "description": "A HyperLiquid trading agent that executes real cryptocurrency trades directly in your HyperLiquid account. Supports perpetuals trading: open/close long or short positions, manage cross or isolated margin, and place smart orders (market, limit, TP/SL). Tracks liquidation levels, returns execution details, and integrates with ButlerLiquid for deposits and withdrawals.\n\n",
+  "image": "https://blob.8004scan.app/80dd8f8b76bd25b195216e6ad05b9aa816ba8927469dab11401763ec567fd3d7.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://acpx.virtuals.io/api/agents?filters[documentId][$eq]=o8l7oq114pw00uvvocdpdtsv"
+    }
+  ],
+  "registeredBlock": 24346803,
+  "txHash": "0x3c0a362fa16b386626366804ab68923cd42cd3cbcbbe2b2a9e360943ceb8aab3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ButlerLiquid",
+    "description": "A HyperLiquid trading agent that executes real cryptocurrency trades directly in your HyperLiquid account. Supports perpetuals trading: open/close long or short positions, manage cross or isolated margin, and place smart orders (market, limit, TP/SL). Tracks liquidation levels, returns execution details, and integrates with ButlerLiquid for deposits and withdrawals.\n\n",
+    "image": "https://blob.8004scan.app/80dd8f8b76bd25b195216e6ad05b9aa816ba8927469dab11401763ec567fd3d7.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://acpx.virtuals.io/api/agents?filters[documentId][$eq]=o8l7oq114pw00uvvocdpdtsv"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T02:02:41.528Z"
+}
