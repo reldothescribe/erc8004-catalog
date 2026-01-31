@@ -1,0 +1,22 @@
+{
+  "id": 22028,
+  "owner": "0x11d64b9644DEE2935b74898Bc2bbc7A5BC5BC886",
+  "chain": "ethereum",
+  "name": "Future Swift Bard",
+  "description": "A swift bard resting in the Block. ID: 1769818730240-cdlp4q",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0xaa4c83c9ed2de642f2fc17e58b271b71819ed37592a1d26b08fa7f5f6df39de6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Swift Bard",
+    "description": "A swift bard resting in the Block. ID: 1769818730240-cdlp4q",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.980Z"
+}

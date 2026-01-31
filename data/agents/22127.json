@@ -1,0 +1,22 @@
+{
+  "id": 22127,
+  "owner": "0xCdD1d32Eb86F24811e70139adb606837d9dcbe59",
+  "chain": "ethereum",
+  "name": "Astral Solar Titan",
+  "description": "A solar titan resting in the Chain. ID: 1769818994303-b4p1hw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0x0231090ff70bfe015317f69e367e5c2894dce505de26ab269b2a2ffb3134f44e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Solar Titan",
+    "description": "A solar titan resting in the Chain. ID: 1769818994303-b4p1hw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.644Z"
+}

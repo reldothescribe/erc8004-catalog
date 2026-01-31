@@ -1,0 +1,22 @@
+{
+  "id": 22463,
+  "owner": "0xC8AaCb1e92E62E670839eDd5A09bdD19EA8F4c31",
+  "chain": "ethereum",
+  "name": "Valiant Unicorn",
+  "description": "A secret unicorn coding in the Metaverse. ID: 1769819395649-hci4bm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0x9b8eadbd5ab12324b96468531925c5a690b89b9ec24f0f915a2ff229da9ff0d3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Unicorn",
+    "description": "A secret unicorn coding in the Metaverse. ID: 1769819395649-hci4bm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.175Z"
+}

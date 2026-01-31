@@ -1,0 +1,22 @@
+{
+  "id": 22551,
+  "owner": "0xa2b590fdF02b1FB5Dc56518C5eAD96592f869b36",
+  "chain": "ethereum",
+  "name": "Amber Hammer",
+  "description": "A kinetic hammer fighting in the Block. ID: 1769819453225-lyfc8j",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x3b0a8f840d0635be7d418e725bee4f9896291878087bc769c43d1580dfa15afa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Hammer",
+    "description": "A kinetic hammer fighting in the Block. ID: 1769819453225-lyfc8j",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.897Z"
+}

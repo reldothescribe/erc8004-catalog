@@ -1,0 +1,22 @@
+{
+  "id": 22403,
+  "owner": "0x306Ad1d9d6d01FEa2B9973454Caf3386fC8a58C2",
+  "chain": "ethereum",
+  "name": "Elder Solar Network",
+  "description": "A solar network taking in the Grid. ID: 1769819357309-qayzwb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0x9c3311411d722df6169251069f3e426eeeff566c3d624df337e8390c895bf5a9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Solar Network",
+    "description": "A solar network taking in the Grid. ID: 1769819357309-qayzwb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.677Z"
+}

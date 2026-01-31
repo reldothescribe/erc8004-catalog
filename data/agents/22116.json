@@ -1,0 +1,22 @@
+{
+  "id": 22116,
+  "owner": "0xda0F04704Bc26C8eBbc74d351903968BC98c7276",
+  "chain": "ethereum",
+  "name": "Frozen Determined Wolf",
+  "description": "A determined wolf losing in History. ID: 1769818994304-0v5qmj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0x5fcbefb8566528352800d9b5e837bf6a4cc6868efc702a36bc7615f0e5968db1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Determined Wolf",
+    "description": "A determined wolf losing in History. ID: 1769818994304-0v5qmj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.647Z"
+}

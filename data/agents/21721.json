@@ -1,0 +1,22 @@
+{
+  "id": 21721,
+  "owner": "0xb735a50a35Cd9587FFF243aA6482156Df00E8183",
+  "chain": "ethereum",
+  "name": "Prime Griffin",
+  "description": "A neural griffin living in Pluto. ID: 1769818246415-zi68yi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xca095aebd761df24e6a98476177b2315680662f8701c5b13738c74f1b9d138a3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Prime Griffin",
+    "description": "A neural griffin living in Pluto. ID: 1769818246415-zi68yi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.347Z"
+}

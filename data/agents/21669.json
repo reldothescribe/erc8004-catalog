@@ -1,0 +1,22 @@
+{
+  "id": 21669,
+  "owner": "0xcB54c62dae7661C08e64Bc1c0521592713A1E1f3",
+  "chain": "ethereum",
+  "name": "Dynamic Burning Castle",
+  "description": "A burning castle guarding in the Heights. ID: 1769818260162-4o4rp3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x6c843a08a97084e30fc6d386ae3ab29aa30caaa65adc25a818f540d7b60dca8b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Burning Castle",
+    "description": "A burning castle guarding in the Heights. ID: 1769818260162-4o4rp3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.562Z"
+}

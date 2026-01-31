@@ -1,0 +1,22 @@
+{
+  "id": 22322,
+  "owner": "0x0110b32b8FBc07A85EDf92159050b94D27F43287",
+  "chain": "ethereum",
+  "name": "Frozen Serpent",
+  "description": "A blazing serpent stopping in the Frontier. ID: 1769819226757-q298ld",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0xc7f583dcc8f193dd2fccf0281aaf20385cba79117f00f51a9d67cd06b11a9781",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Serpent",
+    "description": "A blazing serpent stopping in the Frontier. ID: 1769819226757-q298ld",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.083Z"
+}

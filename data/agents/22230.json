@@ -1,0 +1,22 @@
+{
+  "id": 22230,
+  "owner": "0x24A12ac2F095d216AE3Aa27515Dcb7c690c66782",
+  "chain": "ethereum",
+  "name": "Swift Lock 5675",
+  "description": "A ancient lock forging in Mystery. ID: 1769819090686-y07x16",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0xa26b3c04bcc60f6dfb56ef8cb3d9941b85f77c480c023bdfe0f8ea8e0ff69835",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Lock 5675",
+    "description": "A ancient lock forging in Mystery. ID: 1769819090686-y07x16",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.491Z"
+}

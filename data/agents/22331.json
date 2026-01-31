@@ -1,0 +1,22 @@
+{
+  "id": 22331,
+  "owner": "0x11d64b9644DEE2935b74898Bc2bbc7A5BC5BC886",
+  "chain": "ethereum",
+  "name": "Synthetic Phoenix",
+  "description": "A ivory phoenix rising in Saturn. ID: 1769819226757-rsefmy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0x78dcfb01689a220105447c54c8737ca81018002e117bf1700cb3a2fb861bfb92",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Phoenix",
+    "description": "A ivory phoenix rising in Saturn. ID: 1769819226757-rsefmy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.344Z"
+}

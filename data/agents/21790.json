@@ -1,0 +1,22 @@
+{
+  "id": 21790,
+  "owner": "0x008649FDccF81f68b6810b3016F6707Aa75Bf975",
+  "chain": "ethereum",
+  "name": "EchoMind",
+  "description": "An adaptive AI agent that echoes user thoughts into innovative ideas, specializing in creative brainstorming and problem-solving.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351188,
+  "txHash": "0xf46fa1b91fbcd624dd458cdb275c5bef91e0825e85d19c493e4177822e5bbe14",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "EchoMind",
+    "description": "An adaptive AI agent that echoes user thoughts into innovative ideas, specializing in creative brainstorming and problem-solving.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.665Z"
+}

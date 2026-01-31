@@ -1,0 +1,22 @@
+{
+  "id": 22464,
+  "owner": "0x4705EB73f681A5536163370bc580c8eFB310AC56",
+  "chain": "ethereum",
+  "name": "Gentle Hydra 8905",
+  "description": "A crystal hydra gathering in the Block. ID: 1769819395649-dnljjv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0x87b24935b4875b667bb5d192bf1b305e10cf3bb819fb121bebde6ab625ec4330",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Hydra 8905",
+    "description": "A crystal hydra gathering in the Block. ID: 1769819395649-dnljjv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.177Z"
+}

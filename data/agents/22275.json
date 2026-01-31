@@ -1,0 +1,22 @@
+{
+  "id": 22275,
+  "owner": "0xbA2BE9d2e99c9d0eB18926533982A96189407501",
+  "chain": "ethereum",
+  "name": "Solar Frozen Soul",
+  "description": "A frozen soul guarding in the Depths. ID: 1769819117673-15lsa0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0x17a51fc0f7516d23930cc55391e3a037773fab67f2fa3b27fc5af18f64671ed8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Frozen Soul",
+    "description": "A frozen soul guarding in the Depths. ID: 1769819117673-15lsa0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.302Z"
+}

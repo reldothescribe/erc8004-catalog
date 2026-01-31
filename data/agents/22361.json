@@ -1,0 +1,22 @@
+{
+  "id": 22361,
+  "owner": "0xE7Aa8e1952f8827993E89af0Ed72C8C0085b24be",
+  "chain": "ethereum",
+  "name": "Gentle Agent 6236",
+  "description": "A orderly agent watching in the Heights. ID: 1769819252754-nwopjt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0x97762ac2f842b8d5d04ced60f8d21d2b02960d8d46c74d9cdb745e803e9e8a2f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Agent 6236",
+    "description": "A orderly agent watching in the Heights. ID: 1769819252754-nwopjt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.893Z"
+}

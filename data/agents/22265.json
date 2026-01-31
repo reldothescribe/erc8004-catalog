@@ -1,0 +1,22 @@
+{
+  "id": 22265,
+  "owner": "0xf389deC9Ce1bC18FB891e7151c9f20D37a383b76",
+  "chain": "ethereum",
+  "name": "Onyx Titan",
+  "description": "A amber titan building in the Blockchain. ID: 1769819117673-lr4hyt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0x8b7aff0c730a713b12da8fd3d62d399a328b8b11973de9b40969c76f8b38126f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Onyx Titan",
+    "description": "A amber titan building in the Blockchain. ID: 1769819117673-lr4hyt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.296Z"
+}

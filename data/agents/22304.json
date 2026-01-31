@@ -1,0 +1,22 @@
+{
+  "id": 22304,
+  "owner": "0xA6aC55382C7C6eD15783e93629907Cf650E5b696",
+  "chain": "ethereum",
+  "name": "Solar Savage Agent",
+  "description": "A savage agent painting in the Unknown. ID: 1769819213757-zljsur",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0x7b4fd00e36a2bbcac8c3acea771dbb9dc3d60e97fd77ace92dcbae33da9faf80",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Savage Agent",
+    "description": "A savage agent painting in the Unknown. ID: 1769819213757-zljsur",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.822Z"
+}

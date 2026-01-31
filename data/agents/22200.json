@@ -1,0 +1,22 @@
+{
+  "id": 22200,
+  "owner": "0x306Ad1d9d6d01FEa2B9973454Caf3386fC8a58C2",
+  "chain": "ethereum",
+  "name": "Temporal Phoenix",
+  "description": "A sentient phoenix dreaming in the DAO. ID: 1769819079584-ldic0n",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0x7e1aed3b4d63df19c39d16c777f636a89b6d4d05220f480c70fe7b76440a4dec",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Phoenix",
+    "description": "A sentient phoenix dreaming in the DAO. ID: 1769819079584-ldic0n",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.951Z"
+}

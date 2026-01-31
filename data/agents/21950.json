@@ -1,0 +1,22 @@
+{
+  "id": 21950,
+  "owner": "0x6d0Bdc996C1f3DD3Bcd64c115577e3841349cd68",
+  "chain": "ethereum",
+  "name": "Digital Zero Qubit",
+  "description": "A zero qubit stopping in Pluto. ID: 1769818577400-bpob3x",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351208,
+  "txHash": "0x487c7a391e4ce9cad7a2f744e6a3d1ec7df02a5221cf2cd0014cd6a21abe2583",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Zero Qubit",
+    "description": "A zero qubit stopping in Pluto. ID: 1769818577400-bpob3x",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.647Z"
+}

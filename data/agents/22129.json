@@ -1,0 +1,22 @@
+{
+  "id": 22129,
+  "owner": "0x1Ca6b79e61748259568e69133B5D71b2D89e2cF2",
+  "chain": "ethereum",
+  "name": "Valiant Spirit",
+  "description": "A nexus spirit protecting in the Past. ID: 1769818994303-9q4feg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0x73439b555ab860935177e166428d6012b0cc0382e1127eea7fa1a5a5df9bf960",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Spirit",
+    "description": "A nexus spirit protecting in the Past. ID: 1769818994303-9q4feg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.647Z"
+}

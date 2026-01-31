@@ -1,0 +1,22 @@
+{
+  "id": 21729,
+  "owner": "0x9844203021e279dfd954EAeB3eD8c9b3c258c146",
+  "chain": "ethereum",
+  "name": "Ethereal Matrix",
+  "description": "A infinite matrix sharing in the Metaverse. ID: 1769818271677-rp8w5r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0x9bed26284ecb0de974ba21a6d074d55794f8e8bb887bb9e0848843b5c21c9859",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Matrix",
+    "description": "A infinite matrix sharing in the Metaverse. ID: 1769818271677-rp8w5r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.610Z"
+}

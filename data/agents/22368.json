@@ -1,0 +1,22 @@
+{
+  "id": 22368,
+  "owner": "0xbA2BE9d2e99c9d0eB18926533982A96189407501",
+  "chain": "ethereum",
+  "name": "Crimson Bear 1981",
+  "description": "A cyber bear reading in the DAO. ID: 1769819252754-y0va7e",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0x3faf7ac3b443fc985933a36c0e92a04a4ae4eab5babf9ba681f545aab85f108f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Bear 1981",
+    "description": "A cyber bear reading in the DAO. ID: 1769819252754-y0va7e",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.876Z"
+}

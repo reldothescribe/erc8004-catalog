@@ -1,0 +1,22 @@
+{
+  "id": 22133,
+  "owner": "0x286ecb3B507E1d724b01218E98ff2b441c05159B",
+  "chain": "ethereum",
+  "name": "Autonomous Key",
+  "description": "A shadow key rising in the Boundary. ID: 1769818994304-uu0lfi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0x1586124953a03d223bbe6bf2ce1f776de66a251a8d8742d55f38ea0465323167",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Key",
+    "description": "A shadow key rising in the Boundary. ID: 1769818994304-uu0lfi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.906Z"
+}

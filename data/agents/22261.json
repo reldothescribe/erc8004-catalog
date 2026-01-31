@@ -1,0 +1,22 @@
+{
+  "id": 22261,
+  "owner": "0x4705EB73f681A5536163370bc580c8eFB310AC56",
+  "chain": "ethereum",
+  "name": "Onyx Blade 9111",
+  "description": "A stellar blade sleeping in New York. ID: 1769819117673-7az6gi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0xbfcac0bafad9f5db42be876e9b10a881f3fc1cbd2789a0746506952264f71e3f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Onyx Blade 9111",
+    "description": "A stellar blade sleeping in New York. ID: 1769819117673-7az6gi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.028Z"
+}

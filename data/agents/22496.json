@@ -1,0 +1,22 @@
+{
+  "id": 22496,
+  "owner": "0x306Ad1d9d6d01FEa2B9973454Caf3386fC8a58C2",
+  "chain": "ethereum",
+  "name": "Celestial Virtual Matrix",
+  "description": "A virtual matrix waiting in the Metaverse. ID: 1769819427312-qmxftt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0xf1501d9350e64c957add76f5685380ef1a793a99be18de30853d009c0d51ede3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Celestial Virtual Matrix",
+    "description": "A virtual matrix waiting in the Metaverse. ID: 1769819427312-qmxftt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.831Z"
+}

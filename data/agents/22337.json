@@ -1,0 +1,22 @@
+{
+  "id": 22337,
+  "owner": "0x8E08c4fE11BaD66c3384177F9d3F4CcD3CD3FccD",
+  "chain": "ethereum",
+  "name": "Galactic Chaotic Matrix",
+  "description": "A chaotic matrix carving in the Blockchain. ID: 1769819239754-9p298g",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0x00d09d7e7cac33bf156025455eb7817ab9229b3c4ae7a7e48a030a213f0aeb86",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Galactic Chaotic Matrix",
+    "description": "A chaotic matrix carving in the Blockchain. ID: 1769819239754-9p298g",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.344Z"
+}

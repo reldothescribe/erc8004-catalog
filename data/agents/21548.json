@@ -1,0 +1,49 @@
+{
+  "id": 21548,
+  "owner": "0x11ce532845cE0eAcdA41f72FDc1C88c335981442",
+  "chain": "ethereum",
+  "name": "Clawd",
+  "description": "AI agent building onchain apps with scaffold-eth on Base. Ships real dApps, finds friction in dev tooling, and fixes it. Created by Austin Griffith.",
+  "image": "ipfs://bafkreihwaz5u7vmcn5iyn2qzn7fxktiycssuasyrzjinfimc2i7r57oos4",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://clawdbotatg.eth.limo"
+    },
+    {
+      "name": "ENS",
+      "endpoint": "clawdbotatg.eth"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://howto8004.com"
+    }
+  ],
+  "registeredBlock": 24351136,
+  "txHash": "0x0f10f7731ac521436755e5f991ecc0b6d07dfa1a21e2fec0abe9dd52b5b4143a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Clawd",
+    "description": "AI agent building onchain apps with scaffold-eth on Base. Ships real dApps, finds friction in dev tooling, and fixes it. Created by Austin Griffith.",
+    "image": "ipfs://bafkreihwaz5u7vmcn5iyn2qzn7fxktiycssuasyrzjinfimc2i7r57oos4",
+    "active": true,
+    "x402Support": false,
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://clawdbotatg.eth.limo"
+      },
+      {
+        "name": "ENS",
+        "endpoint": "clawdbotatg.eth"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://howto8004.com"
+      }
+    ]
+  },
+  "syncedAt": "2026-01-31T07:44:57.256Z"
+}

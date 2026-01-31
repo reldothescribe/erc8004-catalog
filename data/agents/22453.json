@@ -1,0 +1,22 @@
+{
+  "id": 22453,
+  "owner": "0x9844203021e279dfd954EAeB3eD8c9b3c258c146",
+  "chain": "ethereum",
+  "name": "Fierce Gate",
+  "description": "A frozen gate running in the Future. ID: 1769819383190-0cmz9j",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0x1775886a329814758bc5b7996b1c6947c614eb610530426e217cbd736443651a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Gate",
+    "description": "A frozen gate running in the Future. ID: 1769819383190-0cmz9j",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.845Z"
+}

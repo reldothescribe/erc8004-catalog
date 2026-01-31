@@ -1,0 +1,22 @@
+{
+  "id": 22150,
+  "owner": "0x7DbCED054624Eeb56FF9B6808D0028043CD40F6a",
+  "chain": "ethereum",
+  "name": "Quantum Jade Star",
+  "description": "A jade star sleeping in the Abyss. ID: 1769819009644-5atjbf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351244,
+  "txHash": "0x5a223d9b20958263e0d316da014f35a7ec876cba833d16cd9755c48d52f5d918",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Quantum Jade Star",
+    "description": "A jade star sleeping in the Abyss. ID: 1769819009644-5atjbf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.170Z"
+}

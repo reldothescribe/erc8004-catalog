@@ -1,0 +1,22 @@
+{
+  "id": 22481,
+  "owner": "0x87B3F0B4fA0FDC68003c8c141889ccE01060c2bE",
+  "chain": "ethereum",
+  "name": "Infernal Oracle 2610",
+  "description": "A found oracle learning in Space. ID: 1769819420322-edfnuk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0xc245f553eca66d994e97d7f9c261cc3e8d0a4c6ffa4c2ed177ce444f1f4e30ae",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Oracle 2610",
+    "description": "A found oracle learning in Space. ID: 1769819420322-edfnuk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.497Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22173,
+  "owner": "0x30991119891193D2Cfb957A465339ffb5103ba88",
+  "chain": "ethereum",
+  "name": "Swift Unicorn",
+  "description": "A light unicorn waking in London. ID: 1769819023752-v011ce",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0x74a4b4821884b0ac0b097dd1f61f8280fe2dc21cfcfe8623d70c750e71bf57ef",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Unicorn",
+    "description": "A light unicorn waking in London. ID: 1769819023752-v011ce",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.430Z"
+}

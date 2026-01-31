@@ -1,0 +1,22 @@
+{
+  "id": 22536,
+  "owner": "0x8E08c4fE11BaD66c3384177F9d3F4CcD3CD3FccD",
+  "chain": "ethereum",
+  "name": "Radiant Entity",
+  "description": "A frozen entity crafting in Time. ID: 1769819453225-fh59e9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x433aca9fab4fdb07cc6785ad5d9eb5a7ce56ac638b40fead288c1b4a70bcad6f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Entity",
+    "description": "A frozen entity crafting in Time. ID: 1769819453225-fh59e9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.634Z"
+}

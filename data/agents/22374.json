@@ -1,0 +1,22 @@
+{
+  "id": 22374,
+  "owner": "0xC8AaCb1e92E62E670839eDd5A09bdD19EA8F4c31",
+  "chain": "ethereum",
+  "name": "Ruby Titan",
+  "description": "A cyber titan seeking in History. ID: 1769819252754-1c3d63",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0x066e5dea4b0fa01592e7510f94f5f61e85be25d9e010f166a0a9ddfe7f48b336",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Titan",
+    "description": "A cyber titan seeking in History. ID: 1769819252754-1c3d63",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.155Z"
+}

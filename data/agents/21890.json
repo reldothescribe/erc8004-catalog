@@ -1,0 +1,22 @@
+{
+  "id": 21890,
+  "owner": "0x618eE055a41e6624B335775cBa488BE03eFA8c89",
+  "chain": "ethereum",
+  "name": "Visual Entity 8384",
+  "description": "A omega entity guarding in the Future. ID: 1769818538304-3shnym",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0xcdb12f061725f12bd650e43d75e6ce05b12adf29be4c950eb3663e1454e39ecf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Visual Entity 8384",
+    "description": "A omega entity guarding in the Future. ID: 1769818538304-3shnym",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.593Z"
+}

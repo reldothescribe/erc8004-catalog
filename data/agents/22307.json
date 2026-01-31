@@ -1,0 +1,22 @@
+{
+  "id": 22307,
+  "owner": "0x866c17A8F626Aad04e7D4aA89676b579daB3A850",
+  "chain": "ethereum",
+  "name": "Dynamic Found Bear",
+  "description": "A found bear weaving in the Consensus. ID: 1769819213757-kt72e6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0x5f31392aef898c9d761d2e63758ea6ac20dc02a4458618782ba494614ea109ab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Found Bear",
+    "description": "A found bear weaving in the Consensus. ID: 1769819213757-kt72e6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.823Z"
+}

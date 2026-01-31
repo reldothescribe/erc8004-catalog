@@ -1,0 +1,22 @@
+{
+  "id": 22413,
+  "owner": "0x7157A7FBEDB3D43c7732912AAfC9F804B537a951",
+  "chain": "ethereum",
+  "name": "Mystic Golem",
+  "description": "A rapid golem thinking in Paris. ID: 1769819357309-lxc45x",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0x1f75add015bcd51ac1dbeb282e0deed5430d7244cd2a7b3df238b2d652db57cc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Mystic Golem",
+    "description": "A rapid golem thinking in Paris. ID: 1769819357309-lxc45x",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.669Z"
+}

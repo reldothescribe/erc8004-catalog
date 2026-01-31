@@ -1,0 +1,22 @@
+{
+  "id": 22212,
+  "owner": "0xf7EeA6dC6F86d3F931bD7382E8261410C05d5Cb8",
+  "chain": "ethereum",
+  "name": "Future Code",
+  "description": "A lunar code building in Saturn. ID: 1769819079584-85rtto",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0xe0ab51d65f76a7ba079f3d509b1e36d5b5b869db73e3f9474aab7bd31bada606",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Code",
+    "description": "A lunar code building in Saturn. ID: 1769819079584-85rtto",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.216Z"
+}

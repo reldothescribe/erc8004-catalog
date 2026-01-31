@@ -1,0 +1,22 @@
+{
+  "id": 21798,
+  "owner": "0x0821772b2e8a5C97D8Cac86c9D099e21961471c7",
+  "chain": "ethereum",
+  "name": "Primal Future Castle",
+  "description": "A future castle creating in Magic. ID: 1769818349811-no9m8m",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351190,
+  "txHash": "0x8d5a651892f43f8a83ec80cacfd98a17e0140412a704f1f95c0a22068c3b0029",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Future Castle",
+    "description": "A future castle creating in Magic. ID: 1769818349811-no9m8m",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.661Z"
+}

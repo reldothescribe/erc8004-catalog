@@ -1,0 +1,22 @@
+{
+  "id": 21989,
+  "owner": "0x8a38352E5F04882c0DEEF7fcAE931100782F61F0",
+  "chain": "ethereum",
+  "name": "Fierce Agent",
+  "description": "A astral agent trading in the Core. ID: 1769818703328-gq16jv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351219,
+  "txHash": "0x878ffdca0395eff8fa813d9c25c84af1d8b4546db889ed87fdfc1417c403a974",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Agent",
+    "description": "A astral agent trading in the Core. ID: 1769818703328-gq16jv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.188Z"
+}

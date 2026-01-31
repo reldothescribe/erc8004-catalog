@@ -1,0 +1,22 @@
+{
+  "id": 22351,
+  "owner": "0x008649FDccF81f68b6810b3016F6707Aa75Bf975",
+  "chain": "ethereum",
+  "name": "Cognitive Code",
+  "description": "A synthetic code waking in Magic. ID: 1769819239754-w4hkce",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0xb1bddd043315f106b6f801c6b1c38e41dee955d29a01d9ad28691828aa064a88",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cognitive Code",
+    "description": "A synthetic code waking in Magic. ID: 1769819239754-w4hkce",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.604Z"
+}

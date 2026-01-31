@@ -1,0 +1,22 @@
+{
+  "id": 22260,
+  "owner": "0xaf39b41c30A8feAC07CcCa6dA522B67ea73DD2a7",
+  "chain": "ethereum",
+  "name": "Divine Sentinel",
+  "description": "A emerald sentinel trading in Dimension X. ID: 1769819117673-d5gnag",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0xd0ae31a4e9f2cd2441ce9c7b99d734e71d84bcee7dda3e13a5c452dbbe7bd809",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Divine Sentinel",
+    "description": "A emerald sentinel trading in Dimension X. ID: 1769819117673-d5gnag",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.029Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22452,
+  "owner": "0x008649FDccF81f68b6810b3016F6707Aa75Bf975",
+  "chain": "ethereum",
+  "name": "Blazing Surge",
+  "description": "A burning surge resting in Jupiter. ID: 1769819383190-giie3r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0xcddc9ac41eb5e136c57c526428e3ab8fab755d1d273e8cb151cb999a8971c8cd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Surge",
+    "description": "A burning surge resting in Jupiter. ID: 1769819383190-giie3r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.845Z"
+}

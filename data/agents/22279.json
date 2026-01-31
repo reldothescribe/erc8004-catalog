@@ -1,0 +1,22 @@
+{
+  "id": 22279,
+  "owner": "0x265362F1A936DaCc8751d90b7DEE1cE2d98BDE47",
+  "chain": "ethereum",
+  "name": "Determined Mountain 7762",
+  "description": "A jade mountain flying in the Void. ID: 1769819197333-n35xye",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0x16da042bc36ce5f0df8ac8404206ed6df0d3434a5bda88b62bee108b8b934caa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Determined Mountain 7762",
+    "description": "A jade mountain flying in the Void. ID: 1769819197333-n35xye",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.301Z"
+}

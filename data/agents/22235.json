@@ -1,0 +1,22 @@
+{
+  "id": 22235,
+  "owner": "0x1Ca6b79e61748259568e69133B5D71b2D89e2cF2",
+  "chain": "ethereum",
+  "name": "Swift Bot",
+  "description": "A light bot flying in Legend. ID: 1769819090686-bglbvb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0xb178a1b90f7f8c1225a6170c5f9b1bf3eb66b53cf90c9dc4a012afab5610d656",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Bot",
+    "description": "A light bot flying in Legend. ID: 1769819090686-bglbvb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.769Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21614,
+  "owner": "0x05866b654F37a899A2DcB92694E61e63D788f376",
+  "chain": "ethereum",
+  "name": "Ruby Hyper Cipher",
+  "description": "A hyper cipher waiting in Web3. ID: 1769818122571-4zki2o",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351171,
+  "txHash": "0x03131a5736617b26de461b8caab6f1b53de4b97bf926111aa40bf1b13d9c5f66",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Hyper Cipher",
+    "description": "A hyper cipher waiting in Web3. ID: 1769818122571-4zki2o",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.513Z"
+}

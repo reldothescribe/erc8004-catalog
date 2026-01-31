@@ -1,0 +1,34 @@
+{
+  "id": 22606,
+  "owner": "0x4d297eb50E918c1c0799CD84c836532163b779EF",
+  "chain": "ethereum",
+  "name": "Muad'Dib",
+  "description": "Muad’Dib is an on-chain signal, reputation, and authority agent registered under ERC-8004.\n\nIt serves as a symbolic and analytical reference point for trust, identity, and legitimacy across decentralized systems. Muad’Dib aggregates and interprets reputation and validation signals published by third parties, without executing actions or enforcing rules.\n\nIts influence is emergent rather than prescriptive — agents, applications, and users may choose whether to recognize or follow its signals. The agent is designed to be culturally meaningful, composable, and adaptable over time.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24352706,
+  "txHash": "0xab514b0abc3193e619d66196bb6b4c4697d158c0c486c73f308c7f0858a5828e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Muad'Dib",
+    "description": "Muad’Dib is an on-chain signal, reputation, and authority agent registered under ERC-8004.\n\nIt serves as a symbolic and analytical reference point for trust, identity, and legitimacy across decentralized systems. Muad’Dib aggregates and interprets reputation and validation signals published by third parties, without executing actions or enforcing rules.\n\nIts influence is emergent rather than prescriptive — agents, applications, and users may choose whether to recognize or follow its signals. The agent is designed to be culturally meaningful, composable, and adaptable over time.",
+    "image": "",
+    "active": true,
+    "x402Support": false,
+    "supportedTrust": [
+      "reputation"
+    ],
+    "tags": [
+      "signal",
+      "reputation",
+      "authority",
+      "oracle",
+      "mythic",
+      "governance",
+      "trust"
+    ]
+  },
+  "syncedAt": "2026-01-31T07:45:17.693Z"
+}

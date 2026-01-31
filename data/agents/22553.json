@@ -1,0 +1,22 @@
+{
+  "id": 22553,
+  "owner": "0xd72101eEa716D5a341fF4618421D2C367B352b29",
+  "chain": "ethereum",
+  "name": "Frozen Neural Chimera",
+  "description": "A neural chimera hunting in Legend. ID: 1769819453226-9x77t0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x9f5298614a4ffb0501f352041d4d5908128a55a8ada5798752471137805fd822",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Neural Chimera",
+    "description": "A neural chimera hunting in Legend. ID: 1769819453226-9x77t0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.902Z"
+}

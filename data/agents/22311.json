@@ -1,0 +1,22 @@
+{
+  "id": 22311,
+  "owner": "0xf7EeA6dC6F86d3F931bD7382E8261410C05d5Cb8",
+  "chain": "ethereum",
+  "name": "Determined Ocean 9918",
+  "description": "A meta ocean hunting in the Consensus. ID: 1769819213757-q4m7sf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0x3f1108c65bc932b9160fbe988d402da609296a76fece6d9a2f189fae4af6f562",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Determined Ocean 9918",
+    "description": "A meta ocean hunting in the Consensus. ID: 1769819213757-q4m7sf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.081Z"
+}

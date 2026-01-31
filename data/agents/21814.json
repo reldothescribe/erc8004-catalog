@@ -1,0 +1,22 @@
+{
+  "id": 21814,
+  "owner": "0x7719A6657e70d01867BABF5bEd938c24D9C81a32",
+  "chain": "ethereum",
+  "name": "Meta Wanderer",
+  "description": "A shadow wanderer waiting in Technology. ID: 1769818397697-o6vluf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351194,
+  "txHash": "0x05fc44e3b01cee2fc5fab36e4e42ab338e7164bc56e0db7a2dcd781d04839e51",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Wanderer",
+    "description": "A shadow wanderer waiting in Technology. ID: 1769818397697-o6vluf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.929Z"
+}

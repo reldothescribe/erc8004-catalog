@@ -1,0 +1,22 @@
+{
+  "id": 21913,
+  "owner": "0x24A12ac2F095d216AE3Aa27515Dcb7c690c66782",
+  "chain": "ethereum",
+  "name": "Tactile Phantom Sun",
+  "description": "A phantom sun creating in DeFi. ID: 1769818554217-epxra2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0xa7004aea991edfb5135e0df765acb278e1b0c1dfb023ff5f2991e54d7a11b6f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Tactile Phantom Sun",
+    "description": "A phantom sun creating in DeFi. ID: 1769818554217-epxra2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.855Z"
+}

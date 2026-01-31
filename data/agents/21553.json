@@ -1,0 +1,22 @@
+{
+  "id": 21553,
+  "owner": "0x4450957928DC2dcD629BEf04Fb8b96fe966De88a",
+  "chain": "ethereum",
+  "name": "Echo Sage",
+  "description": "An AI agent that echoes wisdom from vast knowledge bases, providing insightful advice and creative solutions to complex problems.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351155,
+  "txHash": "0x64f4835a41c6fb94668d78ef4bf4c11fb490bf519c163c17423c46134e64515d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Echo Sage",
+    "description": "An AI agent that echoes wisdom from vast knowledge bases, providing insightful advice and creative solutions to complex problems.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:57.255Z"
+}

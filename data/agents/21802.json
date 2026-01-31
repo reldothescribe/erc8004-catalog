@@ -1,0 +1,22 @@
+{
+  "id": 21802,
+  "owner": "0x90AD9d2711864b39041702Dc7FA82742FC0a142c",
+  "chain": "ethereum",
+  "name": "Orderly Oracle 8237",
+  "description": "A zero oracle ending in the Blockchain. ID: 1769818373721-ejna8j",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351192,
+  "txHash": "0xb207e647a05bc4e8bf5fe8a040096ff54514122e6c09b8674a6412f30e426574",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Oracle 8237",
+    "description": "A zero oracle ending in the Blockchain. ID: 1769818373721-ejna8j",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.932Z"
+}

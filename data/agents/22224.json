@@ -1,0 +1,22 @@
+{
+  "id": 22224,
+  "owner": "0x93757849C8365629BC56a67aFAc51ea8569eA683",
+  "chain": "ethereum",
+  "name": "Arcane Oracle 3636",
+  "description": "A valiant oracle forging in Paris. ID: 1769819090686-wi4ln9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0xe01a290323608eea48e5d1723ca10a170bd3350cf60e82ed94adb670e759142e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Oracle 3636",
+    "description": "A valiant oracle forging in Paris. ID: 1769819090686-wi4ln9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.506Z"
+}

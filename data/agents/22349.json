@@ -1,0 +1,22 @@
+{
+  "id": 22349,
+  "owner": "0x30BE028C27604CaFeE55253a21fC735621715e65",
+  "chain": "ethereum",
+  "name": "Young Rapid Qubit",
+  "description": "A rapid qubit sleeping in Web3. ID: 1769819239754-uiug80",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0xebb67c0a1051136b14cce293604a7417c4f89dec8b2357ac5956cffcb6eaa241",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Rapid Qubit",
+    "description": "A rapid qubit sleeping in Web3. ID: 1769819239754-uiug80",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.603Z"
+}

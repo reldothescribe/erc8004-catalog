@@ -1,0 +1,22 @@
+{
+  "id": 21600,
+  "owner": "0x87B3F0B4fA0FDC68003c8c141889ccE01060c2bE",
+  "chain": "ethereum",
+  "name": "Sonic Pulse 4190",
+  "description": "A crimson pulse molding in the Void. ID: 1769818095980-dak2hu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351169,
+  "txHash": "0x4d063503b80e131468af76e0b9b2f7e6df00560ab5219741dcc239b05a6fa3c9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Pulse 4190",
+    "description": "A crimson pulse molding in the Void. ID: 1769818095980-dak2hu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.245Z"
+}

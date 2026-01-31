@@ -1,0 +1,22 @@
+{
+  "id": 22420,
+  "owner": "0x38d5E9dc1Bff4f4487BAb88c472Df0C41ecd2f64",
+  "chain": "ethereum",
+  "name": "Sapphire Orderly Soul",
+  "description": "A orderly soul working in Technology. ID: 1769819368083-7575f0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351274,
+  "txHash": "0x187fa8ab94a760bca4fe31d87457623afb57d44ab6f254f127520defe54b9834",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sapphire Orderly Soul",
+    "description": "A orderly soul working in Technology. ID: 1769819368083-7575f0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.939Z"
+}

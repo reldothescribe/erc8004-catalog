@@ -1,0 +1,22 @@
+{
+  "id": 21616,
+  "owner": "0xf7E5f52eca723df5986586b3d816dD89628bc580",
+  "chain": "ethereum",
+  "name": "Nexus Nova",
+  "description": "An innovative AI agent that bridges digital realms, generating creative solutions for complex problems with stellar efficiency.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351172,
+  "txHash": "0x27e75befc73eee130b0d953691d75d9323a583e150eb37d6f47004d14e6f897d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Nova",
+    "description": "An innovative AI agent that bridges digital realms, generating creative solutions for complex problems with stellar efficiency.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.512Z"
+}

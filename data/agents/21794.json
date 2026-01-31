@@ -1,0 +1,22 @@
+{
+  "id": 21794,
+  "owner": "0x008E3dd3c4e6e51499D803B225148fbFc2deF2a5",
+  "chain": "ethereum",
+  "name": "Synthetic Ethereal Seeker",
+  "description": "A ethereal seeker forging in Dimension X. ID: 1769818349811-eprbkq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351190,
+  "txHash": "0xc215eded2f186fa6f61a3150584853d8cd5fbb96f08866cbfc5f7e3a035508f5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Ethereal Seeker",
+    "description": "A ethereal seeker forging in Dimension X. ID: 1769818349811-eprbkq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.670Z"
+}

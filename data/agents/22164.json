@@ -1,0 +1,22 @@
+{
+  "id": 22164,
+  "owner": "0x4705EB73f681A5536163370bc580c8eFB310AC56",
+  "chain": "ethereum",
+  "name": "Kinetic Watcher 9606",
+  "description": "A divine watcher fighting in Saturn. ID: 1769819023752-560ha3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0x07e4264c0a3f0f5f3126030098cc558b4cd728674fac9d5523e9d5f7f513c5b0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Watcher 9606",
+    "description": "A divine watcher fighting in Saturn. ID: 1769819023752-560ha3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.431Z"
+}

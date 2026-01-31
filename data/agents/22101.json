@@ -1,0 +1,22 @@
+{
+  "id": 22101,
+  "owner": "0x3911103ef15F32A1BF1F21561fD4699230ad6B90",
+  "chain": "ethereum",
+  "name": "Infernal Vortex 4161",
+  "description": "A pearl vortex forging in Andromeda. ID: 1769818983276-k9dujd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0x4aefdec3ef5bd621a8df50181576d2661ffaf1429a8d60e2d70eb0a6a06fa9ef",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Vortex 4161",
+    "description": "A pearl vortex forging in Andromeda. ID: 1769818983276-k9dujd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.299Z"
+}

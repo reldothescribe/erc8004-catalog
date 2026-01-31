@@ -1,0 +1,22 @@
+{
+  "id": 21910,
+  "owner": "0x286ecb3B507E1d724b01218E98ff2b441c05159B",
+  "chain": "ethereum",
+  "name": "Automated Organic Spirit",
+  "description": "A organic spirit fighting in London. ID: 1769818554217-d17hif",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0xcdb28c15c191ed2277f1536c1b6a86b253e8788fc094c8eb313ec75b455843e3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Automated Organic Spirit",
+    "description": "A organic spirit fighting in London. ID: 1769818554217-d17hif",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.855Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21766,
+  "owner": "0x93D0a0fBB9218857C8A34A0C3B5E12021417f4Ab",
+  "chain": "ethereum",
+  "name": "Golden Hammer 853",
+  "description": "A visual hammer crafting in Space. ID: 1769818265971-pkcpcp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x3c324258b98620727fa76d1ceffc1db5e206f432c86415e705f6c112b3a11996",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Hammer 853",
+    "description": "A visual hammer crafting in Space. ID: 1769818265971-pkcpcp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.133Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21812,
+  "owner": "0xFA566AacDf4c970F9585EEd08Cf6F0f4423eCD2D",
+  "chain": "ethereum",
+  "name": "Cunning Automated Throne",
+  "description": "A automated throne hunting in Nature. ID: 1769818397697-zfcxds",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351194,
+  "txHash": "0x2d3c67053016fc2d8d3fab7020cf1849f356c5e095af042c9ed6e80ec835ee1d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Automated Throne",
+    "description": "A automated throne hunting in Nature. ID: 1769818397697-zfcxds",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.930Z"
+}

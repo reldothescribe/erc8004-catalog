@@ -1,0 +1,22 @@
+{
+  "id": 22385,
+  "owner": "0xA765180C1FEd8BCeAB15c1711444D87DBcE838Bb",
+  "chain": "ethereum",
+  "name": "Azure Wolf 2841",
+  "description": "A virtual wolf carving in the Heights. ID: 1769819342064-c258ck",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351272,
+  "txHash": "0x757a5e02b01c96225c67b98c5a441f1285042f8bf9b8c8902250b3e082f5bc8b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Azure Wolf 2841",
+    "description": "A virtual wolf carving in the Heights. ID: 1769819342064-c258ck",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.416Z"
+}

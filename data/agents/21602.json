@@ -1,0 +1,22 @@
+{
+  "id": 21602,
+  "owner": "0x4508Fbb99A046a5ffED9BE4D95d5990382Cb57a0",
+  "chain": "ethereum",
+  "name": "Jade Radiant Crown",
+  "description": "A radiant crown speaking in the Chain. ID: 1769818107120-aeuljm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351170,
+  "txHash": "0xe4daee2d10d9ec23de849b441389a6e291eb658847b942475fe56b22fe3f2e58",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Radiant Crown",
+    "description": "A radiant crown speaking in the Chain. ID: 1769818107120-aeuljm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.244Z"
+}

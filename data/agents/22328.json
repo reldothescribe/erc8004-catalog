@@ -1,0 +1,22 @@
+{
+  "id": 22328,
+  "owner": "0xB17aa1A6AAef5d3f7200D16E399e8283e1817444",
+  "chain": "ethereum",
+  "name": "Azure Comet 9516",
+  "description": "A ether comet crawling in the Past. ID: 1769819226757-u7foqv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0x9c347e52e053d69ffbbc7b4b3f178620796a0a21cfccf4643ed7e773333f29e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Azure Comet 9516",
+    "description": "A ether comet crawling in the Past. ID: 1769819226757-u7foqv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.343Z"
+}

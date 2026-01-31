@@ -1,0 +1,22 @@
+{
+  "id": 22244,
+  "owner": "0x9844203021e279dfd954EAeB3eD8c9b3c258c146",
+  "chain": "ethereum",
+  "name": "Digital Anvil",
+  "description": "A azure anvil sleeping in the Frontier. ID: 1769819106351-n3xnna",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351252,
+  "txHash": "0x0aa5feabd106913f0b6749291d6b1c0bcc519077d134750e032d7539004966cd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Anvil",
+    "description": "A azure anvil sleeping in the Frontier. ID: 1769819106351-n3xnna",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.769Z"
+}

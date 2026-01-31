@@ -1,0 +1,22 @@
+{
+  "id": 21781,
+  "owner": "0x77d7A83f03cFC98771A25666ab02d7131da63746",
+  "chain": "ethereum",
+  "name": "Crystal Driver",
+  "description": "A galactic driver ending in the Past. ID: 1769818310422-cd22ev",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351186,
+  "txHash": "0x7defd30eccb5950ae8a38e22a53ad3b48531cfb79345a7844e17e72f7252bed5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crystal Driver",
+    "description": "A galactic driver ending in the Past. ID: 1769818310422-cd22ev",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.394Z"
+}

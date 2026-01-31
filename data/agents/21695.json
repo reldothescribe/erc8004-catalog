@@ -1,0 +1,22 @@
+{
+  "id": 21695,
+  "owner": "0xCdD1d32Eb86F24811e70139adb606837d9dcbe59",
+  "chain": "ethereum",
+  "name": "Light Paladin 9771",
+  "description": "A static paladin soaring in Legend. ID: 1769818264140-1kr3ci",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0xd2263e0e920233b9506f16be620a671bc323e9a44f2b7c2869bfcf44507e17d4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Paladin 9771",
+    "description": "A static paladin soaring in Legend. ID: 1769818264140-1kr3ci",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.087Z"
+}

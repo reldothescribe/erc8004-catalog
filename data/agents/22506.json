@@ -1,0 +1,22 @@
+{
+  "id": 22506,
+  "owner": "0x2ab59E81c812cFC1e9182b88AE97d3779fa4D45b",
+  "chain": "ethereum",
+  "name": "Astral River",
+  "description": "A bounded river creating in the Future. ID: 1769819427312-n5w76n",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0x92143f08599c73bdf161830a80788a33555e326bb2d82479ae781578341c5e95",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral River",
+    "description": "A bounded river creating in the Future. ID: 1769819427312-n5w76n",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.088Z"
+}

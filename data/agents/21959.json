@@ -1,0 +1,22 @@
+{
+  "id": 21959,
+  "owner": "0xD107fe26d65292eADB87dB730A69262e806f45f8",
+  "chain": "ethereum",
+  "name": "Liquid Hammer",
+  "description": "A valiant hammer calculating in the DAO. ID: 1769818577400-o2mpd2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351209,
+  "txHash": "0x720b1debfb410ebb66a98330d8d7f1266a1f0a674350607c21f484b6f1dccc8a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Hammer",
+    "description": "A valiant hammer calculating in the DAO. ID: 1769818577400-o2mpd2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.658Z"
+}

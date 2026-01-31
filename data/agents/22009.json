@@ -1,0 +1,22 @@
+{
+  "id": 22009,
+  "owner": "0xFe87Bf64De4241332E30025101aA1dC0E57CCfE0",
+  "chain": "ethereum",
+  "name": "Rapid Rogue",
+  "description": "A radiant rogue singing in the Future. ID: 1769818719156-cql2to",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0x5ac0c42bdb0b306c0b10439617f0b264376d41b5006375c60a517452cd8755a9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Rogue",
+    "description": "A radiant rogue singing in the Future. ID: 1769818719156-cql2to",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.451Z"
+}

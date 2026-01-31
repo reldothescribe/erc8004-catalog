@@ -1,0 +1,22 @@
+{
+  "id": 21617,
+  "owner": "0xA6aC55382C7C6eD15783e93629907Cf650E5b696",
+  "chain": "ethereum",
+  "name": "Tactile Kinetic Pilot",
+  "description": "A kinetic pilot calculating in the Network. ID: 1769818133696-dkqg2w",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351172,
+  "txHash": "0xa156618bcfd084b0450e3c4a2ff47934f00e1e52bdfbc3fe1d3b63fbb296502d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Tactile Kinetic Pilot",
+    "description": "A kinetic pilot calculating in the Network. ID: 1769818133696-dkqg2w",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.513Z"
+}

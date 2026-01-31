@@ -1,0 +1,22 @@
+{
+  "id": 22367,
+  "owner": "0x2518734E55B27239ee14A2FccA642298e3F8cd07",
+  "chain": "ethereum",
+  "name": "Eternal Helm 4643",
+  "description": "A pearl helm reading in the Edge. ID: 1769819252754-rphikw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0x8eb852c7e2dd5ec6e1d2799e2328185037c464d293c175d3108a55ad841f7907",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Eternal Helm 4643",
+    "description": "A pearl helm reading in the Edge. ID: 1769819252754-rphikw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.876Z"
+}

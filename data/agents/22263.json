@@ -1,0 +1,22 @@
+{
+  "id": 22263,
+  "owner": "0xFA566AacDf4c970F9585EEd08Cf6F0f4423eCD2D",
+  "chain": "ethereum",
+  "name": "Cyber Guardian",
+  "description": "A automated guardian starting in History. ID: 1769819117673-r2l8zr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0xa3f7b8e7233a30c413ac9106debb10b997514883f96944d030a9f2d2be80032c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cyber Guardian",
+    "description": "A automated guardian starting in History. ID: 1769819117673-r2l8zr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.029Z"
+}

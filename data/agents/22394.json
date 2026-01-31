@@ -1,0 +1,22 @@
+{
+  "id": 22394,
+  "owner": "0x61cce3c790be8261D98998004F38DD247BC438d0",
+  "chain": "ethereum",
+  "name": "Chaotic Whale",
+  "description": "A orderly whale soaring in Berlin. ID: 1769819342064-xem0ny",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351272,
+  "txHash": "0x15ff96fef7db282750a4ce47e0e502de1dcedd463ea478e6bd168f611ac1f052",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Whale",
+    "description": "A orderly whale soaring in Berlin. ID: 1769819342064-xem0ny",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.416Z"
+}

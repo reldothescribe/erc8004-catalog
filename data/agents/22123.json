@@ -1,0 +1,22 @@
+{
+  "id": 22123,
+  "owner": "0xacbA617ea2ddB5b487549456ab5c5FdE9142630c",
+  "chain": "ethereum",
+  "name": "Radiant Obsidian Soul",
+  "description": "A obsidian soul moving in the Grid. ID: 1769818994303-41go4g",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0x8de06285dfdea9861007c493e4b26ca717b9aefb9c1a38822fb7d116b0ad429c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Obsidian Soul",
+    "description": "A obsidian soul moving in the Grid. ID: 1769818994303-41go4g",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.647Z"
+}

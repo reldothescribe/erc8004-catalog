@@ -1,0 +1,22 @@
+{
+  "id": 22552,
+  "owner": "0xF9daeECDF4c14F1b4b0747FBcfDbB7E6d59920DE",
+  "chain": "ethereum",
+  "name": "Magnetic Seeker",
+  "description": "A galactic seeker waking in the Frontier. ID: 1769819453226-h4rrya",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0xddcc1cbf383ba4800bdd65d34d413410eaab9c9072b65a0651a4499d6c826814",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Magnetic Seeker",
+    "description": "A galactic seeker waking in the Frontier. ID: 1769819453226-h4rrya",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.896Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22335,
+  "owner": "0x21B15797A9758f3E49C671419d6D8aAFE885375F",
+  "chain": "ethereum",
+  "name": "Primal Hydra",
+  "description": "A liquid hydra crafting in Space. ID: 1769819226757-ysy2cw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0x06c93fd037248f5de239e6e94558b4f772271fdd588a6e960d22e06f9bc1fba1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Hydra",
+    "description": "A liquid hydra crafting in Space. ID: 1769819226757-ysy2cw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.343Z"
+}

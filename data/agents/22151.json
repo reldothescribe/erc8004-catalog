@@ -1,0 +1,22 @@
+{
+  "id": 22151,
+  "owner": "0x8E82218169188359aBAb3250Ae7DD5863682D67E",
+  "chain": "ethereum",
+  "name": "Lost Forge",
+  "description": "A celestial forge painting in New York. ID: 1769819009644-434gm8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351244,
+  "txHash": "0xe82c537ffba10b67e5f8b45b45a22479489ff99a7dc99feee398ae831a3a5078",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Forge",
+    "description": "A celestial forge painting in New York. ID: 1769819009644-434gm8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.168Z"
+}

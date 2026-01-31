@@ -1,0 +1,22 @@
+{
+  "id": 22435,
+  "owner": "0xc14f94Edb367406e4168d82F1Ae5D0B10Fb09fF3",
+  "chain": "ethereum",
+  "name": "Cosmic Griffin",
+  "description": "A liquid griffin reading in Web3. ID: 1769819368083-7tvnp2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351274,
+  "txHash": "0xd1ba95b6382c3d8850ba6dbe8f7f3e75903d48e6ef4a9285b179e72d4bf30080",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Griffin",
+    "description": "A liquid griffin reading in Web3. ID: 1769819368083-7tvnp2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.228Z"
+}

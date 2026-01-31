@@ -1,0 +1,22 @@
+{
+  "id": 21689,
+  "owner": "0x21B15797A9758f3E49C671419d6D8aAFE885375F",
+  "chain": "ethereum",
+  "name": "Found Orderly Comet",
+  "description": "A orderly comet keeping in Cyberspace. ID: 1769818267872-05pjxm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x37e676c3b75b8c8e2567d6500ddcc001f6cfa56aa9b0f2c51cd18fb08de89d35",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Orderly Comet",
+    "description": "A orderly comet keeping in Cyberspace. ID: 1769818267872-05pjxm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.823Z"
+}

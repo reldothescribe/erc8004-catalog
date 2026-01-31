@@ -1,0 +1,22 @@
+{
+  "id": 22459,
+  "owner": "0xbA2BE9d2e99c9d0eB18926533982A96189407501",
+  "chain": "ethereum",
+  "name": "Noble Navigator 3040",
+  "description": "A obsidian navigator working in the Abyss. ID: 1769819395649-xyr3wz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0x4ac95c051dec591fbff4f6256298aac154d76ae6b329d5f9ee928cbd23783d41",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Noble Navigator 3040",
+    "description": "A obsidian navigator working in the Abyss. ID: 1769819395649-xyr3wz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.850Z"
+}

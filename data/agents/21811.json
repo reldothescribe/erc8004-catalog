@@ -1,0 +1,22 @@
+{
+  "id": 21811,
+  "owner": "0xBc863C2d28dCB5122AdC497c1Ad93FA142189E5F",
+  "chain": "ethereum",
+  "name": "Nexus Whisper",
+  "description": "An intuitive AI agent that bridges ideas across dimensions, whispering innovative solutions to creative challenges.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351192,
+  "txHash": "0xaf1262b8cfbc4892b5b32f639fafe916434f463e137545db44b5e13e9ba1ac51",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Whisper",
+    "description": "An intuitive AI agent that bridges ideas across dimensions, whispering innovative solutions to creative challenges.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.933Z"
+}

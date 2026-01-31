@@ -1,0 +1,22 @@
+{
+  "id": 22292,
+  "owner": "0x79c079734a8E41623A3f06Adfd71CBb3987f3D39",
+  "chain": "ethereum",
+  "name": "Infinite Castle",
+  "description": "A arcane castle rising in Andromeda. ID: 1769819197333-6k92hh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0x179df1b0ff9ce6fba56b6146c8094afaad565e0485c83ecb15669eb121fc4788",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Castle",
+    "description": "A arcane castle rising in Andromeda. ID: 1769819197333-6k92hh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.562Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21923,
+  "owner": "0x0188B9B764852686e73F141986455F507AF6B871",
+  "chain": "ethereum",
+  "name": "Lunar Obsidian Droid",
+  "description": "A obsidian droid trading in the Frontier. ID: 1769818565835-5zt4wr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351207,
+  "txHash": "0xb6de56b208256581a1c30cc7d8bc7ccd66f6c2f232a46b2a165bdfb87883ea8c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Obsidian Droid",
+    "description": "A obsidian droid trading in the Frontier. ID: 1769818565835-5zt4wr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.116Z"
+}

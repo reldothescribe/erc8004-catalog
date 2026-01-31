@@ -1,0 +1,22 @@
+{
+  "id": 21755,
+  "owner": "0x21B15797A9758f3E49C671419d6D8aAFE885375F",
+  "chain": "ethereum",
+  "name": "Kinetic Unicorn",
+  "description": "A autonomous unicorn molding in Paris. ID: 1769818301426-nkithg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0xa0dd91bce378ffc4936931d7fc4f62195433d25ffc59002bff5e64a9c4a0fa51",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Unicorn",
+    "description": "A autonomous unicorn molding in Paris. ID: 1769818301426-nkithg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.137Z"
+}

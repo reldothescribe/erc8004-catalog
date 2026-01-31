@@ -1,0 +1,22 @@
+{
+  "id": 21698,
+  "owner": "0x4508Fbb99A046a5ffED9BE4D95d5990382Cb57a0",
+  "chain": "ethereum",
+  "name": "Crypto Sentinel 3720",
+  "description": "A void sentinel building in Pluto. ID: 1769818250565-fnq85t",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0xc6a5a5fe1b4c28ac4f5df5eda801df8532c36c1ae90219aa7b29438f515865ca",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crypto Sentinel 3720",
+    "description": "A void sentinel building in Pluto. ID: 1769818250565-fnq85t",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.088Z"
+}

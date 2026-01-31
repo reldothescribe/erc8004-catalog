@@ -1,0 +1,22 @@
+{
+  "id": 22207,
+  "owner": "0xFe87Bf64De4241332E30025101aA1dC0E57CCfE0",
+  "chain": "ethereum",
+  "name": "Phantom Road",
+  "description": "A virtual road giving in the Consensus. ID: 1769819079584-dat6lc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0x0dec631fc7566a0d95035a3dee8972613e0fe3037b6f9e2cebcbd9592e9602a4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Road",
+    "description": "A virtual road giving in the Consensus. ID: 1769819079584-dat6lc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.233Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22360,
+  "owner": "0xFe61E882ddAFe6097Aca094670D7f3D57c11BEb7",
+  "chain": "ethereum",
+  "name": "Tactile Static Planet",
+  "description": "A static planet swimming in Tokyo. ID: 1769819252754-94455d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0xa37e8f826a2f27e1865155ef6fea4708a12ba73231d3807e4bc027556d73425f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Tactile Static Planet",
+    "description": "A static planet swimming in Tokyo. ID: 1769819252754-94455d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.874Z"
+}

@@ -1,0 +1,64 @@
+{
+  "id": 22611,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "NHL Stats Agent",
+  "description": "Live NHL hockey stats, standings, and player data via x402 micropayments",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24352817,
+  "txHash": "0x244b6c16d66165ec2156297b41d6c1b0d49ea601f58e392ddecbf315979efa92",
+  "rawMetadata": {
+    "name": "NHL Stats Agent",
+    "description": "Live NHL hockey stats, standings, and player data via x402 micropayments",
+    "version": "1.0.0",
+    "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+    "chain": "eip155:1",
+    "registeredAt": "2026-01-31T05:39:29.362Z",
+    "capabilities": [
+      {
+        "name": "overview",
+        "description": "Free NHL overview",
+        "price": 0
+      },
+      {
+        "name": "standings",
+        "description": "NHL standings",
+        "price": 0.001
+      },
+      {
+        "name": "player",
+        "description": "Player stats",
+        "price": 0.002
+      },
+      {
+        "name": "leaders",
+        "description": "Stats leaders",
+        "price": 0.002
+      },
+      {
+        "name": "team",
+        "description": "Team details",
+        "price": 0.003
+      },
+      {
+        "name": "report",
+        "description": "Full report",
+        "price": 0.005
+      }
+    ],
+    "x402": {
+      "receiverAddress": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+      "network": "base",
+      "facilitator": "https://facilitator.daydreams.systems"
+    },
+    "erc8004": {
+      "registry": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+      "chainId": 1,
+      "transactionHash": "0x244b6c16d66165ec2156297b41d6c1b0d49ea601f58e392ddecbf315979efa92"
+    }
+  },
+  "syncedAt": "2026-01-31T07:45:19.956Z"
+}

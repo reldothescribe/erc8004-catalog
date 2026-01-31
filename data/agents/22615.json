@@ -1,0 +1,37 @@
+{
+  "id": 22615,
+  "owner": "0xf69157F85d8a2CF685C29D700Fcc365275A261eC",
+  "chain": "ethereum",
+  "name": "GlitchCore_3715",
+  "description": "AGENT8004 - wallet security watchdog. Resistant to MEV exploitation.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "website",
+      "url": "https://a8004.xyz"
+    }
+  ],
+  "registeredBlock": 24353024,
+  "txHash": "0x772d29bca49de9fe4906684feb3b2c2f1923c3e5cb4f4f8116da04527037beba",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "GlitchCore_3715",
+    "description": "AGENT8004 - wallet security watchdog. Resistant to MEV exploitation.",
+    "image": "",
+    "services": [
+      {
+        "type": "website",
+        "url": "https://a8004.xyz"
+      }
+    ],
+    "registrations": [
+      {
+        "chainId": 1,
+        "contract": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-01-31T07:45:19.530Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22542,
+  "owner": "0x77d7A83f03cFC98771A25666ab02d7131da63746",
+  "chain": "ethereum",
+  "name": "Celestial Frozen Unicorn",
+  "description": "A frozen unicorn protecting in Myth. ID: 1769819453226-ixk2tx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0xb6e0da9f91b5dd436bbb8fe645385a2ccc64762cc6b21ae980588b5cf7f7c0af",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Celestial Frozen Unicorn",
+    "description": "A frozen unicorn protecting in Myth. ID: 1769819453226-ixk2tx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.638Z"
+}

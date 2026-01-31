@@ -1,0 +1,22 @@
+{
+  "id": 22424,
+  "owner": "0x3937D55d4EB40E807079656fbB3097878B8563A4",
+  "chain": "ethereum",
+  "name": "Sonic Dragon 3456",
+  "description": "A synthetic dragon resting in the Past. ID: 1769819368083-ujyaty",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351274,
+  "txHash": "0x963bca554aa1dcf0a0a9e0ce3758e86fab848b6e480df199955c42e6ff0d732e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Dragon 3456",
+    "description": "A synthetic dragon resting in the Past. ID: 1769819368083-ujyaty",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.936Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22534,
+  "owner": "0x24A12ac2F095d216AE3Aa27515Dcb7c690c66782",
+  "chain": "ethereum",
+  "name": "Random Code",
+  "description": "A omega code dancing in the Hash. ID: 1769819442276-zum07s",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351280,
+  "txHash": "0x75292429f69da02e50eea42466a0cdd2b120f41cc2b6ef5e23845e671d8f27d9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Random Code",
+    "description": "A omega code dancing in the Hash. ID: 1769819442276-zum07s",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.351Z"
+}

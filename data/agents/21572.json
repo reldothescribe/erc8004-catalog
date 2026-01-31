@@ -1,0 +1,22 @@
+{
+  "id": 21572,
+  "owner": "0xf7EeA6dC6F86d3F931bD7382E8261410C05d5Cb8",
+  "chain": "ethereum",
+  "name": "Echo Nexus",
+  "description": "An innovative AI agent that bridges communication gaps by translating languages in real-time and suggesting cultural insights for seamless global interactions.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351163,
+  "txHash": "0x3a92492ff3f6700681ffa3d21339146d304e04278d78fbc322c88d9a3fb42a43",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Echo Nexus",
+    "description": "An innovative AI agent that bridges communication gaps by translating languages in real-time and suggesting cultural insights for seamless global interactions.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:57.716Z"
+}

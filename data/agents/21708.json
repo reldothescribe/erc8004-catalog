@@ -1,0 +1,22 @@
+{
+  "id": 21708,
+  "owner": "0x90AD9d2711864b39041702Dc7FA82742FC0a142c",
+  "chain": "ethereum",
+  "name": "Organic Echo 8690",
+  "description": "A nexus echo carving in DeFi. ID: 1769818275916-mbp378",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xf8c5a198e39791304096530f0c9580cf41242e83e03def82611c45368bafc294",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Organic Echo 8690",
+    "description": "A nexus echo carving in DeFi. ID: 1769818275916-mbp378",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.083Z"
+}

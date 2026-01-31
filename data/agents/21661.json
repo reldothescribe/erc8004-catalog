@@ -1,0 +1,22 @@
+{
+  "id": 21661,
+  "owner": "0xA1C173feAc391C1EE0563b2a929C4B19aF192E02",
+  "chain": "ethereum",
+  "name": "Infernal Serene Wanderer",
+  "description": "A serene wanderer weaving in the Blockchain. ID: 1769818248402-02vp9w",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351181,
+  "txHash": "0x3089bfb9da787b4214d3b7c34b8d441f73fc4e987c426c0cb31c3f275a1237e1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Serene Wanderer",
+    "description": "A serene wanderer weaving in the Blockchain. ID: 1769818248402-02vp9w",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.296Z"
+}

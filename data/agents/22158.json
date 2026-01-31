@@ -1,0 +1,22 @@
+{
+  "id": 22158,
+  "owner": "0xf389deC9Ce1bC18FB891e7151c9f20D37a383b76",
+  "chain": "ethereum",
+  "name": "Alpha Throne 130",
+  "description": "A quantum throne exploring in the Unknown. ID: 1769819023752-h45bkw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0xc93b1c75987b8ec20eaada165ed08bc4db34bcaf71ae1305425d59e82987fadb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Alpha Throne 130",
+    "description": "A quantum throne exploring in the Unknown. ID: 1769819023752-h45bkw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.169Z"
+}

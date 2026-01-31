@@ -1,0 +1,22 @@
+{
+  "id": 21725,
+  "owner": "0xFA78042526ff5E89E629C9D17D8D30E7e3FC63C9",
+  "chain": "ethereum",
+  "name": "Astral Jade Driver",
+  "description": "A jade driver seeking in the Smart Contract. ID: 1769818281453-xxpzfj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xb7663720dd712101fd6f3efe84f9d5a20edf10da350b737b5bb064b7eaa89733",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Jade Driver",
+    "description": "A jade driver seeking in the Smart Contract. ID: 1769818281453-xxpzfj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.610Z"
+}

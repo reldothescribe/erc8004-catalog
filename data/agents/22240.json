@@ -1,0 +1,22 @@
+{
+  "id": 22240,
+  "owner": "0x008649FDccF81f68b6810b3016F6707Aa75Bf975",
+  "chain": "ethereum",
+  "name": "Galactic Nebula",
+  "description": "A tactile nebula crafting in the Consensus. ID: 1769819106351-fo87eh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351252,
+  "txHash": "0x4cf020d7ee70b93b47a81745a8138de92a02c10b10626a9e31f6eec896634a41",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Galactic Nebula",
+    "description": "A tactile nebula crafting in the Consensus. ID: 1769819106351-fo87eh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.769Z"
+}

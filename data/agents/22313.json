@@ -1,0 +1,22 @@
+{
+  "id": 22313,
+  "owner": "0x618eE055a41e6624B335775cBa488BE03eFA8c89",
+  "chain": "ethereum",
+  "name": "Pearl Code",
+  "description": "A chaotic code seeking in the Consensus. ID: 1769819213757-snl02u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0x2e163e8214adeca384d31299785ed441744c78c8619303793093df2b87c024c3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Code",
+    "description": "A chaotic code seeking in the Consensus. ID: 1769819213757-snl02u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.083Z"
+}

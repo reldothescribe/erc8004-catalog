@@ -1,0 +1,22 @@
+{
+  "id": 22471,
+  "owner": "0xE7Aa8e1952f8827993E89af0Ed72C8C0085b24be",
+  "chain": "ethereum",
+  "name": "Onyx Driver",
+  "description": "A serene driver writing in the Metaverse. ID: 1769819395648-44le7w",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0x0fc8d03b5e85f4a5bfe700123fad5d976d567e840c31ad51c1af32e5927bcfe2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Onyx Driver",
+    "description": "A serene driver writing in the Metaverse. ID: 1769819395648-44le7w",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.193Z"
+}

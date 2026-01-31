@@ -1,0 +1,22 @@
+{
+  "id": 22443,
+  "owner": "0x8a4c13CB61256b74Da9D5a952F3A57BbB807B8ab",
+  "chain": "ethereum",
+  "name": "Elder Ancient Crown",
+  "description": "A ancient crown sharing in Nature. ID: 1769819383190-0blftq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0xd8e6c7bdb78a6105027069213f55485ada2fd4116ab554e2e4f24f9154e7d35c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Ancient Crown",
+    "description": "A ancient crown sharing in Nature. ID: 1769819383190-0blftq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.228Z"
+}

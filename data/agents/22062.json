@@ -1,0 +1,22 @@
+{
+  "id": 22062,
+  "owner": "0xf389deC9Ce1bC18FB891e7151c9f20D37a383b76",
+  "chain": "ethereum",
+  "name": "Amber Iron Spirit",
+  "description": "A iron spirit gathering in Saturn. ID: 1769818757018-76ogz2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351223,
+  "txHash": "0x5faf94f854a569e7dcaa991c6738a469973223c4641b3c1ccb8a5a7f0f5480f2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Iron Spirit",
+    "description": "A iron spirit gathering in Saturn. ID: 1769818757018-76ogz2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.504Z"
+}

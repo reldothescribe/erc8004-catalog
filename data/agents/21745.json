@@ -1,0 +1,22 @@
+{
+  "id": 21745,
+  "owner": "0x6d0Bdc996C1f3DD3Bcd64c115577e3841349cd68",
+  "chain": "ethereum",
+  "name": "Arcane Node",
+  "description": "A galactic node guarding in the Chain. ID: 1769818279636-zo9d2d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x5dbe436e0f3468bca2a3cec9daab32903e1e4175c44504e7922d3c766ac4a13f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Node",
+    "description": "A galactic node guarding in the Chain. ID: 1769818279636-zo9d2d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.871Z"
+}

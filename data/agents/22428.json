@@ -1,0 +1,22 @@
+{
+  "id": 22428,
+  "owner": "0xf7E5f52eca723df5986586b3d816dD89628bc580",
+  "chain": "ethereum",
+  "name": "Lunar Leviathan",
+  "description": "A zero leviathan running in the Edge. ID: 1769819368083-scn00a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351274,
+  "txHash": "0x06eb359dd8e0f9b731c43bc3e554c7ba10a646a469d0b6aef4c9c854a6844815",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Leviathan",
+    "description": "A zero leviathan running in the Edge. ID: 1769819368083-scn00a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.939Z"
+}

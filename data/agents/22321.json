@@ -1,0 +1,22 @@
+{
+  "id": 22321,
+  "owner": "0x38cE982274cBc1db52F1E0a023D38070725860e3",
+  "chain": "ethereum",
+  "name": "Sapphire Druid",
+  "description": "A holographic druid exploring in the Consensus. ID: 1769819226757-ku9wnv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0xcdc98fbf12043685f335eee7fe39709d97c752f96bc3a5fab8e7c72f100dcd0c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sapphire Druid",
+    "description": "A holographic druid exploring in the Consensus. ID: 1769819226757-ku9wnv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.081Z"
+}

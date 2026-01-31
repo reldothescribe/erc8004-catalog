@@ -1,0 +1,22 @@
+{
+  "id": 22188,
+  "owner": "0x9b14FCBaD09A306da7b2A0d9B7Cb93220BAD3af0",
+  "chain": "ethereum",
+  "name": "Liquid Hydra 5088",
+  "description": "A zero hydra ending in the Hash. ID: 1769819068562-4ell2h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0xf6ace2e292f851ea6d053aaaba39c17e9bfeece592883a31f4f71a0bcef1c4e6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Hydra 5088",
+    "description": "A zero hydra ending in the Hash. ID: 1769819068562-4ell2h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.691Z"
+}

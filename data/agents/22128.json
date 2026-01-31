@@ -1,0 +1,22 @@
+{
+  "id": 22128,
+  "owner": "0x0110b32b8FBc07A85EDf92159050b94D27F43287",
+  "chain": "ethereum",
+  "name": "Neural Cipher 3284",
+  "description": "A sapphire cipher living in Saturn. ID: 1769818994303-vqrryr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0xaa2b66c53afa63f9fd3d064227f9e323fc429ba3ef05f06f99ade779bbf64ff3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neural Cipher 3284",
+    "description": "A sapphire cipher living in Saturn. ID: 1769818994303-vqrryr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.647Z"
+}

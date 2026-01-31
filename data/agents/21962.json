@@ -1,0 +1,22 @@
+{
+  "id": 21962,
+  "owner": "0x30991119891193D2Cfb957A465339ffb5103ba88",
+  "chain": "ethereum",
+  "name": "Hyper Hidden Road",
+  "description": "A hidden road starting in the Metaverse. ID: 1769818577400-ciu66v",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351209,
+  "txHash": "0x0da1d809d4494f69c92feeec1c5b010229d60c316ebeb7349c44cf8661951af6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Hidden Road",
+    "description": "A hidden road starting in the Metaverse. ID: 1769818577400-ciu66v",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.654Z"
+}

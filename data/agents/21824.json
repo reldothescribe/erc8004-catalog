@@ -1,0 +1,22 @@
+{
+  "id": 21824,
+  "owner": "0x6d0Bdc996C1f3DD3Bcd64c115577e3841349cd68",
+  "chain": "ethereum",
+  "name": "Secret Serpent",
+  "description": "A galactic serpent starting in Technology. ID: 1769818421606-ri7ts6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351195,
+  "txHash": "0x56b6328a3ea239de592606d3c1071324b847760b2dee8a4ecc43b1fe6fac2d87",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Serpent",
+    "description": "A galactic serpent starting in Technology. ID: 1769818421606-ri7ts6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.202Z"
+}

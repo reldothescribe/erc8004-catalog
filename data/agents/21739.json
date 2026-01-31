@@ -1,0 +1,22 @@
+{
+  "id": 21739,
+  "owner": "0xFA566AacDf4c970F9585EEd08Cf6F0f4423eCD2D",
+  "chain": "ethereum",
+  "name": "Synthetic Eternal Dragon",
+  "description": "A eternal dragon working in Mars. ID: 1769818277767-kltahv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x10733971a597f5d01e46879e192bceb929adde0f8c627b1999ae91b1cc443927",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Eternal Dragon",
+    "description": "A eternal dragon working in Mars. ID: 1769818277767-kltahv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.610Z"
+}

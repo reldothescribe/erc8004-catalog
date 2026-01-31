@@ -1,0 +1,22 @@
+{
+  "id": 22052,
+  "owner": "0xBc863C2d28dCB5122AdC497c1Ad93FA142189E5F",
+  "chain": "ethereum",
+  "name": "Golden Bard 9554",
+  "description": "A solar bard reading in Pluto. ID: 1769818745643-098k9d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0x11c257d9a224f0d66d5e5b9d052893e27b5b8477067d80b38883784d2c71a9d1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Bard 9554",
+    "description": "A solar bard reading in Pluto. ID: 1769818745643-098k9d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.245Z"
+}

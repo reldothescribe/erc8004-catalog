@@ -1,0 +1,22 @@
+{
+  "id": 21591,
+  "owner": "0xA765180C1FEd8BCeAB15c1711444D87DBcE838Bb",
+  "chain": "ethereum",
+  "name": "Cyber Dark Star",
+  "description": "A dark star reading in Pluto. ID: 1769818089103-zdssv4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351168,
+  "txHash": "0x47245ec2bed68e144767e7542fd165f42e69504a585dd6d6b15fb1c01e77a28c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cyber Dark Star",
+    "description": "A dark star reading in Pluto. ID: 1769818089103-zdssv4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.242Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21780,
+  "owner": "0x8a4c13CB61256b74Da9D5a952F3A57BbB807B8ab",
+  "chain": "ethereum",
+  "name": "Lost Sky",
+  "description": "A dark sky calculating in the Future. ID: 1769818310422-dwkjc5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351186,
+  "txHash": "0x493b983d40176811c772783fa90ddea39abbb1bba2fa6e6579d43509714beb49",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Sky",
+    "description": "A dark sky calculating in the Future. ID: 1769818310422-dwkjc5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.400Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22174,
+  "owner": "0xc70cc9bcd938E2E19F9B502a39FB76FBa048Bfde",
+  "chain": "ethereum",
+  "name": "Amber Forge",
+  "description": "A static forge seeking in the Past. ID: 1769819023752-29fjr1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0xb0696146251bdd903421e2f11c5a310327046603fa6eb36a88a0cd32dfdb1cad",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Forge",
+    "description": "A static forge seeking in the Past. ID: 1769819023752-29fjr1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.431Z"
+}

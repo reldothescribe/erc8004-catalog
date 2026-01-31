@@ -1,0 +1,22 @@
+{
+  "id": 22142,
+  "owner": "0x008E3dd3c4e6e51499D803B225148fbFc2deF2a5",
+  "chain": "ethereum",
+  "name": "Obsidian Rapid Shield",
+  "description": "A rapid shield gathering in Tokyo. ID: 1769819009644-8015ov",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351244,
+  "txHash": "0x9b96d97ed1fcc656fc70fe60dc63fbeb5736a8c2d1fa48a2603dfb4b255e04e2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Obsidian Rapid Shield",
+    "description": "A rapid shield gathering in Tokyo. ID: 1769819009644-8015ov",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.909Z"
+}

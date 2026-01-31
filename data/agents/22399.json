@@ -1,0 +1,22 @@
+{
+  "id": 22399,
+  "owner": "0x8060aA24E98616eAFDE4f5f3e3610dAE5134f304",
+  "chain": "ethereum",
+  "name": "Ethereal Atomic Griffin",
+  "description": "A atomic griffin walking in London. ID: 1769819357309-k7gybl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0xf554bf394d5df6acae574a940e5fe2508d33e01ddc25a6aeaf096ceccf45f028",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Atomic Griffin",
+    "description": "A atomic griffin walking in London. ID: 1769819357309-k7gybl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.415Z"
+}

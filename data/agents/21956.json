@@ -1,0 +1,22 @@
+{
+  "id": 21956,
+  "owner": "0xfBc7C639b4A7ebf9cF074af94865Edf1f2A4e1ED",
+  "chain": "ethereum",
+  "name": "Solar Golden Core",
+  "description": "A golden core rising in New York. ID: 1769818577400-5dhgj0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351209,
+  "txHash": "0xea458191c05265e274c8ce182ced6ffbe6837e113295add8dfe835a39ba3dd1a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Golden Core",
+    "description": "A golden core rising in New York. ID: 1769818577400-5dhgj0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.658Z"
+}

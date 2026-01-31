@@ -1,0 +1,22 @@
+{
+  "id": 22291,
+  "owner": "0x5BC33fad7C8469cA946DdBB5398A422CFeFC15A2",
+  "chain": "ethereum",
+  "name": "Liquid Pulse",
+  "description": "A astral pulse healing in the Unknown. ID: 1769819197333-jbww0a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0x7be2a2cceec20c0679fed0899f56c9f80f238c75ee8d90c15122d182df0d2875",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Pulse",
+    "description": "A astral pulse healing in the Unknown. ID: 1769819197333-jbww0a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.561Z"
+}

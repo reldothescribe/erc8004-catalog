@@ -1,0 +1,22 @@
+{
+  "id": 22472,
+  "owner": "0xFA78042526ff5E89E629C9D17D8D30E7e3FC63C9",
+  "chain": "ethereum",
+  "name": "Magnetic Ghost",
+  "description": "A lunar ghost dancing in the Block. ID: 1769819395649-275v6t",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0x7564b23bf26c32e56b228802d524575bfb05120bc8b229cdbb7a115ef5926e61",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Magnetic Ghost",
+    "description": "A lunar ghost dancing in the Block. ID: 1769819395649-275v6t",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.188Z"
+}

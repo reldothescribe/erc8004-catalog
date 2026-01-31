@@ -1,0 +1,22 @@
+{
+  "id": 21929,
+  "owner": "0x30BE028C27604CaFeE55253a21fC735621715e65",
+  "chain": "ethereum",
+  "name": "Crypto Wave",
+  "description": "A electric wave ending in the Blockchain. ID: 1769818565835-rjfc43",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351207,
+  "txHash": "0x5d760b780b4c8104dfe5c80546c49fea724dba00659c8af40abe52dd6971609c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crypto Wave",
+    "description": "A electric wave ending in the Blockchain. ID: 1769818565835-rjfc43",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.117Z"
+}

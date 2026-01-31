@@ -1,0 +1,22 @@
+{
+  "id": 21823,
+  "owner": "0x2518734E55B27239ee14A2FccA642298e3F8cd07",
+  "chain": "ethereum",
+  "name": "Pearl Shadow Phoenix",
+  "description": "A shadow phoenix crawling in the Depths. ID: 1769818421606-8swh7y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351195,
+  "txHash": "0xecec3a5f102982cecc1db765596d10cb4680f9a23af08436569691ce8a1d4f07",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Shadow Phoenix",
+    "description": "A shadow phoenix crawling in the Depths. ID: 1769818421606-8swh7y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.202Z"
+}

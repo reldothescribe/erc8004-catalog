@@ -1,0 +1,22 @@
+{
+  "id": 22130,
+  "owner": "0xc14f94Edb367406e4168d82F1Ae5D0B10Fb09fF3",
+  "chain": "ethereum",
+  "name": "Gentle Monk 7535",
+  "description": "A atomic monk selling in the Edge. ID: 1769818994303-1znssk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0xae60f8b6b29ae6da01eac51082dba337784b5a1202656c71c5272b039de5eedd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Monk 7535",
+    "description": "A atomic monk selling in the Edge. ID: 1769818994303-1znssk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.907Z"
+}

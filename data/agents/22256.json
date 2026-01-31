@@ -1,0 +1,22 @@
+{
+  "id": 22256,
+  "owner": "0xE7Aa8e1952f8827993E89af0Ed72C8C0085b24be",
+  "chain": "ethereum",
+  "name": "Autonomous Spirit 1724",
+  "description": "A nexus spirit processing in the Hash. ID: 1769819117673-a9x8t2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0xffe6a649fb87511ca10729a571a3526bca21a726dbbc4ae95a5af05330591233",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Spirit 1724",
+    "description": "A nexus spirit processing in the Hash. ID: 1769819117673-a9x8t2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.027Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22408,
+  "owner": "0xf7EeA6dC6F86d3F931bD7382E8261410C05d5Cb8",
+  "chain": "ethereum",
+  "name": "Found Phantom",
+  "description": "A azure phantom ending in the Block. ID: 1769819357309-ekkwke",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0x6082a8224304550b01b59bf215fcfa820ed8f82c114152d5b4b516204bedbe78",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Phantom",
+    "description": "A azure phantom ending in the Block. ID: 1769819357309-ekkwke",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.677Z"
+}

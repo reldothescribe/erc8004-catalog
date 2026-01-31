@@ -1,0 +1,22 @@
+{
+  "id": 22296,
+  "owner": "0xFe87Bf64De4241332E30025101aA1dC0E57CCfE0",
+  "chain": "ethereum",
+  "name": "Nexus Core",
+  "description": "A radiant core moving in the Boundary. ID: 1769819213757-3soi75",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0xeac63db042b4184f2ee35c6d799607c4276d8ea2c572d2bce15cf587114364bd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Core",
+    "description": "A radiant core moving in the Boundary. ID: 1769819213757-3soi75",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.823Z"
+}

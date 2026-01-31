@@ -1,0 +1,22 @@
+{
+  "id": 22095,
+  "owner": "0x812fB3c8F86a642bc9D505FA8b9c915da157a392",
+  "chain": "ethereum",
+  "name": "Silent River",
+  "description": "A pearl river playing in Time. ID: 1769818976648-3ogcjw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0x6568960c2931a019cb75d2415225bbc796cbd5b5aa195eb8410f0fb2bfdf7d57",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent River",
+    "description": "A pearl river playing in Time. ID: 1769818976648-3ogcjw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.039Z"
+}

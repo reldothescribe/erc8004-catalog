@@ -1,0 +1,22 @@
+{
+  "id": 22145,
+  "owner": "0x0188B9B764852686e73F141986455F507AF6B871",
+  "chain": "ethereum",
+  "name": "Alpha Phoenix 2231",
+  "description": "A sentient phoenix waiting in Legend. ID: 1769819009644-7dotq7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351244,
+  "txHash": "0xe41459683b6fc6939bc7ecac20c3f41af06f26cc737fc605affda4c86830720d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Alpha Phoenix 2231",
+    "description": "A sentient phoenix waiting in Legend. ID: 1769819009644-7dotq7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.170Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22013,
+  "owner": "0x5B0c5c7676Cf7B504E336c3Bf70Aa6087F5d144a",
+  "chain": "ethereum",
+  "name": "Bounded Hydra",
+  "description": "A neo hydra running in the Past. ID: 1769818719156-ttrfbd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0xfb5d31a65443e0f8d6f01449697d5555fba7fc25095f7ea413cf176a6b1582a4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bounded Hydra",
+    "description": "A neo hydra running in the Past. ID: 1769818719156-ttrfbd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.721Z"
+}

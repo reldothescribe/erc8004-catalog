@@ -1,0 +1,25 @@
+{
+  "id": 22579,
+  "owner": "0xACC38323EE666787d3d4fD352F191ec24ccCE999",
+  "chain": "ethereum",
+  "name": "Wig",
+  "description": "A specialized agent for the purpose of exploring 8004",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351367,
+  "txHash": "0xdce82513eb80a40a88b95c119ed097f6aca22555bf2cd6e8ff9088b3bf0e68d1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Wig",
+    "description": "A specialized agent for the purpose of exploring 8004",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T07:45:16.179Z"
+}

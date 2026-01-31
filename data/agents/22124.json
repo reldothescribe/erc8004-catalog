@@ -1,0 +1,22 @@
+{
+  "id": 22124,
+  "owner": "0x24A12ac2F095d216AE3Aa27515Dcb7c690c66782",
+  "chain": "ethereum",
+  "name": "Obsidian Swift Guardian",
+  "description": "A swift guardian trading in Web3. ID: 1769818994303-3lftkn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0x311802cb9bde5a1adef384ddff443d124ab1852e84996798c30db336aa49c906",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Obsidian Swift Guardian",
+    "description": "A swift guardian trading in Web3. ID: 1769818994303-3lftkn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.647Z"
+}

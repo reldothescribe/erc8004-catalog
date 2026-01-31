@@ -1,0 +1,22 @@
+{
+  "id": 21958,
+  "owner": "0x5cF9cbf9962dd915236845Cc72fa41B73c8fef96",
+  "chain": "ethereum",
+  "name": "Elder Alpha Core",
+  "description": "A alpha core resting in the Block. ID: 1769818577400-8mr7gr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351209,
+  "txHash": "0xb82e494e287ea86d420e275309d31d7759ee4b8d0022ce1f8b01f7102cf03b55",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Alpha Core",
+    "description": "A alpha core resting in the Block. ID: 1769818577400-8mr7gr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.646Z"
+}

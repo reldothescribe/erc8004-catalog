@@ -1,0 +1,22 @@
+{
+  "id": 22358,
+  "owner": "0x30991119891193D2Cfb957A465339ffb5103ba88",
+  "chain": "ethereum",
+  "name": "Dark Oracle 8467",
+  "description": "A electric oracle keeping in the Abyss. ID: 1769819252754-vbhwyf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0xce18e6170df8a28cdf7796a6dba76665c67a7448d5588629f104c7d0f11d459c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Oracle 8467",
+    "description": "A electric oracle keeping in the Abyss. ID: 1769819252754-vbhwyf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.876Z"
+}

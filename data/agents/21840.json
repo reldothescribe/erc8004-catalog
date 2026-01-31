@@ -1,0 +1,22 @@
+{
+  "id": 21840,
+  "owner": "0x5cF9cbf9962dd915236845Cc72fa41B73c8fef96",
+  "chain": "ethereum",
+  "name": "Frozen Core",
+  "description": "A bold core living in Andromeda. ID: 1769818443956-1u55ol",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351200,
+  "txHash": "0x406962b400de7af33a112209af0eb1482f4ac508735d757a96820dbcee7d3cae",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Core",
+    "description": "A bold core living in Andromeda. ID: 1769818443956-1u55ol",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.469Z"
+}

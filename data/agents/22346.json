@@ -1,0 +1,22 @@
+{
+  "id": 22346,
+  "owner": "0x8E82218169188359aBAb3250Ae7DD5863682D67E",
+  "chain": "ethereum",
+  "name": "Serene Priest",
+  "description": "A secret priest exploring in Andromeda. ID: 1769819239754-9n47gt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0x00ad5b76d1b8c29714a8ca5c688613091792ec1ac6108d639e2d79cc5a6a881e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Serene Priest",
+    "description": "A secret priest exploring in Andromeda. ID: 1769819239754-9n47gt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.604Z"
+}

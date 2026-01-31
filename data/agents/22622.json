@@ -1,0 +1,20 @@
+{
+  "id": 22622,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "Agent #22622",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24353363,
+  "txHash": "0xac230cdd292fd142f18e19eea077998fb96dd29fe7f05c4fd0d96308b1bb7d2a",
+  "rawMetadata": {
+    "status": "error",
+    "code": 404,
+    "message": "Application not found",
+    "request_id": "Can-FFf-SY69TAp1-_9nXA"
+  },
+  "syncedAt": "2026-01-31T07:45:19.854Z"
+}

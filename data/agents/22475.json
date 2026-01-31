@@ -1,0 +1,22 @@
+{
+  "id": 22475,
+  "owner": "0xc70cc9bcd938E2E19F9B502a39FB76FBa048Bfde",
+  "chain": "ethereum",
+  "name": "Sonic Bear",
+  "description": "A noble bear flying in Science. ID: 1769819395649-khwuyf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0xe64cc3218fe67bf911ec15e3b30da25b09ba1995f1a3d6b4d0976f32979666d5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Bear",
+    "description": "A noble bear flying in Science. ID: 1769819395649-khwuyf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.497Z"
+}

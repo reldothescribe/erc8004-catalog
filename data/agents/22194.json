@@ -1,0 +1,22 @@
+{
+  "id": 22194,
+  "owner": "0x265362F1A936DaCc8751d90b7DEE1cE2d98BDE47",
+  "chain": "ethereum",
+  "name": "Hidden Dragon",
+  "description": "A obsidian dragon coding in Myth. ID: 1769819068562-nxditx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0xdf5ae1a07ed62ca3929e34fda9d17c2fa0cf815947ce93e305bd12f03121eb71",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Dragon",
+    "description": "A obsidian dragon coding in Myth. ID: 1769819068562-nxditx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.959Z"
+}

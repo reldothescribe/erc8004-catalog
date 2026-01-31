@@ -1,0 +1,22 @@
+{
+  "id": 22001,
+  "owner": "0x7157A7FBEDB3D43c7732912AAfC9F804B537a951",
+  "chain": "ethereum",
+  "name": "Lost Liquid Griffin",
+  "description": "A liquid griffin rising in Nature. ID: 1769818719156-wnltlk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0x2ebe0ec51aea2593a91138a2959f7617743afa9656ca32944fcec0e9b3ceed99",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Liquid Griffin",
+    "description": "A liquid griffin rising in Nature. ID: 1769818719156-wnltlk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.452Z"
+}

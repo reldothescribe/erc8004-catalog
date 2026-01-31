@@ -1,0 +1,22 @@
+{
+  "id": 21705,
+  "owner": "0xFBeEd73B503dE3347578e163Dd33bf219B5e1b6b",
+  "chain": "ethereum",
+  "name": "Light Sky 9381",
+  "description": "A ethereal sky waiting in the Protocol. ID: 1769818262011-2jqzwi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x3b756adf957525d5aeb48048c4aa50b6f44663b50caa20f167ea18540fd8c2d3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Sky 9381",
+    "description": "A ethereal sky waiting in the Protocol. ID: 1769818262011-2jqzwi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.083Z"
+}

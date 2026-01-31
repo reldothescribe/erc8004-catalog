@@ -1,0 +1,22 @@
+{
+  "id": 21704,
+  "owner": "0x812fB3c8F86a642bc9D505FA8b9c915da157a392",
+  "chain": "ethereum",
+  "name": "Burning Castle 9441",
+  "description": "A ether castle climbing in Jupiter. ID: 1769818248402-8y3alo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x8d38bc2b0ba8a1bc67e464e33d986c9ece76e26bfaab3fce488cc9399c6afcfa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Castle 9441",
+    "description": "A ether castle climbing in Jupiter. ID: 1769818248402-8y3alo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.083Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21867,
+  "owner": "0x5660005B3F86Dd339204E7091d7E387aacd7B5B8",
+  "chain": "ethereum",
+  "name": "Ancient Blade",
+  "description": "A young blade dancing in Magic. ID: 1769818526525-5c3vs8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351204,
+  "txHash": "0x0e3038ec3866ad26170a199ca6371b374d69484d52fa5e1a7885a98a89fa7c39",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ancient Blade",
+    "description": "A young blade dancing in Magic. ID: 1769818526525-5c3vs8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.029Z"
+}

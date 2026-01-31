@@ -1,0 +1,22 @@
+{
+  "id": 22043,
+  "owner": "0x008649FDccF81f68b6810b3016F6707Aa75Bf975",
+  "chain": "ethereum",
+  "name": "Hidden Guardian 4382",
+  "description": "A astral guardian building in Berlin. ID: 1769818745643-s6loyt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0x6effebb227b716ae4745ac356fc1961fbb58c9d9a04678a26dfe2085627d1cf7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Guardian 4382",
+    "description": "A astral guardian building in Berlin. ID: 1769818745643-s6loyt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.245Z"
+}

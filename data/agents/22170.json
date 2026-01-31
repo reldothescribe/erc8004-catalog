@@ -1,0 +1,22 @@
+{
+  "id": 22170,
+  "owner": "0xFA78042526ff5E89E629C9D17D8D30E7e3FC63C9",
+  "chain": "ethereum",
+  "name": "Golden Sentinel",
+  "description": "A frozen sentinel hunting in DeFi. ID: 1769819023752-zj9kc6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0xf33f1ccbd5d5eb173c83d1a4740e1d4cd2e0018edd4c2d1f99ed2481d2042f42",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Sentinel",
+    "description": "A frozen sentinel hunting in DeFi. ID: 1769819023752-zj9kc6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.429Z"
+}

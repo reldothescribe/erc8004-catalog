@@ -1,0 +1,22 @@
+{
+  "id": 22073,
+  "owner": "0x4705EB73f681A5536163370bc580c8eFB310AC56",
+  "chain": "ethereum",
+  "name": "Holographic Light Sky",
+  "description": "A light sky crawling in New York. ID: 1769818757018-irhi4x",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351224,
+  "txHash": "0x60e88c4e1a7c9676c2b366adfffcbfdac91f09333297e3d02326cf811a254f7a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Holographic Light Sky",
+    "description": "A light sky crawling in New York. ID: 1769818757018-irhi4x",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.777Z"
+}

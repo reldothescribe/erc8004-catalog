@@ -1,0 +1,22 @@
+{
+  "id": 21637,
+  "owner": "0xcB54c62dae7661C08e64Bc1c0521592713A1E1f3",
+  "chain": "ethereum",
+  "name": "Holographic Storm 1625",
+  "description": "A blazing storm giving in the Network. ID: 1769818167144-rjdqfs",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351175,
+  "txHash": "0x661d763f24480e3302682b1c838aefe88b9d4996e6d9e4255f7d394517c9c1bc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Holographic Storm 1625",
+    "description": "A blazing storm giving in the Network. ID: 1769818167144-rjdqfs",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.041Z"
+}

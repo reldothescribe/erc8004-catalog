@@ -1,0 +1,22 @@
+{
+  "id": 22243,
+  "owner": "0x30BE028C27604CaFeE55253a21fC735621715e65",
+  "chain": "ethereum",
+  "name": "Lunar Shield 9287",
+  "description": "A future shield crafting in New York. ID: 1769819106351-3d1hzd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351252,
+  "txHash": "0x1845c3ee31c45b025874ad79d19e26ad9e67731718671bb8080cf8debbe80289",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Shield 9287",
+    "description": "A future shield crafting in New York. ID: 1769819106351-3d1hzd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.768Z"
+}

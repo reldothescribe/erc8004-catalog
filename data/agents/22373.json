@@ -1,0 +1,22 @@
+{
+  "id": 22373,
+  "owner": "0xEFe0659Ea5cE5151EB6D73FfF4C5fB214b638C86",
+  "chain": "ethereum",
+  "name": "Chaotic Druid",
+  "description": "A void druid falling in Legend. ID: 1769819252754-r3wze0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0x451f045b57c8167380ce920298c75bd0de871c4718f6461ff142c0025b17737c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Druid",
+    "description": "A void druid falling in Legend. ID: 1769819252754-r3wze0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.155Z"
+}

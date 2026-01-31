@@ -1,0 +1,22 @@
+{
+  "id": 21946,
+  "owner": "0x7719A6657e70d01867BABF5bEd938c24D9C81a32",
+  "chain": "ethereum",
+  "name": "Primal Monk 9322",
+  "description": "A liquid monk guarding in the Chain. ID: 1769818577400-x5t70o",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351208,
+  "txHash": "0xffa05c2fb6b798e82b7e4f699cc5601f75467a8d3b9454c5809d948c0e9d0742",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Monk 9322",
+    "description": "A liquid monk guarding in the Chain. ID: 1769818577400-x5t70o",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.385Z"
+}

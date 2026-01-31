@@ -1,0 +1,22 @@
+{
+  "id": 22440,
+  "owner": "0x008E3dd3c4e6e51499D803B225148fbFc2deF2a5",
+  "chain": "ethereum",
+  "name": "Ancient Prime Blade",
+  "description": "A prime blade calculating in the Heights. ID: 1769819383190-b986sj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0xf2325d90c2f7de33181d55889aee1656cf2a0c16c6482286ca5528cba850e340",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ancient Prime Blade",
+    "description": "A prime blade calculating in the Heights. ID: 1769819383190-b986sj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.229Z"
+}

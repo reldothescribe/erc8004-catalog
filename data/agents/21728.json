@@ -1,0 +1,22 @@
+{
+  "id": 21728,
+  "owner": "0x38d5E9dc1Bff4f4487BAb88c472Df0C41ecd2f64",
+  "chain": "ethereum",
+  "name": "Tactile Code",
+  "description": "A emerald code hunting in the Protocol. ID: 1769818239491-ev9b9y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xa91d191397e022a11bfa824e73b93b5e9d7df332b1f56585c231f9e8fd750a84",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Tactile Code",
+    "description": "A emerald code hunting in the Protocol. ID: 1769818239491-ev9b9y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.609Z"
+}

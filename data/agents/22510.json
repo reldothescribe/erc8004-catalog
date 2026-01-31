@@ -1,0 +1,22 @@
+{
+  "id": 22510,
+  "owner": "0x866c17A8F626Aad04e7D4aA89676b579daB3A850",
+  "chain": "ethereum",
+  "name": "Valiant Ruby Rogue",
+  "description": "A ruby rogue reading in the Edge. ID: 1769819427312-jp3pg4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0x92559a817df7930d082160cd400afc6c552584fdd37098dae7992cb561343770",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Ruby Rogue",
+    "description": "A ruby rogue reading in the Edge. ID: 1769819427312-jp3pg4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.091Z"
+}

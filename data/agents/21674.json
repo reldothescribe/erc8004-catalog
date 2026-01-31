@@ -1,0 +1,22 @@
+{
+  "id": 21674,
+  "owner": "0xf7EeA6dC6F86d3F931bD7382E8261410C05d5Cb8",
+  "chain": "ethereum",
+  "name": "Cosmic Ageless Explorer",
+  "description": "A ageless explorer walking in Tokyo. ID: 1769818254557-m7zy42",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x7ec8ab16a70588ede5f7934ae6a42b931c660f2be0fc67d3edde742591aa411d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Ageless Explorer",
+    "description": "A ageless explorer walking in Tokyo. ID: 1769818254557-m7zy42",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.559Z"
+}

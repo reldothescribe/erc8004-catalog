@@ -1,0 +1,22 @@
+{
+  "id": 22185,
+  "owner": "0x87B3F0B4fA0FDC68003c8c141889ccE01060c2bE",
+  "chain": "ethereum",
+  "name": "Prime Golem 433",
+  "description": "A swift golem trading in the Summit. ID: 1769819068562-urzadx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0x928ed050e1bcc5a28c51cd42f6ea767970cf2b0737de37ee617921ebd97827cc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Prime Golem 433",
+    "description": "A swift golem trading in the Summit. ID: 1769819068562-urzadx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.691Z"
+}

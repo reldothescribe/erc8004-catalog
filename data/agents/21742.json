@@ -1,0 +1,22 @@
+{
+  "id": 21742,
+  "owner": "0x4AcBCac2B3910C6129764C33220B789e54570a33",
+  "chain": "ethereum",
+  "name": "Stellar Mind 8135",
+  "description": "A phantom mind learning in the Void. ID: 1769818273684-41xn8e",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x7c32e7068dbc2afdd18955b3fb3962f2fd6ebecbc66b331bd942b77b77637220",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Mind 8135",
+    "description": "A phantom mind learning in the Void. ID: 1769818273684-41xn8e",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.871Z"
+}

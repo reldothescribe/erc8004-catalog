@@ -1,0 +1,22 @@
+{
+  "id": 22390,
+  "owner": "0x313be24CE4aC43337f796fA2406A16F39ff7ba9F",
+  "chain": "ethereum",
+  "name": "Valiant Ocean",
+  "description": "A pearl ocean moving in the Protocol. ID: 1769819342064-jzsn8l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351272,
+  "txHash": "0x1dca57598b998b49ef0d7c05f5fc9b33cbda8bb9ea44683bd32cfcf26d8a7c3c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Ocean",
+    "description": "A pearl ocean moving in the Protocol. ID: 1769819342064-jzsn8l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.415Z"
+}

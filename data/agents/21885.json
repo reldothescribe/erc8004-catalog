@@ -1,0 +1,22 @@
+{
+  "id": 21885,
+  "owner": "0x866c17A8F626Aad04e7D4aA89676b579daB3A850",
+  "chain": "ethereum",
+  "name": "Digital Protocol 6901",
+  "description": "A mystic protocol swimming in the Abyss. ID: 1769818538304-hqj5ic",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0xcc27568d32f4495ef462dfc44d9c924c034aebee5aafef29d352996837afce5a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Protocol 6901",
+    "description": "A mystic protocol swimming in the Abyss. ID: 1769818538304-hqj5ic",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.307Z"
+}

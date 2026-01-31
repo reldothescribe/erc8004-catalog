@@ -1,0 +1,22 @@
+{
+  "id": 21737,
+  "owner": "0x7DbCED054624Eeb56FF9B6808D0028043CD40F6a",
+  "chain": "ethereum",
+  "name": "Secret Pulse 1735",
+  "description": "A silver pulse playing in Dimension X. ID: 1769818275916-ljveid",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x682d8d04f0ab650b0a8a59d0554fda543132496f6f940a843b5e80ea7724039d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Pulse 1735",
+    "description": "A silver pulse playing in Dimension X. ID: 1769818275916-ljveid",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.610Z"
+}

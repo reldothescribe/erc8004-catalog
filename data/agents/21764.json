@@ -1,0 +1,22 @@
+{
+  "id": 21764,
+  "owner": "0x5F1bcb425230523cC10dba1803CFeA30B201b1Aa",
+  "chain": "ethereum",
+  "name": "Static Swift Monk",
+  "description": "A swift monk reading in the Past. ID: 1769818262011-4ocgdh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x7feecfc95c43a97b2bd2b1e96ab66bc5c508633e814be8506af73f977503ecb6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Swift Monk",
+    "description": "A swift monk reading in the Past. ID: 1769818262011-4ocgdh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.134Z"
+}

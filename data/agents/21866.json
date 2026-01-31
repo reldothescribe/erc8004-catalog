@@ -1,0 +1,22 @@
+{
+  "id": 21866,
+  "owner": "0x05866b654F37a899A2DcB92694E61e63D788f376",
+  "chain": "ethereum",
+  "name": "Arcane Bot 478",
+  "description": "A cyber bot swimming in New York. ID: 1769818526525-zpmotn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351204,
+  "txHash": "0xe871527000ef80ad77c041dd6c3da80b21c7cca430d192b3d7d108aa423fa0d9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Bot 478",
+    "description": "A cyber bot swimming in New York. ID: 1769818526525-zpmotn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.034Z"
+}

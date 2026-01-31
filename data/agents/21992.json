@@ -1,0 +1,22 @@
+{
+  "id": 21992,
+  "owner": "0x18a6719719e5E080c1708EfC553F3963b26C7f1B",
+  "chain": "ethereum",
+  "name": "Dark Druid 2699",
+  "description": "A hyper druid walking in London. ID: 1769818703329-0vhgor",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351219,
+  "txHash": "0x1c6f355126be8235803ef3c00a25a06b48edb1a7e0f0eec46bc0a7ecdf2cf4b7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Druid 2699",
+    "description": "A hyper druid walking in London. ID: 1769818703329-0vhgor",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.188Z"
+}

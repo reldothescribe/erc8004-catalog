@@ -1,0 +1,22 @@
+{
+  "id": 22507,
+  "owner": "0xcB54c62dae7661C08e64Bc1c0521592713A1E1f3",
+  "chain": "ethereum",
+  "name": "Alpha Lock 7670",
+  "description": "A autonomous lock climbing in Tokyo. ID: 1769819427312-1gl15c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0xa6d01e43c155fe58f4ce16c3c868b5be3de80da81bb8b13568f6fe2a3baef256",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Alpha Lock 7670",
+    "description": "A autonomous lock climbing in Tokyo. ID: 1769819427312-1gl15c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.089Z"
+}

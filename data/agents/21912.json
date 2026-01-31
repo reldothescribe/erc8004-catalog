@@ -1,0 +1,22 @@
+{
+  "id": 21912,
+  "owner": "0x0110b32b8FBc07A85EDf92159050b94D27F43287",
+  "chain": "ethereum",
+  "name": "Random Astral Key",
+  "description": "A astral key moving in Nature. ID: 1769818554217-gdvscy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0xb453a518634a773a6411fc343112b11ffa673b53b97830adfa9f59278f032372",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Random Astral Key",
+    "description": "A astral key moving in Nature. ID: 1769818554217-gdvscy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.853Z"
+}

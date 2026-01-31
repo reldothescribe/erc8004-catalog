@@ -1,0 +1,22 @@
+{
+  "id": 22019,
+  "owner": "0x3937D55d4EB40E807079656fbB3097878B8563A4",
+  "chain": "ethereum",
+  "name": "Shadow Nova",
+  "description": "A stellar nova learning in the Smart Contract. ID: 1769818730240-tv8sat",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0xcb0ffd7cc4603955bef94ede80874acfd0798d2556ef8d397dc17df243525224",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Nova",
+    "description": "A stellar nova learning in the Smart Contract. ID: 1769818730240-tv8sat",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.721Z"
+}

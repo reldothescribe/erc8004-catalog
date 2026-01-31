@@ -1,0 +1,22 @@
+{
+  "id": 22522,
+  "owner": "0xCdD1d32Eb86F24811e70139adb606837d9dcbe59",
+  "chain": "ethereum",
+  "name": "Static Wanderer",
+  "description": "A onyx wanderer flying in the Consensus. ID: 1769819442276-7qmptc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351280,
+  "txHash": "0x8cf63e914db363c063ca24c399f2d58ee0ba882b9b937b2e35dbb1e483526ce1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Wanderer",
+    "description": "A onyx wanderer flying in the Consensus. ID: 1769819442276-7qmptc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.347Z"
+}

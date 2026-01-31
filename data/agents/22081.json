@@ -1,0 +1,22 @@
+{
+  "id": 22081,
+  "owner": "0x5660005B3F86Dd339204E7091d7E387aacd7B5B8",
+  "chain": "ethereum",
+  "name": "Arcane Watcher 2303",
+  "description": "A atomic watcher falling in Science. ID: 1769818976648-r7410y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0xdd2d87581eb9d778a2ea1f0e02f0b17d3f1f6253883dab4baea76727c4dc4ea7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Watcher 2303",
+    "description": "A atomic watcher falling in Science. ID: 1769818976648-r7410y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.777Z"
+}

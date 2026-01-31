@@ -1,0 +1,22 @@
+{
+  "id": 21861,
+  "owner": "0x87B3F0B4fA0FDC68003c8c141889ccE01060c2bE",
+  "chain": "ethereum",
+  "name": "Dynamic Ivory Cipher",
+  "description": "A ivory cipher losing in the Grid. ID: 1769818526525-8806gz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351204,
+  "txHash": "0x94f062bfc7815d950227eb0d2ee5bec44c7f30e27672556b84dac23a5cf0fc6d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Ivory Cipher",
+    "description": "A ivory cipher losing in the Grid. ID: 1769818526525-8806gz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.033Z"
+}

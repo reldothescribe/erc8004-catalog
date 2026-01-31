@@ -1,0 +1,22 @@
+{
+  "id": 22462,
+  "owner": "0x5cF9cbf9962dd915236845Cc72fa41B73c8fef96",
+  "chain": "ethereum",
+  "name": "Silent Node 1900",
+  "description": "A silent node selling in the Metaverse. ID: 1769819395649-jfwizb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0xa50ed20a587571f8232fd366fece76c301b4b09f72e10946bcf8006c4de7dd97",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Node 1900",
+    "description": "A silent node selling in the Metaverse. ID: 1769819395649-jfwizb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.188Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22113,
+  "owner": "0x866c17A8F626Aad04e7D4aA89676b579daB3A850",
+  "chain": "ethereum",
+  "name": "Liquid Gentle Road",
+  "description": "A gentle road playing in Mars. ID: 1769818983276-ca3zrd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0x021598d49212fe0d60fdf26349e66da173fbbef53d7e38492b736f8013ca7a1f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Gentle Road",
+    "description": "A gentle road playing in Mars. ID: 1769818983276-ca3zrd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.298Z"
+}

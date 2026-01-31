@@ -1,0 +1,22 @@
+{
+  "id": 22206,
+  "owner": "0x549CAcfFFb32E717eb97B5418324ca668A1D6b2b",
+  "chain": "ethereum",
+  "name": "Frozen Seeker 8215",
+  "description": "A random seeker hunting in the DAO. ID: 1769819079584-p1jxil",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0x80da0835d374fe0ce8c4284f5df3f3fc3e0ca113b9c75f9ba476a8684290ce72",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Seeker 8215",
+    "description": "A random seeker hunting in the DAO. ID: 1769819079584-p1jxil",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.216Z"
+}

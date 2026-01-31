@@ -1,0 +1,22 @@
+{
+  "id": 22447,
+  "owner": "0xE67821ca21C6B4Df0d9F4F1aE2E76aA45CFec589",
+  "chain": "ethereum",
+  "name": "Digital Pilot",
+  "description": "A ethereal pilot exploring in Paris. ID: 1769819383190-sbgcg2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0x16a99a726dafcc376bb54679ac1c1bf9000a2906e8043b082556866da78ca46a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Pilot",
+    "description": "A ethereal pilot exploring in Paris. ID: 1769819383190-sbgcg2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.843Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22315,
+  "owner": "0xcAdaAe5dEd045B82D1ac2c6c407E29CD57FB8d64",
+  "chain": "ethereum",
+  "name": "Hidden Organic Key",
+  "description": "A organic key calculating in DeFi. ID: 1769819213757-hig44a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0x0915c0c8786e917ac9eb2018aeaafa7b30bae91d012bae77846ee784ceeaabf7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Organic Key",
+    "description": "A organic key calculating in DeFi. ID: 1769819213757-hig44a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.083Z"
+}

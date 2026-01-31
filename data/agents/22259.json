@@ -1,0 +1,22 @@
+{
+  "id": 22259,
+  "owner": "0xC8AaCb1e92E62E670839eDd5A09bdD19EA8F4c31",
+  "chain": "ethereum",
+  "name": "Cosmic Determined Qubit",
+  "description": "A determined qubit singing in Berlin. ID: 1769819117673-tivlum",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0xd9093c13825f2756d1713de9e38f48d2479fa686f8fb4724f9a9ce537dd3f9eb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Determined Qubit",
+    "description": "A determined qubit singing in Berlin. ID: 1769819117673-tivlum",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.040Z"
+}

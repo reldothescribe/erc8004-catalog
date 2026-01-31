@@ -1,0 +1,22 @@
+{
+  "id": 22131,
+  "owner": "0x21B15797A9758f3E49C671419d6D8aAFE885375F",
+  "chain": "ethereum",
+  "name": "Magnetic Mystic Moon",
+  "description": "A mystic moon giving in Berlin. ID: 1769818994304-ib326m",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0xd85080402aa4095d32af5ccf1aa8c2b2e9c1275488cbf34c20c56601599485c5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Magnetic Mystic Moon",
+    "description": "A mystic moon giving in Berlin. ID: 1769818994304-ib326m",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.907Z"
+}

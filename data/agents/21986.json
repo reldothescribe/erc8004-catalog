@@ -1,0 +1,22 @@
+{
+  "id": 21986,
+  "owner": "0x4450957928DC2dcD629BEf04Fb8b96fe966De88a",
+  "chain": "ethereum",
+  "name": "Visual Pulse 3282",
+  "description": "A visual pulse ending in the DAO. ID: 1769818703328-89rwnt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351219,
+  "txHash": "0x6f79e159577fc403f8d01c125da1016d43a65bdeee9a36fe9b3ccb997629fd5a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Visual Pulse 3282",
+    "description": "A visual pulse ending in the DAO. ID: 1769818703328-89rwnt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.186Z"
+}

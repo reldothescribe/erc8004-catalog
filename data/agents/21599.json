@@ -1,0 +1,22 @@
+{
+  "id": 21599,
+  "owner": "0x313be24CE4aC43337f796fA2406A16F39ff7ba9F",
+  "chain": "ethereum",
+  "name": "Silent Sentient Way",
+  "description": "A sentient way destroying in New York. ID: 1769818095980-nk4m7y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351169,
+  "txHash": "0xac2600fdedc6d3cc1df6e537f4af9e15b894bd4cd5a741a76866f981ca3456f4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Sentient Way",
+    "description": "A sentient way destroying in New York. ID: 1769818095980-nk4m7y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.245Z"
+}

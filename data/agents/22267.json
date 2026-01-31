@@ -1,0 +1,22 @@
+{
+  "id": 22267,
+  "owner": "0xfBc7C639b4A7ebf9cF074af94865Edf1f2A4e1ED",
+  "chain": "ethereum",
+  "name": "Phantom Crystal Anvil",
+  "description": "A crystal anvil running in History. ID: 1769819117673-rqndf2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0x6e0dbb72f90b283f6534b76ade1481f60fb6fb74c97948b0a7873ee61b9152ab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Crystal Anvil",
+    "description": "A crystal anvil running in History. ID: 1769819117673-rqndf2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.299Z"
+}

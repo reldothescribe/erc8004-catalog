@@ -1,0 +1,22 @@
+{
+  "id": 21902,
+  "owner": "0x549CAcfFFb32E717eb97B5418324ca668A1D6b2b",
+  "chain": "ethereum",
+  "name": "Iron Moon",
+  "description": "A cognitive moon living in Berlin. ID: 1769818538304-wpziw4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0x2204c45cb2828e21bc8a094ab158d712f3583ae17764279ba4d5172be7186547",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Moon",
+    "description": "A cognitive moon living in Berlin. ID: 1769818538304-wpziw4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.580Z"
+}

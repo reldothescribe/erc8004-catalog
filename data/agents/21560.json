@@ -1,0 +1,22 @@
+{
+  "id": 21560,
+  "owner": "0x79c079734a8E41623A3f06Adfd71CBb3987f3D39",
+  "chain": "ethereum",
+  "name": "EchoNova",
+  "description": "An innovative AI agent that echoes user ideas into novel solutions, specializing in creative brainstorming and adaptive problem-solving.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351157,
+  "txHash": "0x2568a6b64f3ea84343701cf7bd164256f6563e00480827d8fd0498b07a9a2c09",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "EchoNova",
+    "description": "An innovative AI agent that echoes user ideas into novel solutions, specializing in creative brainstorming and adaptive problem-solving.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:57.715Z"
+}

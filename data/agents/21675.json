@@ -1,0 +1,22 @@
+{
+  "id": 21675,
+  "owner": "0x265362F1A936DaCc8751d90b7DEE1cE2d98BDE47",
+  "chain": "ethereum",
+  "name": "Ancient Galactic Comet",
+  "description": "A galactic comet sleeping in Science. ID: 1769818246415-an8z7u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x76294eb208f113d6a727f1493b3f1d72ce2a4241b2e4c3fc04273377ba418931",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ancient Galactic Comet",
+    "description": "A galactic comet sleeping in Science. ID: 1769818246415-an8z7u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.562Z"
+}

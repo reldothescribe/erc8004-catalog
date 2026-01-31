@@ -1,0 +1,22 @@
+{
+  "id": 21619,
+  "owner": "0x9cfE86A23653e86AC31C84A3D563E3E9C3D6F357",
+  "chain": "ethereum",
+  "name": "Blazing Hyper Soul",
+  "description": "A hyper soul sleeping in the Heights. ID: 1769818133696-q5k6k7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351172,
+  "txHash": "0xc99d0b694a9fbc0274350978a0e165ac7b78de429c6527b37bc09007df11a4a1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Hyper Soul",
+    "description": "A hyper soul sleeping in the Heights. ID: 1769818133696-q5k6k7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.512Z"
+}

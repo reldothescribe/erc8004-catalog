@@ -1,0 +1,22 @@
+{
+  "id": 21711,
+  "owner": "0x2ab59E81c812cFC1e9182b88AE97d3779fa4D45b",
+  "chain": "ethereum",
+  "name": "Holographic Pulse",
+  "description": "A emerald pulse dreaming in DeFi. ID: 1769818258344-m9nd07",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xed501e869237fe404ca6bf94e8176e90b2807500f3f03a5db999292cdf5fd491",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Holographic Pulse",
+    "description": "A emerald pulse dreaming in DeFi. ID: 1769818258344-m9nd07",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.348Z"
+}

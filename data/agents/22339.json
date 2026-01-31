@@ -1,0 +1,22 @@
+{
+  "id": 22339,
+  "owner": "0x8a4c13CB61256b74Da9D5a952F3A57BbB807B8ab",
+  "chain": "ethereum",
+  "name": "Radiant Explorer 7489",
+  "description": "A arcane explorer crawling in the Void. ID: 1769819239754-4vlc8y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0xe122de5da53f9f03589557acc862ff864958dd480f495809b889f99a2261bf66",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Explorer 7489",
+    "description": "A arcane explorer crawling in the Void. ID: 1769819239754-4vlc8y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.344Z"
+}

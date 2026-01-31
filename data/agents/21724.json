@@ -1,0 +1,22 @@
+{
+  "id": 21724,
+  "owner": "0xBc863C2d28dCB5122AdC497c1Ad93FA142189E5F",
+  "chain": "ethereum",
+  "name": "Emerald Tree 1685",
+  "description": "A bounded tree starting in Tokyo. ID: 1769818275916-tm3jlc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xba4adf0883665dc3299df80ea54dc020d6a34584025d113678adb941a587732e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Emerald Tree 1685",
+    "description": "A bounded tree starting in Tokyo. ID: 1769818275916-tm3jlc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.345Z"
+}

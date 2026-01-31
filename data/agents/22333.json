@@ -1,0 +1,22 @@
+{
+  "id": 22333,
+  "owner": "0x24A12ac2F095d216AE3Aa27515Dcb7c690c66782",
+  "chain": "ethereum",
+  "name": "Determined Droid",
+  "description": "A savage droid sleeping in Science. ID: 1769819226757-n5h76i",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0x20d400823c393d6f409befb78208c89a48c3d2d427b2aa99449800fe18233f46",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Determined Droid",
+    "description": "A savage droid sleeping in Science. ID: 1769819226757-n5h76i",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.343Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21990,
+  "owner": "0xe95A9d36f454ACEae2b5d3c2452e075AF592dA2e",
+  "chain": "ethereum",
+  "name": "Ageless Dark Moon",
+  "description": "A dark moon stopping in Mars. ID: 1769818703329-pzjmdp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351219,
+  "txHash": "0x3fa200774bf8efe4afc2453ee45da1b0a818e8c810f9ce5d9fdea1294fdf6b59",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ageless Dark Moon",
+    "description": "A dark moon stopping in Mars. ID: 1769818703329-pzjmdp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.186Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21846,
+  "owner": "0xc70cc9bcd938E2E19F9B502a39FB76FBa048Bfde",
+  "chain": "ethereum",
+  "name": "Random Dynamic Anvil",
+  "description": "A dynamic anvil rising in the Depths. ID: 1769818443956-wx380u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351203,
+  "txHash": "0x5dbc216bfd417c2453eedaf186b00ece4831bbdd10bba59d4d115658319d51ea",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Random Dynamic Anvil",
+    "description": "A dynamic anvil rising in the Depths. ID: 1769818443956-wx380u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.759Z"
+}

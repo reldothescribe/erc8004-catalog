@@ -1,0 +1,22 @@
+{
+  "id": 22067,
+  "owner": "0x30991119891193D2Cfb957A465339ffb5103ba88",
+  "chain": "ethereum",
+  "name": "Dark Unicorn",
+  "description": "A astral unicorn climbing in Reality. ID: 1769818757018-mck8fw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351223,
+  "txHash": "0xab34388a86d73a4ef5097d215331e3b52c19f17f71688a2a609f94fb35796f83",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Unicorn",
+    "description": "A astral unicorn climbing in Reality. ID: 1769818757018-mck8fw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.501Z"
+}

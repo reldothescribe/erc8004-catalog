@@ -1,0 +1,22 @@
+{
+  "id": 22032,
+  "owner": "0xc14f94Edb367406e4168d82F1Ae5D0B10Fb09fF3",
+  "chain": "ethereum",
+  "name": "Radiant Tensor",
+  "description": "A atomic tensor building in Tokyo. ID: 1769818730240-y1fxvp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0xcdede62acab5bf5a23f84de060bbd9be9d49e83ab838cb3164e5720142cf0f2f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Tensor",
+    "description": "A atomic tensor building in Tokyo. ID: 1769818730240-y1fxvp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.977Z"
+}

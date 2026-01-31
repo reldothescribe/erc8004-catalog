@@ -1,0 +1,22 @@
+{
+  "id": 21961,
+  "owner": "0xf389deC9Ce1bC18FB891e7151c9f20D37a383b76",
+  "chain": "ethereum",
+  "name": "Static Phoenix",
+  "description": "A bold phoenix trading in the Core. ID: 1769818577400-6qolt7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351209,
+  "txHash": "0x4be439b214e656b6cc42c81daaa85091903cfc508cec73a6be216ceaa5c2df8c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Phoenix",
+    "description": "A bold phoenix trading in the Core. ID: 1769818577400-6qolt7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.654Z"
+}

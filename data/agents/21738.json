@@ -1,0 +1,22 @@
+{
+  "id": 21738,
+  "owner": "0xD107fe26d65292eADB87dB730A69262e806f45f8",
+  "chain": "ethereum",
+  "name": "Determined Light Door",
+  "description": "A light door learning in the Future. ID: 1769818281453-pfxcxc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x5135a288ccfe10738d26589731656ac0a4fda6e0bcb321f81e3812386e87ad3a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Determined Light Door",
+    "description": "A light door learning in the Future. ID: 1769818281453-pfxcxc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.610Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22005,
+  "owner": "0x306Ad1d9d6d01FEa2B9973454Caf3386fC8a58C2",
+  "chain": "ethereum",
+  "name": "Crystal Storm 9074",
+  "description": "A obsidian storm crafting in Mars. ID: 1769818719156-81pxyy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0x09d30471efb87cf6f5578ab014bf1a649ff3967e1171ba9b4314c6fda54fa06b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crystal Storm 9074",
+    "description": "A obsidian storm crafting in Mars. ID: 1769818719156-81pxyy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.451Z"
+}

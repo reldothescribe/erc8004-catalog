@@ -1,0 +1,22 @@
+{
+  "id": 22141,
+  "owner": "0x3A81Eb007524924774E15875430D9C7c6Ee963A8",
+  "chain": "ethereum",
+  "name": "Omega Bounded Shaman",
+  "description": "A bounded shaman carving in the Void. ID: 1769819009644-94pp2v",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351244,
+  "txHash": "0x67cbb4e9ba23e5bc4e25c4287f6147a15808435de04ccd94347bd787fcd5bbb2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Omega Bounded Shaman",
+    "description": "A bounded shaman carving in the Void. ID: 1769819009644-94pp2v",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.907Z"
+}

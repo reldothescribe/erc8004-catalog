@@ -1,0 +1,22 @@
+{
+  "id": 22125,
+  "owner": "0x93D0a0fBB9218857C8A34A0C3B5E12021417f4Ab",
+  "chain": "ethereum",
+  "name": "Burning Tensor",
+  "description": "A found tensor climbing in the Metaverse. ID: 1769818994303-46b806",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0x8af8808ab6a721515a1897b8553a7ed0878d6547f245118d9cd6829780b3a664",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Tensor",
+    "description": "A found tensor climbing in the Metaverse. ID: 1769818994303-46b806",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.647Z"
+}

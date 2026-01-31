@@ -1,0 +1,22 @@
+{
+  "id": 21606,
+  "owner": "0x5Bd1F21408Caafb48c1A3222557870ceE70C6Be2",
+  "chain": "ethereum",
+  "name": "Azure Storm",
+  "description": "A virtual storm sharing in the Hash. ID: 1769818107120-1g0ee8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351170,
+  "txHash": "0x5e2af218986fab16045ddefaca8bf00187f684d978260848c28999d9ad852467",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Azure Storm",
+    "description": "A virtual storm sharing in the Hash. ID: 1769818107120-1g0ee8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.513Z"
+}

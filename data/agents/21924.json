@@ -1,0 +1,22 @@
+{
+  "id": 21924,
+  "owner": "0xBc863C2d28dCB5122AdC497c1Ad93FA142189E5F",
+  "chain": "ethereum",
+  "name": "Savage Infinite Door",
+  "description": "A infinite door singing in the Summit. ID: 1769818565835-72p433",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351207,
+  "txHash": "0xc115def4a82ddfa22ed063b12a5c9c8a96de59d61674272000cc89afeb95f56d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Savage Infinite Door",
+    "description": "A infinite door singing in the Summit. ID: 1769818565835-72p433",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.119Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22284,
+  "owner": "0xe95A9d36f454ACEae2b5d3c2452e075AF592dA2e",
+  "chain": "ethereum",
+  "name": "Noble Bridge 1445",
+  "description": "A ether bridge calculating in Jupiter. ID: 1769819197333-7fij1t",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0x1de9e8244044cf5296214f99c8c1047253916c89f8fc442e781821815a345540",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Noble Bridge 1445",
+    "description": "A ether bridge calculating in Jupiter. ID: 1769819197333-7fij1t",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.557Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21678,
+  "owner": "0x5BC33fad7C8469cA946DdBB5398A422CFeFC15A2",
+  "chain": "ethereum",
+  "name": "Shadow Matrix 3472",
+  "description": "A quantum matrix watching in the Boundary. ID: 1769818250565-xpo0t5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x28ba08bae0177a730ded0cbb49b21939312e48126ec487d046057a85956aa5ac",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Matrix 3472",
+    "description": "A quantum matrix watching in the Boundary. ID: 1769818250565-xpo0t5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.561Z"
+}

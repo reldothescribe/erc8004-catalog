@@ -1,0 +1,22 @@
+{
+  "id": 22079,
+  "owner": "0x79c079734a8E41623A3f06Adfd71CBb3987f3D39",
+  "chain": "ethereum",
+  "name": "Meta Mountain",
+  "description": "A determined mountain walking in the Consensus. ID: 1769818976648-sutfs7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0x84a70b1b9c245a54f39087af5036cb7142598d3fd0bdf034ce949c8654471a35",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Mountain",
+    "description": "A determined mountain walking in the Consensus. ID: 1769818976648-sutfs7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.777Z"
+}

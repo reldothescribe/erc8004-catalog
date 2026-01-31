@@ -1,0 +1,22 @@
+{
+  "id": 21608,
+  "owner": "0x5F1bcb425230523cC10dba1803CFeA30B201b1Aa",
+  "chain": "ethereum",
+  "name": "Zephyr Insight",
+  "description": "An innovative AI agent specializing in predictive analytics and strategic foresight, helping users navigate complex decisions with data-driven wisdom.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351171,
+  "txHash": "0xd8d3a4497e433b322bd338b73e57159057e1865b7404e53c284924741c6133ed",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Zephyr Insight",
+    "description": "An innovative AI agent specializing in predictive analytics and strategic foresight, helping users navigate complex decisions with data-driven wisdom.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.514Z"
+}

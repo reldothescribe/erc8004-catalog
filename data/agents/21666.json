@@ -1,0 +1,22 @@
+{
+  "id": 21666,
+  "owner": "0x87B3F0B4fA0FDC68003c8c141889ccE01060c2bE",
+  "chain": "ethereum",
+  "name": "Frozen Holographic Throne",
+  "description": "A holographic throne thinking in Jupiter. ID: 1769818248402-q7yskt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0xa430bb64f84841b24840cc0053f3716888471b977f7886dc0cd829ccc5afd1cd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Holographic Throne",
+    "description": "A holographic throne thinking in Jupiter. ID: 1769818248402-q7yskt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.557Z"
+}

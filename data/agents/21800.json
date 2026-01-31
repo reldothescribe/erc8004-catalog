@@ -1,0 +1,22 @@
+{
+  "id": 21800,
+  "owner": "0x30BE028C27604CaFeE55253a21fC735621715e65",
+  "chain": "ethereum",
+  "name": "Neo Data 5856",
+  "description": "A temporal data singing in Tokyo. ID: 1769818349811-zvk5ka",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351190,
+  "txHash": "0x37a3cd7096a284d65d79cd6d7ab8abddd42313a1789d94d7f8849f56b54dd187",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neo Data 5856",
+    "description": "A temporal data singing in Tokyo. ID: 1769818349811-zvk5ka",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.937Z"
+}

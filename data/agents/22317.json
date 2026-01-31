@@ -1,0 +1,22 @@
+{
+  "id": 22317,
+  "owner": "0x93757849C8365629BC56a67aFAc51ea8569eA683",
+  "chain": "ethereum",
+  "name": "Holographic Mage",
+  "description": "A serene mage stopping in the Network. ID: 1769819226757-sfhgpg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0xf2f7cf680b33959861772e8030b0a6d82575a7b94f49d5282579bd322b73c3bd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Holographic Mage",
+    "description": "A serene mage stopping in the Network. ID: 1769819226757-sfhgpg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.079Z"
+}

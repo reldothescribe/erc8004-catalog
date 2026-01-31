@@ -1,0 +1,22 @@
+{
+  "id": 22336,
+  "owner": "0x383F27411766F508852fE64e2C2Fa5f1A58437C5",
+  "chain": "ethereum",
+  "name": "Frozen Chimera 3458",
+  "description": "A eternal chimera destroying in the Frontier. ID: 1769819239754-19by6s",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0x7aedb436e1d453fa930ff3c204d984d4a13e397c4fa9304c19eb0415e6db208a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Chimera 3458",
+    "description": "A eternal chimera destroying in the Frontier. ID: 1769819239754-19by6s",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.343Z"
+}

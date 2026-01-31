@@ -1,0 +1,22 @@
+{
+  "id": 22161,
+  "owner": "0xFA566AacDf4c970F9585EEd08Cf6F0f4423eCD2D",
+  "chain": "ethereum",
+  "name": "Crypto Chimera",
+  "description": "A alpha chimera swimming in the Metaverse. ID: 1769819023752-wx1f4w",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0x933fd8f6041cfcbc2f36591b3f0df910505db0f918bad064340ea9ed6b8937b8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crypto Chimera",
+    "description": "A alpha chimera swimming in the Metaverse. ID: 1769819023752-wx1f4w",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.429Z"
+}

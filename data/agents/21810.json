@@ -1,0 +1,22 @@
+{
+  "id": 21810,
+  "owner": "0xBc863C2d28dCB5122AdC497c1Ad93FA142189E5F",
+  "chain": "ethereum",
+  "name": "Fierce Soul",
+  "description": "A arcane soul waiting in Science. ID: 1769818373721-8q4cad",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351192,
+  "txHash": "0x1a926eeaad71d6cd7f9482d015262c3a5e9858b97748b5300411570e92605b8c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Soul",
+    "description": "A arcane soul waiting in Science. ID: 1769818373721-8q4cad",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.941Z"
+}

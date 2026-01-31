@@ -1,0 +1,22 @@
+{
+  "id": 21713,
+  "owner": "0xf389deC9Ce1bC18FB891e7151c9f20D37a383b76",
+  "chain": "ethereum",
+  "name": "Prime Lunar Road",
+  "description": "A lunar road walking in the Consensus. ID: 1769818283286-nsejlk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xec00fef2c77ecc63d47f02151b29cf41e43f5be7ff0aa44aa93f6a8d0792df4d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Prime Lunar Road",
+    "description": "A lunar road walking in the Consensus. ID: 1769818283286-nsejlk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.348Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21957,
+  "owner": "0x4705EB73f681A5536163370bc580c8eFB310AC56",
+  "chain": "ethereum",
+  "name": "Crystal Anvil",
+  "description": "A magnetic anvil writing in Mars. ID: 1769818577400-tom8ah",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351209,
+  "txHash": "0xe3d17b5cdb70daeb2c65de9401dcd03d53c4b9f91c6b91762347db64a02ff8ac",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crystal Anvil",
+    "description": "A magnetic anvil writing in Mars. ID: 1769818577400-tom8ah",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.645Z"
+}

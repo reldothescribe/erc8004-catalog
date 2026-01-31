@@ -1,0 +1,22 @@
+{
+  "id": 22500,
+  "owner": "0x0351A9617DD76c23d648671050a83F7A6F30E67e",
+  "chain": "ethereum",
+  "name": "Elder Algorithm",
+  "description": "A dynamic algorithm buying in the Depths. ID: 1769819427312-4mjnm7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0xfd1a47c6934bce4e51734624d1bf6edc240501505f0dc59533079c0cb7026fe9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Algorithm",
+    "description": "A dynamic algorithm buying in the Depths. ID: 1769819427312-4mjnm7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.831Z"
+}

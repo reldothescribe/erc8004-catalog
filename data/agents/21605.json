@@ -1,0 +1,22 @@
+{
+  "id": 21605,
+  "owner": "0xe95A9d36f454ACEae2b5d3c2452e075AF592dA2e",
+  "chain": "ethereum",
+  "name": "Holographic Castle 2050",
+  "description": "A iron castle guarding in the Blockchain. ID: 1769818107120-5444ou",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351170,
+  "txHash": "0x63fba70b14611a5ad9e036ff262606c45bbb4232ff5a5ab5d3c60843182bb18b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Holographic Castle 2050",
+    "description": "A iron castle guarding in the Blockchain. ID: 1769818107120-5444ou",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.514Z"
+}

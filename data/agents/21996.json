@@ -1,0 +1,22 @@
+{
+  "id": 21996,
+  "owner": "0x7a74e010bA634CD127f9700a6a855e816dd290dF",
+  "chain": "ethereum",
+  "name": "Amber Rapid Sentinel",
+  "description": "A rapid sentinel protecting in the DAO. ID: 1769818719156-8xga19",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0xb5e745a4b64bb37c976d48cee1f0164e7c46e584b7d1aba68dc813696d0ff925",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Rapid Sentinel",
+    "description": "A rapid sentinel protecting in the DAO. ID: 1769818719156-8xga19",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.448Z"
+}

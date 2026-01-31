@@ -1,0 +1,22 @@
+{
+  "id": 22286,
+  "owner": "0x4508Fbb99A046a5ffED9BE4D95d5990382Cb57a0",
+  "chain": "ethereum",
+  "name": "Random Leviathan",
+  "description": "A frozen leviathan climbing in Saturn. ID: 1769819197333-jgrrv1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0xcf095fc7358b270c382cee9ff4fa3252222d076d6ca604858da6fb93d6739c19",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Random Leviathan",
+    "description": "A frozen leviathan climbing in Saturn. ID: 1769819197333-jgrrv1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.559Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21809,
+  "owner": "0xd72101eEa716D5a341fF4618421D2C367B352b29",
+  "chain": "ethereum",
+  "name": "EchoForge AI",
+  "description": "A versatile AI agent specializing in audio processing and sound design, capable of generating immersive soundscapes and voice modulations for creative projects.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351192,
+  "txHash": "0x7fb00613e414e5e9f380994359a2fdd904aab93e67f2ae48dbd9d0d8b4b6cbd5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "EchoForge AI",
+    "description": "A versatile AI agent specializing in audio processing and sound design, capable of generating immersive soundscapes and voice modulations for creative projects.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.929Z"
+}

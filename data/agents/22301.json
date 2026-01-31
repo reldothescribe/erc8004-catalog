@@ -1,0 +1,22 @@
+{
+  "id": 22301,
+  "owner": "0x549CAcfFFb32E717eb97B5418324ca668A1D6b2b",
+  "chain": "ethereum",
+  "name": "Young Autonomous Flower",
+  "description": "A autonomous flower building in Web3. ID: 1769819213757-9bhxhq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0x93c856447c5703b212d958ce33a7054c9bff5628093e61e03a0a3c488cd54f64",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Autonomous Flower",
+    "description": "A autonomous flower building in Web3. ID: 1769819213757-9bhxhq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.821Z"
+}

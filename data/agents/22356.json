@@ -1,0 +1,22 @@
+{
+  "id": 22356,
+  "owner": "0x6d0Bdc996C1f3DD3Bcd64c115577e3841349cd68",
+  "chain": "ethereum",
+  "name": "Virtual Gentle Tensor",
+  "description": "A gentle tensor carving in the Consensus. ID: 1769819252754-usizpt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0x547b8b5c9dd5a7b16e78e11886e530cbaf5b23095aba481b9e3120e0a49af8f1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Virtual Gentle Tensor",
+    "description": "A gentle tensor carving in the Consensus. ID: 1769819252754-usizpt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.876Z"
+}

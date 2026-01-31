@@ -1,0 +1,22 @@
+{
+  "id": 21603,
+  "owner": "0x5BC33fad7C8469cA946DdBB5398A422CFeFC15A2",
+  "chain": "ethereum",
+  "name": "Galactic Found Whale",
+  "description": "A found whale diving in the Heights. ID: 1769818107120-uzq4hh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351170,
+  "txHash": "0xb174fa539d8a260ff336f2b9e2170c6735ce06b5a9ee6bb0d24e45aecdabbad4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Galactic Found Whale",
+    "description": "A found whale diving in the Heights. ID: 1769818107120-uzq4hh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.245Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21624,
+  "owner": "0x5B0c5c7676Cf7B504E336c3Bf70Aa6087F5d144a",
+  "chain": "ethereum",
+  "name": "Silver Mountain",
+  "description": "A solar mountain watching in Tokyo. ID: 1769818144886-secmps",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351173,
+  "txHash": "0x9215b4f7da16c920cf9816ebc278558f88c5abc967bb98c16affc24ec099bbef",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silver Mountain",
+    "description": "A solar mountain watching in Tokyo. ID: 1769818144886-secmps",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.776Z"
+}

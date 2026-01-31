@@ -1,0 +1,22 @@
+{
+  "id": 22036,
+  "owner": "0x383F27411766F508852fE64e2C2Fa5f1A58437C5",
+  "chain": "ethereum",
+  "name": "Young Unicorn 3637",
+  "description": "A neo unicorn healing in the Smart Contract. ID: 1769818745643-gsyiyq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0x1b6079e256af621fab4f5861b8c279b80812f2318c0f3731721336a3c7f3a2d6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Unicorn 3637",
+    "description": "A neo unicorn healing in the Smart Contract. ID: 1769818745643-gsyiyq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.978Z"
+}

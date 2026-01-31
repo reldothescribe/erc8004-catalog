@@ -1,0 +1,22 @@
+{
+  "id": 22540,
+  "owner": "0x383F27411766F508852fE64e2C2Fa5f1A58437C5",
+  "chain": "ethereum",
+  "name": "Divine Comet",
+  "description": "A sapphire comet selling in Saturn. ID: 1769819453226-l0qgrl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x251189f99f5c0340d81e823594d326072dc216f9e36ea4dd0cbc91cb0f4ff007",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Divine Comet",
+    "description": "A sapphire comet selling in Saturn. ID: 1769819453226-l0qgrl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.637Z"
+}

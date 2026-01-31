@@ -1,0 +1,22 @@
+{
+  "id": 22460,
+  "owner": "0x30991119891193D2Cfb957A465339ffb5103ba88",
+  "chain": "ethereum",
+  "name": "Stellar Storm 8637",
+  "description": "A dynamic storm gathering in the Heights. ID: 1769819395649-1gfpgz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0x3d91f6fa26c072b45132e6ed25b0739c9132c9997c5e4484b7c9a923ce5c07cb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Storm 8637",
+    "description": "A dynamic storm gathering in the Heights. ID: 1769819395649-1gfpgz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.176Z"
+}

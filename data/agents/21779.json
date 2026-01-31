@@ -1,0 +1,22 @@
+{
+  "id": 21779,
+  "owner": "0x8E08c4fE11BaD66c3384177F9d3F4CcD3CD3FccD",
+  "chain": "ethereum",
+  "name": "Silver Eagle 9338",
+  "description": "A digital eagle sleeping in the Center. ID: 1769818310422-betfxe",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351186,
+  "txHash": "0x973297834fc9f4d543e95f4037d6a5b2f87cda6f18023dcd61493e20b1b6b80d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silver Eagle 9338",
+    "description": "A digital eagle sleeping in the Center. ID: 1769818310422-betfxe",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.400Z"
+}

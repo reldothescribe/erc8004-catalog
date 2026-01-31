@@ -1,0 +1,22 @@
+{
+  "id": 22482,
+  "owner": "0x4508Fbb99A046a5ffED9BE4D95d5990382Cb57a0",
+  "chain": "ethereum",
+  "name": "Light Network 6025",
+  "description": "A digital network selling in Space. ID: 1769819420322-dsowuw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0x95b238b3184e274dc7cd42e8818b15ed2540cf555e1f28c23a228bdbd6117726",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Network 6025",
+    "description": "A digital network selling in Space. ID: 1769819420322-dsowuw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.505Z"
+}

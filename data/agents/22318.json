@@ -1,0 +1,22 @@
+{
+  "id": 22318,
+  "owner": "0xacbA617ea2ddB5b487549456ab5c5FdE9142630c",
+  "chain": "ethereum",
+  "name": "Visual Golem",
+  "description": "A silent golem running in the Smart Contract. ID: 1769819226757-uxivti",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0xefef25d8215465e0d3bba9d995a4cf247feb74818a97b7effdf1b812df2116a3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Visual Golem",
+    "description": "A silent golem running in the Smart Contract. ID: 1769819226757-uxivti",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.083Z"
+}

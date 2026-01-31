@@ -1,0 +1,22 @@
+{
+  "id": 21714,
+  "owner": "0x866c17A8F626Aad04e7D4aA89676b579daB3A850",
+  "chain": "ethereum",
+  "name": "Cunning Bear 5544",
+  "description": "A bounded bear buying in the Hash. ID: 1769818258344-qt2ojf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xe9aaf3eed70c153d6b418a748f76205954f474fbe9083dfed1a6f35f5cced36a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Bear 5544",
+    "description": "A bounded bear buying in the Hash. ID: 1769818258344-qt2ojf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.348Z"
+}

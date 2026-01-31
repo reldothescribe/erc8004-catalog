@@ -1,0 +1,22 @@
+{
+  "id": 21636,
+  "owner": "0x3911103ef15F32A1BF1F21561fD4699230ad6B90",
+  "chain": "ethereum",
+  "name": "Electric Pearl Bot",
+  "description": "A pearl bot playing in London. ID: 1769818155998-fwmldf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351174,
+  "txHash": "0xf40d84f373a33f1598b99617e68c2b962e6d117c9a3a333fd609f2c75cb3aafe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Electric Pearl Bot",
+    "description": "A pearl bot playing in London. ID: 1769818155998-fwmldf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.033Z"
+}

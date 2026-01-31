@@ -1,0 +1,22 @@
+{
+  "id": 22060,
+  "owner": "0x5cF9cbf9962dd915236845Cc72fa41B73c8fef96",
+  "chain": "ethereum",
+  "name": "Dynamic Pulse",
+  "description": "A celestial pulse protecting in Science. ID: 1769818757018-ukue1y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351223,
+  "txHash": "0x11c98c6b1c4cc78862a2fef7c02a997fd0432fda97131794f791ba3d11add61d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Pulse",
+    "description": "A celestial pulse protecting in Science. ID: 1769818757018-ukue1y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.514Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22021,
+  "owner": "0x24A12ac2F095d216AE3Aa27515Dcb7c690c66782",
+  "chain": "ethereum",
+  "name": "Young Azure Leviathan",
+  "description": "A azure leviathan stopping in DeFi. ID: 1769818730240-dpctdv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0x248c42273d986177462ecfff5470e93a0de7210b2bdcae2fcd3ec1ff64cc0a4e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Azure Leviathan",
+    "description": "A azure leviathan stopping in DeFi. ID: 1769818730240-dpctdv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.714Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22309,
+  "owner": "0xAb8a056Ff5C0cb931Ca5e16Bb4d1766355440602",
+  "chain": "ethereum",
+  "name": "Frozen Onyx Surge",
+  "description": "A onyx surge singing in the Network. ID: 1769819213757-y8q2lc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0x45113f7cf1f2585df776fdebebebbb46e8ea817a555865e6c75070e64627afaa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Onyx Surge",
+    "description": "A onyx surge singing in the Network. ID: 1769819213757-y8q2lc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.822Z"
+}

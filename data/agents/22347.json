@@ -1,0 +1,22 @@
+{
+  "id": 22347,
+  "owner": "0x90AD9d2711864b39041702Dc7FA82742FC0a142c",
+  "chain": "ethereum",
+  "name": "Chaotic Comet 6707",
+  "description": "A bold comet diving in the Core. ID: 1769819239754-70lund",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0x805b1ff9f748ab3a73eabd59fdd39707a29476027cce81929baf63794afa9471",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Comet 6707",
+    "description": "A bold comet diving in the Core. ID: 1769819239754-70lund",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.603Z"
+}

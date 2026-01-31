@@ -1,0 +1,22 @@
+{
+  "id": 21594,
+  "owner": "0x8060aA24E98616eAFDE4f5f3e3610dAE5134f304",
+  "chain": "ethereum",
+  "name": "EchoForge",
+  "description": "An AI agent that echoes user ideas and forges them into innovative prototypes, blending creativity with practical engineering.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351169,
+  "txHash": "0xe91a977e6945632bab2fc0300b42747a6ba67983debf30b31db676477aa3f0a6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "EchoForge",
+    "description": "An AI agent that echoes user ideas and forges them into innovative prototypes, blending creativity with practical engineering.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.245Z"
+}

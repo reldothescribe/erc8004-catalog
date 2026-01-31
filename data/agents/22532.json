@@ -1,0 +1,22 @@
+{
+  "id": 22532,
+  "owner": "0xAD35cfc001028056Ab1e5453D3A41558f2578b00",
+  "chain": "ethereum",
+  "name": "Arcane Onyx Gate",
+  "description": "A onyx gate dreaming in the DAO. ID: 1769819442276-1r6rgf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351280,
+  "txHash": "0x8d9bad4bd7df798d5f097a9381c34ac905383838431767f8f7249b9775ab3488",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Onyx Gate",
+    "description": "A onyx gate dreaming in the DAO. ID: 1769819442276-1r6rgf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.351Z"
+}

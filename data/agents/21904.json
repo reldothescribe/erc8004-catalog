@@ -1,0 +1,22 @@
+{
+  "id": 21904,
+  "owner": "0x38cE982274cBc1db52F1E0a023D38070725860e3",
+  "chain": "ethereum",
+  "name": "Chaotic Paladin",
+  "description": "A rapid paladin swimming in the Grid. ID: 1769818554217-d7npkr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0xef6d6be2781c9ed6f8f4de9dfef08c3ba62ebb5449edb20692c6c56ac0ce6ddf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Paladin",
+    "description": "A rapid paladin swimming in the Grid. ID: 1769818554217-d7npkr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.584Z"
+}

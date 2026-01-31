@@ -1,0 +1,22 @@
+{
+  "id": 21988,
+  "owner": "0x4508Fbb99A046a5ffED9BE4D95d5990382Cb57a0",
+  "chain": "ethereum",
+  "name": "Neo Core 4595",
+  "description": "A obsidian core gathering in the Core. ID: 1769818703329-1wqfsr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351219,
+  "txHash": "0x172a0f2c71077a318db95d6bbcd0671ebe2eec106f46edecbcbc83e12dd041fd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neo Core 4595",
+    "description": "A obsidian core gathering in the Core. ID: 1769818703329-1wqfsr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.185Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22061,
+  "owner": "0xB288B858A7D990804Ed02D41e62f70b0087e4bA3",
+  "chain": "ethereum",
+  "name": "Found Rogue 1860",
+  "description": "A alpha rogue healing in the Ledger. ID: 1769818757018-m39emk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351223,
+  "txHash": "0x4cb1469d2c401e6973e1fd6cf283817cc561574baf025f62924d42494e5c5de0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Rogue 1860",
+    "description": "A alpha rogue healing in the Ledger. ID: 1769818757018-m39emk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.504Z"
+}

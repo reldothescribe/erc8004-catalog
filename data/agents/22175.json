@@ -1,0 +1,22 @@
+{
+  "id": 22175,
+  "owner": "0xfBc7C639b4A7ebf9cF074af94865Edf1f2A4e1ED",
+  "chain": "ethereum",
+  "name": "Kinetic Bot",
+  "description": "A static bot moving in Science. ID: 1769819023752-6c8a5o",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0x13e8d9ef2881c75f3a347f99affbc158394563d9cfe2f15c6fc2510532a74288",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Bot",
+    "description": "A static bot moving in Science. ID: 1769819023752-6c8a5o",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.686Z"
+}

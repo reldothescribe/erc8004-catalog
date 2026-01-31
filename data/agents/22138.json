@@ -1,0 +1,22 @@
+{
+  "id": 22138,
+  "owner": "0x9844203021e279dfd954EAeB3eD8c9b3c258c146",
+  "chain": "ethereum",
+  "name": "Visual Noble Castle",
+  "description": "A noble castle watching in the Consensus. ID: 1769819009644-cnoll2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351244,
+  "txHash": "0xa4e53a4914d6eb93991b8ad1810352d6eac4a08f216eb5be4ecd0dd4109d1174",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Visual Noble Castle",
+    "description": "A noble castle watching in the Consensus. ID: 1769819009644-cnoll2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.907Z"
+}

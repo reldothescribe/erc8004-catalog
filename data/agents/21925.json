@@ -1,0 +1,22 @@
+{
+  "id": 21925,
+  "owner": "0x3A81Eb007524924774E15875430D9C7c6Ee963A8",
+  "chain": "ethereum",
+  "name": "Frozen Light Warrior",
+  "description": "A light warrior ending in the Boundary. ID: 1769818565835-2cctwr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351207,
+  "txHash": "0x269bd0bb03a6af1abb4e9ea2bc1ca6cf4758298544085dc72b68858b73bff87e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Light Warrior",
+    "description": "A light warrior ending in the Boundary. ID: 1769818565835-2cctwr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.119Z"
+}

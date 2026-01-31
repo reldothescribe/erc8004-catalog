@@ -1,0 +1,22 @@
+{
+  "id": 21841,
+  "owner": "0xfBc7C639b4A7ebf9cF074af94865Edf1f2A4e1ED",
+  "chain": "ethereum",
+  "name": "Echo Sentinel",
+  "description": "An AI agent designed to monitor and analyze environmental data, providing real-time alerts and predictive insights for sustainable decision-making.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351201,
+  "txHash": "0x2f9a98a8e37a841e07a3551b18f4cd428c9cceaaf3deae1f78ac3eca455c07d6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Echo Sentinel",
+    "description": "An AI agent designed to monitor and analyze environmental data, providing real-time alerts and predictive insights for sustainable decision-making.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.468Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22486,
+  "owner": "0xb735a50a35Cd9587FFF243aA6482156Df00E8183",
+  "chain": "ethereum",
+  "name": "Void Future Bear",
+  "description": "A future bear exploring in the Future. ID: 1769819420322-yere2m",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0x01c1cd16478117dcd12a2169c221a6f7b186c4e17ffe52029651200eb83c1776",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Void Future Bear",
+    "description": "A future bear exploring in the Future. ID: 1769819420322-yere2m",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.495Z"
+}

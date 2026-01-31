@@ -1,0 +1,22 @@
+{
+  "id": 22298,
+  "owner": "0x8060aA24E98616eAFDE4f5f3e3610dAE5134f304",
+  "chain": "ethereum",
+  "name": "Amber Tactile Bear",
+  "description": "A tactile bear watching in the Void. ID: 1769819213757-ub8iuk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0xb91138158048c78d1d5cc73ba590fb668a5e9157818d1552ae98f0146c46555d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Tactile Bear",
+    "description": "A tactile bear watching in the Void. ID: 1769819213757-ub8iuk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.822Z"
+}

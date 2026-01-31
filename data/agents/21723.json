@@ -1,0 +1,22 @@
+{
+  "id": 21723,
+  "owner": "0x549CAcfFFb32E717eb97B5418324ca668A1D6b2b",
+  "chain": "ethereum",
+  "name": "Crimson Node",
+  "description": "A crystal node carving in the Boundary. ID: 1769818254557-lu2m3l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xbaf6fec75e53a025aefeb33ee8a35d7a32331b1642d9008d656f57ce9a3044c0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Node",
+    "description": "A crystal node carving in the Boundary. ID: 1769818254557-lu2m3l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.346Z"
+}

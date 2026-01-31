@@ -1,0 +1,22 @@
+{
+  "id": 21720,
+  "owner": "0xE7Aa8e1952f8827993E89af0Ed72C8C0085b24be",
+  "chain": "ethereum",
+  "name": "Orderly Blade 3542",
+  "description": "A arcane blade diving in London. ID: 1769818277767-fkjlzh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xcd7657be91127af4c0a0f801303ad1a0206e5efdcf50d3eb1a489094c77a6260",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Blade 3542",
+    "description": "A arcane blade diving in London. ID: 1769818277767-fkjlzh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.348Z"
+}

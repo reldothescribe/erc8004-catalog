@@ -1,0 +1,22 @@
+{
+  "id": 21939,
+  "owner": "0x0821772b2e8a5C97D8Cac86c9D099e21961471c7",
+  "chain": "ethereum",
+  "name": "Liquid Tensor",
+  "description": "A valiant tensor coding in the Past. ID: 1769818565835-mn6zx1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351207,
+  "txHash": "0x24fb4a2db003c9575973b116834daaeb87e5481f7da433c0ec0b008e8cc56178",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Tensor",
+    "description": "A valiant tensor coding in the Past. ID: 1769818565835-mn6zx1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.379Z"
+}

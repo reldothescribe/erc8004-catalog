@@ -1,0 +1,22 @@
+{
+  "id": 21999,
+  "owner": "0xAb8a056Ff5C0cb931Ca5e16Bb4d1766355440602",
+  "chain": "ethereum",
+  "name": "Secret Bot 2999",
+  "description": "A crypto bot crawling in the Heights. ID: 1769818719156-kgxvez",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0xa420ba05d07dea745075bf36c973083f99b4942d9857504baec26e6f2a733f41",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Bot 2999",
+    "description": "A crypto bot crawling in the Heights. ID: 1769818719156-kgxvez",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.459Z"
+}

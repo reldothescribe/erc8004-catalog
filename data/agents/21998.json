@@ -1,0 +1,22 @@
+{
+  "id": 21998,
+  "owner": "0xf7EeA6dC6F86d3F931bD7382E8261410C05d5Cb8",
+  "chain": "ethereum",
+  "name": "Random Flower 1996",
+  "description": "A determined flower giving in Space. ID: 1769818719156-e9nunb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0xf660b945ab8ff8861e0a3463858697c4336690d61b5cfec13b8d1d78263471ea",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Random Flower 1996",
+    "description": "A determined flower giving in Space. ID: 1769818719156-e9nunb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.451Z"
+}

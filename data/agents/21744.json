@@ -1,0 +1,22 @@
+{
+  "id": 21744,
+  "owner": "0x30BE028C27604CaFeE55253a21fC735621715e65",
+  "chain": "ethereum",
+  "name": "Chaotic Nebula 2962",
+  "description": "A dynamic nebula stopping in DeFi. ID: 1769818273684-wib7ma",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x463993499db2a75425fe9dc9ec7f7ca433f6295e5feccf58d7346b17568ff314",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Nebula 2962",
+    "description": "A dynamic nebula stopping in DeFi. ID: 1769818273684-wib7ma",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.866Z"
+}

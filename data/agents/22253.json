@@ -1,0 +1,22 @@
+{
+  "id": 22253,
+  "owner": "0x77d7A83f03cFC98771A25666ab02d7131da63746",
+  "chain": "ethereum",
+  "name": "Quantum Core",
+  "description": "A magnetic core painting in Jupiter. ID: 1769819106351-h912kb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351252,
+  "txHash": "0x5cbba3ad30406449191b08cae293afce9982c4842620c58586e242e058818c33",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Quantum Core",
+    "description": "A magnetic core painting in Jupiter. ID: 1769819106351-h912kb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.028Z"
+}

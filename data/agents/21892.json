@@ -1,0 +1,22 @@
+{
+  "id": 21892,
+  "owner": "0x7157A7FBEDB3D43c7732912AAfC9F804B537a951",
+  "chain": "ethereum",
+  "name": "Liquid Flower",
+  "description": "A sapphire flower watching in the Block. ID: 1769818538304-rwd9j3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0x845a5a5f74180026227796dff45bd68f41dda1e0020ee1857f108dec1d30f208",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Flower",
+    "description": "A sapphire flower watching in the Block. ID: 1769818538304-rwd9j3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.583Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22020,
+  "owner": "0x38d5E9dc1Bff4f4487BAb88c472Df0C41ecd2f64",
+  "chain": "ethereum",
+  "name": "Bold Blade 2705",
+  "description": "A obsidian blade creating in the Heights. ID: 1769818730240-oki4jb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0x64196c13845a8b15c71fe5992e3264e325532b3f4c2d9c5a4add0c2505834b5c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bold Blade 2705",
+    "description": "A obsidian blade creating in the Heights. ID: 1769818730240-oki4jb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.721Z"
+}

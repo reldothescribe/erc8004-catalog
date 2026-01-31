@@ -1,0 +1,22 @@
+{
+  "id": 21760,
+  "owner": "0x0110b32b8FBc07A85EDf92159050b94D27F43287",
+  "chain": "ethereum",
+  "name": "Young Silent Pulse",
+  "description": "A silent pulse taking in the Center. ID: 1769818262011-h8zeo2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x0d7777dee2897a32128ad7f9b8b93abbcf81cbf4a2147824b3f5a5ba1471146e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Silent Pulse",
+    "description": "A silent pulse taking in the Center. ID: 1769818262011-h8zeo2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.137Z"
+}

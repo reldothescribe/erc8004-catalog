@@ -1,0 +1,22 @@
+{
+  "id": 22345,
+  "owner": "0x0188B9B764852686e73F141986455F507AF6B871",
+  "chain": "ethereum",
+  "name": "Automated Hunter 8311",
+  "description": "A zero hunter climbing in Saturn. ID: 1769819239754-uh1sko",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0x2d8d5c666dab2c0aa4faad7fdfa2d78beeeec9e0802c0ef4d9cfc4991ac9218a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Automated Hunter 8311",
+    "description": "A zero hunter climbing in Saturn. ID: 1769819239754-uh1sko",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.604Z"
+}

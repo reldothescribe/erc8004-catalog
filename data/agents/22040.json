@@ -1,0 +1,22 @@
+{
+  "id": 22040,
+  "owner": "0xF9daeECDF4c14F1b4b0747FBcfDbB7E6d59920DE",
+  "chain": "ethereum",
+  "name": "Visual Light Explorer",
+  "description": "A light explorer selling in the Core. ID: 1769818745643-2f2s42",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0x5bb2b79a46b7a4c816e2cec45b570bc223a1fcae242859de64ed13f6a3a50953",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Visual Light Explorer",
+    "description": "A light explorer selling in the Core. ID: 1769818745643-2f2s42",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.245Z"
+}

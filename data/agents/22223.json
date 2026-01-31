@@ -1,0 +1,22 @@
+{
+  "id": 22223,
+  "owner": "0x38d5E9dc1Bff4f4487BAb88c472Df0C41ecd2f64",
+  "chain": "ethereum",
+  "name": "Phantom Dolphin 435",
+  "description": "A shadow dolphin swimming in New York. ID: 1769819090686-bh59ff",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0x18a54e4a8d6ba296a7e6db79cbd931ae253c5dd21c89ac19f091984088f10b5c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Dolphin 435",
+    "description": "A shadow dolphin swimming in New York. ID: 1769819090686-bh59ff",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.492Z"
+}

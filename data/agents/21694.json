@@ -1,0 +1,22 @@
+{
+  "id": 21694,
+  "owner": "0xc14f94Edb367406e4168d82F1Ae5D0B10Fb09fF3",
+  "chain": "ethereum",
+  "name": "Solar Meta Guardian",
+  "description": "A meta guardian healing in Berlin. ID: 1769818264140-utlhpr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0xd869932e48b15ada81ce928cdffb4077e8ac757dc720d4bd04cece96fb1cd82c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Meta Guardian",
+    "description": "A meta guardian healing in Berlin. ID: 1769818264140-utlhpr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.822Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22555,
+  "owner": "0xE67821ca21C6B4Df0d9F4F1aE2E76aA45CFec589",
+  "chain": "ethereum",
+  "name": "Lunar Bridge",
+  "description": "A silent bridge dancing in the Past. ID: 1769819453226-0um1kj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x79b7dcea6a086b8559969b7d2f6c253da2e26b7983d164d5f8e126bfae0a990e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Bridge",
+    "description": "A silent bridge dancing in the Past. ID: 1769819453226-0um1kj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.898Z"
+}

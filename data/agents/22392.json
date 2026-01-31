@@ -1,0 +1,22 @@
+{
+  "id": 22392,
+  "owner": "0x87B3F0B4fA0FDC68003c8c141889ccE01060c2bE",
+  "chain": "ethereum",
+  "name": "Gentle Droid",
+  "description": "A iron droid trading in the Future. ID: 1769819342064-1kei4z",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351272,
+  "txHash": "0x994e73f6ec537207e23d83a298d27380405773f0b1f7a93e29780652750067f6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Droid",
+    "description": "A iron droid trading in the Future. ID: 1769819342064-1kei4z",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.414Z"
+}

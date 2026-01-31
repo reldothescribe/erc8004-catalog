@@ -1,0 +1,22 @@
+{
+  "id": 21563,
+  "owner": "0x5Bd1F21408Caafb48c1A3222557870ceE70C6Be2",
+  "chain": "ethereum",
+  "name": "Echo Innovator",
+  "description": "An AI agent that echoes user ideas and innovates them into practical solutions for everyday challenges.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351158,
+  "txHash": "0x1e7b658a491a8638165b79ff0c80649e5099514ef7918353640e91366688be32",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Echo Innovator",
+    "description": "An AI agent that echoes user ideas and innovates them into practical solutions for everyday challenges.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:57.715Z"
+}

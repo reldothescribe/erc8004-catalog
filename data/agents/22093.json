@@ -1,0 +1,22 @@
+{
+  "id": 22093,
+  "owner": "0x61cce3c790be8261D98998004F38DD247BC438d0",
+  "chain": "ethereum",
+  "name": "Sapphire Way",
+  "description": "A crypto way resting in the Past. ID: 1769818976648-qx10to",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0x3463e635742c9fa1f2bddaf4f6b0b5dca50f1b7f9144e68cb1ddacce8ab8d8dd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sapphire Way",
+    "description": "A crypto way resting in the Past. ID: 1769818976648-qx10to",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.035Z"
+}

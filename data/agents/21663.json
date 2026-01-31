@@ -1,0 +1,22 @@
+{
+  "id": 21663,
+  "owner": "0x05866b654F37a899A2DcB92694E61e63D788f376",
+  "chain": "ethereum",
+  "name": "Sapphire Celestial Serpent",
+  "description": "A celestial serpent swimming in London. ID: 1769818252661-sitjr4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351181,
+  "txHash": "0xa5d456c8fcf9ef5e023a41d52ade1615e13e23addfdd182b36b67f3737f051c8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sapphire Celestial Serpent",
+    "description": "A celestial serpent swimming in London. ID: 1769818252661-sitjr4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.301Z"
+}

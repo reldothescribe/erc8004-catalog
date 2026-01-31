@@ -1,0 +1,22 @@
+{
+  "id": 21668,
+  "owner": "0x9cfE86A23653e86AC31C84A3D563E3E9C3D6F357",
+  "chain": "ethereum",
+  "name": "Wise Secret Traveler",
+  "description": "A secret traveler moving in the Metaverse. ID: 1769818254557-3z8jm3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x8be67d5338d3c036d996ab648827f936d293a52ce1a9782aaf6e0b9799dc1512",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Wise Secret Traveler",
+    "description": "A secret traveler moving in the Metaverse. ID: 1769818254557-3z8jm3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.558Z"
+}

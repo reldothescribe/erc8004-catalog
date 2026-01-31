@@ -1,0 +1,22 @@
+{
+  "id": 22371,
+  "owner": "0xf389deC9Ce1bC18FB891e7151c9f20D37a383b76",
+  "chain": "ethereum",
+  "name": "Silver Agent",
+  "description": "A kinetic agent resting in History. ID: 1769819252754-wyhmx8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0xd44aaa76218661e2a94e75382280a78e2329be9e9cdaa0eb687795b3f1e8c980",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silver Agent",
+    "description": "A kinetic agent resting in History. ID: 1769819252754-wyhmx8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.155Z"
+}

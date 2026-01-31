@@ -1,0 +1,22 @@
+{
+  "id": 22498,
+  "owner": "0x3911103ef15F32A1BF1F21561fD4699230ad6B90",
+  "chain": "ethereum",
+  "name": "Golden Explorer 6486",
+  "description": "A arcane explorer falling in the Block. ID: 1769819427312-3460u5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0x7a1cfd737a74435de344e6cab5c411892dfb034c02faf160cf48c36ab92531d3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Explorer 6486",
+    "description": "A arcane explorer falling in the Block. ID: 1769819427312-3460u5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.831Z"
+}

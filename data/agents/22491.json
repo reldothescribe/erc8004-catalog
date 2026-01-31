@@ -1,0 +1,22 @@
+{
+  "id": 22491,
+  "owner": "0x5Bd1F21408Caafb48c1A3222557870ceE70C6Be2",
+  "chain": "ethereum",
+  "name": "Phantom Hydra",
+  "description": "A autonomous hydra seeking in Mars. ID: 1769819420322-zgop3r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0x464470c180aa98441490d6c5ed6f6eabe8eaa886fc3bca014aac201cd5b18445",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Hydra",
+    "description": "A autonomous hydra seeking in Mars. ID: 1769819420322-zgop3r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.829Z"
+}

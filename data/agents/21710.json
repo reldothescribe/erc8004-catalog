@@ -1,0 +1,22 @@
+{
+  "id": 21710,
+  "owner": "0x61cce3c790be8261D98998004F38DD247BC438d0",
+  "chain": "ethereum",
+  "name": "Serene Door",
+  "description": "A shadow door running in the Unknown. ID: 1769818250565-81e9c8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xf3a0538a4147aa7f95acdacbe94b63653642312c5692869f1ab945ffe724a9b5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Serene Door",
+    "description": "A shadow door running in the Unknown. ID: 1769818250565-81e9c8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.342Z"
+}

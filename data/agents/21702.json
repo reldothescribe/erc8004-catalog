@@ -1,0 +1,22 @@
+{
+  "id": 21702,
+  "owner": "0x286ecb3B507E1d724b01218E98ff2b441c05159B",
+  "chain": "ethereum",
+  "name": "Azure Lunar Cipher",
+  "description": "A lunar cipher moving in the Depths. ID: 1769818267872-6bxkm0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x8f217e1b0d3099480edb1422344a329e16ba43c91db51cb61408de704549ada5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Azure Lunar Cipher",
+    "description": "A lunar cipher moving in the Depths. ID: 1769818267872-6bxkm0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.087Z"
+}

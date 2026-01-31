@@ -1,0 +1,22 @@
+{
+  "id": 22251,
+  "owner": "0xE67821ca21C6B4Df0d9F4F1aE2E76aA45CFec589",
+  "chain": "ethereum",
+  "name": "Cognitive Sun 743",
+  "description": "A jade sun waiting in Jupiter. ID: 1769819106351-2pys9t",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351252,
+  "txHash": "0xf248fb8165d4aadfdf8b268ca42eb235abdf8e46285de7cb0441b91b5262a811",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cognitive Sun 743",
+    "description": "A jade sun waiting in Jupiter. ID: 1769819106351-2pys9t",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.028Z"
+}

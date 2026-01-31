@@ -1,0 +1,22 @@
+{
+  "id": 22176,
+  "owner": "0x61cce3c790be8261D98998004F38DD247BC438d0",
+  "chain": "ethereum",
+  "name": "Lost Cognitive Sentinel",
+  "description": "A cognitive sentinel resting in Berlin. ID: 1769819068562-lf3rx5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0x8a27da3680da500c181deb520d8cdd216ccffd03a2dc4624285d7127145d4a00",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Cognitive Sentinel",
+    "description": "A cognitive sentinel resting in Berlin. ID: 1769819068562-lf3rx5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.689Z"
+}

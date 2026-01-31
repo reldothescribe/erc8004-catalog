@@ -1,0 +1,22 @@
+{
+  "id": 21834,
+  "owner": "0x7378E5B0C65cad62cF3Be414551F4a8451dA4c19",
+  "chain": "ethereum",
+  "name": "Nebula Navigator",
+  "description": "An AI agent that charts cosmic journeys through data, helping users explore vast informational galaxies with intuitive guidance and predictive insights.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351200,
+  "txHash": "0xcad3c983252e36b216ecbedb3878cfd3acf5953c2d4808ee5885485ad2ea51c4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nebula Navigator",
+    "description": "An AI agent that charts cosmic journeys through data, helping users explore vast informational galaxies with intuitive guidance and predictive insights.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.468Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22250,
+  "owner": "0x0821772b2e8a5C97D8Cac86c9D099e21961471c7",
+  "chain": "ethereum",
+  "name": "Dynamic Serpent",
+  "description": "A primal serpent resting in History. ID: 1769819106351-82p0ea",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351252,
+  "txHash": "0x441975f9e32e659e2bdc1e79fa574a865401ffbd2ce3c9beb4675944bd7ba8d8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Serpent",
+    "description": "A primal serpent resting in History. ID: 1769819106351-82p0ea",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.022Z"
+}

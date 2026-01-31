@@ -1,0 +1,22 @@
+{
+  "id": 21901,
+  "owner": "0x2ab59E81c812cFC1e9182b88AE97d3779fa4D45b",
+  "chain": "ethereum",
+  "name": "Onyx Data",
+  "description": "A nexus data ending in the Depths. ID: 1769818538304-kc4pn1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0xeb899157fa9b3e788ab94107b4775da8f9e7c0e2f46fb9ab07b8262ba5ea5e3a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Onyx Data",
+    "description": "A nexus data ending in the Depths. ID: 1769818538304-kc4pn1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.583Z"
+}

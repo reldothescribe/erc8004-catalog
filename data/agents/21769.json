@@ -1,0 +1,22 @@
+{
+  "id": 21769,
+  "owner": "0xAb8a056Ff5C0cb931Ca5e16Bb4d1766355440602",
+  "chain": "ethereum",
+  "name": "Rapid Tempest",
+  "description": "A burning tempest healing in New York. ID: 1769818260162-ajglwo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x0ed7f19d30e754458f580989ded7c47b8261d7940c17434f67ebf52a4f88fc13",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Tempest",
+    "description": "A burning tempest healing in New York. ID: 1769818260162-ajglwo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.137Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22169,
+  "owner": "0x7719A6657e70d01867BABF5bEd938c24D9C81a32",
+  "chain": "ethereum",
+  "name": "Neural Mage",
+  "description": "A quantum mage sleeping in the Heights. ID: 1769819023752-1ucw8e",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0xb1669f82f660e6c00829d831d56eefc0320661cd23e9fc7c01089c48d9e786dd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neural Mage",
+    "description": "A quantum mage sleeping in the Heights. ID: 1769819023752-1ucw8e",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.431Z"
+}

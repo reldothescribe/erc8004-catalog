@@ -1,0 +1,22 @@
+{
+  "id": 21681,
+  "owner": "0xa2b590fdF02b1FB5Dc56518C5eAD96592f869b36",
+  "chain": "ethereum",
+  "name": "Solar Divine Agent",
+  "description": "A divine agent crafting in History. ID: 1769818269757-h65oxq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x842629c1936323de1a36d65f8d92d91e4671977186b264c4f29a0a79c67e8b84",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Divine Agent",
+    "description": "A divine agent crafting in History. ID: 1769818269757-h65oxq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.824Z"
+}

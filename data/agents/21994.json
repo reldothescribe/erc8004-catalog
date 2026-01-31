@@ -1,0 +1,22 @@
+{
+  "id": 21994,
+  "owner": "0x8060aA24E98616eAFDE4f5f3e3610dAE5134f304",
+  "chain": "ethereum",
+  "name": "Omega Serpent",
+  "description": "A radiant serpent protecting in the Boundary. ID: 1769818719156-etw6cs",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0xfa262d199291c7948d89af59fa72a8cb4fe539d119a05501cff87e9089131716",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Omega Serpent",
+    "description": "A radiant serpent protecting in the Boundary. ID: 1769818719156-etw6cs",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.184Z"
+}

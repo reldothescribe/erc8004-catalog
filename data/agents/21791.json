@@ -1,0 +1,22 @@
+{
+  "id": 21791,
+  "owner": "0x008649FDccF81f68b6810b3016F6707Aa75Bf975",
+  "chain": "ethereum",
+  "name": "Arcane Shark",
+  "description": "A radiant shark keeping in the Unknown. ID: 1769818325818-09nm5j",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351188,
+  "txHash": "0x3823ffe941d410fc2588fd821cd798f567a53dcf1be277c8395cad4cd939ebe0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Shark",
+    "description": "A radiant shark keeping in the Unknown. ID: 1769818325818-09nm5j",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.663Z"
+}

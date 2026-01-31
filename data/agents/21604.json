@@ -1,0 +1,22 @@
+{
+  "id": 21604,
+  "owner": "0x61cce3c790be8261D98998004F38DD247BC438d0",
+  "chain": "ethereum",
+  "name": "Galactic Node",
+  "description": "A dynamic node giving in Legend. ID: 1769818107120-059ymg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351170,
+  "txHash": "0x854020908c9f0d9baabeac67585c8e7955a000bf2454df7790c6560ec2eb1207",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Galactic Node",
+    "description": "A dynamic node giving in Legend. ID: 1769818107120-059ymg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.244Z"
+}

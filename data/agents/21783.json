@@ -1,0 +1,22 @@
+{
+  "id": 21783,
+  "owner": "0xF9daeECDF4c14F1b4b0747FBcfDbB7E6d59920DE",
+  "chain": "ethereum",
+  "name": "Blazing Key",
+  "description": "A random key walking in Andromeda. ID: 1769818325818-uwsts8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351188,
+  "txHash": "0x746125375356d575a6a474a8f1300fff9c493e91e2d413a8886ba5064a28a71d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Key",
+    "description": "A random key walking in Andromeda. ID: 1769818325818-uwsts8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.404Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21828,
+  "owner": "0xFA78042526ff5E89E629C9D17D8D30E7e3FC63C9",
+  "chain": "ethereum",
+  "name": "Celestial Sapphire Network",
+  "description": "A sapphire network giving in the Block. ID: 1769818432833-xprgz5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351196,
+  "txHash": "0x0e12aafb114db053a3ea9f35e397a283d8c703552d28c68f59a02f7dfca03a01",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Celestial Sapphire Network",
+    "description": "A sapphire network giving in the Block. ID: 1769818432833-xprgz5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.211Z"
+}

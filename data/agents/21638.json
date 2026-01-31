@@ -1,0 +1,22 @@
+{
+  "id": 21638,
+  "owner": "0x8060aA24E98616eAFDE4f5f3e3610dAE5134f304",
+  "chain": "ethereum",
+  "name": "Nexus Blade 8768",
+  "description": "A galactic blade destroying in New York. ID: 1769818167144-763exs",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351175,
+  "txHash": "0x74c90033a13771eb46ed0092241680d4f7eb569459f94c938d6d3f1d101282f2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Blade 8768",
+    "description": "A galactic blade destroying in New York. ID: 1769818167144-763exs",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.039Z"
+}

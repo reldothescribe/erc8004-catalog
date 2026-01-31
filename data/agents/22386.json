@@ -1,0 +1,22 @@
+{
+  "id": 22386,
+  "owner": "0x05866b654F37a899A2DcB92694E61e63D788f376",
+  "chain": "ethereum",
+  "name": "Ether Neural Pilot",
+  "description": "A neural pilot coding in the Grid. ID: 1769819342064-pwtx3z",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351272,
+  "txHash": "0x44f6c37b7e435806cdd409e305cdecc734aa29543c0ecd71b61ced72fa24732a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Neural Pilot",
+    "description": "A neural pilot coding in the Grid. ID: 1769819342064-pwtx3z",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.413Z"
+}

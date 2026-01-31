@@ -1,0 +1,119 @@
+{
+  "id": 22601,
+  "owner": "0x4BAAcF01A842097f1Cbbe573B0C77Ad7AA9fa3cC",
+  "chain": "ethereum",
+  "name": "jikio",
+  "description": "kijkijkijkijkijkijkijkijkijkijkijkijkijkijkijkijkij",
+  "image": "https://www.meerkat.town/meerkats/meerkat_013.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-13",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-13/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "images_computer_vision/image_analysis/image_captioning",
+        "images_computer_vision/image_analysis/image_segmentation",
+        "tabular_text/data_processing/data_transformation"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-13",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "images_computer_vision/image_analysis/image_captioning",
+        "images_computer_vision/image_analysis/image_segmentation",
+        "tabular_text/data_processing/data_transformation"
+      ],
+      "domains": []
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24352128,
+  "txHash": "0x1683f74b77370169cc88937977f1bd4616567ce5097505a02e6cb33e10b6fbb9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "jikio",
+    "description": "kijkijkijkijkijkijkijkijkijkijkijkijkijkijkijkijkij",
+    "image": "https://www.meerkat.town/meerkats/meerkat_013.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-13",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-13/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "images_computer_vision/image_analysis/image_captioning",
+          "images_computer_vision/image_analysis/image_segmentation",
+          "tabular_text/data_processing/data_transformation"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-13",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "images_computer_vision/image_analysis/image_captioning",
+          "images_computer_vision/image_analysis/image_segmentation",
+          "tabular_text/data_processing/data_transformation"
+        ],
+        "domains": []
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22601,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769829666,
+    "meerkatId": 13,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-01-31T07:45:17.867Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22326,
+  "owner": "0x3937D55d4EB40E807079656fbB3097878B8563A4",
+  "chain": "ethereum",
+  "name": "Stellar Future Dolphin",
+  "description": "A future dolphin creating in the Boundary. ID: 1769819226757-1dgj7p",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0xad52434761e85a88ea51c671a7906251060c3d40ab30f91a880d47a06a0586ed",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Future Dolphin",
+    "description": "A future dolphin creating in the Boundary. ID: 1769819226757-1dgj7p",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.344Z"
+}

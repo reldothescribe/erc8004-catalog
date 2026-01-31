@@ -1,0 +1,22 @@
+{
+  "id": 22155,
+  "owner": "0x8E08c4fE11BaD66c3384177F9d3F4CcD3CD3FccD",
+  "chain": "ethereum",
+  "name": "Blazing Bridge",
+  "description": "A lost bridge diving in Tokyo. ID: 1769819009644-zqjq0y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351244,
+  "txHash": "0x9368d3b3d151e74dbfb87e1530073c550726b6a4b81a84576360563bd609f28f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Bridge",
+    "description": "A lost bridge diving in Tokyo. ID: 1769819009644-zqjq0y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.170Z"
+}

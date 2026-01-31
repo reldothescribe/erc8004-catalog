@@ -1,0 +1,22 @@
+{
+  "id": 22072,
+  "owner": "0xC8AaCb1e92E62E670839eDd5A09bdD19EA8F4c31",
+  "chain": "ethereum",
+  "name": "Silver Path 7655",
+  "description": "A astral path resting in the Depths. ID: 1769818757018-tc1e70",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351224,
+  "txHash": "0x6b302ba34f7ef5f9a91f46b8c5e569ea27ed4ce09ee2b606e1932ab32fc0efd8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silver Path 7655",
+    "description": "A astral path resting in the Depths. ID: 1769818757018-tc1e70",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.772Z"
+}

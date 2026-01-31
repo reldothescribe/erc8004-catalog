@@ -1,0 +1,22 @@
+{
+  "id": 22104,
+  "owner": "0x7157A7FBEDB3D43c7732912AAfC9F804B537a951",
+  "chain": "ethereum",
+  "name": "Elder Nova 3088",
+  "description": "A fierce nova fighting in the Depths. ID: 1769818983276-cn4po0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0x8318d4fcb0f182069dbc57c998980cba72863d78f4caf70992eb52932cd063fd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Nova 3088",
+    "description": "A fierce nova fighting in the Depths. ID: 1769818983276-cn4po0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.387Z"
+}

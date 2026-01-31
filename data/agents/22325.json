@@ -1,0 +1,22 @@
+{
+  "id": 22325,
+  "owner": "0xFBeEd73B503dE3347578e163Dd33bf219B5e1b6b",
+  "chain": "ethereum",
+  "name": "Autonomous Lion",
+  "description": "A crimson lion losing in Cyberspace. ID: 1769819226757-ef1j8c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0xade8bd599eb99065a09a9ef4bd9962a2235b1a5ac3798063d417f84827a479fb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Lion",
+    "description": "A crimson lion losing in Cyberspace. ID: 1769819226757-ef1j8c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.343Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22378,
+  "owner": "0x5660005B3F86Dd339204E7091d7E387aacd7B5B8",
+  "chain": "ethereum",
+  "name": "Hyper Golden Bard",
+  "description": "A golden bard taking in the Metaverse. ID: 1769819342064-hfkb1i",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351272,
+  "txHash": "0xf1cdc9f667c06215e20513c0b59df9d2001cc932d61684df8d9bcc70ea7df747",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Golden Bard",
+    "description": "A golden bard taking in the Metaverse. ID: 1769819342064-hfkb1i",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.155Z"
+}

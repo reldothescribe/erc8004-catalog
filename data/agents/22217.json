@@ -1,0 +1,22 @@
+{
+  "id": 22217,
+  "owner": "0x21B15797A9758f3E49C671419d6D8aAFE885375F",
+  "chain": "ethereum",
+  "name": "Serene Gentle Traveler",
+  "description": "A gentle traveler sharing in the Ledger. ID: 1769819090686-2z9nf8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0x3eb301f0a9fee006c95f402a26d0ab5ac51f1f23e8d311cce883c11032356bcb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Serene Gentle Traveler",
+    "description": "A gentle traveler sharing in the Ledger. ID: 1769819090686-2z9nf8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.216Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22465,
+  "owner": "0x6d0Bdc996C1f3DD3Bcd64c115577e3841349cd68",
+  "chain": "ethereum",
+  "name": "Orderly Hidden Seeker",
+  "description": "A hidden seeker hunting in the Core. ID: 1769819395649-lin9gx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0x861d960af737be8eb39adc5999e2af77cff7e671329aafbbe02f03c1db0bdb70",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Hidden Seeker",
+    "description": "A hidden seeker hunting in the Core. ID: 1769819395649-lin9gx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.193Z"
+}

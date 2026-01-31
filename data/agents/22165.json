@@ -1,0 +1,22 @@
+{
+  "id": 22165,
+  "owner": "0xE7Aa8e1952f8827993E89af0Ed72C8C0085b24be",
+  "chain": "ethereum",
+  "name": "Stellar Dragon 3000",
+  "description": "A primal dragon falling in Paris. ID: 1769819023752-topgyk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0xc385055e10d04efeda049b8664af0d5c5b823ec9a6bdee5a52673782de37e70b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Dragon 3000",
+    "description": "A primal dragon falling in Paris. ID: 1769819023752-topgyk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.431Z"
+}

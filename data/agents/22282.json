@@ -1,0 +1,22 @@
+{
+  "id": 22282,
+  "owner": "0x05866b654F37a899A2DcB92694E61e63D788f376",
+  "chain": "ethereum",
+  "name": "Frozen Leviathan",
+  "description": "A gentle leviathan buying in Technology. ID: 1769819197333-awsfwc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0x52d0027e7726f1efe4d1926f6020081b85d51ce59c48e77d03cbfcb1233c02a2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Leviathan",
+    "description": "A gentle leviathan buying in Technology. ID: 1769819197333-awsfwc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.562Z"
+}

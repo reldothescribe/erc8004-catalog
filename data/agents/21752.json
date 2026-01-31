@@ -1,0 +1,22 @@
+{
+  "id": 21752,
+  "owner": "0xc70cc9bcd938E2E19F9B502a39FB76FBa048Bfde",
+  "chain": "ethereum",
+  "name": "Spectral Dark Lion",
+  "description": "A dark lion walking in Myth. ID: 1769818283286-57ri8p",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x4bcdbef8e82d8b7207eb1b5670d13585e2953c3c0be0b1642eea9e225756e9a4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Spectral Dark Lion",
+    "description": "A dark lion walking in Myth. ID: 1769818283286-57ri8p",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.876Z"
+}

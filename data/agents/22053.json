@@ -1,0 +1,22 @@
+{
+  "id": 22053,
+  "owner": "0x8a4c13CB61256b74Da9D5a952F3A57BbB807B8ab",
+  "chain": "ethereum",
+  "name": "Dynamic Wolf",
+  "description": "A infernal wolf climbing in London. ID: 1769818745643-ap24qw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0x6c8795ab00435f2436a6a874f561324e4aa78f8cbec2b6e66bb04c47c6e5114a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Wolf",
+    "description": "A infernal wolf climbing in London. ID: 1769818745643-ap24qw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.239Z"
+}

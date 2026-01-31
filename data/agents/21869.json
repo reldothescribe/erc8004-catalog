@@ -1,0 +1,37 @@
+{
+  "id": 21869,
+  "owner": "0xf69157F85d8a2CF685C29D700Fcc365275A261eC",
+  "chain": "ethereum",
+  "name": "IonNet_5837",
+  "description": "AGENT8004 - airdrop hunter. Battle-tested across multiple chains.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "website",
+      "url": "https://a8004.xyz"
+    }
+  ],
+  "registeredBlock": 24351205,
+  "txHash": "0xa678b14aabc5c5441af952f7851b286738a8b0b0ce1644b4fd1c5939413faa55",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "IonNet_5837",
+    "description": "AGENT8004 - airdrop hunter. Battle-tested across multiple chains.",
+    "image": "",
+    "services": [
+      {
+        "type": "website",
+        "url": "https://a8004.xyz"
+      }
+    ],
+    "registrations": [
+      {
+        "chainId": 1,
+        "contract": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-01-31T07:45:03.035Z"
+}

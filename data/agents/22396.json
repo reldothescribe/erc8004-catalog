@@ -1,0 +1,22 @@
+{
+  "id": 22396,
+  "owner": "0xcB54c62dae7661C08e64Bc1c0521592713A1E1f3",
+  "chain": "ethereum",
+  "name": "Electric Radiant Guardian",
+  "description": "A radiant guardian dancing in the Metaverse. ID: 1769819357309-3okr2b",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0xa79f112ac66d6b464eb0b8143e9b6d12a5f430d49c70de991abf0badffebc55c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Electric Radiant Guardian",
+    "description": "A radiant guardian dancing in the Metaverse. ID: 1769819357309-3okr2b",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.415Z"
+}

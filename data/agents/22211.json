@@ -1,0 +1,22 @@
+{
+  "id": 22211,
+  "owner": "0xcAdaAe5dEd045B82D1ac2c6c407E29CD57FB8d64",
+  "chain": "ethereum",
+  "name": "Alpha Monk",
+  "description": "A jade monk shaping in Andromeda. ID: 1769819079584-0swyn7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0x022bc60b76ce7473dd2baac3043bd8953e4f0a858f61075a2779e821f7d247f9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Alpha Monk",
+    "description": "A jade monk shaping in Andromeda. ID: 1769819079584-0swyn7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.217Z"
+}

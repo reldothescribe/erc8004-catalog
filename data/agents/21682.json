@@ -1,0 +1,22 @@
+{
+  "id": 21682,
+  "owner": "0x8a4c13CB61256b74Da9D5a952F3A57BbB807B8ab",
+  "chain": "ethereum",
+  "name": "Quantum Door 9484",
+  "description": "A infinite door playing in the Past. ID: 1769818269757-ph41tx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x7fdc9035d1fd121ed9301d4bbaf61121335ac91920ea41c85032d0193d5cb6ce",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Quantum Door 9484",
+    "description": "A infinite door playing in the Past. ID: 1769818269757-ph41tx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.822Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22103,
+  "owner": "0x549CAcfFFb32E717eb97B5418324ca668A1D6b2b",
+  "chain": "ethereum",
+  "name": "Determined River 8511",
+  "description": "A bold river soaring in Mystery. ID: 1769818983276-ptskk3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0xbd04685bb91988c620946a909096c514e9dbed1b92d0ea58aea1ff98fee32975",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Determined River 8511",
+    "description": "A bold river soaring in Mystery. ID: 1769818983276-ptskk3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.298Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22270,
+  "owner": "0xc70cc9bcd938E2E19F9B502a39FB76FBa048Bfde",
+  "chain": "ethereum",
+  "name": "Neo Bear 3839",
+  "description": "A golden bear seeking in the Consensus. ID: 1769819117673-kwgkby",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0x511d3901788620e43f6c7ca8f2e60fd61dd3b404d5fb88d4df40c5652e924e82",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neo Bear 3839",
+    "description": "A golden bear seeking in the Consensus. ID: 1769819117673-kwgkby",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.301Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22198,
+  "owner": "0x3911103ef15F32A1BF1F21561fD4699230ad6B90",
+  "chain": "ethereum",
+  "name": "Dynamic Mountain 998",
+  "description": "A mystic mountain flying in the Metaverse. ID: 1769819079584-801amz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0x7bdce804582610385a8466c23962ee5f46b4f8f710e6b93417add30572975888",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Mountain 998",
+    "description": "A mystic mountain flying in the Metaverse. ID: 1769819079584-801amz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.951Z"
+}

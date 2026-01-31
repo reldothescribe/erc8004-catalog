@@ -1,0 +1,22 @@
+{
+  "id": 22054,
+  "owner": "0xc70cc9bcd938E2E19F9B502a39FB76FBa048Bfde",
+  "chain": "ethereum",
+  "name": "Valiant Celestial Seeker",
+  "description": "A celestial seeker speaking in Andromeda. ID: 1769818757018-p4irow",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351223,
+  "txHash": "0xb81f1a3cc7c0a754e43e271369dc79bff4e0b42410dea0bd2d58e29a286a270e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Celestial Seeker",
+    "description": "A celestial seeker speaking in Andromeda. ID: 1769818757018-p4irow",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.245Z"
+}

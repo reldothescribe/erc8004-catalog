@@ -1,0 +1,22 @@
+{
+  "id": 22483,
+  "owner": "0x5BC33fad7C8469cA946DdBB5398A422CFeFC15A2",
+  "chain": "ethereum",
+  "name": "Cosmic Sphinx 8302",
+  "description": "A silver sphinx singing in the Edge. ID: 1769819420322-vai9s4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0x9440303e5da76e7e55a6d9526ba48fdaf2c96b40783d6e09a3175f54a10f313a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Sphinx 8302",
+    "description": "A silver sphinx singing in the Edge. ID: 1769819420322-vai9s4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.570Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22105,
+  "owner": "0x306Ad1d9d6d01FEa2B9973454Caf3386fC8a58C2",
+  "chain": "ethereum",
+  "name": "Azure Wanderer",
+  "description": "A tactile wanderer writing in History. ID: 1769818983276-r36zn1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0x339b690afdd043877446f236b41aab91efb056068bbcacf0f7f8b30e4858afff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Azure Wanderer",
+    "description": "A tactile wanderer writing in History. ID: 1769818983276-r36zn1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.297Z"
+}

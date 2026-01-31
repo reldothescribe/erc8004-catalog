@@ -1,0 +1,22 @@
+{
+  "id": 22425,
+  "owner": "0xacbA617ea2ddB5b487549456ab5c5FdE9142630c",
+  "chain": "ethereum",
+  "name": "Silent Tower 6935",
+  "description": "A meta tower climbing in the Summit. ID: 1769819368083-aq27hw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351274,
+  "txHash": "0xa8d8548519a32c1d7bb7e13c626887550af89e127c98c5d1f0ec639cf285a404",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Tower 6935",
+    "description": "A meta tower climbing in the Summit. ID: 1769819368083-aq27hw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.967Z"
+}

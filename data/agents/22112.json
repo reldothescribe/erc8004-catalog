@@ -1,0 +1,22 @@
+{
+  "id": 22112,
+  "owner": "0xf7EeA6dC6F86d3F931bD7382E8261410C05d5Cb8",
+  "chain": "ethereum",
+  "name": "Ivory Oracle",
+  "description": "A frozen oracle hunting in London. ID: 1769818983276-61wogy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0xba4b9da668f7967459f970d18a07f5e4eebbff3c08bb7c5ef1b8673e7db58aff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Oracle",
+    "description": "A frozen oracle hunting in London. ID: 1769818983276-61wogy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.299Z"
+}

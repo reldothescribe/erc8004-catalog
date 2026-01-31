@@ -1,0 +1,22 @@
+{
+  "id": 21645,
+  "owner": "0x0110b32b8FBc07A85EDf92159050b94D27F43287",
+  "chain": "ethereum",
+  "name": "Golden Protocol 734",
+  "description": "A automated protocol trading in Dimension X. ID: 1769818178416-v2h5fe",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351178,
+  "txHash": "0xbd75c465747a950a616b6d2070528c54ec9ad97d29ac7d6eb43e1231c3e122bf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Protocol 734",
+    "description": "A automated protocol trading in Dimension X. ID: 1769818178416-v2h5fe",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.034Z"
+}

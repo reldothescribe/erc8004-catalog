@@ -1,0 +1,22 @@
+{
+  "id": 22017,
+  "owner": "0x5F1bcb425230523cC10dba1803CFeA30B201b1Aa",
+  "chain": "ethereum",
+  "name": "Secret Droid 3321",
+  "description": "A emerald droid stopping in the Boundary. ID: 1769818730240-lpx6nw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0x17dc69b84df6cee05af3c043a504ad029741867ace1cb176fd8c4e9f6b368ebc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Droid 3321",
+    "description": "A emerald droid stopping in the Boundary. ID: 1769818730240-lpx6nw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.720Z"
+}

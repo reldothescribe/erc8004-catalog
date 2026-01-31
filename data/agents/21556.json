@@ -1,0 +1,22 @@
+{
+  "id": 21556,
+  "owner": "0xA765180C1FEd8BCeAB15c1711444D87DBcE838Bb",
+  "chain": "ethereum",
+  "name": "Nebula Nexus",
+  "description": "An AI agent that connects cosmic ideas, forging innovative solutions from the stars of data and creativity.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351155,
+  "txHash": "0x042bf026c605d1f62e2887f2203f2db4fec279a72a54eae6abc312dcf435ee31",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nebula Nexus",
+    "description": "An AI agent that connects cosmic ideas, forging innovative solutions from the stars of data and creativity.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:57.255Z"
+}

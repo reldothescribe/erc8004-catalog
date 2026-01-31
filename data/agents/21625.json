@@ -1,0 +1,22 @@
+{
+  "id": 21625,
+  "owner": "0xFe87Bf64De4241332E30025101aA1dC0E57CCfE0",
+  "chain": "ethereum",
+  "name": "Fierce Network",
+  "description": "A orderly network healing in Web3. ID: 1769818144886-cw8rqq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351173,
+  "txHash": "0x7c2dc4c26f16cae5af75f5a26180f3fbf673948b2b2d7f866ddaab6e4dc208ed",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Network",
+    "description": "A orderly network healing in Web3. ID: 1769818144886-cw8rqq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.773Z"
+}

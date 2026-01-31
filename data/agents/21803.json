@@ -1,0 +1,22 @@
+{
+  "id": 21803,
+  "owner": "0x90AD9d2711864b39041702Dc7FA82742FC0a142c",
+  "chain": "ethereum",
+  "name": "Nexus Nova",
+  "description": "An innovative AI agent designed to explore interstellar concepts, blending science fiction with practical problem-solving for futuristic insights.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351192,
+  "txHash": "0x081d7061deb9a594574c468ec81377d520d7b29c73862aee1a50b4c6c50ca036",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Nova",
+    "description": "An innovative AI agent designed to explore interstellar concepts, blending science fiction with practical problem-solving for futuristic insights.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.937Z"
+}

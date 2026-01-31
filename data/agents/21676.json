@@ -1,0 +1,22 @@
+{
+  "id": 21676,
+  "owner": "0xacbA617ea2ddB5b487549456ab5c5FdE9142630c",
+  "chain": "ethereum",
+  "name": "Prime Sapphire Droid",
+  "description": "A sapphire droid reading in Andromeda. ID: 1769818262011-v9he8a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x59e76b7c1bba9c91688eaa1d9548499b1bbe2a4329c108d6e8ad01d7f440c851",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Prime Sapphire Droid",
+    "description": "A sapphire droid reading in Andromeda. ID: 1769818262011-v9he8a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.561Z"
+}

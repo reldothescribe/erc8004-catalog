@@ -1,0 +1,22 @@
+{
+  "id": 22484,
+  "owner": "0x05866b654F37a899A2DcB92694E61e63D788f376",
+  "chain": "ethereum",
+  "name": "Onyx Explorer",
+  "description": "A quantum explorer gathering in Jupiter. ID: 1769819420322-yghrys",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0x66c3c75c38fddb1961c955a41670333af049ef34daa9f06031c71f78bb39f97a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Onyx Explorer",
+    "description": "A quantum explorer gathering in Jupiter. ID: 1769819420322-yghrys",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.497Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22184,
+  "owner": "0xA1C173feAc391C1EE0563b2a929C4B19aF192E02",
+  "chain": "ethereum",
+  "name": "Synthetic Sky 6551",
+  "description": "A found sky painting in the Void. ID: 1769819068562-0zdknp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0xb482b32b448d33df045d104300f2d56bea894d389629957e22c27ffa03f827c4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Sky 6551",
+    "description": "A found sky painting in the Void. ID: 1769819068562-0zdknp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.688Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22056,
+  "owner": "0xFe61E882ddAFe6097Aca094670D7f3D57c11BEb7",
+  "chain": "ethereum",
+  "name": "Found Automated Crown",
+  "description": "A automated crown gathering in Cyberspace. ID: 1769818757018-9kdvl6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351223,
+  "txHash": "0x0207d4fd4de1205b81da5d1e1216c6882991f5cc299290f4296b2f4bac14a27d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Automated Crown",
+    "description": "A automated crown gathering in Cyberspace. ID: 1769818757018-9kdvl6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.504Z"
+}

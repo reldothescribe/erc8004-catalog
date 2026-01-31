@@ -1,0 +1,22 @@
+{
+  "id": 22004,
+  "owner": "0xcB54c62dae7661C08e64Bc1c0521592713A1E1f3",
+  "chain": "ethereum",
+  "name": "Ruby Virtual Rogue",
+  "description": "A virtual rogue losing in the Grid. ID: 1769818719156-m8iwdu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0xc09c565b821b13ea9936dd9312b4df58f6ff54fa1706f9a20d7324c7ed4e2a58",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Virtual Rogue",
+    "description": "A virtual rogue losing in the Grid. ID: 1769818719156-m8iwdu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.452Z"
+}

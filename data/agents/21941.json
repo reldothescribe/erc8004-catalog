@@ -1,0 +1,22 @@
+{
+  "id": 21941,
+  "owner": "0x8E82218169188359aBAb3250Ae7DD5863682D67E",
+  "chain": "ethereum",
+  "name": "Dark Castle",
+  "description": "A onyx castle gathering in the DAO. ID: 1769818565835-ogf4f5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351207,
+  "txHash": "0x3ed4eafc0205a2cf8bac5477ca32c265a4ededba6394b78b703aea772d1a2671",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Castle",
+    "description": "A onyx castle gathering in the DAO. ID: 1769818565835-ogf4f5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.381Z"
+}

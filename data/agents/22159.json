@@ -1,0 +1,22 @@
+{
+  "id": 22159,
+  "owner": "0x5cF9cbf9962dd915236845Cc72fa41B73c8fef96",
+  "chain": "ethereum",
+  "name": "Sentient Navigator 9073",
+  "description": "A liquid navigator diving in Myth. ID: 1769819023752-8jkjca",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0x583b7a3e35b361ab3acf6373c0c79c538be503aa21e6b910aaa314fed3b79744",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sentient Navigator 9073",
+    "description": "A liquid navigator diving in Myth. ID: 1769819023752-8jkjca",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.170Z"
+}

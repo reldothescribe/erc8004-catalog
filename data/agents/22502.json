@@ -1,0 +1,22 @@
+{
+  "id": 22502,
+  "owner": "0xB4aEE634f4921B1A160180778a04D4f8440c14ca",
+  "chain": "ethereum",
+  "name": "Automated Valiant Ocean",
+  "description": "A valiant ocean living in Paris. ID: 1769819427312-eyru92",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0x95e2ea89570250cb46d9bd28e8288196e31fb550d474312ce106e87a7aa2adb3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Automated Valiant Ocean",
+    "description": "A valiant ocean living in Paris. ID: 1769819427312-eyru92",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.831Z"
+}

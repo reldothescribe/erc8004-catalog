@@ -1,0 +1,22 @@
+{
+  "id": 22208,
+  "owner": "0x8060aA24E98616eAFDE4f5f3e3610dAE5134f304",
+  "chain": "ethereum",
+  "name": "Astral Hunter 9143",
+  "description": "A phantom hunter losing in Tokyo. ID: 1769819079584-azj0o6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0xcb0af0998ecc41eb48454b1c2d0f8f628489e5405fcc40c129c7f7fd3c80aa2b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Hunter 9143",
+    "description": "A phantom hunter losing in Tokyo. ID: 1769819079584-azj0o6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.216Z"
+}

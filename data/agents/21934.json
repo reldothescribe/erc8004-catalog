@@ -1,0 +1,22 @@
+{
+  "id": 21934,
+  "owner": "0x8a4c13CB61256b74Da9D5a952F3A57BbB807B8ab",
+  "chain": "ethereum",
+  "name": "Static Shield 800",
+  "description": "A hidden shield fighting in Magic. ID: 1769818565835-0ziemd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351207,
+  "txHash": "0x55a4a3d815183b8d5d9de720448eea3fdc52010ea3a8e9a30097da2bc6e387a5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Shield 800",
+    "description": "A hidden shield fighting in Magic. ID: 1769818565835-0ziemd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.119Z"
+}

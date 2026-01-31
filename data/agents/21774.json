@@ -1,0 +1,22 @@
+{
+  "id": 21774,
+  "owner": "0x93757849C8365629BC56a67aFAc51ea8569eA683",
+  "chain": "ethereum",
+  "name": "Primal Ghost 1543",
+  "description": "A stellar ghost sharing in the Frontier. ID: 1769818265971-0g41m6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0xe8c563d63e5ad05c3c00a6f028072eaa19f223364654b3b9450b78f292f94e95",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Ghost 1543",
+    "description": "A stellar ghost sharing in the Frontier. ID: 1769818265971-0g41m6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.400Z"
+}

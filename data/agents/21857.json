@@ -1,0 +1,22 @@
+{
+  "id": 21857,
+  "owner": "0xA765180C1FEd8BCeAB15c1711444D87DBcE838Bb",
+  "chain": "ethereum",
+  "name": "Atomic Shield 8044",
+  "description": "A ivory shield giving in the Frontier. ID: 1769818526525-2805se",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351204,
+  "txHash": "0x86a3f5e9c582563f7a923a63e3e1858277ae938328fdeefea006da1fb51e3a34",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Shield 8044",
+    "description": "A ivory shield giving in the Frontier. ID: 1769818526525-2805se",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.759Z"
+}

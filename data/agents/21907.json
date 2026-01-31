@@ -1,0 +1,22 @@
+{
+  "id": 21907,
+  "owner": "0xB17aa1A6AAef5d3f7200D16E399e8283e1817444",
+  "chain": "ethereum",
+  "name": "Obsidian Cosmic Colossus",
+  "description": "A cosmic colossus ending in the Past. ID: 1769818554217-28byb6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0xd8147b2c42b1f6de77d8c9d2183118b7db4d610a1cc83c19e6b5f375d17e45b7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Obsidian Cosmic Colossus",
+    "description": "A cosmic colossus ending in the Past. ID: 1769818554217-28byb6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.854Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22515,
+  "owner": "0x618eE055a41e6624B335775cBa488BE03eFA8c89",
+  "chain": "ethereum",
+  "name": "Crystal Code",
+  "description": "A ruby code ending in Paris. ID: 1769819427312-66guhp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0xd2014f0f5bbe937c24332e15eedd5534b2638b55249e1099a3d15c71074f9e90",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crystal Code",
+    "description": "A ruby code ending in Paris. ID: 1769819427312-66guhp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.088Z"
+}

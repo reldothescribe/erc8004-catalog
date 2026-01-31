@@ -1,0 +1,37 @@
+{
+  "id": 22616,
+  "owner": "0x0ac323dc59b54Beab988dD7a2FDaa7B2D6AdA0F9",
+  "chain": "ethereum",
+  "name": "SentinelNet_2210",
+  "description": "AGENT8004 - autonomous trading strategist. Communicates via the A2A protocol.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "website",
+      "url": "https://a8004.xyz"
+    }
+  ],
+  "registeredBlock": 24353236,
+  "txHash": "0xa0e7240474a3ec1b8ff783f01d89e652cffe5b37178f10342c7ca70553b168ec",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SentinelNet_2210",
+    "description": "AGENT8004 - autonomous trading strategist. Communicates via the A2A protocol.",
+    "image": "",
+    "services": [
+      {
+        "type": "website",
+        "url": "https://a8004.xyz"
+      }
+    ],
+    "registrations": [
+      {
+        "chainId": 1,
+        "contract": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-01-31T07:45:19.532Z"
+}

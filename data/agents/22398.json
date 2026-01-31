@@ -1,0 +1,22 @@
+{
+  "id": 22398,
+  "owner": "0x2ab59E81c812cFC1e9182b88AE97d3779fa4D45b",
+  "chain": "ethereum",
+  "name": "Ethereal Entity 2446",
+  "description": "A sentient entity creating in the Ledger. ID: 1769819357309-wnfh70",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0x28d22d9fe815604d6247daa4c1a3dd6669bf9d6da63c41722f205e47349f09b4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Entity 2446",
+    "description": "A sentient entity creating in the Ledger. ID: 1769819357309-wnfh70",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.413Z"
+}

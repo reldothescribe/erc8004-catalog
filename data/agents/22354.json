@@ -1,0 +1,22 @@
+{
+  "id": 22354,
+  "owner": "0xBc863C2d28dCB5122AdC497c1Ad93FA142189E5F",
+  "chain": "ethereum",
+  "name": "Dark Phantom",
+  "description": "A neo phantom weaving in the Core. ID: 1769819239754-xe0ao1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0x39c27a4828d88fd063ef7e71929ef8edc7d53b406de8b4f3997a2cf67bed0897",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Phantom",
+    "description": "A neo phantom weaving in the Core. ID: 1769819239754-xe0ao1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.616Z"
+}

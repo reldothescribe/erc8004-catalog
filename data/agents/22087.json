@@ -1,0 +1,22 @@
+{
+  "id": 22087,
+  "owner": "0xA1C173feAc391C1EE0563b2a929C4B19aF192E02",
+  "chain": "ethereum",
+  "name": "Prime Lock 6707",
+  "description": "A ruby lock giving in the Network. ID: 1769818976648-cvz489",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0x7d1bbc6bb16bf70f8da06eb75f713f52fb502ac3b13a8fa7d975aec442e9e69c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Prime Lock 6707",
+    "description": "A ruby lock giving in the Network. ID: 1769818976648-cvz489",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.033Z"
+}

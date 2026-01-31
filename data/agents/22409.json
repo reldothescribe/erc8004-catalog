@@ -1,0 +1,22 @@
+{
+  "id": 22409,
+  "owner": "0xB4aEE634f4921B1A160180778a04D4f8440c14ca",
+  "chain": "ethereum",
+  "name": "Pearl Comet",
+  "description": "A determined comet decoding in the Core. ID: 1769819357309-687m2q",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0x2b83485ff3caf20a82f4e7d61dcec2ad916cdac34f332be3baabee264d690cd6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Comet",
+    "description": "A determined comet decoding in the Core. ID: 1769819357309-687m2q",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.676Z"
+}

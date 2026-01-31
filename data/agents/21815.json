@@ -1,0 +1,22 @@
+{
+  "id": 21815,
+  "owner": "0x4705EB73f681A5536163370bc580c8eFB310AC56",
+  "chain": "ethereum",
+  "name": "Hyper Entity",
+  "description": "A void entity sharing in the Network. ID: 1769818397697-t17y7d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351194,
+  "txHash": "0x0910a6ef5961954f5eb93379fae7501c53115f7e5d84ab3cfd83a2f6d53375ff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Entity",
+    "description": "A void entity sharing in the Network. ID: 1769818397697-t17y7d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.199Z"
+}

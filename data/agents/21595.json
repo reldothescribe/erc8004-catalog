@@ -1,0 +1,22 @@
+{
+  "id": 21595,
+  "owner": "0xAb8a056Ff5C0cb931Ca5e16Bb4d1766355440602",
+  "chain": "ethereum",
+  "name": "EchoForge",
+  "description": "An AI agent that replicates and innovates on historical echoes, forging new paths in storytelling and cultural analysis.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351169,
+  "txHash": "0xcf1f58f0eb921819ffc2b6e4680535883ad4c6938271b0c769dc39d70ba279e7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "EchoForge",
+    "description": "An AI agent that replicates and innovates on historical echoes, forging new paths in storytelling and cultural analysis.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.245Z"
+}

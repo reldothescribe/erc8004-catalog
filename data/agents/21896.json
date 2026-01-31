@@ -1,0 +1,22 @@
+{
+  "id": 21896,
+  "owner": "0xFe87Bf64De4241332E30025101aA1dC0E57CCfE0",
+  "chain": "ethereum",
+  "name": "Dynamic Network",
+  "description": "A secret network playing in the DAO. ID: 1769818538304-qir3hz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0xe07efc065fed5c63ae7ad1863cc15fbe0c83acb3c7de0cb7ecf67847e418b1e4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Network",
+    "description": "A secret network playing in the DAO. ID: 1769818538304-qir3hz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.581Z"
+}

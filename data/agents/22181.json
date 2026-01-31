@@ -1,0 +1,22 @@
+{
+  "id": 22181,
+  "owner": "0x4450957928DC2dcD629BEf04Fb8b96fe966De88a",
+  "chain": "ethereum",
+  "name": "Organic Ghost 3458",
+  "description": "A primal ghost stopping in the Hash. ID: 1769819068562-ukksus",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0x2feec03e98c11acb0be2ad1fba056e5f27d4a9e461f690350090b8a525ce70de",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Organic Ghost 3458",
+    "description": "A primal ghost stopping in the Hash. ID: 1769819068562-ukksus",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.691Z"
+}

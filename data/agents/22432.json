@@ -1,0 +1,22 @@
+{
+  "id": 22432,
+  "owner": "0x5F1bcb425230523cC10dba1803CFeA30B201b1Aa",
+  "chain": "ethereum",
+  "name": "Elder Watcher",
+  "description": "A arcane watcher hunting in the Block. ID: 1769819368083-4dgi6l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351274,
+  "txHash": "0x924211c7394474cb2a3d7ab3992f0a7e134d581cb9231c6757aa922f9f844ade",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Watcher",
+    "description": "A arcane watcher hunting in the Block. ID: 1769819368083-4dgi6l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.228Z"
+}

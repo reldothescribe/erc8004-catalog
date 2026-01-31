@@ -1,0 +1,22 @@
+{
+  "id": 22120,
+  "owner": "0x5F1bcb425230523cC10dba1803CFeA30B201b1Aa",
+  "chain": "ethereum",
+  "name": "Infinite Astral Forge",
+  "description": "A astral forge creating in the Network. ID: 1769818994303-gr36mv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0x46895ad4e542bf172bbf5e6517b62486a4b4720f71b76e17d02d22e2a541b534",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Astral Forge",
+    "description": "A astral forge creating in the Network. ID: 1769818994303-gr36mv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.647Z"
+}

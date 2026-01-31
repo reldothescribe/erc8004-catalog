@@ -1,0 +1,22 @@
+{
+  "id": 21991,
+  "owner": "0x05866b654F37a899A2DcB92694E61e63D788f376",
+  "chain": "ethereum",
+  "name": "Ageless Droid",
+  "description": "A jade droid sleeping in Andromeda. ID: 1769818703329-vb9mly",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351219,
+  "txHash": "0x1d8bdbac320925a2ba770325c51988e2d81cea9efa842dffdfbf18c9705634a4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ageless Droid",
+    "description": "A jade droid sleeping in Andromeda. ID: 1769818703329-vb9mly",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.188Z"
+}

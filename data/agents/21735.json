@@ -1,0 +1,22 @@
+{
+  "id": 21735,
+  "owner": "0x0821772b2e8a5C97D8Cac86c9D099e21961471c7",
+  "chain": "ethereum",
+  "name": "Swift Synthetic Mountain",
+  "description": "A synthetic mountain starting in the Unknown. ID: 1769818273684-czduin",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x6e60e1f8cf8c1ff536dd4def05af7550c01852dd496b149859f972e128a46467",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Synthetic Mountain",
+    "description": "A synthetic mountain starting in the Unknown. ID: 1769818273684-czduin",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.609Z"
+}

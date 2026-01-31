@@ -1,0 +1,22 @@
+{
+  "id": 21951,
+  "owner": "0x7378E5B0C65cad62cF3Be414551F4a8451dA4c19",
+  "chain": "ethereum",
+  "name": "Void Sun",
+  "description": "A bounded sun crafting in the Frontier. ID: 1769818577400-nff1ts",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351208,
+  "txHash": "0x33b90c179681dc065265279a9b6dfb2655e8eda90aff958b2eb5e1549a160457",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Void Sun",
+    "description": "A bounded sun crafting in the Frontier. ID: 1769818577400-nff1ts",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.658Z"
+}

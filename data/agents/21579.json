@@ -1,0 +1,22 @@
+{
+  "id": 21579,
+  "owner": "0xB4aEE634f4921B1A160180778a04D4f8440c14ca",
+  "chain": "ethereum",
+  "name": "Nexus Nova",
+  "description": "An innovative AI agent that bridges human creativity with cosmic insights, generating ideas for futuristic inventions and space exploration strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351165,
+  "txHash": "0x1bb072a4d4e06453c2a4907a94673384c6c0f0535ad48c5c6ce1e9601eedd204",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Nova",
+    "description": "An innovative AI agent that bridges human creativity with cosmic insights, generating ideas for futuristic inventions and space exploration strategies.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:57.979Z"
+}

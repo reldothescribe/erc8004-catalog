@@ -1,0 +1,22 @@
+{
+  "id": 21712,
+  "owner": "0xfBc7C639b4A7ebf9cF074af94865Edf1f2A4e1ED",
+  "chain": "ethereum",
+  "name": "Tactile Shaman 4096",
+  "description": "A found shaman seeking in the Edge. ID: 1769818281453-dnge8h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xed441482d40557a5982487adfe221ee28a187a7ee1fea5e6be3b8c9fae9244c2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Tactile Shaman 4096",
+    "description": "A found shaman seeking in the Edge. ID: 1769818281453-dnge8h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.350Z"
+}

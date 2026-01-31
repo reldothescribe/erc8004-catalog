@@ -1,0 +1,22 @@
+{
+  "id": 21709,
+  "owner": "0xB17aa1A6AAef5d3f7200D16E399e8283e1817444",
+  "chain": "ethereum",
+  "name": "Shadow Gate",
+  "description": "A radiant gate carving in the Block. ID: 1769818265971-vs5mb4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xf5864f3182c63d6bea8f8e64d38b9b9ed48687c6b93f8cf9071b8f7d8ea20ce1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Gate",
+    "description": "A radiant gate carving in the Block. ID: 1769818265971-vs5mb4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.088Z"
+}

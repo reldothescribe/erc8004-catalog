@@ -1,0 +1,22 @@
+{
+  "id": 22489,
+  "owner": "0x61cce3c790be8261D98998004F38DD247BC438d0",
+  "chain": "ethereum",
+  "name": "Radiant Way 9315",
+  "description": "A solar way keeping in the Summit. ID: 1769819420322-oskdtx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0x3b58c18d33c0b3123a838904fc71a64bd1d052a6a112fc23bef1bc7e11c3c88f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Way 9315",
+    "description": "A solar way keeping in the Summit. ID: 1769819420322-oskdtx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.497Z"
+}

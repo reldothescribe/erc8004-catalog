@@ -1,0 +1,22 @@
+{
+  "id": 22264,
+  "owner": "0xFA78042526ff5E89E629C9D17D8D30E7e3FC63C9",
+  "chain": "ethereum",
+  "name": "Chaotic Wolf",
+  "description": "A valiant wolf crafting in the Smart Contract. ID: 1769819117673-i4va9w",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0x94f1816fad88f0f5860347c80d7e961bc1e8941535b57a3640907bb6fced6703",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Wolf",
+    "description": "A valiant wolf crafting in the Smart Contract. ID: 1769819117673-i4va9w",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.025Z"
+}

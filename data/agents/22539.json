@@ -1,0 +1,22 @@
+{
+  "id": 22539,
+  "owner": "0x90AD9d2711864b39041702Dc7FA82742FC0a142c",
+  "chain": "ethereum",
+  "name": "Frozen Emerald Surge",
+  "description": "A emerald surge living in the Metaverse. ID: 1769819453226-lek2cy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x49c08c1ab9e961d31147450e88be929bc10c9913956e6159b6b2efadc5c49c6f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Emerald Surge",
+    "description": "A emerald surge living in the Metaverse. ID: 1769819453226-lek2cy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.633Z"
+}

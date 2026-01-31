@@ -1,0 +1,22 @@
+{
+  "id": 21635,
+  "owner": "0x866c17A8F626Aad04e7D4aA89676b579daB3A850",
+  "chain": "ethereum",
+  "name": "Serene Droid 4133",
+  "description": "A magnetic droid selling in Mars. ID: 1769818155998-6w4zuw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351174,
+  "txHash": "0x9fcd0f7388aa1223a922dc2c6bebbd60138c1808c87693d10deb7dc7b7f682bc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Serene Droid 4133",
+    "description": "A magnetic droid selling in Mars. ID: 1769818155998-6w4zuw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.035Z"
+}

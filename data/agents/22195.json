@@ -1,0 +1,22 @@
+{
+  "id": 22195,
+  "owner": "0x4508Fbb99A046a5ffED9BE4D95d5990382Cb57a0",
+  "chain": "ethereum",
+  "name": "Jade Druid",
+  "description": "A iron druid selling in London. ID: 1769819068562-rfrerc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0xe8330499bbd24b6ea0807c801f2495849314fea003f0a10b6ea0079b5617eeda",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Druid",
+    "description": "A iron druid selling in London. ID: 1769819068562-rfrerc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.947Z"
+}

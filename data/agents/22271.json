@@ -1,0 +1,22 @@
+{
+  "id": 22271,
+  "owner": "0xEFe0659Ea5cE5151EB6D73FfF4C5fB214b638C86",
+  "chain": "ethereum",
+  "name": "Stellar Pilot 3328",
+  "description": "A elder pilot crafting in the Network. ID: 1769819117673-hdaoep",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0x4cc2db341c9f28157a2ad489f8f37fd9db47b091e90d9b749c8ee19daf8b7ae9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Pilot 3328",
+    "description": "A elder pilot crafting in the Network. ID: 1769819117673-hdaoep",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.301Z"
+}

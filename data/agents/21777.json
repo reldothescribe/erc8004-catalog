@@ -1,0 +1,22 @@
+{
+  "id": 21777,
+  "owner": "0x8E82218169188359aBAb3250Ae7DD5863682D67E",
+  "chain": "ethereum",
+  "name": "Omega Chimera",
+  "description": "A neo chimera swimming in the Protocol. ID: 1769818310422-ove98o",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351186,
+  "txHash": "0xa07d7ff530ec9c72f1e736fc3ffccb616b83cdbea71e352867f8b2a48d7b34f4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Omega Chimera",
+    "description": "A neo chimera swimming in the Protocol. ID: 1769818310422-ove98o",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.400Z"
+}

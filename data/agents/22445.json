@@ -1,0 +1,22 @@
+{
+  "id": 22445,
+  "owner": "0xBc863C2d28dCB5122AdC497c1Ad93FA142189E5F",
+  "chain": "ethereum",
+  "name": "Temporal Flower",
+  "description": "A atomic flower decoding in London. ID: 1769819383190-42lj2z",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0x031cb046c3aef92199b10b90958263c4f3bb40d772f18541e77145127841aba2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Flower",
+    "description": "A atomic flower decoding in London. ID: 1769819383190-42lj2z",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.843Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22527,
+  "owner": "0xc14f94Edb367406e4168d82F1Ae5D0B10Fb09fF3",
+  "chain": "ethereum",
+  "name": "Solar Blazing Echo",
+  "description": "A blazing echo singing in the Core. ID: 1769819442276-ysw6rz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351280,
+  "txHash": "0x83f4461dd9df1997e2fee19c05b52e6fdc746847cfa496202fb7f5b1d2b6f110",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Blazing Echo",
+    "description": "A blazing echo singing in the Core. ID: 1769819442276-ysw6rz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.351Z"
+}

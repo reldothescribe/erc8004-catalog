@@ -1,0 +1,22 @@
+{
+  "id": 22216,
+  "owner": "0xFBeEd73B503dE3347578e163Dd33bf219B5e1b6b",
+  "chain": "ethereum",
+  "name": "Autonomous Phantom 7186",
+  "description": "A infinite phantom crafting in the Center. ID: 1769819090686-cozot5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0x3008315e6f7618843a734e88f59748d4987e48821e51ae55f69e88a7c818ffdf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Phantom 7186",
+    "description": "A infinite phantom crafting in the Center. ID: 1769819090686-cozot5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.218Z"
+}

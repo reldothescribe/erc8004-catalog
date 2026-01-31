@@ -1,0 +1,22 @@
+{
+  "id": 22204,
+  "owner": "0xB4aEE634f4921B1A160180778a04D4f8440c14ca",
+  "chain": "ethereum",
+  "name": "Golden Druid 1093",
+  "description": "A jade druid swimming in the Ledger. ID: 1769819079584-x9m8ve",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0xe8cb2c7dd819bd918fbe15e379861791104cad9ff0c93da2e447e69e1ec1093e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Druid 1093",
+    "description": "A jade druid swimming in the Ledger. ID: 1769819079584-x9m8ve",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.946Z"
+}

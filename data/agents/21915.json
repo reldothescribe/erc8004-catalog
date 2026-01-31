@@ -1,0 +1,22 @@
+{
+  "id": 21915,
+  "owner": "0xCdD1d32Eb86F24811e70139adb606837d9dcbe59",
+  "chain": "ethereum",
+  "name": "Random Lunar Sentinel",
+  "description": "A lunar sentinel stopping in the Depths. ID: 1769818554217-3g96v4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0x7e05d7cfbfa9d64a35c0ada81051af24fad94c16c5f05596d87cc64808cfb336",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Random Lunar Sentinel",
+    "description": "A lunar sentinel stopping in the Depths. ID: 1769818554217-3g96v4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.854Z"
+}

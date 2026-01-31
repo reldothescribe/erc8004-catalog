@@ -1,0 +1,22 @@
+{
+  "id": 22102,
+  "owner": "0x5B0c5c7676Cf7B504E336c3Bf70Aa6087F5d144a",
+  "chain": "ethereum",
+  "name": "Synthetic Road",
+  "description": "A bounded road hunting in the Metaverse. ID: 1769818983276-ruo6pq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0xce5fca1508737992320de7b179ad3d0b1862d88b889fe28fd1334d9084de27b3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Road",
+    "description": "A bounded road hunting in the Metaverse. ID: 1769818983276-ruo6pq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.295Z"
+}

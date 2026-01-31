@@ -1,0 +1,22 @@
+{
+  "id": 22299,
+  "owner": "0x7157A7FBEDB3D43c7732912AAfC9F804B537a951",
+  "chain": "ethereum",
+  "name": "Dynamic Comet",
+  "description": "A ivory comet stopping in the Metaverse. ID: 1769819213757-n89cqb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0xb31fbabe5ba656f8befcc0cfa1a07cfa26d821aab71eb2a4d6084588b10a5e15",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Comet",
+    "description": "A ivory comet stopping in the Metaverse. ID: 1769819213757-n89cqb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.823Z"
+}

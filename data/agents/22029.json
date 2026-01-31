@@ -1,0 +1,22 @@
+{
+  "id": 22029,
+  "owner": "0x1Ca6b79e61748259568e69133B5D71b2D89e2cF2",
+  "chain": "ethereum",
+  "name": "Primal Cipher",
+  "description": "A crypto cipher decoding in the DAO. ID: 1769818730240-ds78jz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0x73e0567ff9d0087aa62a33172f5fbec4165f97bece2faa67a4671e252adac2fe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Cipher",
+    "description": "A crypto cipher decoding in the DAO. ID: 1769818730240-ds78jz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.979Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22512,
+  "owner": "0xAb8a056Ff5C0cb931Ca5e16Bb4d1766355440602",
+  "chain": "ethereum",
+  "name": "Silent Hunter",
+  "description": "A valiant hunter selling in DeFi. ID: 1769819427312-lgddxl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0x9a15235741928199d3eb3f14b261c8caa8e4344221931b6e3ca34ea6e17c5159",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Hunter",
+    "description": "A valiant hunter selling in DeFi. ID: 1769819427312-lgddxl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.091Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22083,
+  "owner": "0x4450957928DC2dcD629BEf04Fb8b96fe966De88a",
+  "chain": "ethereum",
+  "name": "Dynamic Nebula 2556",
+  "description": "A quantum nebula singing in Saturn. ID: 1769818976648-s2ja4i",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0xd0a93df5140dbc8a58a11f51244adb0c49ed40206ba3dc14f9e54d232de1d88e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Nebula 2556",
+    "description": "A quantum nebula singing in Saturn. ID: 1769818976648-s2ja4i",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.777Z"
+}

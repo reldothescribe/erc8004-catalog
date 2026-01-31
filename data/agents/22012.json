@@ -1,0 +1,22 @@
+{
+  "id": 22012,
+  "owner": "0xA6aC55382C7C6eD15783e93629907Cf650E5b696",
+  "chain": "ethereum",
+  "name": "Elder Golem",
+  "description": "A pearl golem giving in the Boundary. ID: 1769818719156-35ehew",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0x65367e9191228a75eab58e0bd0303ac8e4b735a3ea11a9be08fd92f595b9db30",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Golem",
+    "description": "A pearl golem giving in the Boundary. ID: 1769818719156-35ehew",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.712Z"
+}

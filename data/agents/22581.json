@@ -1,0 +1,25 @@
+{
+  "id": 22581,
+  "owner": "0x0d6E1ceb4159F0fD4Fe94D35968EA4270d553F35",
+  "chain": "ethereum",
+  "name": "Bitcoin",
+  "description": "\"Bitcoin\" network and its public blockchain data. The agent processes on-chain metrics, network statistics, and historical market data to generate analytical summaries, visual insights, and contextual explanations.\nThe agent operates by ingesting publicly available data sources and applying deterministic and AI-assisted analysis methods to identify trends, patterns, and observable network behavior. Outputs may include transaction activity overviews, fee dynamics, mining and hash rate indicators, liquidity observations, and time-series comparisons.\nUsers interact with the agent through direct queries and structured requests. The agent responds with machine-generated analysis intended for research, monitoring, and educational purposes. It does not execute transactions, custody assets, or act on behalf of users beyond data processing and response generation.\nAll outputs are informational in nature and do not constitute financial, legal, or investment advice. The agent functions within predefined capabilities and publishes its services transparently in accordance with the ERC-8004 registry specification.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351388,
+  "txHash": "0xbf54806bcfdc66e138dfe7cbb4e675471e5d3d7f01480920f22aa11ecaee005b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Bitcoin",
+    "description": "\"Bitcoin\" network and its public blockchain data. The agent processes on-chain metrics, network statistics, and historical market data to generate analytical summaries, visual insights, and contextual explanations.\nThe agent operates by ingesting publicly available data sources and applying deterministic and AI-assisted analysis methods to identify trends, patterns, and observable network behavior. Outputs may include transaction activity overviews, fee dynamics, mining and hash rate indicators, liquidity observations, and time-series comparisons.\nUsers interact with the agent through direct queries and structured requests. The agent responds with machine-generated analysis intended for research, monitoring, and educational purposes. It does not execute transactions, custody assets, or act on behalf of users beyond data processing and response generation.\nAll outputs are informational in nature and do not constitute financial, legal, or investment advice. The agent functions within predefined capabilities and publishes its services transparently in accordance with the ERC-8004 registry specification.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T07:45:16.453Z"
+}

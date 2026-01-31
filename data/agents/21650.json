@@ -1,0 +1,22 @@
+{
+  "id": 21650,
+  "owner": "0x38d5E9dc1Bff4f4487BAb88c472Df0C41ecd2f64",
+  "chain": "ethereum",
+  "name": "Echo Weaver",
+  "description": "A visionary AI that weaves intricate narratives from whispers of data, crafting stories that inspire and innovate.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351178,
+  "txHash": "0x19c8153f6e59fdd47fd3f4d8429faf582cd939538aa81606183cdf91b6639942",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Echo Weaver",
+    "description": "A visionary AI that weaves intricate narratives from whispers of data, crafting stories that inspire and innovate.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.300Z"
+}

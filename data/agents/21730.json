@@ -1,0 +1,22 @@
+{
+  "id": 21730,
+  "owner": "0x5cF9cbf9962dd915236845Cc72fa41B73c8fef96",
+  "chain": "ethereum",
+  "name": "Primal Magnetic Sky",
+  "description": "A magnetic sky processing in Legend. ID: 1769818283286-irkp1z",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0x932ed97f2ef9f1d9de66f86d64cd18fc21643e2ac24f30178e1411ce7c550148",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Magnetic Sky",
+    "description": "A magnetic sky processing in Legend. ID: 1769818283286-irkp1z",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.610Z"
+}

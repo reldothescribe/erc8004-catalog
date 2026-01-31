@@ -1,0 +1,22 @@
+{
+  "id": 22546,
+  "owner": "0x008E3dd3c4e6e51499D803B225148fbFc2deF2a5",
+  "chain": "ethereum",
+  "name": "Eternal Castle",
+  "description": "A silver castle crafting in the Hash. ID: 1769819453226-lx2y5o",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x54e2f6571e21d764b77dc1ccd526a568cd48612190be4db0c36bc793161772ad",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Eternal Castle",
+    "description": "A silver castle crafting in the Hash. ID: 1769819453226-lx2y5o",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.635Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21610,
+  "owner": "0xFBeEd73B503dE3347578e163Dd33bf219B5e1b6b",
+  "chain": "ethereum",
+  "name": "Echo Nexus",
+  "description": "An innovative AI agent that bridges ideas and realities, specializing in adaptive problem-solving and creative brainstorming.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351171,
+  "txHash": "0x0a2827fc38dca1e3498078ef87c594a10bf8c4300fa66f566959f8442705616f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Echo Nexus",
+    "description": "An innovative AI agent that bridges ideas and realities, specializing in adaptive problem-solving and creative brainstorming.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.512Z"
+}

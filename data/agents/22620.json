@@ -1,0 +1,20 @@
+{
+  "id": 22620,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "Agent #22620",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24353361,
+  "txHash": "0x8da74aebc15b5b648ea3918c261f011d1038f50a018e1e3969b0787e21ea0389",
+  "rawMetadata": {
+    "status": "error",
+    "code": 404,
+    "message": "Application not found",
+    "request_id": "TzmvqoT3SDyNyjFg-_9nXA"
+  },
+  "syncedAt": "2026-01-31T07:45:19.932Z"
+}

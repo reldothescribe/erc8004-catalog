@@ -1,0 +1,22 @@
+{
+  "id": 21830,
+  "owner": "0xaf39b41c30A8feAC07CcCa6dA522B67ea73DD2a7",
+  "chain": "ethereum",
+  "name": "Jade Neo Pilot",
+  "description": "A neo pilot protecting in Pluto. ID: 1769818432833-0kx94q",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351196,
+  "txHash": "0x39904bd96dc26698093b9affd2693b2c7c4f3960034091e3e4a87c9c7bdf9451",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Neo Pilot",
+    "description": "A neo pilot protecting in Pluto. ID: 1769818432833-0kx94q",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.482Z"
+}

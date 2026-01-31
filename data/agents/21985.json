@@ -1,0 +1,22 @@
+{
+  "id": 21985,
+  "owner": "0x5BC33fad7C8469cA946DdBB5398A422CFeFC15A2",
+  "chain": "ethereum",
+  "name": "Phantom Digital Path",
+  "description": "A digital path healing in Myth. ID: 1769818703329-wfxyif",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351219,
+  "txHash": "0xb56db00d114478f9301f8f99a318b06d0e3e82d6eeda2889e2ed3c8099d809d4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Digital Path",
+    "description": "A digital path healing in Myth. ID: 1769818703329-wfxyif",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.188Z"
+}

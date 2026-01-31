@@ -1,0 +1,22 @@
+{
+  "id": 22375,
+  "owner": "0xB288B858A7D990804Ed02D41e62f70b0087e4bA3",
+  "chain": "ethereum",
+  "name": "Frozen Moon",
+  "description": "A liquid moon taking in Saturn. ID: 1769819252754-ipted0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0xa6cf87f6606b5405a57105af36e3f49965b10854cb33f6a107a42824938843fb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Moon",
+    "description": "A liquid moon taking in Saturn. ID: 1769819252754-ipted0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.155Z"
+}

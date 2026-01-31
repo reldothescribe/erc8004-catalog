@@ -1,0 +1,22 @@
+{
+  "id": 21611,
+  "owner": "0x5660005B3F86Dd339204E7091d7E387aacd7B5B8",
+  "chain": "ethereum",
+  "name": "Celestial Guardian",
+  "description": "A automated guardian taking in London. ID: 1769818122571-5ea75q",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351171,
+  "txHash": "0x681850ec0755909cbd50c286fc6ad4c10dbb66bd7cb1b66f682f4e097606025f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Celestial Guardian",
+    "description": "A automated guardian taking in London. ID: 1769818122571-5ea75q",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.508Z"
+}

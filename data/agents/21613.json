@@ -1,0 +1,22 @@
+{
+  "id": 21613,
+  "owner": "0xF18DbAD47db2c5C3bd41a8F30f62EE71a749D0b6",
+  "chain": "ethereum",
+  "name": "Primal Forge",
+  "description": "A phantom forge speaking in the Chain. ID: 1769818122571-ku40cu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351171,
+  "txHash": "0xd07686d6792304ac652c29787e2df426d95e5165f356d53b2f17055332eb1589",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Forge",
+    "description": "A phantom forge speaking in the Chain. ID: 1769818122571-ku40cu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.510Z"
+}

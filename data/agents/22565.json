@@ -1,0 +1,22 @@
+{
+  "id": 22565,
+  "owner": "0xFA78042526ff5E89E629C9D17D8D30E7e3FC63C9",
+  "chain": "ethereum",
+  "name": "Visual Lunar Network",
+  "description": "A lunar network watching in the Boundary. ID: 1769819464543-h974yw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351282,
+  "txHash": "0x7f27329d7875581cb4b3b71754b589900f0679546994c77fe9a223794282134c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Visual Lunar Network",
+    "description": "A lunar network watching in the Boundary. ID: 1769819464543-h974yw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:16.176Z"
+}

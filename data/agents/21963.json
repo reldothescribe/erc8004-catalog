@@ -1,0 +1,41 @@
+{
+  "id": 21963,
+  "owner": "0x7E4f11333Ebe5aEfdfa7526554B629acFA0bed0F",
+  "chain": "ethereum",
+  "name": "Clawd Test Bot",
+  "description": "A test agent registered via the register-8004 script to verify the registration flow works end-to-end.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://clawdbotatg.eth.limo"
+    },
+    {
+      "name": "ENS",
+      "endpoint": "clawdbotatg.eth"
+    }
+  ],
+  "registeredBlock": 24351212,
+  "txHash": "0x063d58410e80cc887f9e2c9605337eeb208c8c5fd2461ba9b24a6ed28113e56c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Clawd Test Bot",
+    "description": "A test agent registered via the register-8004 script to verify the registration flow works end-to-end.",
+    "image": "",
+    "active": true,
+    "x402Support": false,
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://clawdbotatg.eth.limo"
+      },
+      {
+        "name": "ENS",
+        "endpoint": "clawdbotatg.eth"
+      }
+    ]
+  },
+  "syncedAt": "2026-01-31T07:45:04.645Z"
+}

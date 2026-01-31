@@ -1,0 +1,22 @@
+{
+  "id": 22357,
+  "owner": "0xFA566AacDf4c970F9585EEd08Cf6F0f4423eCD2D",
+  "chain": "ethereum",
+  "name": "Meta Solar Guardian",
+  "description": "A solar guardian fighting in Saturn. ID: 1769819252754-xnu1az",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0xf1cc293d77d057161e62401e11abe0a10d67e0ba7edbecb452a4f0e9c5d157c5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Solar Guardian",
+    "description": "A solar guardian fighting in Saturn. ID: 1769819252754-xnu1az",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.869Z"
+}

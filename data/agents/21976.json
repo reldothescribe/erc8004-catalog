@@ -1,0 +1,22 @@
+{
+  "id": 21976,
+  "owner": "0x313be24CE4aC43337f796fA2406A16F39ff7ba9F",
+  "chain": "ethereum",
+  "name": "Elder Virtual Cipher",
+  "description": "A virtual cipher painting in Tokyo. ID: 1769818703328-ixjbac",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351219,
+  "txHash": "0xab9c7f78aff7677c685d7b47e39679a232c01c0cb8dcb144f3380884259c731c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Virtual Cipher",
+    "description": "A virtual cipher painting in Tokyo. ID: 1769818703328-ixjbac",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.922Z"
+}

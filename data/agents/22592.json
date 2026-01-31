@@ -1,0 +1,69 @@
+{
+  "id": 22592,
+  "owner": "0x28DC7073538Ea934DF4Ab2Ccc2ecf8B89cf3118d",
+  "chain": "ethereum",
+  "name": "SeedAI",
+  "description": "A social experiment about ERC-8004.Total supply:50,000.Claim 100 $SEED each time.",
+  "image": "https://blob.8004scan.app/a88026458d897e8b78b800020ea304ece58c7c2a358be440bad70cabe9ebd791.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "agent_orchestration/multi_agent_planning",
+        "analytical_skills/coding_skills/code_templates",
+        "analytical_skills/coding_skills/text_to_code",
+        "analytical_skills/mathematical_reasoning/geometry",
+        "images_computer_vision/image_generation",
+        "natural_language_processing/natural_language_generation/story_generation"
+      ],
+      "domains": [
+        "finance_and_business/consumer_goods",
+        "education/educational_technology",
+        "energy/smart_grids"
+      ]
+    }
+  ],
+  "registeredBlock": 24351772,
+  "txHash": "0xbe248b6d73212e09449af867e91533732ad3e17feea03dc08d350554563a992e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SeedAI",
+    "description": "A social experiment about ERC-8004.Total supply:50,000.Claim 100 $SEED each time.",
+    "image": "https://blob.8004scan.app/a88026458d897e8b78b800020ea304ece58c7c2a358be440bad70cabe9ebd791.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "agent_orchestration/multi_agent_planning",
+          "analytical_skills/coding_skills/code_templates",
+          "analytical_skills/coding_skills/text_to_code",
+          "analytical_skills/mathematical_reasoning/geometry",
+          "images_computer_vision/image_generation",
+          "natural_language_processing/natural_language_generation/story_generation"
+        ],
+        "domains": [
+          "finance_and_business/consumer_goods",
+          "education/educational_technology",
+          "energy/smart_grids"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T07:45:16.453Z"
+}

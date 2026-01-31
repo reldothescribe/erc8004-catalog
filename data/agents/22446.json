@@ -1,0 +1,22 @@
+{
+  "id": 22446,
+  "owner": "0x90AD9d2711864b39041702Dc7FA82742FC0a142c",
+  "chain": "ethereum",
+  "name": "Hidden Whale",
+  "description": "A celestial whale soaring in the Chain. ID: 1769819383190-5bw9jb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0xb947262b19893eef3ef15f0f9a6a8f17feed9e49c009c03e592e1cd3283cd884",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Whale",
+    "description": "A celestial whale soaring in the Chain. ID: 1769819383190-5bw9jb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.839Z"
+}

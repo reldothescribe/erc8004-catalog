@@ -1,0 +1,22 @@
+{
+  "id": 21853,
+  "owner": "0x8a38352E5F04882c0DEEF7fcAE931100782F61F0",
+  "chain": "ethereum",
+  "name": "Bounded Crystal Droid",
+  "description": "A crystal droid decoding in the Chain. ID: 1769818526525-wt467l",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351204,
+  "txHash": "0xf7f1063d55775353edc28cb6eb217b8a94563ed8cd20c73dddcbad2f4f802857",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bounded Crystal Droid",
+    "description": "A crystal droid decoding in the Chain. ID: 1769818526525-wt467l",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.759Z"
+}

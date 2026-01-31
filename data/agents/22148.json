@@ -1,0 +1,22 @@
+{
+  "id": 22148,
+  "owner": "0xd72101eEa716D5a341fF4618421D2C367B352b29",
+  "chain": "ethereum",
+  "name": "Blazing Phantom Lion",
+  "description": "A phantom lion exploring in Pluto. ID: 1769819009645-y1d7my",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351244,
+  "txHash": "0x4e429f6302e03a0b0ffa50b710979719c740d697bb57ca18aa0c5a7ab268db35",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Phantom Lion",
+    "description": "A phantom lion exploring in Pluto. ID: 1769819009645-y1d7my",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.169Z"
+}

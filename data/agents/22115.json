@@ -1,0 +1,22 @@
+{
+  "id": 22115,
+  "owner": "0x7a74e010bA634CD127f9700a6a855e816dd290dF",
+  "chain": "ethereum",
+  "name": "Galactic Crown",
+  "description": "A light crown climbing in Web3. ID: 1769818983276-vdc4vs",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0x5257a410a58ace7a52d4405c59cccbdc453dd6ac56ef428ec83921054b874ecc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Galactic Crown",
+    "description": "A light crown climbing in Web3. ID: 1769818983276-vdc4vs",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.644Z"
+}

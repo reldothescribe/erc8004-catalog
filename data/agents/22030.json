@@ -1,0 +1,22 @@
+{
+  "id": 22030,
+  "owner": "0x38cE982274cBc1db52F1E0a023D38070725860e3",
+  "chain": "ethereum",
+  "name": "Cyber Random Echo",
+  "description": "A random echo working in the Edge. ID: 1769818730240-8455xa",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0x30ee77ab5dbe32b9b1de16c50400b7c4b8aea1cd15521d67972ccff80585c7f4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cyber Random Echo",
+    "description": "A random echo working in the Edge. ID: 1769818730240-8455xa",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.979Z"
+}

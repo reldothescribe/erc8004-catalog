@@ -1,0 +1,22 @@
+{
+  "id": 22199,
+  "owner": "0x866c17A8F626Aad04e7D4aA89676b579daB3A850",
+  "chain": "ethereum",
+  "name": "Spectral Seeker 2844",
+  "description": "A emerald seeker watching in Space. ID: 1769819079584-55sxdq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0x47e2fdd6a7f29dc745067ef30a3c68e4fcdee4772c364ae4b2c3702eebd3b98f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Spectral Seeker 2844",
+    "description": "A emerald seeker watching in Space. ID: 1769819079584-55sxdq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.951Z"
+}

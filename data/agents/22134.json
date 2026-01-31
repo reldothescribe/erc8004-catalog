@@ -1,0 +1,22 @@
+{
+  "id": 22134,
+  "owner": "0xf7E5f52eca723df5986586b3d816dD89628bc580",
+  "chain": "ethereum",
+  "name": "Silent Ocean 7034",
+  "description": "A frozen ocean buying in Time. ID: 1769818994303-bvqhlr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0x4b614a2129a16ca90f4734f7066a275ebe5fd2c789b2c58f68c59b7d07a892e6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Ocean 7034",
+    "description": "A frozen ocean buying in Time. ID: 1769818994303-bvqhlr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.907Z"
+}

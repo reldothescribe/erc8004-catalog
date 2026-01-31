@@ -1,0 +1,22 @@
+{
+  "id": 22193,
+  "owner": "0x313be24CE4aC43337f796fA2406A16F39ff7ba9F",
+  "chain": "ethereum",
+  "name": "Pearl Droid",
+  "description": "A golden droid creating in the Core. ID: 1769819068562-6d4pwk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0x21f7454445ef48fffdb6f367a7502f73f20bf40fda6fb382316bac347be98389",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Droid",
+    "description": "A golden droid creating in the Core. ID: 1769819068562-6d4pwk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.949Z"
+}

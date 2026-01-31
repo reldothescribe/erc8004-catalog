@@ -1,0 +1,37 @@
+{
+  "id": 22075,
+  "owner": "0xf69157F85d8a2CF685C29D700Fcc365275A261eC",
+  "chain": "ethereum",
+  "name": "NovaAgent_6209",
+  "description": "AGENT8004 - gas price oracle. Operates 24/7 without downtime.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "website",
+      "url": "https://a8004.xyz"
+    }
+  ],
+  "registeredBlock": 24351234,
+  "txHash": "0x9a8965d69087144d41bc1d1521fa9db37565c4b54ecd55ae0241754020f4276e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NovaAgent_6209",
+    "description": "AGENT8004 - gas price oracle. Operates 24/7 without downtime.",
+    "image": "",
+    "services": [
+      {
+        "type": "website",
+        "url": "https://a8004.xyz"
+      }
+    ],
+    "registrations": [
+      {
+        "chainId": 1,
+        "contract": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-01-31T07:45:06.772Z"
+}

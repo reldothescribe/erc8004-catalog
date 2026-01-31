@@ -1,0 +1,22 @@
+{
+  "id": 22329,
+  "owner": "0x286ecb3B507E1d724b01218E98ff2b441c05159B",
+  "chain": "ethereum",
+  "name": "Iron Bard",
+  "description": "A elder bard falling in Mystery. ID: 1769819226757-772yhi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0x974d960547b0ef20a6e21acee69ba127add80a81be99ce5b2e17d51d8ee4e641",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Bard",
+    "description": "A elder bard falling in Mystery. ID: 1769819226757-772yhi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.344Z"
+}

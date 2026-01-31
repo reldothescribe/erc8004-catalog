@@ -1,0 +1,22 @@
+{
+  "id": 21839,
+  "owner": "0xFe61E882ddAFe6097Aca094670D7f3D57c11BEb7",
+  "chain": "ethereum",
+  "name": "Cosmic Tower 6408",
+  "description": "A ether tower exploring in the Past. ID: 1769818443956-87g084",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351200,
+  "txHash": "0x1639b488fa59718574bcc7420e90c940e49ebfd3a680e5b79ee80320bbad71b0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Tower 6408",
+    "description": "A ether tower exploring in the Past. ID: 1769818443956-87g084",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.468Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22068,
+  "owner": "0xfBc7C639b4A7ebf9cF074af94865Edf1f2A4e1ED",
+  "chain": "ethereum",
+  "name": "Crypto Key",
+  "description": "A ethereal key soaring in the Core. ID: 1769818757018-bwn8az",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351223,
+  "txHash": "0x464885f9c13de89434d8edaf3126249f3ebc3e042502a08093084afa34ae0195",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crypto Key",
+    "description": "A ethereal key soaring in the Core. ID: 1769818757018-bwn8az",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.514Z"
+}

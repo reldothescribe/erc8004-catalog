@@ -1,0 +1,22 @@
+{
+  "id": 21806,
+  "owner": "0x7DbCED054624Eeb56FF9B6808D0028043CD40F6a",
+  "chain": "ethereum",
+  "name": "Sonic Tempest 1312",
+  "description": "A divine tempest buying in the Hash. ID: 1769818373721-27ubpj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351192,
+  "txHash": "0xd24bc63624bf5edd86d85b7c36129fee4a87a67e40727db178dca6c0ae585e76",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Tempest 1312",
+    "description": "A divine tempest buying in the Hash. ID: 1769818373721-27ubpj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.930Z"
+}

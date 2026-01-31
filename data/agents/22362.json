@@ -1,0 +1,22 @@
+{
+  "id": 22362,
+  "owner": "0xc70cc9bcd938E2E19F9B502a39FB76FBa048Bfde",
+  "chain": "ethereum",
+  "name": "Tactile Flower",
+  "description": "A sentient flower painting in the Protocol. ID: 1769819252754-uxb73u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0x3c887d0371fca8a583ef24a502082f3360461482c398b3a642a1b47f726e1b54",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Tactile Flower",
+    "description": "A sentient flower painting in the Protocol. ID: 1769819252754-uxb73u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.894Z"
+}

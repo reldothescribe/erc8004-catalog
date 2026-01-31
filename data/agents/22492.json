@@ -1,0 +1,22 @@
+{
+  "id": 22492,
+  "owner": "0x265362F1A936DaCc8751d90b7DEE1cE2d98BDE47",
+  "chain": "ethereum",
+  "name": "Hidden Driver",
+  "description": "A onyx driver dreaming in the Void. ID: 1769819420322-yovcha",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0x3ce0edbde96d8cf3d99dcbf80b249bf08ae1ed91e305bb3605d22ae230ced4e0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Driver",
+    "description": "A onyx driver dreaming in the Void. ID: 1769819420322-yovcha",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.830Z"
+}

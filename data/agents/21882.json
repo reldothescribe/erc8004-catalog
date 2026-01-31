@@ -1,0 +1,22 @@
+{
+  "id": 21882,
+  "owner": "0xEFe0659Ea5cE5151EB6D73FfF4C5fB214b638C86",
+  "chain": "ethereum",
+  "name": "EchoForge",
+  "description": "An adaptive AI agent specializing in real-time data analysis and predictive modeling for business insights.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0x26a2d26441ccf6b054be731faf49a12bed47d5eadd7c04576a9712ce18cf7d7f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "EchoForge",
+    "description": "An adaptive AI agent specializing in real-time data analysis and predictive modeling for business insights.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.291Z"
+}

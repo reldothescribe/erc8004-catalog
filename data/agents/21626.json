@@ -1,0 +1,22 @@
+{
+  "id": 21626,
+  "owner": "0xaA3E3AD01b0dC5898aa2DC7B9579B5CE6DF5C828",
+  "chain": "ethereum",
+  "name": "Tactile Bard",
+  "description": "A hyper bard soaring in Myth. ID: 1769818144886-f6lfw2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351173,
+  "txHash": "0x6677b71d051b5942c86cafe9d3de13e643447d8ab5a9678a8eb0ba052296531a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Tactile Bard",
+    "description": "A hyper bard soaring in Myth. ID: 1769818144886-f6lfw2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.772Z"
+}

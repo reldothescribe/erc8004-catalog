@@ -1,0 +1,22 @@
+{
+  "id": 21673,
+  "owner": "0xaA3E3AD01b0dC5898aa2DC7B9579B5CE6DF5C828",
+  "chain": "ethereum",
+  "name": "Static Protocol 6337",
+  "description": "A visual protocol protecting in London. ID: 1769818256431-bzjdgm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x92022183644fb0cbc99a22845ed8bacf0e8ecd4f9ca525c245000a0ecf19e0f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Protocol 6337",
+    "description": "A visual protocol protecting in London. ID: 1769818256431-bzjdgm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.562Z"
+}

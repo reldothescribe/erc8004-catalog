@@ -1,0 +1,22 @@
+{
+  "id": 22523,
+  "owner": "0x0110b32b8FBc07A85EDf92159050b94D27F43287",
+  "chain": "ethereum",
+  "name": "Secret Wanderer",
+  "description": "A cognitive wanderer trading in the Block. ID: 1769819442276-3dfehm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351280,
+  "txHash": "0x22696a4b0dea04ce1b9adfd5f9bd63c79feb4561d8fbed2fbe797c9fb03d88cc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Wanderer",
+    "description": "A cognitive wanderer trading in the Block. ID: 1769819442276-3dfehm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.353Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22092,
+  "owner": "0x18a6719719e5E080c1708EfC553F3963b26C7f1B",
+  "chain": "ethereum",
+  "name": "Shadow Rogue",
+  "description": "A frozen rogue moving in Legend. ID: 1769818976648-xb49sp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0x5827e909208b7766df10017baaa91e93417095613c48b10899b4ad631a3d23e9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Rogue",
+    "description": "A frozen rogue moving in Legend. ID: 1769818976648-xb49sp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.032Z"
+}

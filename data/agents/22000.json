@@ -1,0 +1,22 @@
+{
+  "id": 22000,
+  "owner": "0x866c17A8F626Aad04e7D4aA89676b579daB3A850",
+  "chain": "ethereum",
+  "name": "Silent Visual Moon",
+  "description": "A visual moon starting in the Block. ID: 1769818719156-188q5w",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0x4010ef0f8d1bab983debd6795f1c8a297afa7bc55b38da5a08cb6cd755489880",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Visual Moon",
+    "description": "A visual moon starting in the Block. ID: 1769818719156-188q5w",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.452Z"
+}

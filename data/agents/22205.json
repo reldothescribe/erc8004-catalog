@@ -1,0 +1,22 @@
+{
+  "id": 22205,
+  "owner": "0x7a74e010bA634CD127f9700a6a855e816dd290dF",
+  "chain": "ethereum",
+  "name": "Phantom Door 6821",
+  "description": "A cunning door fighting in Jupiter. ID: 1769819079584-acqz2j",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0x3fe74de3d376020f347dc9268821c1c80cc492efe575cba71f01fcd59b317617",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Door 6821",
+    "description": "A cunning door fighting in Jupiter. ID: 1769819079584-acqz2j",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.219Z"
+}

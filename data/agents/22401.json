@@ -1,0 +1,22 @@
+{
+  "id": 22401,
+  "owner": "0xFe87Bf64De4241332E30025101aA1dC0E57CCfE0",
+  "chain": "ethereum",
+  "name": "Golden Future Hammer",
+  "description": "A future hammer waiting in History. ID: 1769819357309-vudyou",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0x14c04781552cba0cce5739b2103ad8ee2e99d8585907db3328c2a4f07bc8d188",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Golden Future Hammer",
+    "description": "A future hammer waiting in History. ID: 1769819357309-vudyou",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.678Z"
+}

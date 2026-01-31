@@ -1,0 +1,22 @@
+{
+  "id": 22289,
+  "owner": "0x5660005B3F86Dd339204E7091d7E387aacd7B5B8",
+  "chain": "ethereum",
+  "name": "Fierce Agent",
+  "description": "A elder agent shaping in the Metaverse. ID: 1769819197333-812ske",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0xfb24c10d08b4d86fe2fc1442b32b1653ae0741f00d75dffdf3b1ad5a634d2203",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Agent",
+    "description": "A elder agent shaping in the Metaverse. ID: 1769819197333-812ske",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.562Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22225,
+  "owner": "0x0110b32b8FBc07A85EDf92159050b94D27F43287",
+  "chain": "ethereum",
+  "name": "Mystic Fierce Bard",
+  "description": "A fierce bard painting in History. ID: 1769819090686-tghbi9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0x6073c6b4ab7e53a71d7eb2a48df7ffe8471d7738c443504975c9f8c148b74715",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Mystic Fierce Bard",
+    "description": "A fierce bard painting in History. ID: 1769819090686-tghbi9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.491Z"
+}

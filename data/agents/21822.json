@@ -1,0 +1,22 @@
+{
+  "id": 21822,
+  "owner": "0x30991119891193D2Cfb957A465339ffb5103ba88",
+  "chain": "ethereum",
+  "name": "Arcane Dolphin 7953",
+  "description": "A phantom dolphin carving in the Network. ID: 1769818421606-7jmi7g",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351195,
+  "txHash": "0x9209aaebb3480d0832836644a1e6e871321d6c73cdb9901a91424f69d585d2a3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Dolphin 7953",
+    "description": "A phantom dolphin carving in the Network. ID: 1769818421606-7jmi7g",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.201Z"
+}

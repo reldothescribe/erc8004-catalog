@@ -1,0 +1,22 @@
+{
+  "id": 22190,
+  "owner": "0xb735a50a35Cd9587FFF243aA6482156Df00E8183",
+  "chain": "ethereum",
+  "name": "Cunning Comet",
+  "description": "A dynamic comet swimming in Tokyo. ID: 1769819068562-w8uprk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0xb90847d7ee534b892f4bdebb6a0d12bbc25aebcd885e870331ef5f7a313fdcbc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Comet",
+    "description": "A dynamic comet swimming in Tokyo. ID: 1769819068562-w8uprk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.950Z"
+}

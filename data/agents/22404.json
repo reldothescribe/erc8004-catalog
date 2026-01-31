@@ -1,0 +1,22 @@
+{
+  "id": 22404,
+  "owner": "0x3911103ef15F32A1BF1F21561fD4699230ad6B90",
+  "chain": "ethereum",
+  "name": "Swift Oracle 604",
+  "description": "A liquid oracle gathering in Science. ID: 1769819357309-5xcgyd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0x953923e94bedbbba05f82c1b4c1ec378a7bff9dd91ddf569456b5f241dad44e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Oracle 604",
+    "description": "A liquid oracle gathering in Science. ID: 1769819357309-5xcgyd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.677Z"
+}

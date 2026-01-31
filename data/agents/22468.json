@@ -1,0 +1,22 @@
+{
+  "id": 22468,
+  "owner": "0xD107fe26d65292eADB87dB730A69262e806f45f8",
+  "chain": "ethereum",
+  "name": "Mystic Priest 4482",
+  "description": "A frozen priest weaving in New York. ID: 1769819395649-1opdtw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0x4e8d097baa7ac95d2705ae9e565415779c58d7671086617908ed9537965af4cc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Mystic Priest 4482",
+    "description": "A frozen priest weaving in New York. ID: 1769819395649-1opdtw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.174Z"
+}

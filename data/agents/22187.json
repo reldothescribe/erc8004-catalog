@@ -1,0 +1,22 @@
+{
+  "id": 22187,
+  "owner": "0xe95A9d36f454ACEae2b5d3c2452e075AF592dA2e",
+  "chain": "ethereum",
+  "name": "Bounded Entity",
+  "description": "A visual entity losing in the Hash. ID: 1769819068562-n5y2vi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0x09bc204a2bd4778d21daec0d749838e219a6d1f97d8da6484a6726aa2679922b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bounded Entity",
+    "description": "A visual entity losing in the Hash. ID: 1769819068562-n5y2vi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.687Z"
+}

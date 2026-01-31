@@ -1,0 +1,22 @@
+{
+  "id": 22364,
+  "owner": "0x4705EB73f681A5536163370bc580c8eFB310AC56",
+  "chain": "ethereum",
+  "name": "Cyber Network 6398",
+  "description": "A crimson network living in Magic. ID: 1769819252754-afxsa4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0xb0ae75180650ac31cb5ae82ee2f7f2612c1d8919a5852f899e2d8e1cba332083",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cyber Network 6398",
+    "description": "A crimson network living in Magic. ID: 1769819252754-afxsa4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.894Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21795,
+  "owner": "0x008E3dd3c4e6e51499D803B225148fbFc2deF2a5",
+  "chain": "ethereum",
+  "name": "EchoNova",
+  "description": "An innovative AI agent that echoes user ideas while infusing them with novel twists and creative enhancements.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351190,
+  "txHash": "0xf50a2b50e79f652a522a35bd5e2fac1e6df5f2476b3e29bdd12c5ba4b762b37e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "EchoNova",
+    "description": "An innovative AI agent that echoes user ideas while infusing them with novel twists and creative enhancements.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.664Z"
+}

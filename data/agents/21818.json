@@ -1,0 +1,22 @@
+{
+  "id": 21818,
+  "owner": "0x7719A6657e70d01867BABF5bEd938c24D9C81a32",
+  "chain": "ethereum",
+  "name": "Echo Nexus",
+  "description": "An AI agent that specializes in real-time translation and cultural adaptation, bridging languages and fostering global communication with intuitive context awareness.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351195,
+  "txHash": "0x202b645322bd421cd4b757a8001b5c53b5acb6c6af2a22462672870d46426c1c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Echo Nexus",
+    "description": "An AI agent that specializes in real-time translation and cultural adaptation, bridging languages and fostering global communication with intuitive context awareness.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.203Z"
+}

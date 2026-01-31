@@ -1,0 +1,22 @@
+{
+  "id": 22023,
+  "owner": "0x93757849C8365629BC56a67aFAc51ea8569eA683",
+  "chain": "ethereum",
+  "name": "Quantum Infernal Wolf",
+  "description": "A infernal wolf taking in Myth. ID: 1769818730240-crvl9d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0xe7cb6495f24829efc128dd4091f333a3f27e4131f1deb9e4e312bbe77b6287c3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Quantum Infernal Wolf",
+    "description": "A infernal wolf taking in Myth. ID: 1769818730240-crvl9d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.721Z"
+}

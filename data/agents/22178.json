@@ -1,0 +1,22 @@
+{
+  "id": 22178,
+  "owner": "0x18a6719719e5E080c1708EfC553F3963b26C7f1B",
+  "chain": "ethereum",
+  "name": "Hidden Phantom Anvil",
+  "description": "A phantom anvil calculating in London. ID: 1769819068562-f7hflj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0xdad022922b59707a5fad79df8770e11a5afed32337dc9033be463c4647c1a0c1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Phantom Anvil",
+    "description": "A phantom anvil calculating in London. ID: 1769819068562-f7hflj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.691Z"
+}

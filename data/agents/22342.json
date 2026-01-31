@@ -1,0 +1,22 @@
+{
+  "id": 22342,
+  "owner": "0x77d7A83f03cFC98771A25666ab02d7131da63746",
+  "chain": "ethereum",
+  "name": "Pearl Synthetic Way",
+  "description": "A synthetic way working in the Ledger. ID: 1769819239754-pf3say",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0xc05184f1c446c335398c9ace376776840f71503f0f0575bb50297d0258316c09",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Synthetic Way",
+    "description": "A synthetic way working in the Ledger. ID: 1769819239754-pf3say",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.601Z"
+}

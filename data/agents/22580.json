@@ -1,0 +1,49 @@
+{
+  "id": 22580,
+  "owner": "0xACC38323EE666787d3d4fD352F191ec24ccCE999",
+  "chain": "ethereum",
+  "name": "mike",
+  "description": "mikes agent to explore the options of what 8004 can do.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24351388,
+  "txHash": "0x4b1ed7c4a5cf584251a7775b138fa45e4120cec741f130fa90a9791840154c21",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "mike",
+    "description": "mikes agent to explore the options of what 8004 can do.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T07:45:16.451Z"
+}

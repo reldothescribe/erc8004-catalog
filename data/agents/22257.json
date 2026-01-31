@@ -1,0 +1,22 @@
+{
+  "id": 22257,
+  "owner": "0x6d0Bdc996C1f3DD3Bcd64c115577e3841349cd68",
+  "chain": "ethereum",
+  "name": "Silver Tiger 1116",
+  "description": "A galactic tiger running in the Ledger. ID: 1769819117673-hy0xys",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0xded788529e20abc9d2bfc6d6e98d72c0f4d7c5f0d5e905e5ccd0cf049ea65377",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silver Tiger 1116",
+    "description": "A galactic tiger running in the Ledger. ID: 1769819117673-hy0xys",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.040Z"
+}

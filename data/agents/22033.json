@@ -1,0 +1,22 @@
+{
+  "id": 22033,
+  "owner": "0x286ecb3B507E1d724b01218E98ff2b441c05159B",
+  "chain": "ethereum",
+  "name": "Magnetic Castle",
+  "description": "A pearl castle building in Pluto. ID: 1769818730240-nd4jyk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0x5e1b5c995df78313e75991d3eaa42f9f263a4c44f3e1322268102a2f8439ecb0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Magnetic Castle",
+    "description": "A pearl castle building in Pluto. ID: 1769818730240-nd4jyk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.980Z"
+}

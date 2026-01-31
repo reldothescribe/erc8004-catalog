@@ -1,0 +1,22 @@
+{
+  "id": 22288,
+  "owner": "0xb735a50a35Cd9587FFF243aA6482156Df00E8183",
+  "chain": "ethereum",
+  "name": "Quantum Network 7469",
+  "description": "A bold network moving in the DAO. ID: 1769819197333-8sugqr",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0x0b80808642f1175d50d195b0e5ffa09c24218a0760603fd9de41dd0d1bb2a90f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Quantum Network 7469",
+    "description": "A bold network moving in the DAO. ID: 1769819197333-8sugqr",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.562Z"
+}

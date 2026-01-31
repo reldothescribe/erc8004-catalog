@@ -1,0 +1,22 @@
+{
+  "id": 21703,
+  "owner": "0xe95A9d36f454ACEae2b5d3c2452e075AF592dA2e",
+  "chain": "ethereum",
+  "name": "Infernal Key",
+  "description": "A celestial key selling in the Metaverse. ID: 1769818250565-zdzpv5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x8e07a09cbfc084a25dec995384f7b483679d6335e4cd7faa68f212a737956b0d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Key",
+    "description": "A celestial key selling in the Metaverse. ID: 1769818250565-zdzpv5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.084Z"
+}

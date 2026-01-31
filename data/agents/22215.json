@@ -1,0 +1,22 @@
+{
+  "id": 22215,
+  "owner": "0xA6aC55382C7C6eD15783e93629907Cf650E5b696",
+  "chain": "ethereum",
+  "name": "Prime Wolf",
+  "description": "A meta wolf dancing in Paris. ID: 1769819079584-ry161d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0xbdc8ca8459193b81264604520c1638461ddc3754e9bfb44f2abc5cd374642df9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Prime Wolf",
+    "description": "A meta wolf dancing in Paris. ID: 1769819079584-ry161d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.218Z"
+}

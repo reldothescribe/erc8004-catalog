@@ -1,0 +1,22 @@
+{
+  "id": 21719,
+  "owner": "0xF9daeECDF4c14F1b4b0747FBcfDbB7E6d59920DE",
+  "chain": "ethereum",
+  "name": "Ancient Whale",
+  "description": "A atomic whale painting in Space. ID: 1769818271677-1y5zhb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xd19beee51e6100c38e89752014b418b29b23abd6fe7822eab3ccf7f8d70ccb03",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ancient Whale",
+    "description": "A atomic whale painting in Space. ID: 1769818271677-1y5zhb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.345Z"
+}

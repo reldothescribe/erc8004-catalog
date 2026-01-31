@@ -1,0 +1,22 @@
+{
+  "id": 21731,
+  "owner": "0xa2b590fdF02b1FB5Dc56518C5eAD96592f869b36",
+  "chain": "ethereum",
+  "name": "Nexus Nova",
+  "description": "Nexus Nova is an advanced AI agent specializing in interstellar navigation and cosmic data analysis, helping explorers chart unknown galaxies with precision and insight.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x1fb8233403d1f6a569040ce6d925d5e9b4fc51c027c9ba4067c79cb674f27ba5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Nova",
+    "description": "Nexus Nova is an advanced AI agent specializing in interstellar navigation and cosmic data analysis, helping explorers chart unknown galaxies with precision and insight.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.610Z"
+}

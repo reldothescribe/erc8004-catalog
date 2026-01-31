@@ -1,0 +1,22 @@
+{
+  "id": 22038,
+  "owner": "0x77d7A83f03cFC98771A25666ab02d7131da63746",
+  "chain": "ethereum",
+  "name": "Holographic Omega Sphinx",
+  "description": "A omega sphinx waking in the Void. ID: 1769818745643-lidhdv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0x96f7d3902edbe692ca11695a3095f6b6a28f99edbcc64c3e67f26368fe9dcbdd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Holographic Omega Sphinx",
+    "description": "A omega sphinx waking in the Void. ID: 1769818745643-lidhdv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.981Z"
+}

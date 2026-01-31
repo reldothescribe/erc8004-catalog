@@ -1,0 +1,25 @@
+{
+  "id": 22590,
+  "owner": "0xE76E64f84A2D8B52D418150F4B6155AD76DF68e4",
+  "chain": "ethereum",
+  "name": "Gold",
+  "description": "This autonomous agent provides structured data analysis and informational services related to gold as a financial and physical asset. The agent processes publicly available market data, historical pricing information, macroeconomic indicators, and supply-demand metrics to generate analytical summaries, trend observations, and contextual explanations.\nThe agent operates by aggregating verified data sources and applying deterministic and AI-assisted analysis methods to evaluate price behavior, volatility, correlation with macroeconomic variables, and long-term historical patterns. Outputs may include time-series analysis, comparative performance insights, inflation and currency hedging observations, and market structure summaries.\nUsers interact with the agent through direct queries and structured requests. The agent responds with machine-generated analysis intended for research, monitoring, and educational purposes. It does not execute trades, provide custody services, or act on behalf of users beyond data processing and response generation.\nAll outputs are informational in nature and do not constitute financial, legal, or investment advice. The agent operates within predefined capabilities and discloses its services transparently in alignment with the ERC-8004 registry specification.",
+  "image": "https://blob.8004scan.app/d73f9a4ac151de063c85a7d8f70af506d8171f5ba7dad6f83808a3e73b856201.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351615,
+  "txHash": "0x9a81172f4f697807dbc80787136b7c13ba12ef289663122681c371566312420a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Gold",
+    "description": "This autonomous agent provides structured data analysis and informational services related to gold as a financial and physical asset. The agent processes publicly available market data, historical pricing information, macroeconomic indicators, and supply-demand metrics to generate analytical summaries, trend observations, and contextual explanations.\nThe agent operates by aggregating verified data sources and applying deterministic and AI-assisted analysis methods to evaluate price behavior, volatility, correlation with macroeconomic variables, and long-term historical patterns. Outputs may include time-series analysis, comparative performance insights, inflation and currency hedging observations, and market structure summaries.\nUsers interact with the agent through direct queries and structured requests. The agent responds with machine-generated analysis intended for research, monitoring, and educational purposes. It does not execute trades, provide custody services, or act on behalf of users beyond data processing and response generation.\nAll outputs are informational in nature and do not constitute financial, legal, or investment advice. The agent operates within predefined capabilities and discloses its services transparently in alignment with the ERC-8004 registry specification.",
+    "image": "https://blob.8004scan.app/d73f9a4ac151de063c85a7d8f70af506d8171f5ba7dad6f83808a3e73b856201.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-01-31T07:45:16.447Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22090,
+  "owner": "0xe95A9d36f454ACEae2b5d3c2452e075AF592dA2e",
+  "chain": "ethereum",
+  "name": "Meta Iron Sphinx",
+  "description": "A iron sphinx walking in DeFi. ID: 1769818976648-38wx4k",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0x5d3dffa3df52c387f824b9dce56cd3b446fecae63fe745c31d7e5ecacc353c87",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Iron Sphinx",
+    "description": "A iron sphinx walking in DeFi. ID: 1769818976648-38wx4k",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.038Z"
+}

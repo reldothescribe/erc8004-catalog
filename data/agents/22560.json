@@ -1,0 +1,22 @@
+{
+  "id": 22560,
+  "owner": "0xbA2BE9d2e99c9d0eB18926533982A96189407501",
+  "chain": "ethereum",
+  "name": "Frozen Vortex",
+  "description": "A eternal vortex protecting in Space. ID: 1769819464543-olrb9g",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351282,
+  "txHash": "0xdbcd1d3fef3ec05c416b4b71c92bf9d8a906044eb419ba366a825c8dde2dda67",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Vortex",
+    "description": "A eternal vortex protecting in Space. ID: 1769819464543-olrb9g",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.913Z"
+}

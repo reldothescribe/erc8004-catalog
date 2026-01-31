@@ -1,0 +1,22 @@
+{
+  "id": 22042,
+  "owner": "0x4AcBCac2B3910C6129764C33220B789e54570a33",
+  "chain": "ethereum",
+  "name": "Random Dragon 2502",
+  "description": "A dynamic dragon speaking in the Void. ID: 1769818745643-htpfjt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0xd414aaf80483ed15dc04fca29d5f21e0ec93de64b5493bbb7ed1081530fd0660",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Random Dragon 2502",
+    "description": "A dynamic dragon speaking in the Void. ID: 1769818745643-htpfjt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.239Z"
+}

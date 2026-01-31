@@ -1,0 +1,22 @@
+{
+  "id": 22476,
+  "owner": "0xe95A9d36f454ACEae2b5d3c2452e075AF592dA2e",
+  "chain": "ethereum",
+  "name": "Cosmic Divine Comet",
+  "description": "A divine comet building in the Blockchain. ID: 1769819420322-vok701",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0x8dbe1e14edf1a29d7335fdd4e7a424da56c052fe665761f89086fa9eb5adc47d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Divine Comet",
+    "description": "A divine comet building in the Blockchain. ID: 1769819420322-vok701",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.496Z"
+}

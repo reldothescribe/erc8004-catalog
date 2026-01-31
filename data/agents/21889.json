@@ -1,0 +1,22 @@
+{
+  "id": 21889,
+  "owner": "0x306Ad1d9d6d01FEa2B9973454Caf3386fC8a58C2",
+  "chain": "ethereum",
+  "name": "Frozen Phantom Eagle",
+  "description": "A phantom eagle reading in the Past. ID: 1769818538304-wq6hit",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0x35fa1dbee5be3659fd6c194e524479c2dcc9aada6959481342ca23dc58dfa3ae",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Phantom Eagle",
+    "description": "A phantom eagle reading in the Past. ID: 1769818538304-wq6hit",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.295Z"
+}

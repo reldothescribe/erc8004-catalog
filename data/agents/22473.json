@@ -1,0 +1,22 @@
+{
+  "id": 22473,
+  "owner": "0xfBc7C639b4A7ebf9cF074af94865Edf1f2A4e1ED",
+  "chain": "ethereum",
+  "name": "Primal Path",
+  "description": "A ethereal path fighting in the Unknown. ID: 1769819395649-w3b7zm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0x6963d084e48f59c6e02b3877e90af888c61dd21a6f0c5657c5f3bb158e123393",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Path",
+    "description": "A ethereal path fighting in the Unknown. ID: 1769819395649-w3b7zm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.194Z"
+}

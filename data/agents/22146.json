@@ -1,0 +1,22 @@
+{
+  "id": 22146,
+  "owner": "0x90AD9d2711864b39041702Dc7FA82742FC0a142c",
+  "chain": "ethereum",
+  "name": "Silver Echo",
+  "description": "A autonomous echo shaping in the Metaverse. ID: 1769819009644-xtaa7m",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351244,
+  "txHash": "0x3aa362ce84ee5395236b8590bb2fc3b8267cd495a0225bfea6e36c3092801ddc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silver Echo",
+    "description": "A autonomous echo shaping in the Metaverse. ID: 1769819009644-xtaa7m",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.170Z"
+}

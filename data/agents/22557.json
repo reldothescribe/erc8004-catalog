@@ -1,0 +1,22 @@
+{
+  "id": 22557,
+  "owner": "0xf389deC9Ce1bC18FB891e7151c9f20D37a383b76",
+  "chain": "ethereum",
+  "name": "Omega Algorithm",
+  "description": "A serene algorithm reading in History. ID: 1769819464543-ytrh00",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351282,
+  "txHash": "0xf78750f8e429612007334c33eac7aaf9b7c16332b78f150ea0878d04c14d52fc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Omega Algorithm",
+    "description": "A serene algorithm reading in History. ID: 1769819464543-ytrh00",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.898Z"
+}

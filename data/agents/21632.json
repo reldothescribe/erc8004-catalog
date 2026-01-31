@@ -1,0 +1,22 @@
+{
+  "id": 21632,
+  "owner": "0x618eE055a41e6624B335775cBa488BE03eFA8c89",
+  "chain": "ethereum",
+  "name": "Determined Sphinx 184",
+  "description": "A pearl sphinx ending in the Hash. ID: 1769818155998-8ym4zl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351174,
+  "txHash": "0x90c0b5733d5463cbab585da67a5eb495cf7a1cad6cb4e181a681180e21e8c043",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Determined Sphinx 184",
+    "description": "A pearl sphinx ending in the Hash. ID: 1769818155998-8ym4zl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.773Z"
+}

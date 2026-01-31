@@ -1,0 +1,22 @@
+{
+  "id": 22316,
+  "owner": "0xCdD1d32Eb86F24811e70139adb606837d9dcbe59",
+  "chain": "ethereum",
+  "name": "Infinite Watcher",
+  "description": "A electric watcher protecting in Time. ID: 1769819226757-7botsu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0xfeccba7f5a74178b63f9c5f42d4d6c4880c8cc6f20a4c11cfa0cf9209eb9d252",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Watcher",
+    "description": "A electric watcher protecting in Time. ID: 1769819226757-7botsu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.083Z"
+}

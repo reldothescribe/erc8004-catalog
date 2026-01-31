@@ -1,0 +1,22 @@
+{
+  "id": 22511,
+  "owner": "0x7a74e010bA634CD127f9700a6a855e816dd290dF",
+  "chain": "ethereum",
+  "name": "Sonic Droid",
+  "description": "A secret droid swimming in the Hash. ID: 1769819427312-17j3yv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0xcc54e928d51d60a75deee12dc09e6a840a3a9b1609f629636aaa57464916aaad",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Droid",
+    "description": "A secret droid swimming in the Hash. ID: 1769819427312-17j3yv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.090Z"
+}

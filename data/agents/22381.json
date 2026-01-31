@@ -1,0 +1,22 @@
+{
+  "id": 22381,
+  "owner": "0x5BC33fad7C8469cA946DdBB5398A422CFeFC15A2",
+  "chain": "ethereum",
+  "name": "Infinite Oracle 5306",
+  "description": "A synthetic oracle climbing in DeFi. ID: 1769819342064-ni4l79",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351272,
+  "txHash": "0x8785897d0cf9bd335f7827fa63e58ca4c248d703fff77170065ce30509705a53",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Oracle 5306",
+    "description": "A synthetic oracle climbing in DeFi. ID: 1769819342064-ni4l79",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.155Z"
+}

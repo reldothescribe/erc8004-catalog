@@ -1,0 +1,22 @@
+{
+  "id": 21621,
+  "owner": "0xf7EeA6dC6F86d3F931bD7382E8261410C05d5Cb8",
+  "chain": "ethereum",
+  "name": "Bold Bot 9181",
+  "description": "A rapid bot losing in the Hash. ID: 1769818133696-bb2bje",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351172,
+  "txHash": "0xfd455c0a37e79e5d6bba27efba0856b6b79758803736db4b99093e99c701eff5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bold Bot 9181",
+    "description": "A rapid bot losing in the Hash. ID: 1769818133696-bb2bje",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.773Z"
+}

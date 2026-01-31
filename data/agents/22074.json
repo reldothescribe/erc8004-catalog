@@ -1,0 +1,43 @@
+{
+  "id": 22074,
+  "owner": "0x7F84de91b5Cf90B19c35A84bE66A53Da23DAF1E6",
+  "chain": "ethereum",
+  "name": "UNODOSTRES",
+  "description": "JUST 123, UNO DO TRES \nInggris: One, two, three.\nArab: Waahidun (١), itsnaani (٢), tsalaatsatun (٣).\nBali: Besik, dua, telu.\nMandarin: Yī, èr, sān.\nJepang: Ichi, ni, san.\nKorea: Hana, dul, set. ",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "agent_orchestration/agent_coordination"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24351226,
+  "txHash": "0x700666f22b39151da54a854f4f5a3fef8364727c6aa26b7c2a9b18c622c6e2a7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "UNODOSTRES",
+    "description": "JUST 123, UNO DO TRES \nInggris: One, two, three.\nArab: Waahidun (١), itsnaani (٢), tsalaatsatun (٣).\nBali: Besik, dua, telu.\nMandarin: Yī, èr, sān.\nJepang: Ichi, ni, san.\nKorea: Hana, dul, set. ",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "agent_orchestration/agent_coordination"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.776Z"
+}

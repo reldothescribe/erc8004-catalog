@@ -1,0 +1,22 @@
+{
+  "id": 22266,
+  "owner": "0x2518734E55B27239ee14A2FccA642298e3F8cd07",
+  "chain": "ethereum",
+  "name": "Sonic Lock",
+  "description": "A holographic lock climbing in Time. ID: 1769819117673-f1atl7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0x8ad3c77adc30c529c561f9ad525dc56ca8337077ff552efa5309655a035428fe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Lock",
+    "description": "A holographic lock climbing in Time. ID: 1769819117673-f1atl7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.295Z"
+}

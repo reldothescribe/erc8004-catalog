@@ -1,0 +1,22 @@
+{
+  "id": 22423,
+  "owner": "0x11d64b9644DEE2935b74898Bc2bbc7A5BC5BC886",
+  "chain": "ethereum",
+  "name": "Tactile Comet 3070",
+  "description": "A static comet reading in the Heights. ID: 1769819368083-vps1ro",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351274,
+  "txHash": "0x8eb679c5b9815b22dd90764e95506217592e4a245d17d348d3b2008b4244f6fc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Tactile Comet 3070",
+    "description": "A static comet reading in the Heights. ID: 1769819368083-vps1ro",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.939Z"
+}

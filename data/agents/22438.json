@@ -1,0 +1,22 @@
+{
+  "id": 22438,
+  "owner": "0x8E82218169188359aBAb3250Ae7DD5863682D67E",
+  "chain": "ethereum",
+  "name": "Eternal Sapphire Agent",
+  "description": "A sapphire agent trading in the Future. ID: 1769819383190-8fmjl0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0xc2ab22f34991f02ce4b3d190569f91a326bb27d95f3f0d243dc88cc4f443e0e9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Eternal Sapphire Agent",
+    "description": "A sapphire agent trading in the Future. ID: 1769819383190-8fmjl0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.227Z"
+}

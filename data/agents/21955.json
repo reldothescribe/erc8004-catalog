@@ -1,0 +1,22 @@
+{
+  "id": 21955,
+  "owner": "0xFA566AacDf4c970F9585EEd08Cf6F0f4423eCD2D",
+  "chain": "ethereum",
+  "name": "Alpha Frozen Star",
+  "description": "A frozen star stopping in the Hash. ID: 1769818577400-6ymplh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351209,
+  "txHash": "0xf060600d4106295b1237b2e3d78fbfca44c44c48c6f49412c878b68ce8b464ee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Alpha Frozen Star",
+    "description": "A frozen star stopping in the Hash. ID: 1769818577400-6ymplh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.661Z"
+}

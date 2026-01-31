@@ -1,0 +1,22 @@
+{
+  "id": 22109,
+  "owner": "0x2ab59E81c812cFC1e9182b88AE97d3779fa4D45b",
+  "chain": "ethereum",
+  "name": "Sonic Ivory Blade",
+  "description": "A ivory blade creating in the DAO. ID: 1769818983276-cbo0n8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0x9e59ca547b71c93dc3e4e00fb07dca933a39c809de4176ebc57f24910cc6a18d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Ivory Blade",
+    "description": "A ivory blade creating in the DAO. ID: 1769818983276-cbo0n8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.298Z"
+}

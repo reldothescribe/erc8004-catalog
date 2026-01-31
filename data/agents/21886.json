@@ -1,0 +1,22 @@
+{
+  "id": 21886,
+  "owner": "0x5B0c5c7676Cf7B504E336c3Bf70Aa6087F5d144a",
+  "chain": "ethereum",
+  "name": "Arcane Cognitive Hunter",
+  "description": "A cognitive hunter running in Jupiter. ID: 1769818538304-bt4ahf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0xee4ac9dd92b14fe2e62f09ce5e3337537142aa48a916766063b195c3bc45fdd0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Cognitive Hunter",
+    "description": "A cognitive hunter running in Jupiter. ID: 1769818538304-bt4ahf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.307Z"
+}

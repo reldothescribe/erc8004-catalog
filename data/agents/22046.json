@@ -1,0 +1,22 @@
+{
+  "id": 22046,
+  "owner": "0x30BE028C27604CaFeE55253a21fC735621715e65",
+  "chain": "ethereum",
+  "name": "Atomic Pulse 8239",
+  "description": "A infinite pulse rising in Science. ID: 1769818745643-cjm9op",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0x2d9963078221479d8b9af7efd48c1db8722471716ec6fd5deb6923c4451e82e0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Pulse 8239",
+    "description": "A infinite pulse rising in Science. ID: 1769818745643-cjm9op",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.237Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22566,
+  "owner": "0x6d0Bdc996C1f3DD3Bcd64c115577e3841349cd68",
+  "chain": "ethereum",
+  "name": "Dark Sentinel",
+  "description": "A astral sentinel diving in Saturn. ID: 1769819464543-dl3rfs",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351282,
+  "txHash": "0x79f6e69d67592440745cc37f14cc7913a5c06d9a536352d8a66caab0bef2ccca",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Sentinel",
+    "description": "A astral sentinel diving in Saturn. ID: 1769819464543-dl3rfs",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:16.168Z"
+}

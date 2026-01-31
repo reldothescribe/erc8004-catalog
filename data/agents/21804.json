@@ -1,0 +1,22 @@
+{
+  "id": 21804,
+  "owner": "0x383F27411766F508852fE64e2C2Fa5f1A58437C5",
+  "chain": "ethereum",
+  "name": "Jade Serene Flower",
+  "description": "A serene flower creating in the Frontier. ID: 1769818373721-wd4fcb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351192,
+  "txHash": "0x1eade3465a56d4649d5ab0b093075b7a11a7f23ada6ffc59ea24fb1a512d3b4b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Serene Flower",
+    "description": "A serene flower creating in the Frontier. ID: 1769818373721-wd4fcb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.935Z"
+}

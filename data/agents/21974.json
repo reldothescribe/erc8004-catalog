@@ -1,0 +1,22 @@
+{
+  "id": 21974,
+  "owner": "0xA765180C1FEd8BCeAB15c1711444D87DBcE838Bb",
+  "chain": "ethereum",
+  "name": "Synthetic Light Oracle",
+  "description": "A light oracle taking in the Consensus. ID: 1769818703328-gfigxm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351219,
+  "txHash": "0xf7012b708896cf0e500fb3981b951ea9165893626e8ae0edc92155f41d249ec4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Light Oracle",
+    "description": "A light oracle taking in the Consensus. ID: 1769818703328-gfigxm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.922Z"
+}

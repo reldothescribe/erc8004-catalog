@@ -1,0 +1,22 @@
+{
+  "id": 22044,
+  "owner": "0xa2b590fdF02b1FB5Dc56518C5eAD96592f869b36",
+  "chain": "ethereum",
+  "name": "Kinetic Frozen Hunter",
+  "description": "A frozen hunter moving in Saturn. ID: 1769818745643-1cmny4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0x4a677d2ed02b18099fe0c5cdad395686b9e96e0d1123248d2dfbacf7098d3f63",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Frozen Hunter",
+    "description": "A frozen hunter moving in Saturn. ID: 1769818745643-1cmny4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.238Z"
+}

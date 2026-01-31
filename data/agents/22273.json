@@ -1,0 +1,22 @@
+{
+  "id": 22273,
+  "owner": "0x30991119891193D2Cfb957A465339ffb5103ba88",
+  "chain": "ethereum",
+  "name": "Atomic Swift Titan",
+  "description": "A swift titan buying in the Block. ID: 1769819117673-g9374d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0x1e46a7f41fe448e47c4a45847fa23e45085d311e228b093971b7cd96798bd56e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Swift Titan",
+    "description": "A swift titan buying in the Block. ID: 1769819117673-g9374d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.302Z"
+}

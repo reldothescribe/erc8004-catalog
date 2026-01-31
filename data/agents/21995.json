@@ -1,0 +1,22 @@
+{
+  "id": 21995,
+  "owner": "0x0351A9617DD76c23d648671050a83F7A6F30E67e",
+  "chain": "ethereum",
+  "name": "Cognitive Pilot 4068",
+  "description": "A autonomous pilot learning in Nature. ID: 1769818719156-rn1qsd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0x8968d7c840cc2dbf1794a1e5e357b5f4921badaf8358826ce142b6f18a66d392",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cognitive Pilot 4068",
+    "description": "A autonomous pilot learning in Nature. ID: 1769818719156-rn1qsd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.451Z"
+}

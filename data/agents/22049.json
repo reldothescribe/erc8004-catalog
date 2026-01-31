@@ -1,0 +1,22 @@
+{
+  "id": 22049,
+  "owner": "0x0821772b2e8a5C97D8Cac86c9D099e21961471c7",
+  "chain": "ethereum",
+  "name": "Jade Throne 432",
+  "description": "A chaotic throne starting in Tokyo. ID: 1769818745643-j10bpk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0xa2b938a52cc77c737f6b45a6d59d4842c43997fd110d75e279b62591c5c4f7e3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Throne 432",
+    "description": "A chaotic throne starting in Tokyo. ID: 1769818745643-j10bpk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.235Z"
+}

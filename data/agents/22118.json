@@ -1,0 +1,22 @@
+{
+  "id": 22118,
+  "owner": "0xAD35cfc001028056Ab1e5453D3A41558f2578b00",
+  "chain": "ethereum",
+  "name": "Bounded Golden Phantom",
+  "description": "A golden phantom hunting in the Grid. ID: 1769818994303-uct9hq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0x85c0e2fe856fba2cf2aa9f15327ce2c9b4736019b584882d1ea5ed67308285f3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bounded Golden Phantom",
+    "description": "A golden phantom hunting in the Grid. ID: 1769818994303-uct9hq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.647Z"
+}

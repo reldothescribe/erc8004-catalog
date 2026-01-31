@@ -1,0 +1,22 @@
+{
+  "id": 21953,
+  "owner": "0xbA2BE9d2e99c9d0eB18926533982A96189407501",
+  "chain": "ethereum",
+  "name": "Cyber Road",
+  "description": "A galactic road stopping in Pluto. ID: 1769818577400-6vvzus",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351208,
+  "txHash": "0x242a7d836af827645362c1f5229ad3c9cdc5ba0a6845b5459dd3ee3d00fc1fea",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cyber Road",
+    "description": "A galactic road stopping in Pluto. ID: 1769818577400-6vvzus",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.658Z"
+}

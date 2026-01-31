@@ -1,0 +1,22 @@
+{
+  "id": 22006,
+  "owner": "0x618eE055a41e6624B335775cBa488BE03eFA8c89",
+  "chain": "ethereum",
+  "name": "Omega Meta Dragon",
+  "description": "A meta dragon carving in Jupiter. ID: 1769818719156-p81t0y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0x3ba899908a7e7aff09d454e362d8675b5197cbef76131e93d3862b29ecf39daf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Omega Meta Dragon",
+    "description": "A meta dragon carving in Jupiter. ID: 1769818719156-p81t0y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.448Z"
+}

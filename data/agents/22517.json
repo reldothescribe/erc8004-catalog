@@ -1,0 +1,22 @@
+{
+  "id": 22517,
+  "owner": "0x286ecb3B507E1d724b01218E98ff2b441c05159B",
+  "chain": "ethereum",
+  "name": "Blazing Hyper Colossus",
+  "description": "A hyper colossus reading in Reality. ID: 1769819442276-g14tfz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351280,
+  "txHash": "0x32167bb81c2b07934d3dfe2cf1b17c3e1b58735c0927a8fa8ba04980c69cd706",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Hyper Colossus",
+    "description": "A hyper colossus reading in Reality. ID: 1769819442276-g14tfz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.091Z"
+}

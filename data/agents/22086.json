@@ -1,0 +1,22 @@
+{
+  "id": 22086,
+  "owner": "0x4508Fbb99A046a5ffED9BE4D95d5990382Cb57a0",
+  "chain": "ethereum",
+  "name": "Azure Sonic Tower",
+  "description": "A sonic tower singing in New York. ID: 1769818976648-qkh7i1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0xc772b2289832d39d23b2faa3b745b2c395fe5b2b2235e86b7920e10a5473ba6a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Azure Sonic Tower",
+    "description": "A sonic tower singing in New York. ID: 1769818976648-qkh7i1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.035Z"
+}

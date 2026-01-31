@@ -1,0 +1,22 @@
+{
+  "id": 21993,
+  "owner": "0x5660005B3F86Dd339204E7091d7E387aacd7B5B8",
+  "chain": "ethereum",
+  "name": "Elder Sun",
+  "description": "A kinetic sun crafting in the Hash. ID: 1769818703329-z7jzva",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351219,
+  "txHash": "0x4772e8913521ff30de82ee4a729abbf46aeccb76d9d563eadd1356445247a72a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Sun",
+    "description": "A kinetic sun crafting in the Hash. ID: 1769818703329-z7jzva",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.191Z"
+}

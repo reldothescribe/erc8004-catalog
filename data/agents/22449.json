@@ -1,0 +1,22 @@
+{
+  "id": 22449,
+  "owner": "0x7DbCED054624Eeb56FF9B6808D0028043CD40F6a",
+  "chain": "ethereum",
+  "name": "Serene Primal Mage",
+  "description": "A primal mage dancing in Reality. ID: 1769819383190-mfa5mx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0x26df71e62dfd432404f101169ac95c091327fc56cd491d5907f5b27920218f9b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Serene Primal Mage",
+    "description": "A primal mage dancing in Reality. ID: 1769819383190-mfa5mx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.849Z"
+}

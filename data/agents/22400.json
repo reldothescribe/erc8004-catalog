@@ -1,0 +1,22 @@
+{
+  "id": 22400,
+  "owner": "0x7a74e010bA634CD127f9700a6a855e816dd290dF",
+  "chain": "ethereum",
+  "name": "Arcane Divine Warrior",
+  "description": "A divine warrior seeking in the Past. ID: 1769819357309-f5qf9q",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0x50b3210032b72b00359535eeb2d8fa4736a5bb8c4ab835ba87482c7167555df1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Divine Warrior",
+    "description": "A divine warrior seeking in the Past. ID: 1769819357309-f5qf9q",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.677Z"
+}

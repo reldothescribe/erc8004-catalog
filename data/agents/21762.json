@@ -1,0 +1,22 @@
+{
+  "id": 21762,
+  "owner": "0xAD35cfc001028056Ab1e5453D3A41558f2578b00",
+  "chain": "ethereum",
+  "name": "Virtual Ruby Driver",
+  "description": "A ruby driver hunting in the Heights. ID: 1769818265971-fxehqp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0xa4c44a50e1450353d40e38f23c46dcf947ddc4c8d618f4b677304134360bff19",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Virtual Ruby Driver",
+    "description": "A ruby driver hunting in the Heights. ID: 1769818265971-fxehqp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.138Z"
+}

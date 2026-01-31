@@ -1,0 +1,22 @@
+{
+  "id": 21942,
+  "owner": "0x008E3dd3c4e6e51499D803B225148fbFc2deF2a5",
+  "chain": "ethereum",
+  "name": "Lunar Pilot",
+  "description": "A spectral pilot trading in Myth. ID: 1769818565835-1j1yz8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351207,
+  "txHash": "0x4a66afbbf31a6921a109f026c077dcbd88e281d47a87a9be01494b1626cfaf9b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Pilot",
+    "description": "A spectral pilot trading in Myth. ID: 1769818565835-1j1yz8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.379Z"
+}

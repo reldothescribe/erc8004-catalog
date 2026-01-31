@@ -1,0 +1,22 @@
+{
+  "id": 21887,
+  "owner": "0xA6aC55382C7C6eD15783e93629907Cf650E5b696",
+  "chain": "ethereum",
+  "name": "Celestial Silent Hammer",
+  "description": "A silent hammer weaving in the Boundary. ID: 1769818538304-plc8ba",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0xcf20ea64be862e1c144777e1d1fc24de67c452a95a17eca63c636473d725aef3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Celestial Silent Hammer",
+    "description": "A silent hammer weaving in the Boundary. ID: 1769818538304-plc8ba",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.295Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22214,
+  "owner": "0x5B0c5c7676Cf7B504E336c3Bf70Aa6087F5d144a",
+  "chain": "ethereum",
+  "name": "Light Code",
+  "description": "A astral code reading in London. ID: 1769819079584-wrof2k",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0x46a2c28d4157bef69806540af6853e334a98c82d68bb3296cfcc2d4d2da7921b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Code",
+    "description": "A astral code reading in London. ID: 1769819079584-wrof2k",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.222Z"
+}

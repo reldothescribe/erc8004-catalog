@@ -1,0 +1,22 @@
+{
+  "id": 22513,
+  "owner": "0xf7EeA6dC6F86d3F931bD7382E8261410C05d5Cb8",
+  "chain": "ethereum",
+  "name": "Ether Surge",
+  "description": "A magnetic surge protecting in Pluto. ID: 1769819427312-252d77",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0xde155310d5a872e2199d7c4bb9f4b4623e5e4f2cd9b5d67218261dfea71d1de7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Surge",
+    "description": "A magnetic surge protecting in Pluto. ID: 1769819427312-252d77",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.090Z"
+}

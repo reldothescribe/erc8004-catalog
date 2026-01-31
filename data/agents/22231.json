@@ -1,0 +1,22 @@
+{
+  "id": 22231,
+  "owner": "0x38cE982274cBc1db52F1E0a023D38070725860e3",
+  "chain": "ethereum",
+  "name": "Bold Whale",
+  "description": "A azure whale singing in the Heights. ID: 1769819090686-7q4c2r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0x190e05520e4cd7b3c93fcd70f727d6435e119ea6d8a5def506609a3cdbd1d225",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bold Whale",
+    "description": "A azure whale singing in the Heights. ID: 1769819090686-7q4c2r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.490Z"
+}

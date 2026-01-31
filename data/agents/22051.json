@@ -1,0 +1,22 @@
+{
+  "id": 22051,
+  "owner": "0x90AD9d2711864b39041702Dc7FA82742FC0a142c",
+  "chain": "ethereum",
+  "name": "Silent Gate",
+  "description": "A eternal gate carving in the Chain. ID: 1769818745643-1ttvp7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0xa90bbe3fecf0359fd162c080cfb754c2f13df642b8d42f77fc327a1f907ff398",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Gate",
+    "description": "A eternal gate carving in the Chain. ID: 1769818745643-1ttvp7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.239Z"
+}

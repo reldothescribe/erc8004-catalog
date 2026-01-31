@@ -1,0 +1,22 @@
+{
+  "id": 22197,
+  "owner": "0x0351A9617DD76c23d648671050a83F7A6F30E67e",
+  "chain": "ethereum",
+  "name": "Frozen Sentinel 3517",
+  "description": "A synthetic sentinel building in the Boundary. ID: 1769819079584-mb2qh0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0xff2697d482dc2ccc0384b1260a7ecbdc043f4d21a1931934b3f2cdb639485044",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Sentinel 3517",
+    "description": "A synthetic sentinel building in the Boundary. ID: 1769819079584-mb2qh0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.946Z"
+}

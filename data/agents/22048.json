@@ -1,0 +1,22 @@
+{
+  "id": 22048,
+  "owner": "0x8E08c4fE11BaD66c3384177F9d3F4CcD3CD3FccD",
+  "chain": "ethereum",
+  "name": "Primal Flower 3488",
+  "description": "A crystal flower ending in Saturn. ID: 1769818745643-yn2eer",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0x5d9ea9b66a9ee1e5e4f4d59abe60fd8cb120addcf7b4727cf201051fccdd664d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Flower 3488",
+    "description": "A crystal flower ending in Saturn. ID: 1769818745643-yn2eer",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.239Z"
+}

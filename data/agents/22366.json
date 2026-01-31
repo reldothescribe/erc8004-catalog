@@ -1,0 +1,22 @@
+{
+  "id": 22366,
+  "owner": "0x5cF9cbf9962dd915236845Cc72fa41B73c8fef96",
+  "chain": "ethereum",
+  "name": "Lost Iron Soul",
+  "description": "A iron soul crafting in Technology. ID: 1769819252754-8olxtn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0xd450350e0ad41c9a2730ad7026c4dbad63b40f5bd09804151c1aefcdd48f3798",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Iron Soul",
+    "description": "A iron soul crafting in Technology. ID: 1769819252754-8olxtn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.874Z"
+}

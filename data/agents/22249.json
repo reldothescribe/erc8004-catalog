@@ -1,0 +1,22 @@
+{
+  "id": 22249,
+  "owner": "0x4AcBCac2B3910C6129764C33220B789e54570a33",
+  "chain": "ethereum",
+  "name": "Ivory Protocol",
+  "description": "A gentle protocol reading in Mystery. ID: 1769819106351-rl3kf2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351252,
+  "txHash": "0x52afb4d10973cb4c1a9ef1ca6de45171681bcbb286957f6f933ff291b0ff1544",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Protocol",
+    "description": "A gentle protocol reading in Mystery. ID: 1769819106351-rl3kf2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.763Z"
+}

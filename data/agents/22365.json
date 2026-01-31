@@ -1,0 +1,22 @@
+{
+  "id": 22365,
+  "owner": "0xaf39b41c30A8feAC07CcCa6dA522B67ea73DD2a7",
+  "chain": "ethereum",
+  "name": "Frozen Cipher",
+  "description": "A azure cipher taking in the Metaverse. ID: 1769819252754-mzxqi7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0x570ae6ac4a6744d47bfe502c2e5763bca504d6eb2fb1b71367825775ea87cdf6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Cipher",
+    "description": "A azure cipher taking in the Metaverse. ID: 1769819252754-mzxqi7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.876Z"
+}

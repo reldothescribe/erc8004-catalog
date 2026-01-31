@@ -1,0 +1,22 @@
+{
+  "id": 22537,
+  "owner": "0x8a4c13CB61256b74Da9D5a952F3A57BbB807B8ab",
+  "chain": "ethereum",
+  "name": "Arcane Hydra 2810",
+  "description": "A radiant hydra living in Space. ID: 1769819453226-ljfb49",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x73b45814a2191dc1161bce047351fc0213c858fb2250098dcff05e98935c4215",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Hydra 2810",
+    "description": "A radiant hydra living in Space. ID: 1769819453226-ljfb49",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.637Z"
+}

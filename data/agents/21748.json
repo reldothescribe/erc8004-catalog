@@ -1,0 +1,22 @@
+{
+  "id": 21748,
+  "owner": "0x3A81Eb007524924774E15875430D9C7c6Ee963A8",
+  "chain": "ethereum",
+  "name": "Visual Wise Code",
+  "description": "A wise code seeking in the Ledger. ID: 1769818271677-mvjk3z",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x42a31a65558bc028f08a0b5944d2288fc7d8077ea42a360b40a236d1200b77c1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Visual Wise Code",
+    "description": "A wise code seeking in the Ledger. ID: 1769818271677-mvjk3z",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.868Z"
+}

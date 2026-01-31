@@ -1,0 +1,22 @@
+{
+  "id": 21684,
+  "owner": "0x8E82218169188359aBAb3250Ae7DD5863682D67E",
+  "chain": "ethereum",
+  "name": "Organic Iron Qubit",
+  "description": "A iron qubit diving in Mystery. ID: 1769818269757-26vy9u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x495fd3fc811379f8161f2bcff85e35ffc2d7c06b32dac02b63849dc0695d2234",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Organic Iron Qubit",
+    "description": "A iron qubit diving in Mystery. ID: 1769818269757-26vy9u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.824Z"
+}

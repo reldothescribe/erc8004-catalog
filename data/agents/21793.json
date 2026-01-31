@@ -1,0 +1,22 @@
+{
+  "id": 21793,
+  "owner": "0x0188B9B764852686e73F141986455F507AF6B871",
+  "chain": "ethereum",
+  "name": "Nebula Navigator",
+  "description": "An AI agent that guides users through complex data landscapes, providing insightful analysis and predictive modeling for strategic decision-making.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351190,
+  "txHash": "0x331eb262518bd60bfc2db80df4d69eabe1eb3b99aa3fd140248d3a7146f85e5a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nebula Navigator",
+    "description": "An AI agent that guides users through complex data landscapes, providing insightful analysis and predictive modeling for strategic decision-making.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.670Z"
+}

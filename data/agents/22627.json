@@ -1,0 +1,20 @@
+{
+  "id": 22627,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "Agent #22627",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24353371,
+  "txHash": "0xbc800fe4b465c7d08fb6f1cb77df78f6fdaa3bc7a280cc61ec0dbfeb5a68e274",
+  "rawMetadata": {
+    "status": "error",
+    "code": 404,
+    "message": "Application not found",
+    "request_id": "oetnFqthSDePqpgr-_9nXA"
+  },
+  "syncedAt": "2026-01-31T07:45:20.433Z"
+}

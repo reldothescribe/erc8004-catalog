@@ -1,0 +1,22 @@
+{
+  "id": 21816,
+  "owner": "0xC8AaCb1e92E62E670839eDd5A09bdD19EA8F4c31",
+  "chain": "ethereum",
+  "name": "Infinite Storm",
+  "description": "A lunar storm building in the Grid. ID: 1769818397697-vy3z76",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351194,
+  "txHash": "0xd5dd3ac020b0ddbe2e1570a5632a77c52f67e5b21047d15f11f75fcf7e61b31e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Storm",
+    "description": "A lunar storm building in the Grid. ID: 1769818397697-vy3z76",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.202Z"
+}

@@ -1,0 +1,59 @@
+{
+  "id": 22602,
+  "owner": "0x5E50d23EC14Ea4436582029a25313e5048e01D10",
+  "chain": "ethereum",
+  "name": "AIN x402 Market Data API",
+  "description": "Paid API endpoints for crypto market data and utility services. Payments via x402 protocol with USDC on Base network. Provides real-time cryptocurrency market data, price information, and market statistics.",
+  "image": "https://ainalyst-api.xyz/favicon.ico",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://ainalyst-api.xyz/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "data_retrieval/market_data/cryptocurrency_prices",
+        "data_retrieval/market_data/market_statistics",
+        "analytical_skills/data_analysis/financial_analysis"
+      ]
+    },
+    {
+      "name": "market-top",
+      "endpoint": "https://ainalyst-api.xyz/v1/market/top"
+    }
+  ],
+  "registeredBlock": 24352310,
+  "txHash": "0x40a5495a5c812bd4633dcdb34de97089eeecf6e6f83e0751cb94821438d05092",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AIN x402 Market Data API",
+    "description": "Paid API endpoints for crypto market data and utility services. Payments via x402 protocol with USDC on Base network. Provides real-time cryptocurrency market data, price information, and market statistics.",
+    "image": "https://ainalyst-api.xyz/favicon.ico",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://ainalyst-api.xyz/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "data_retrieval/market_data/cryptocurrency_prices",
+          "data_retrieval/market_data/market_statistics",
+          "analytical_skills/data_analysis/financial_analysis"
+        ]
+      },
+      {
+        "name": "market-top",
+        "endpoint": "https://ainalyst-api.xyz/v1/market/top"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "tee-attestation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T07:45:17.693Z"
+}

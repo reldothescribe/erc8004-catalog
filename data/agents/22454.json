@@ -1,0 +1,22 @@
+{
+  "id": 22454,
+  "owner": "0x77d7A83f03cFC98771A25666ab02d7131da63746",
+  "chain": "ethereum",
+  "name": "Wise Wolf 9390",
+  "description": "A prime wolf hunting in the Chain. ID: 1769819383190-pp1rlj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0xdbc54949b061581a5925eaec8e85053103e3d1762251b81fb28b1b130fcc3d0e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Wise Wolf 9390",
+    "description": "A prime wolf hunting in the Chain. ID: 1769819383190-pp1rlj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.849Z"
+}

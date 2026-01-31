@@ -1,0 +1,22 @@
+{
+  "id": 22110,
+  "owner": "0xB4aEE634f4921B1A160180778a04D4f8440c14ca",
+  "chain": "ethereum",
+  "name": "Static Helm 2027",
+  "description": "A omega helm painting in the DAO. ID: 1769818983276-1mxc4m",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0x0e08ace451f63f8d4054a9b7cfea80708406e3fa6a378610786907263a3f3869",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Static Helm 2027",
+    "description": "A omega helm painting in the DAO. ID: 1769818983276-1mxc4m",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.298Z"
+}

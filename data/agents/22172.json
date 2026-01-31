@@ -1,0 +1,22 @@
+{
+  "id": 22172,
+  "owner": "0xEFe0659Ea5cE5151EB6D73FfF4C5fB214b638C86",
+  "chain": "ethereum",
+  "name": "Lunar Druid",
+  "description": "A meta druid falling in the Frontier. ID: 1769819023752-zj6aai",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0xfab6f8c5339075a3186db660d5032b1151da58788f6da1f4252ff5005e02002f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Druid",
+    "description": "A meta druid falling in the Frontier. ID: 1769819023752-zj6aai",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.430Z"
+}

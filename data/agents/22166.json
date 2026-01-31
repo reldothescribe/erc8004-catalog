@@ -1,0 +1,22 @@
+{
+  "id": 22166,
+  "owner": "0x2518734E55B27239ee14A2FccA642298e3F8cd07",
+  "chain": "ethereum",
+  "name": "Organic Tensor 2256",
+  "description": "A neo tensor buying in the Block. ID: 1769819023752-s0j3uk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0x8420e7abfff6f2cc0bb3eaa2af76aeb52bc8cf874f0137804b6335ebfe916d1b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Organic Tensor 2256",
+    "description": "A neo tensor buying in the Block. ID: 1769819023752-s0j3uk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.431Z"
+}

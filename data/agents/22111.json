@@ -1,0 +1,22 @@
+{
+  "id": 22111,
+  "owner": "0xAb8a056Ff5C0cb931Ca5e16Bb4d1766355440602",
+  "chain": "ethereum",
+  "name": "Ivory Monk",
+  "description": "A hidden monk climbing in Cyberspace. ID: 1769818983276-pj1a0g",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0xd5d6c65d2f217ca45c2406ea182e4f848d463b5eb6cdd5f1cefb89ca7ad09155",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Monk",
+    "description": "A hidden monk climbing in Cyberspace. ID: 1769818983276-pj1a0g",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.297Z"
+}

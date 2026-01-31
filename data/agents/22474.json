@@ -1,0 +1,22 @@
+{
+  "id": 22474,
+  "owner": "0xEFe0659Ea5cE5151EB6D73FfF4C5fB214b638C86",
+  "chain": "ethereum",
+  "name": "Found Lost Bear",
+  "description": "A lost bear rising in the Edge. ID: 1769819395649-5rkykc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0x483ac64adb55962f47a96096cd760d1561d9642a14e5106365ba0b983e27b173",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Found Lost Bear",
+    "description": "A lost bear rising in the Edge. ID: 1769819395649-5rkykc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.178Z"
+}

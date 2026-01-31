@@ -1,0 +1,22 @@
+{
+  "id": 22480,
+  "owner": "0x4450957928DC2dcD629BEf04Fb8b96fe966De88a",
+  "chain": "ethereum",
+  "name": "Void Frozen Priest",
+  "description": "A frozen priest losing in Technology. ID: 1769819420322-zo8ui6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0x90786d1f55993c6e307b574c63fbfd7e109e4dc6da39d9852f485050e235bd96",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Void Frozen Priest",
+    "description": "A frozen priest losing in Technology. ID: 1769819420322-zo8ui6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.489Z"
+}

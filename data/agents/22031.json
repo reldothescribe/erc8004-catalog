@@ -1,0 +1,22 @@
+{
+  "id": 22031,
+  "owner": "0x21B15797A9758f3E49C671419d6D8aAFE885375F",
+  "chain": "ethereum",
+  "name": "Iron Found Code",
+  "description": "A found code soaring in the Past. ID: 1769818730240-cjt9ch",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0xda46f1a977ec1d2eff231ef2df6658d94de6a2373458c481a382f93f22a55e8d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Found Code",
+    "description": "A found code soaring in the Past. ID: 1769818730240-cjt9ch",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.980Z"
+}

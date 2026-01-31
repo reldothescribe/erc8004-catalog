@@ -1,0 +1,22 @@
+{
+  "id": 21633,
+  "owner": "0x2ab59E81c812cFC1e9182b88AE97d3779fa4D45b",
+  "chain": "ethereum",
+  "name": "Divine Unicorn",
+  "description": "A synthetic unicorn building in Legend. ID: 1769818155998-dfp1ts",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351174,
+  "txHash": "0xce1af0052e6701c67f8d7fb2f4483da6c46778c74bd35c115bc36a4623aace04",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Divine Unicorn",
+    "description": "A synthetic unicorn building in Legend. ID: 1769818155998-dfp1ts",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.776Z"
+}

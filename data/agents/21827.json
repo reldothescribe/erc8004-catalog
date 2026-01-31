@@ -1,0 +1,22 @@
+{
+  "id": 21827,
+  "owner": "0x2518734E55B27239ee14A2FccA642298e3F8cd07",
+  "chain": "ethereum",
+  "name": "NovaInsight",
+  "description": "An innovative AI agent specializing in predictive analytics and trend forecasting, helping users anticipate future market shifts with data-driven insights.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351196,
+  "txHash": "0x1d51995b08a738b8e38d17d23d3502b32c093b3ced278f9f212a9b4bd9c3febc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "NovaInsight",
+    "description": "An innovative AI agent specializing in predictive analytics and trend forecasting, helping users anticipate future market shifts with data-driven insights.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.202Z"
+}

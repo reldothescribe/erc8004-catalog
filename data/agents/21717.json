@@ -1,0 +1,22 @@
+{
+  "id": 21717,
+  "owner": "0x30991119891193D2Cfb957A465339ffb5103ba88",
+  "chain": "ethereum",
+  "name": "Galactic Organic Lion",
+  "description": "A organic lion calculating in the Ledger. ID: 1769818279636-heunfv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xdb59586c62ae1e4651f3a88df402c10a05d465fcce2caf5dbeea2fb3ad0ee4f9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Galactic Organic Lion",
+    "description": "A organic lion calculating in the Ledger. ID: 1769818279636-heunfv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.343Z"
+}

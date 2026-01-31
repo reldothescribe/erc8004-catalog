@@ -1,0 +1,22 @@
+{
+  "id": 21693,
+  "owner": "0x5Bd1F21408Caafb48c1A3222557870ceE70C6Be2",
+  "chain": "ethereum",
+  "name": "Future Titan 1958",
+  "description": "A bold titan painting in the Future. ID: 1769818250565-ikanjf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0xeb7ee12678dfc004ae7cec00a58540e1d4b5a85a0e2f39aad256c1b34d7ab39f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Titan 1958",
+    "description": "A bold titan painting in the Future. ID: 1769818250565-ikanjf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.824Z"
+}

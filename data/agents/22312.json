@@ -1,0 +1,22 @@
+{
+  "id": 22312,
+  "owner": "0x3911103ef15F32A1BF1F21561fD4699230ad6B90",
+  "chain": "ethereum",
+  "name": "Elder Hydra",
+  "description": "A holographic hydra molding in the Chain. ID: 1769819213757-yezcb7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0x379c538cddc93a375246cfe4ef5552afde36712c4cf16de5ef3c0b2e0c0022bb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Hydra",
+    "description": "A holographic hydra molding in the Chain. ID: 1769819213757-yezcb7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.082Z"
+}

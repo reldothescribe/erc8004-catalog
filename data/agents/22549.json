@@ -1,0 +1,22 @@
+{
+  "id": 22549,
+  "owner": "0x7DbCED054624Eeb56FF9B6808D0028043CD40F6a",
+  "chain": "ethereum",
+  "name": "Ivory Bard 5151",
+  "description": "A wise bard living in the Summit. ID: 1769819453226-xueavy",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0xbdc1aa2390c192045b2691998324cb50f1965b1df18c71f0ade5798422ca2593",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Bard 5151",
+    "description": "A wise bard living in the Summit. ID: 1769819453226-xueavy",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.637Z"
+}

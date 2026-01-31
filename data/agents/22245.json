@@ -1,0 +1,22 @@
+{
+  "id": 22245,
+  "owner": "0x383F27411766F508852fE64e2C2Fa5f1A58437C5",
+  "chain": "ethereum",
+  "name": "Rapid Hammer 7344",
+  "description": "A infernal hammer playing in Berlin. ID: 1769819106351-ntfytp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351252,
+  "txHash": "0x078a65c63ce198246aaaa955411069a67c9b1971f9bd2ec8aca653dbbb0eeae0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Hammer 7344",
+    "description": "A infernal hammer playing in Berlin. ID: 1769819106351-ntfytp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.769Z"
+}

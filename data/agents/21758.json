@@ -1,0 +1,22 @@
+{
+  "id": 21758,
+  "owner": "0xda0F04704Bc26C8eBbc74d351903968BC98c7276",
+  "chain": "ethereum",
+  "name": "Celestial Golem 3054",
+  "description": "A ancient golem swimming in Paris. ID: 1769818267872-kn0hfw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x13ec8a3497d4cf1c040d2c3770e27b7f6306bc1ff9ed138fb13b3612e7792489",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Celestial Golem 3054",
+    "description": "A ancient golem swimming in Paris. ID: 1769818267872-kn0hfw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.135Z"
+}

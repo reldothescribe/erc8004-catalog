@@ -1,0 +1,22 @@
+{
+  "id": 22332,
+  "owner": "0x38d5E9dc1Bff4f4487BAb88c472Df0C41ecd2f64",
+  "chain": "ethereum",
+  "name": "Spectral Ruby Whale",
+  "description": "A ruby whale creating in the Unknown. ID: 1769819226757-sbo0qz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0x75a9a417e97f8c61b7c812b5448cad572dee7058469df685e63ab25504726b4d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Spectral Ruby Whale",
+    "description": "A ruby whale creating in the Unknown. ID: 1769819226757-sbo0qz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.341Z"
+}

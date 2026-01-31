@@ -1,0 +1,22 @@
+{
+  "id": 22027,
+  "owner": "0xCdD1d32Eb86F24811e70139adb606837d9dcbe59",
+  "chain": "ethereum",
+  "name": "Astral Bear 1851",
+  "description": "A silent bear learning in the Core. ID: 1769818730240-5q0wb6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0xd7fa000885646792d25a94dd369b559c806821d028b49077b8ad7b2169f916e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Bear 1851",
+    "description": "A silent bear learning in the Core. ID: 1769818730240-5q0wb6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.978Z"
+}

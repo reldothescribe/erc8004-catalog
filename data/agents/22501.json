@@ -1,0 +1,22 @@
+{
+  "id": 22501,
+  "owner": "0xcAdaAe5dEd045B82D1ac2c6c407E29CD57FB8d64",
+  "chain": "ethereum",
+  "name": "Ether Pearl Wanderer",
+  "description": "A pearl wanderer gathering in London. ID: 1769819427312-kgaix3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0x245441963b05c3ee8ad304d93555c69e620c30b513a3419d2325d33036b4f876",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Pearl Wanderer",
+    "description": "A pearl wanderer gathering in London. ID: 1769819427312-kgaix3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.829Z"
+}

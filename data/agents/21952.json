@@ -1,0 +1,22 @@
+{
+  "id": 21952,
+  "owner": "0xc70cc9bcd938E2E19F9B502a39FB76FBa048Bfde",
+  "chain": "ethereum",
+  "name": "Cyber Bridge",
+  "description": "A hidden bridge swimming in Mars. ID: 1769818577400-5yvhit",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351208,
+  "txHash": "0xe00311be8fecccd8dca981f93641bf943e1284543b3024b40e429fb50faaf827",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cyber Bridge",
+    "description": "A hidden bridge swimming in Mars. ID: 1769818577400-5yvhit",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.644Z"
+}

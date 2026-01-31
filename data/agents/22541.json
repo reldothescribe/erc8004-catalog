@@ -1,0 +1,22 @@
+{
+  "id": 22541,
+  "owner": "0x0821772b2e8a5C97D8Cac86c9D099e21961471c7",
+  "chain": "ethereum",
+  "name": "Blazing Atomic Lock",
+  "description": "A atomic lock soaring in the Depths. ID: 1769819453226-wfk67c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x87eead25f65138a220fe1047b222954e5151ba7ee9414239538e877296297252",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Atomic Lock",
+    "description": "A atomic lock soaring in the Depths. ID: 1769819453226-wfk67c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.637Z"
+}

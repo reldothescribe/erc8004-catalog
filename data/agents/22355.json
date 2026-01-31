@@ -1,0 +1,22 @@
+{
+  "id": 22355,
+  "owner": "0x0821772b2e8a5C97D8Cac86c9D099e21961471c7",
+  "chain": "ethereum",
+  "name": "Cunning Qubit",
+  "description": "A gentle qubit diving in London. ID: 1769819239754-tn8qlu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0xc8b659fa4883752fc05d4bc1783a3c3af3e086244ee8da8da0116549a03bdccf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Qubit",
+    "description": "A gentle qubit diving in London. ID: 1769819239754-tn8qlu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.872Z"
+}

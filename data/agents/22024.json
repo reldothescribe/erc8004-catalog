@@ -1,0 +1,22 @@
+{
+  "id": 22024,
+  "owner": "0xf7E5f52eca723df5986586b3d816dD89628bc580",
+  "chain": "ethereum",
+  "name": "Burning Frozen Monk",
+  "description": "A frozen monk shaping in New York. ID: 1769818730240-bqpag2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0xcad95ae443b93b4845f01b0e559c325d49f0ed2cfd4af4e29aab13aad422d518",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Frozen Monk",
+    "description": "A frozen monk shaping in New York. ID: 1769818730240-bqpag2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.721Z"
+}

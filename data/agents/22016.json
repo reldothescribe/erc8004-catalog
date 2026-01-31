@@ -1,0 +1,22 @@
+{
+  "id": 22016,
+  "owner": "0xda0F04704Bc26C8eBbc74d351903968BC98c7276",
+  "chain": "ethereum",
+  "name": "Jade Tempest 2049",
+  "description": "A bounded tempest crawling in the Unknown. ID: 1769818730240-f2cndj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0x4a38df1b26223a1d5e5681916dbb69e48f3031b1a1bad3aa687d25b41e8ad6ac",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Tempest 2049",
+    "description": "A bounded tempest crawling in the Unknown. ID: 1769818730240-f2cndj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.719Z"
+}

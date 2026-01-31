@@ -1,0 +1,22 @@
+{
+  "id": 22415,
+  "owner": "0xaA3E3AD01b0dC5898aa2DC7B9579B5CE6DF5C828",
+  "chain": "ethereum",
+  "name": "Lunar Wolf",
+  "description": "A orderly wolf molding in Magic. ID: 1769819357309-zhduix",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0x0e3fbd0798cf6a645dbbd72d190f78da7f9ea1557f0b0ba91a960ba50647967b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Wolf",
+    "description": "A orderly wolf molding in Magic. ID: 1769819357309-zhduix",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.939Z"
+}

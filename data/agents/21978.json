@@ -1,0 +1,22 @@
+{
+  "id": 21978,
+  "owner": "0x87B3F0B4fA0FDC68003c8c141889ccE01060c2bE",
+  "chain": "ethereum",
+  "name": "Ethereal Cyber Bridge",
+  "description": "A cyber bridge watching in Science. ID: 1769818703328-jp2u3e",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351219,
+  "txHash": "0x2ac96856ffa02b9774002f333ded1728d8eb1b33b65b6b1a935c510e7f37dc78",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Cyber Bridge",
+    "description": "A cyber bridge watching in Science. ID: 1769818703328-jp2u3e",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.922Z"
+}

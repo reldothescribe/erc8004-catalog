@@ -1,0 +1,22 @@
+{
+  "id": 22179,
+  "owner": "0x5660005B3F86Dd339204E7091d7E387aacd7B5B8",
+  "chain": "ethereum",
+  "name": "Obsidian Monk 7757",
+  "description": "A atomic monk protecting in the Boundary. ID: 1769819068562-tne6b5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0x63dcc528e24f1cabefe5b0ee68eaaa0530f0501735893712da1ebf17f2795aee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Obsidian Monk 7757",
+    "description": "A atomic monk protecting in the Boundary. ID: 1769819068562-tne6b5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.691Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22441,
+  "owner": "0x0821772b2e8a5C97D8Cac86c9D099e21961471c7",
+  "chain": "ethereum",
+  "name": "Ethereal Traveler",
+  "description": "A crypto traveler gathering in the Unknown. ID: 1769819383190-oinpk2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0x4e94db072ab6e76fac65460c4f1f18acab529531b1eec7db4582906b924baab0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Traveler",
+    "description": "A crypto traveler gathering in the Unknown. ID: 1769819383190-oinpk2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.585Z"
+}

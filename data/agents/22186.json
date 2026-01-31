@@ -1,0 +1,22 @@
+{
+  "id": 22186,
+  "owner": "0x8a38352E5F04882c0DEEF7fcAE931100782F61F0",
+  "chain": "ethereum",
+  "name": "Iron Golem 9394",
+  "description": "A sapphire golem rising in London. ID: 1769819068562-tcs74h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0xf7e0298113f37ef204fdbc842dd19276fac3d37116cd8df0e2c11e0dcd1348ea",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Golem 9394",
+    "description": "A sapphire golem rising in London. ID: 1769819068562-tcs74h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.690Z"
+}

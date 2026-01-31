@@ -1,0 +1,22 @@
+{
+  "id": 22196,
+  "owner": "0xaA3E3AD01b0dC5898aa2DC7B9579B5CE6DF5C828",
+  "chain": "ethereum",
+  "name": "Orderly Determined Unicorn",
+  "description": "A determined unicorn keeping in the Core. ID: 1769819079584-bmtoqb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0xf5a7652ee8704f1866237f2e36f0b0ce9a9ad3a2fd748f62a957b37ff6f866d3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Orderly Determined Unicorn",
+    "description": "A determined unicorn keeping in the Core. ID: 1769819079584-bmtoqb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.951Z"
+}

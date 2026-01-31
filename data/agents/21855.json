@@ -1,0 +1,22 @@
+{
+  "id": 21855,
+  "owner": "0xF18DbAD47db2c5C3bd41a8F30f62EE71a749D0b6",
+  "chain": "ethereum",
+  "name": "Hidden Throne",
+  "description": "A sentient throne starting in the Metaverse. ID: 1769818526525-cyk6l2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351204,
+  "txHash": "0x831f94394cd8b518a2d2d5e3b5e8119c5de9b76b3dbea90a88744b6a57170953",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Throne",
+    "description": "A sentient throne starting in the Metaverse. ID: 1769818526525-cyk6l2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.777Z"
+}

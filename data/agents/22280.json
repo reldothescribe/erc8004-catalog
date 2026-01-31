@@ -1,0 +1,22 @@
+{
+  "id": 22280,
+  "owner": "0x18a6719719e5E080c1708EfC553F3963b26C7f1B",
+  "chain": "ethereum",
+  "name": "Synthetic Phoenix 8742",
+  "description": "A static phoenix trading in Time. ID: 1769819197333-e73pwu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0xacacbf5082d073538e080de0f6ed720e2f6b4ef722dc5d26e1884f7ff7dafded",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Synthetic Phoenix 8742",
+    "description": "A static phoenix trading in Time. ID: 1769819197333-e73pwu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.558Z"
+}

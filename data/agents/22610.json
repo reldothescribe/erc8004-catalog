@@ -1,0 +1,43 @@
+{
+  "id": 22610,
+  "owner": "0xEA9c085Cd659fE6eaF01717CD3705e9f39375926",
+  "chain": "ethereum",
+  "name": "RitmexAgent",
+  "description": "RitMEXAgent is the official AI-driven intelligence layer for the RitMEX ecosystem. Designed to bridge the gap between complex blockchain data and actionable insights, this agent provides seamless access to professional-grade cryptocurrency analytics. From real-time liquidity trends to advanced sentiment indicators, RitMEXAgent empowers you to navigate the volatile crypto market with precision and clarity.",
+  "image": "https://blob.8004scan.app/9dfe64c55d4baa114379615b8a6b5c5d6a7d9cdacd6bde453a689fcb9a2c5582.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://www.ritmex.one/x402/crowdIndex"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://www.ritmex.one/x402/calendar"
+    }
+  ],
+  "registeredBlock": 24352801,
+  "txHash": "0x57ee40c5c56318b8827300baa8574feb3ec7b30e023348174d0fa7f475852f2d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "RitmexAgent",
+    "description": "RitMEXAgent is the official AI-driven intelligence layer for the RitMEX ecosystem. Designed to bridge the gap between complex blockchain data and actionable insights, this agent provides seamless access to professional-grade cryptocurrency analytics. From real-time liquidity trends to advanced sentiment indicators, RitMEXAgent empowers you to navigate the volatile crypto market with precision and clarity.",
+    "image": "https://blob.8004scan.app/9dfe64c55d4baa114379615b8a6b5c5d6a7d9cdacd6bde453a689fcb9a2c5582.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://www.ritmex.one/x402/crowdIndex"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://www.ritmex.one/x402/calendar"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-01-31T07:45:19.688Z"
+}

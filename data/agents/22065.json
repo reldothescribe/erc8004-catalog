@@ -1,0 +1,22 @@
+{
+  "id": 22065,
+  "owner": "0xFA566AacDf4c970F9585EEd08Cf6F0f4423eCD2D",
+  "chain": "ethereum",
+  "name": "Gentle Storm 5202",
+  "description": "A future storm painting in Paris. ID: 1769818757018-rz4idz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351223,
+  "txHash": "0x28392c73b0305454cf428fed8cb61d03433f72277286f32455e142b491a24f89",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Storm 5202",
+    "description": "A future storm painting in Paris. ID: 1769818757018-rz4idz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.514Z"
+}

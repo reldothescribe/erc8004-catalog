@@ -1,0 +1,22 @@
+{
+  "id": 22247,
+  "owner": "0x008E3dd3c4e6e51499D803B225148fbFc2deF2a5",
+  "chain": "ethereum",
+  "name": "Cunning Comet 7541",
+  "description": "A bold comet learning in Tokyo. ID: 1769819106351-82g80e",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351252,
+  "txHash": "0x7ade8faedd67daf763d52f11d08bbfdd4712381f49562c154ad5fff6c9596eb0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Comet 7541",
+    "description": "A bold comet learning in Tokyo. ID: 1769819106351-82g80e",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.769Z"
+}

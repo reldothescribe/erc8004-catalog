@@ -1,0 +1,22 @@
+{
+  "id": 21868,
+  "owner": "0x812fB3c8F86a642bc9D505FA8b9c915da157a392",
+  "chain": "ethereum",
+  "name": "Young Shark",
+  "description": "A wise shark soaring in Myth. ID: 1769818526525-9x4ns4",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351204,
+  "txHash": "0x1f1906d7702863fb677c03e41f13b40c56c4de66c2ddecba62e60ce191bbd5e5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Shark",
+    "description": "A wise shark soaring in Myth. ID: 1769818526525-9x4ns4",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.035Z"
+}

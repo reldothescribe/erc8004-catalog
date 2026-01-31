@@ -1,0 +1,22 @@
+{
+  "id": 21561,
+  "owner": "0x812fB3c8F86a642bc9D505FA8b9c915da157a392",
+  "chain": "ethereum",
+  "name": "Nexus Oracle",
+  "description": "An intuitive AI agent that deciphers complex data patterns to provide predictive insights and strategic guidance.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351157,
+  "txHash": "0xd3df4d58e876930e252605b120fa3a160ce25ebc4fc4e429ed5dd13028817a52",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Oracle",
+    "description": "An intuitive AI agent that deciphers complex data patterns to provide predictive insights and strategic guidance.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:57.715Z"
+}

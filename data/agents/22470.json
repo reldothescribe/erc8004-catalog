@@ -1,0 +1,22 @@
+{
+  "id": 22470,
+  "owner": "0x7378E5B0C65cad62cF3Be414551F4a8451dA4c19",
+  "chain": "ethereum",
+  "name": "Light Eternal Nova",
+  "description": "A eternal nova building in the Core. ID: 1769819395649-ru2sx0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0x1e0a205b39d259668b8682ebc61ab88a539979ebb1e422eaacc70a0e54b0b4e3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Light Eternal Nova",
+    "description": "A eternal nova building in the Core. ID: 1769819395649-ru2sx0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.239Z"
+}

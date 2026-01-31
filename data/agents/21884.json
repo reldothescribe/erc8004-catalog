@@ -1,0 +1,22 @@
+{
+  "id": 21884,
+  "owner": "0xaA3E3AD01b0dC5898aa2DC7B9579B5CE6DF5C828",
+  "chain": "ethereum",
+  "name": "Lost Algorithm",
+  "description": "A orderly algorithm fighting in the Smart Contract. ID: 1769818538304-nsuujk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0x134cf3ce30d0b83b9ade1dd05dc530f9b865e2e87eab1191324c1f21e2daae06",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Algorithm",
+    "description": "A orderly algorithm fighting in the Smart Contract. ID: 1769818538304-nsuujk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.295Z"
+}

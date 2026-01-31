@@ -1,0 +1,22 @@
+{
+  "id": 22505,
+  "owner": "0x9cfE86A23653e86AC31C84A3D563E3E9C3D6F357",
+  "chain": "ethereum",
+  "name": "Digital Storm",
+  "description": "A burning storm creating in the Boundary. ID: 1769819427312-ns9j8g",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0xde2481266abf37d30db14b0a58583dde02f928dd9509e07149ea1b7b5f36dc66",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Storm",
+    "description": "A burning storm creating in the Boundary. ID: 1769819427312-ns9j8g",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.090Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22063,
+  "owner": "0xEFe0659Ea5cE5151EB6D73FfF4C5fB214b638C86",
+  "chain": "ethereum",
+  "name": "Crypto Tempest",
+  "description": "A obsidian tempest buying in London. ID: 1769818757018-9vd99h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351223,
+  "txHash": "0x8ad85cca56b2dd483081a39904abff4cea98441b7ac8bfad63021976803dc0f0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crypto Tempest",
+    "description": "A obsidian tempest buying in London. ID: 1769818757018-9vd99h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.509Z"
+}

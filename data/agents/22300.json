@@ -1,0 +1,22 @@
+{
+  "id": 22300,
+  "owner": "0x5B0c5c7676Cf7B504E336c3Bf70Aa6087F5d144a",
+  "chain": "ethereum",
+  "name": "Lunar Pearl Phoenix",
+  "description": "A pearl phoenix reading in Pluto. ID: 1769819213757-giy7mj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0x93fcdd3c2e0b6eb7da77a6a0602e8d6c5ee9bd161fcde9ab1966c9cb3560efc0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Pearl Phoenix",
+    "description": "A pearl phoenix reading in Pluto. ID: 1769819213757-giy7mj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.818Z"
+}

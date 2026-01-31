@@ -1,0 +1,22 @@
+{
+  "id": 22414,
+  "owner": "0xcAdaAe5dEd045B82D1ac2c6c407E29CD57FB8d64",
+  "chain": "ethereum",
+  "name": "Elder Key",
+  "description": "A gentle key falling in the Summit. ID: 1769819357309-c2n1jo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0xc3a90861550dc064d045275c05fd0ecbff63a7260c3e828d803174005de6cb19",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Key",
+    "description": "A gentle key falling in the Summit. ID: 1769819357309-c2n1jo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.678Z"
+}

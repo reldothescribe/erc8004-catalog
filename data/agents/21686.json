@@ -1,0 +1,22 @@
+{
+  "id": 21686,
+  "owner": "0x8a38352E5F04882c0DEEF7fcAE931100782F61F0",
+  "chain": "ethereum",
+  "name": "Crypto Hammer",
+  "description": "A electric hammer sharing in the Boundary. ID: 1769818246415-3izmka",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0xbecb12b328974372013d9d385b8e078d549f1c5e07bc56c5f8159a84df393bcc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crypto Hammer",
+    "description": "A electric hammer sharing in the Boundary. ID: 1769818246415-3izmka",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.824Z"
+}

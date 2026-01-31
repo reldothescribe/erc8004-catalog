@@ -1,0 +1,22 @@
+{
+  "id": 22160,
+  "owner": "0xC8AaCb1e92E62E670839eDd5A09bdD19EA8F4c31",
+  "chain": "ethereum",
+  "name": "Burning Nova 4428",
+  "description": "A dynamic nova decoding in Dimension X. ID: 1769819023752-vfq1mk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0x62fb8a4fe27f807e1ca6b9e535de3746343884eeaf0febc6b98389b108aa5361",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Nova 4428",
+    "description": "A dynamic nova decoding in Dimension X. ID: 1769819023752-vfq1mk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.431Z"
+}

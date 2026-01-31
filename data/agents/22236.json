@@ -1,0 +1,22 @@
+{
+  "id": 22236,
+  "owner": "0xd72101eEa716D5a341fF4618421D2C367B352b29",
+  "chain": "ethereum",
+  "name": "Obsidian Electric Tiger",
+  "description": "A electric tiger learning in the Protocol. ID: 1769819106351-nqv0mb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351252,
+  "txHash": "0x2eb22a9ffd3de88ea6b4cbeabd9afedc0feb97ccec86ff85c0d543ff8eefb3de",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Obsidian Electric Tiger",
+    "description": "A electric tiger learning in the Protocol. ID: 1769819106351-nqv0mb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.769Z"
+}

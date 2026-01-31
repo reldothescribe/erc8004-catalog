@@ -1,0 +1,22 @@
+{
+  "id": 21691,
+  "owner": "0x93D0a0fBB9218857C8A34A0C3B5E12021417f4Ab",
+  "chain": "ethereum",
+  "name": "Void Node 9933",
+  "description": "A crimson node fighting in Cyberspace. ID: 1769818239491-fm7np2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0xfb1bea50c94f79af0ca3420288a7a200f99d2fd66131d09a695f6fb6062fb05b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Void Node 9933",
+    "description": "A crimson node fighting in Cyberspace. ID: 1769818239491-fm7np2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.824Z"
+}

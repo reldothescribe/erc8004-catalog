@@ -1,0 +1,22 @@
+{
+  "id": 22353,
+  "owner": "0x008E3dd3c4e6e51499D803B225148fbFc2deF2a5",
+  "chain": "ethereum",
+  "name": "Shadow Pilot",
+  "description": "A wise pilot destroying in Legend. ID: 1769819239754-jc6adl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0x825c23cdc74910d146f2b35a66b0d687769ecda4ad3e53517f117ebe696334aa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Pilot",
+    "description": "A wise pilot destroying in Legend. ID: 1769819239754-jc6adl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.604Z"
+}

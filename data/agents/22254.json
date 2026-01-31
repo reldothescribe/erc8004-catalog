@@ -1,0 +1,22 @@
+{
+  "id": 22254,
+  "owner": "0xF9daeECDF4c14F1b4b0747FBcfDbB7E6d59920DE",
+  "chain": "ethereum",
+  "name": "Infernal Hydra",
+  "description": "A eternal hydra dancing in Space. ID: 1769819106351-esqq6n",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351252,
+  "txHash": "0x0d6c6294806056541e761caa77443d08ce7d5b7dfe413badfaa7fec968f2da60",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Hydra",
+    "description": "A eternal hydra dancing in Space. ID: 1769819106351-esqq6n",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.029Z"
+}

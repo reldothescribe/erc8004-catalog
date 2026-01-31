@@ -1,0 +1,22 @@
+{
+  "id": 22255,
+  "owner": "0xBc863C2d28dCB5122AdC497c1Ad93FA142189E5F",
+  "chain": "ethereum",
+  "name": "Temporal Door",
+  "description": "A quantum door falling in Space. ID: 1769819106351-2vgaan",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351252,
+  "txHash": "0x63a99f19fbded20792eaa1204ce593bdef0eacdc7712cbca3c16954732eb8871",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Door",
+    "description": "A quantum door falling in Space. ID: 1769819106351-2vgaan",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.029Z"
+}

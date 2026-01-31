@@ -1,0 +1,22 @@
+{
+  "id": 21919,
+  "owner": "0x93757849C8365629BC56a67aFAc51ea8569eA683",
+  "chain": "ethereum",
+  "name": "Zero Oracle 8063",
+  "description": "A digital oracle resting in the Center. ID: 1769818554217-6oo3ln",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0x4938edac80666f2976ac62bb7e6b006a96a85a06f523872fc6db5502b9f52bd1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Zero Oracle 8063",
+    "description": "A digital oracle resting in the Center. ID: 1769818554217-6oo3ln",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.855Z"
+}

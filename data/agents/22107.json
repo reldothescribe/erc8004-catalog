@@ -1,0 +1,22 @@
+{
+  "id": 22107,
+  "owner": "0x0351A9617DD76c23d648671050a83F7A6F30E67e",
+  "chain": "ethereum",
+  "name": "Rapid Castle",
+  "description": "A crypto castle ending in the Metaverse. ID: 1769818983276-t9niv2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0x0391d77a60a3257a296b4c4757bfd00039186456fa17897144d9b1063ac23dd6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Castle",
+    "description": "A crypto castle ending in the Metaverse. ID: 1769818983276-t9niv2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.298Z"
+}

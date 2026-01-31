@@ -1,0 +1,22 @@
+{
+  "id": 21893,
+  "owner": "0xf7EeA6dC6F86d3F931bD7382E8261410C05d5Cb8",
+  "chain": "ethereum",
+  "name": "Pearl Nova 3187",
+  "description": "A dark nova climbing in the Ledger. ID: 1769818538304-ovcvm5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0x7a622ae49ffba4c41dd0beb51df6c2050e06d7ddf28aea83423823f194495b7c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Nova 3187",
+    "description": "A dark nova climbing in the Ledger. ID: 1769818538304-ovcvm5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.578Z"
+}

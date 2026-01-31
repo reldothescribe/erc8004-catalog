@@ -1,0 +1,22 @@
+{
+  "id": 22442,
+  "owner": "0x4AcBCac2B3910C6129764C33220B789e54570a33",
+  "chain": "ethereum",
+  "name": "Ageless Algorithm 6888",
+  "description": "A onyx algorithm moving in Pluto. ID: 1769819383190-reyggp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0xad5175196af9b770deb4881ff9059393d6ee93a9871c409521cda33bfa8176d0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ageless Algorithm 6888",
+    "description": "A onyx algorithm moving in Pluto. ID: 1769819383190-reyggp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.222Z"
+}

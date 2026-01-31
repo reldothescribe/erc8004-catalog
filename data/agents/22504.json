@@ -1,0 +1,22 @@
+{
+  "id": 22504,
+  "owner": "0x5B0c5c7676Cf7B504E336c3Bf70Aa6087F5d144a",
+  "chain": "ethereum",
+  "name": "Stellar Path 435",
+  "description": "A bounded path ending in Technology. ID: 1769819427312-asx3km",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0x0f3330130f3428ef10215966bfd56f47e348548905a04ea48c352896c1250457",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Path 435",
+    "description": "A bounded path ending in Technology. ID: 1769819427312-asx3km",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.831Z"
+}

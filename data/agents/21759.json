@@ -1,0 +1,22 @@
+{
+  "id": 21759,
+  "owner": "0xda0F04704Bc26C8eBbc74d351903968BC98c7276",
+  "chain": "ethereum",
+  "name": "Bounded Nova 3620",
+  "description": "A light nova fighting in the Protocol. ID: 1769818301426-uvpuv3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0xc9386cfcf72a00687ccbb5bcb46bd36c42d444c37f340bc42ed1326b462ee5b9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bounded Nova 3620",
+    "description": "A light nova fighting in the Protocol. ID: 1769818301426-uvpuv3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.136Z"
+}

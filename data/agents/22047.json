@@ -1,0 +1,22 @@
+{
+  "id": 22047,
+  "owner": "0xd72101eEa716D5a341fF4618421D2C367B352b29",
+  "chain": "ethereum",
+  "name": "Valiant Hidden Wolf",
+  "description": "A hidden wolf rising in the Summit. ID: 1769818745643-aig3m8",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0xf33fbe2dff8bedadefb2ba7e295368df83c08aabdd913f3cb9de65b40b1f8a8a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Valiant Hidden Wolf",
+    "description": "A hidden wolf rising in the Summit. ID: 1769818745643-aig3m8",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.237Z"
+}

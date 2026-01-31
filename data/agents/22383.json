@@ -1,0 +1,22 @@
+{
+  "id": 22383,
+  "owner": "0x4450957928DC2dcD629BEf04Fb8b96fe966De88a",
+  "chain": "ethereum",
+  "name": "Holographic Lock",
+  "description": "A future lock playing in the Center. ID: 1769819342064-mw5w48",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351272,
+  "txHash": "0xd406109f227ddc1762799f32dee574640f66f10fa42dd6777f70be1fcdddea44",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Holographic Lock",
+    "description": "A future lock playing in the Center. ID: 1769819342064-mw5w48",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.146Z"
+}

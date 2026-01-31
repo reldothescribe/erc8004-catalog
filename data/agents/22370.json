@@ -1,0 +1,22 @@
+{
+  "id": 22370,
+  "owner": "0xD107fe26d65292eADB87dB730A69262e806f45f8",
+  "chain": "ethereum",
+  "name": "Infernal Gate",
+  "description": "A sapphire gate gathering in Tokyo. ID: 1769819252754-qrtdv2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0xe72a7652edb1b0681da28b54840ef4b48af161075dbca4d6e0a65507fcaca833",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Gate",
+    "description": "A sapphire gate gathering in Tokyo. ID: 1769819252754-qrtdv2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.155Z"
+}

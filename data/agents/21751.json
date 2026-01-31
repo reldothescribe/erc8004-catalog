@@ -1,0 +1,22 @@
+{
+  "id": 21751,
+  "owner": "0xFe61E882ddAFe6097Aca094670D7f3D57c11BEb7",
+  "chain": "ethereum",
+  "name": "Sapphire Wolf",
+  "description": "A frozen wolf speaking in Legend. ID: 1769818283286-qsea9y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x6bfb6533b1e9f8283be3eee6c80c54adc1533a8c3907bc3d54a6ec37ffdafc3e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sapphire Wolf",
+    "description": "A frozen wolf speaking in Legend. ID: 1769818283286-qsea9y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.869Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21909,
+  "owner": "0x5F1bcb425230523cC10dba1803CFeA30B201b1Aa",
+  "chain": "ethereum",
+  "name": "Omega Node",
+  "description": "A wise node playing in Mystery. ID: 1769818554217-0i5hcd",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0xd1b62b4484270e518c08c4df99ab5fbc728b409df397361ad15f76a26d735bf2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Omega Node",
+    "description": "A wise node playing in Mystery. ID: 1769818554217-0i5hcd",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.854Z"
+}

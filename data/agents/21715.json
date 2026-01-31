@@ -1,0 +1,22 @@
+{
+  "id": 21715,
+  "owner": "0xd72101eEa716D5a341fF4618421D2C367B352b29",
+  "chain": "ethereum",
+  "name": "Crimson Infinite Road",
+  "description": "A infinite road processing in Magic. ID: 1769818275916-mlifvn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xe16be88bc382c9e5d5f6fe4c79d2574c35af01a4c2ae5e150cb8d97e8e725046",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Infinite Road",
+    "description": "A infinite road processing in Magic. ID: 1769818275916-mlifvn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.347Z"
+}

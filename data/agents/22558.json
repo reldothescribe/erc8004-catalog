@@ -1,0 +1,22 @@
+{
+  "id": 22558,
+  "owner": "0xC8AaCb1e92E62E670839eDd5A09bdD19EA8F4c31",
+  "chain": "ethereum",
+  "name": "Automated Secret Rogue",
+  "description": "A secret rogue dreaming in the Protocol. ID: 1769819464543-a906hx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351282,
+  "txHash": "0xef92ee08fd1adfe2276809798f66b9fcc6d78850d7ab4036b00bc50296b5375c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Automated Secret Rogue",
+    "description": "A secret rogue dreaming in the Protocol. ID: 1769819464543-a906hx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.897Z"
+}

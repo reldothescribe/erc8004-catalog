@@ -1,0 +1,22 @@
+{
+  "id": 22559,
+  "owner": "0xD107fe26d65292eADB87dB730A69262e806f45f8",
+  "chain": "ethereum",
+  "name": "Ivory Protocol",
+  "description": "A organic protocol giving in the Abyss. ID: 1769819464543-zm5tnk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351282,
+  "txHash": "0xebd1026874ed0998e1aabefb61bcdbb1834ea6d32b34c40e3165e8dd6754641a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Protocol",
+    "description": "A organic protocol giving in the Abyss. ID: 1769819464543-zm5tnk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.902Z"
+}

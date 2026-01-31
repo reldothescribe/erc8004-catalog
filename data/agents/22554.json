@@ -1,0 +1,22 @@
+{
+  "id": 22554,
+  "owner": "0x8E82218169188359aBAb3250Ae7DD5863682D67E",
+  "chain": "ethereum",
+  "name": "Cosmic Dragon 7736",
+  "description": "A zero dragon running in Nature. ID: 1769819453226-txtolw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x5e06d031ca37d18522440885454fe9ecdaf637d73596bc791cc3a68ab124404d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Dragon 7736",
+    "description": "A zero dragon running in Nature. ID: 1769819453226-txtolw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.902Z"
+}

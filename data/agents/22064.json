@@ -1,0 +1,22 @@
+{
+  "id": 22064,
+  "owner": "0xFA78042526ff5E89E629C9D17D8D30E7e3FC63C9",
+  "chain": "ethereum",
+  "name": "Solar Titan",
+  "description": "A frozen titan thinking in Dimension X. ID: 1769818757018-9nsf1q",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351223,
+  "txHash": "0x5b2b171580fcc8d160498a30ea936c09ea84bce969cbef84aa920a65c2e4c676",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Titan",
+    "description": "A frozen titan thinking in Dimension X. ID: 1769818757018-9nsf1q",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.509Z"
+}

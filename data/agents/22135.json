@@ -1,0 +1,22 @@
+{
+  "id": 22135,
+  "owner": "0x11d64b9644DEE2935b74898Bc2bbc7A5BC5BC886",
+  "chain": "ethereum",
+  "name": "Nexus Planet",
+  "description": "A quantum planet walking in DeFi. ID: 1769818994303-ykf1bq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0xb49e02301f08a9dfc5849a1262d89af9ee01df06fed9ccf8da27bef2f6e641a9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Planet",
+    "description": "A quantum planet walking in DeFi. ID: 1769818994303-ykf1bq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.902Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22327,
+  "owner": "0x5F1bcb425230523cC10dba1803CFeA30B201b1Aa",
+  "chain": "ethereum",
+  "name": "Emerald Phoenix 7111",
+  "description": "A arcane phoenix climbing in the Center. ID: 1769819226757-7jqb4h",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0xa8f301e39d1e3852d44e3193612a3a7b1b49a3e3f7c57ef1274574a52cc18e7c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Emerald Phoenix 7111",
+    "description": "A arcane phoenix climbing in the Center. ID: 1769819226757-7jqb4h",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.340Z"
+}

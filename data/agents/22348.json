@@ -1,0 +1,22 @@
+{
+  "id": 22348,
+  "owner": "0xE67821ca21C6B4Df0d9F4F1aE2E76aA45CFec589",
+  "chain": "ethereum",
+  "name": "Bounded Mage",
+  "description": "A silent mage exploring in the Depths. ID: 1769819239754-ddjpfn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0x6347f8496d251dbd040ebba702b23b40b04c3f9fa62f103c4e8e21eaafef8a8a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Bounded Mage",
+    "description": "A silent mage exploring in the Depths. ID: 1769819239754-ddjpfn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.604Z"
+}

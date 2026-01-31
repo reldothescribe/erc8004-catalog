@@ -1,0 +1,22 @@
+{
+  "id": 22499,
+  "owner": "0xFe87Bf64De4241332E30025101aA1dC0E57CCfE0",
+  "chain": "ethereum",
+  "name": "Quantum Static Paladin",
+  "description": "A static paladin painting in the Past. ID: 1769819427312-cu1fgj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351279,
+  "txHash": "0x57452eebdeea60d79964b0f7342abbcc72b10892d439bfa31bdeb96dc386245b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Quantum Static Paladin",
+    "description": "A static paladin painting in the Past. ID: 1769819427312-cu1fgj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.830Z"
+}

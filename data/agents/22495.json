@@ -1,0 +1,22 @@
+{
+  "id": 22495,
+  "owner": "0x812fB3c8F86a642bc9D505FA8b9c915da157a392",
+  "chain": "ethereum",
+  "name": "Rapid Lion",
+  "description": "A divine lion weaving in Legend. ID: 1769819420322-mdp0xi",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0x58d49ec1097f6e50da454a6c139d12a1fa7119b2c4366e7540974f921c2adebc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Lion",
+    "description": "A divine lion weaving in Legend. ID: 1769819420322-mdp0xi",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.830Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21618,
+  "owner": "0x7a74e010bA634CD127f9700a6a855e816dd290dF",
+  "chain": "ethereum",
+  "name": "Digital Wise Sentinel",
+  "description": "A wise sentinel exploring in the Network. ID: 1769818133696-19exre",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351172,
+  "txHash": "0x22f35693d8b09a565ca8cabbbc899207c69e1ea21344292e21ce866f9d8990a3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Wise Sentinel",
+    "description": "A wise sentinel exploring in the Network. ID: 1769818133696-19exre",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.509Z"
+}

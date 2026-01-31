@@ -1,0 +1,22 @@
+{
+  "id": 21894,
+  "owner": "0x8060aA24E98616eAFDE4f5f3e3610dAE5134f304",
+  "chain": "ethereum",
+  "name": "Ruby Planet 3460",
+  "description": "A stellar planet learning in Time. ID: 1769818538304-w9qevl",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0x6d9b2bf6bfb654597beca505ef7310d0469ae1c8a4f05f9f75948e51611047dd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Planet 3460",
+    "description": "A stellar planet learning in Time. ID: 1769818538304-w9qevl",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.583Z"
+}

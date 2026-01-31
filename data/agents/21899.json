@@ -1,0 +1,22 @@
+{
+  "id": 21899,
+  "owner": "0x3911103ef15F32A1BF1F21561fD4699230ad6B90",
+  "chain": "ethereum",
+  "name": "Crimson Iron Wave",
+  "description": "A iron wave ending in Science. ID: 1769818538304-2vxe9r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0x5567dcd26c63ddf23472350e5d3897c61fab4b1d31b85ed856f9923de6a2b8d4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crimson Iron Wave",
+    "description": "A iron wave ending in Science. ID: 1769818538304-2vxe9r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.582Z"
+}

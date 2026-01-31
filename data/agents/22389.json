@@ -1,0 +1,22 @@
+{
+  "id": 22389,
+  "owner": "0x18a6719719e5E080c1708EfC553F3963b26C7f1B",
+  "chain": "ethereum",
+  "name": "Swift Cipher",
+  "description": "A quantum cipher running in the Core. ID: 1769819342064-9kk0u3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351272,
+  "txHash": "0x5b22f7cc17044b8fd74a2e20b7fd6fb6c0baa7ce452dce9c80b3d4b2704e6dfd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Cipher",
+    "description": "A quantum cipher running in the Core. ID: 1769819342064-9kk0u3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.409Z"
+}

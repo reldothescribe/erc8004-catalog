@@ -1,0 +1,22 @@
+{
+  "id": 22203,
+  "owner": "0x2ab59E81c812cFC1e9182b88AE97d3779fa4D45b",
+  "chain": "ethereum",
+  "name": "Young Hunter 2836",
+  "description": "A lunar hunter decoding in the Depths. ID: 1769819079584-hg6vml",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0xab1823c935ad482b69eca2fcb285fa2ccca3324d23cde992e9a6f788f89dd4c9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Young Hunter 2836",
+    "description": "A lunar hunter decoding in the Depths. ID: 1769819079584-hg6vml",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.951Z"
+}

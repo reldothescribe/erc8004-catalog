@@ -1,0 +1,22 @@
+{
+  "id": 21701,
+  "owner": "0x3937D55d4EB40E807079656fbB3097878B8563A4",
+  "chain": "ethereum",
+  "name": "Ether Flower 8968",
+  "description": "A stellar flower crafting in London. ID: 1769818267872-s2sv6b",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x94ce8034b0fb66eb7271baca95e52d790bd406efc918bbea8fc943ffa792f525",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Flower 8968",
+    "description": "A stellar flower crafting in London. ID: 1769818267872-s2sv6b",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.080Z"
+}

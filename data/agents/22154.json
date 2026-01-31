@@ -1,0 +1,22 @@
+{
+  "id": 22154,
+  "owner": "0x77d7A83f03cFC98771A25666ab02d7131da63746",
+  "chain": "ethereum",
+  "name": "Atomic Key",
+  "description": "A ethereal key swimming in Cyberspace. ID: 1769819009644-4wn63c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351244,
+  "txHash": "0xa8981f42c602335087c785c56aeb6d7c4ab9b102a31907fda0c372e98c76aec9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Key",
+    "description": "A ethereal key swimming in Cyberspace. ID: 1769819009644-4wn63c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.169Z"
+}

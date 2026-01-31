@@ -1,0 +1,22 @@
+{
+  "id": 22132,
+  "owner": "0x3937D55d4EB40E807079656fbB3097878B8563A4",
+  "chain": "ethereum",
+  "name": "Secret Jade Paladin",
+  "description": "A jade paladin walking in Pluto. ID: 1769818994303-on3jlu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0x6137613ba5fecbe31844fbb4b0669fa40d5ff278b4df627351aa33a69682c711",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Jade Paladin",
+    "description": "A jade paladin walking in Pluto. ID: 1769818994303-on3jlu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.906Z"
+}

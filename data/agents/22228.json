@@ -1,0 +1,22 @@
+{
+  "id": 22228,
+  "owner": "0xAD35cfc001028056Ab1e5453D3A41558f2578b00",
+  "chain": "ethereum",
+  "name": "Ethereal Core",
+  "description": "A temporal core falling in New York. ID: 1769819090686-ijmc10",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0x0d3b4d5aa3cc21e9ff66bf38e312753d9cb24506657a97b6d89cd9c128832762",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ethereal Core",
+    "description": "A temporal core falling in New York. ID: 1769819090686-ijmc10",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.492Z"
+}

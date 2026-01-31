@@ -1,0 +1,22 @@
+{
+  "id": 22547,
+  "owner": "0x0188B9B764852686e73F141986455F507AF6B871",
+  "chain": "ethereum",
+  "name": "Cunning Frozen Shark",
+  "description": "A frozen shark learning in the Void. ID: 1769819453226-0rrbid",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x7de023aac88e9857b6c893786c4325273d4e7fb1ae09fbc5b85086edf7be7271",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cunning Frozen Shark",
+    "description": "A frozen shark learning in the Void. ID: 1769819453226-0rrbid",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.638Z"
+}

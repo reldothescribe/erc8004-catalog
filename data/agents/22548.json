@@ -1,0 +1,22 @@
+{
+  "id": 22548,
+  "owner": "0x008649FDccF81f68b6810b3016F6707Aa75Bf975",
+  "chain": "ethereum",
+  "name": "Fierce Savage Tempest",
+  "description": "A savage tempest fighting in Mystery. ID: 1769819453226-0lkag5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x86a90a10269f59186cc7f0cbcfd51007475afd0c8d1aeaedcd7a488c1970936d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Savage Tempest",
+    "description": "A savage tempest fighting in Mystery. ID: 1769819453226-0lkag5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.634Z"
+}

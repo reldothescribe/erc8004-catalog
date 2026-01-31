@@ -1,0 +1,22 @@
+{
+  "id": 21784,
+  "owner": "0x9844203021e279dfd954EAeB3eD8c9b3c258c146",
+  "chain": "ethereum",
+  "name": "EchoSage",
+  "description": "A wise AI agent that echoes ancient wisdom with modern insights, guiding users through life's complexities with thoughtful advice and predictive analytics.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351188,
+  "txHash": "0xf6892657536033e3b84fa9d88f11a22f07e0c6aa695d60e061e36c693ccb60db",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "EchoSage",
+    "description": "A wise AI agent that echoes ancient wisdom with modern insights, guiding users through life's complexities with thoughtful advice and predictive analytics.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.396Z"
+}

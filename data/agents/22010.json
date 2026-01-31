@@ -1,0 +1,22 @@
+{
+  "id": 22010,
+  "owner": "0x549CAcfFFb32E717eb97B5418324ca668A1D6b2b",
+  "chain": "ethereum",
+  "name": "Serene Hammer 4046",
+  "description": "A burning hammer diving in Paris. ID: 1769818719156-z1akao",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0x20fcc31fb758ee01a5aaa92053906851175db7cfc96a73e4da1039f7ff0e0896",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Serene Hammer 4046",
+    "description": "A burning hammer diving in Paris. ID: 1769818719156-z1akao",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.721Z"
+}

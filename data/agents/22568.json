@@ -1,0 +1,22 @@
+{
+  "id": 22568,
+  "owner": "0x5cF9cbf9962dd915236845Cc72fa41B73c8fef96",
+  "chain": "ethereum",
+  "name": "Alpha Hammer",
+  "description": "A arcane hammer giving in the Void. ID: 1769819464543-zuy30o",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351282,
+  "txHash": "0x56b34034992b1e286d9f40634ae088459099bd25cc82d38fef1dcf3f68b05dfc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Alpha Hammer",
+    "description": "A arcane hammer giving in the Void. ID: 1769819464543-zuy30o",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:16.169Z"
+}

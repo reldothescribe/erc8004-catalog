@@ -1,0 +1,22 @@
+{
+  "id": 22516,
+  "owner": "0x93D0a0fBB9218857C8A34A0C3B5E12021417f4Ab",
+  "chain": "ethereum",
+  "name": "Infinite Radiant Shield",
+  "description": "A radiant shield molding in the Future. ID: 1769819442276-50yh7b",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351280,
+  "txHash": "0x6422cbcb78deb12d345438783d3107a076750b436383336b656e9db9e3fcd708",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Radiant Shield",
+    "description": "A radiant shield molding in the Future. ID: 1769819442276-50yh7b",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.085Z"
+}

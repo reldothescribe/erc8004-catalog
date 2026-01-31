@@ -1,0 +1,22 @@
+{
+  "id": 21837,
+  "owner": "0xf389deC9Ce1bC18FB891e7151c9f20D37a383b76",
+  "chain": "ethereum",
+  "name": "Dark Matrix 8680",
+  "description": "A spectral matrix losing in the Consensus. ID: 1769818443956-8rzo6a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351200,
+  "txHash": "0xfad9b1daeeefcce0aed46d3388fb0863d051ab3f6d8068ecec60a1aa2e4004f7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dark Matrix 8680",
+    "description": "A spectral matrix losing in the Consensus. ID: 1769818443956-8rzo6a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.482Z"
+}

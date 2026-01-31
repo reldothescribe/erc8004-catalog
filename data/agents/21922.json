@@ -1,0 +1,22 @@
+{
+  "id": 21922,
+  "owner": "0x11d64b9644DEE2935b74898Bc2bbc7A5BC5BC886",
+  "chain": "ethereum",
+  "name": "Elder Rogue 3966",
+  "description": "A ethereal rogue waiting in the Block. ID: 1769818554217-xxza3y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0x1438b250a326cad23c43e02b4cab1d073ce616921fae7cc17517cf8910559b5f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Rogue 3966",
+    "description": "A ethereal rogue waiting in the Block. ID: 1769818554217-xxza3y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.119Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22293,
+  "owner": "0x87B3F0B4fA0FDC68003c8c141889ccE01060c2bE",
+  "chain": "ethereum",
+  "name": "Void Path",
+  "description": "A frozen path processing in the Chain. ID: 1769819197333-3logfc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0x9cc5598df00428b96e62c218cb876562765dd6e4aa29988c58135e6261c8eea7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Void Path",
+    "description": "A frozen path processing in the Chain. ID: 1769819197333-3logfc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.562Z"
+}

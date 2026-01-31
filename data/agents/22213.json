@@ -1,0 +1,22 @@
+{
+  "id": 22213,
+  "owner": "0xcB54c62dae7661C08e64Bc1c0521592713A1E1f3",
+  "chain": "ethereum",
+  "name": "Liquid Ocean",
+  "description": "A amber ocean taking in the Hash. ID: 1769819079584-tqct87",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351250,
+  "txHash": "0x10c556a646cebfa66a9a574503fe9b4c7fb0770fc4bf06495ca0775c9f8645bd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Ocean",
+    "description": "A amber ocean taking in the Hash. ID: 1769819079584-tqct87",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.218Z"
+}

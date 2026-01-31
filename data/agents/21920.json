@@ -1,0 +1,22 @@
+{
+  "id": 21920,
+  "owner": "0x21B15797A9758f3E49C671419d6D8aAFE885375F",
+  "chain": "ethereum",
+  "name": "Lunar Bounded Agent",
+  "description": "A bounded agent painting in Dimension X. ID: 1769818554217-qtieku",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0x40a118a1bb82ddb390853db4ed285263d80133803a0104032d5b3ffbaac19756",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Bounded Agent",
+    "description": "A bounded agent painting in Dimension X. ID: 1769818554217-qtieku",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.116Z"
+}

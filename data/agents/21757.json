@@ -1,0 +1,22 @@
+{
+  "id": 21757,
+  "owner": "0x618eE055a41e6624B335775cBa488BE03eFA8c89",
+  "chain": "ethereum",
+  "name": "Phantom Navigator",
+  "description": "A golden navigator shaping in Myth. ID: 1769818258344-d3kn8a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x201cd195d7168d29bdf8990e7e82d8616c1a45170133da3fc522cb0a9eaea8e2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Phantom Navigator",
+    "description": "A golden navigator shaping in Myth. ID: 1769818258344-d3kn8a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.134Z"
+}

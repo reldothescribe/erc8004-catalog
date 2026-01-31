@@ -1,0 +1,22 @@
+{
+  "id": 22520,
+  "owner": "0xf7E5f52eca723df5986586b3d816dD89628bc580",
+  "chain": "ethereum",
+  "name": "Burning Colossus 981",
+  "description": "A virtual colossus healing in History. ID: 1769819442276-gpndfc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351280,
+  "txHash": "0x467757b52b9fd1a4dc8eff8c83af7e8542bcaad5c61941742d2053f499339807",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Burning Colossus 981",
+    "description": "A virtual colossus healing in History. ID: 1769819442276-gpndfc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.353Z"
+}

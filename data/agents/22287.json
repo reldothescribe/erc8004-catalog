@@ -1,0 +1,22 @@
+{
+  "id": 22287,
+  "owner": "0x5Bd1F21408Caafb48c1A3222557870ceE70C6Be2",
+  "chain": "ethereum",
+  "name": "Fierce Monk",
+  "description": "A cognitive monk creating in the Metaverse. ID: 1769819197333-k1lkul",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0x9437cf3af570268766736a0f3db1ca43cf1d84721bfac073da6da5bccd43533a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Fierce Monk",
+    "description": "A cognitive monk creating in the Metaverse. ID: 1769819197333-k1lkul",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.561Z"
+}

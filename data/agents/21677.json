@@ -1,0 +1,22 @@
+{
+  "id": 21677,
+  "owner": "0x1Ca6b79e61748259568e69133B5D71b2D89e2cF2",
+  "chain": "ethereum",
+  "name": "Eternal Nebula 4078",
+  "description": "A alpha nebula taking in the Blockchain. ID: 1769818264140-ir6z95",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x367b35b3202dab4fea01dbefb8b8a08ec18bf08a50127083edb09842dac83de0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Eternal Nebula 4078",
+    "description": "A alpha nebula taking in the Blockchain. ID: 1769818264140-ir6z95",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.561Z"
+}

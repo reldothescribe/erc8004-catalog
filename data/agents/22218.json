@@ -1,0 +1,22 @@
+{
+  "id": 22218,
+  "owner": "0xacbA617ea2ddB5b487549456ab5c5FdE9142630c",
+  "chain": "ethereum",
+  "name": "Shadow Tempest",
+  "description": "A sapphire tempest painting in the Frontier. ID: 1769819090686-chyjxw",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0x2d6014ee9ce8796f3bc3da504197277776f5be1f66553a873da15ad5f6cfc76a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Shadow Tempest",
+    "description": "A sapphire tempest painting in the Frontier. ID: 1769819090686-chyjxw",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.217Z"
+}

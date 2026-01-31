@@ -1,0 +1,22 @@
+{
+  "id": 22545,
+  "owner": "0x4AcBCac2B3910C6129764C33220B789e54570a33",
+  "chain": "ethereum",
+  "name": "Magnetic Lock",
+  "description": "A quantum lock selling in Saturn. ID: 1769819453226-wqh33c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0xc2d43afc227d7617e1390eab7453c6eac5fce6b48904bf3c0019403df23d7790",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Magnetic Lock",
+    "description": "A quantum lock selling in Saturn. ID: 1769819453226-wqh33c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.637Z"
+}

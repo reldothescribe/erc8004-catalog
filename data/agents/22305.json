@@ -1,0 +1,22 @@
+{
+  "id": 22305,
+  "owner": "0x0351A9617DD76c23d648671050a83F7A6F30E67e",
+  "chain": "ethereum",
+  "name": "Iron Qubit",
+  "description": "A amber qubit swimming in the Ledger. ID: 1769819213757-vf5e3i",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0x7280185136a306a92a8b235ebf24f81b5d8f9bffc6e54fd61164b103a5e72fea",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Qubit",
+    "description": "A amber qubit swimming in the Ledger. ID: 1769819213757-vf5e3i",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.819Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21722,
+  "owner": "0xbA2BE9d2e99c9d0eB18926533982A96189407501",
+  "chain": "ethereum",
+  "name": "Autonomous Network",
+  "description": "A lost network reading in the Boundary. ID: 1769818279636-176dlc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xc1db5cf7b2d3f6548a5624bc652885ce5f856e01edeabc197339f89bc70249bd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Network",
+    "description": "A lost network reading in the Boundary. ID: 1769818279636-176dlc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.350Z"
+}

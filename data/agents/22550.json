@@ -1,0 +1,22 @@
+{
+  "id": 22550,
+  "owner": "0x30BE028C27604CaFeE55253a21fC735621715e65",
+  "chain": "ethereum",
+  "name": "Meta Core 6492",
+  "description": "A sapphire core building in Magic. ID: 1769819453226-b1nkp6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351281,
+  "txHash": "0x533d1997b10fc5731de709ad50f21f91aaecd9820238b5c36f2a55dffe8ee488",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Meta Core 6492",
+    "description": "A sapphire core building in Magic. ID: 1769819453226-b1nkp6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.897Z"
+}

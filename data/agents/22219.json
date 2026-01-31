@@ -1,0 +1,22 @@
+{
+  "id": 22219,
+  "owner": "0xc14f94Edb367406e4168d82F1Ae5D0B10Fb09fF3",
+  "chain": "ethereum",
+  "name": "Sapphire Jade Watcher",
+  "description": "A jade watcher forging in the Protocol. ID: 1769819090686-uthj8a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0x5b260f6c0d7baf9555c817b27ce02bbf83a19349d1e4f0b0804bcdae7589562b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sapphire Jade Watcher",
+    "description": "A jade watcher forging in the Protocol. ID: 1769819090686-uthj8a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.216Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21587,
+  "owner": "0x4450957928DC2dcD629BEf04Fb8b96fe966De88a",
+  "chain": "ethereum",
+  "name": "Silent Rogue 3149",
+  "description": "A lunar rogue dreaming in the Consensus. ID: 1769818089103-2r9vfm",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351168,
+  "txHash": "0xa02a64afd6abbeb68f19a072a0dcf17167ad273ffffc355016e425bb83e677c5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Rogue 3149",
+    "description": "A lunar rogue dreaming in the Consensus. ID: 1769818089103-2r9vfm",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:57.979Z"
+}

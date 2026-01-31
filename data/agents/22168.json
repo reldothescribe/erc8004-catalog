@@ -1,0 +1,22 @@
+{
+  "id": 22168,
+  "owner": "0x7378E5B0C65cad62cF3Be414551F4a8451dA4c19",
+  "chain": "ethereum",
+  "name": "Lunar Druid 5010",
+  "description": "A phantom druid singing in Legend. ID: 1769819023752-vebkgf",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0xd8f4062ee50e62b4d2fa852cc71f141aeeabc82ed27ca46eb66c246cd8b701a7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Druid 5010",
+    "description": "A phantom druid singing in Legend. ID: 1769819023752-vebkgf",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.431Z"
+}

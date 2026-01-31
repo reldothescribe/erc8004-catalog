@@ -1,0 +1,22 @@
+{
+  "id": 21767,
+  "owner": "0x4450957928DC2dcD629BEf04Fb8b96fe966De88a",
+  "chain": "ethereum",
+  "name": "Future Pulse 5472",
+  "description": "A sonic pulse sharing in the Void. ID: 1769818246415-a45d7u",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x1a662f0c1b9be0cee6c6cf10e843dbc57470218b6f77086fb2ebefc25a80602f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Future Pulse 5472",
+    "description": "A sonic pulse sharing in the Void. ID: 1769818246415-a45d7u",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.138Z"
+}

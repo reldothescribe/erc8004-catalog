@@ -1,0 +1,22 @@
+{
+  "id": 21697,
+  "owner": "0x7157A7FBEDB3D43c7732912AAfC9F804B537a951",
+  "chain": "ethereum",
+  "name": "Galactic Wise Way",
+  "description": "A wise way calculating in the Core. ID: 1769818260162-ht86x0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0xc93cbbfb2e50d79dd217bc003a7b45d9a21aef65bf585811494d2d2f9cc6e67f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Galactic Wise Way",
+    "description": "A wise way calculating in the Core. ID: 1769818260162-ht86x0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.083Z"
+}

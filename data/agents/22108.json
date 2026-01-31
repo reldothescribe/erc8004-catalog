@@ -1,0 +1,22 @@
+{
+  "id": 22108,
+  "owner": "0x8060aA24E98616eAFDE4f5f3e3610dAE5134f304",
+  "chain": "ethereum",
+  "name": "Swift Ether Path",
+  "description": "A ether path taking in Dimension X. ID: 1769818983276-k72gfc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0xe4f7dad553589a546e8f79e6bf95a02c0e4aaf8b737b7b835f6dfd291ed96bd8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Ether Path",
+    "description": "A ether path taking in Dimension X. ID: 1769818983276-k72gfc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.298Z"
+}

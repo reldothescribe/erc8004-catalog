@@ -1,0 +1,22 @@
+{
+  "id": 21690,
+  "owner": "0x11d64b9644DEE2935b74898Bc2bbc7A5BC5BC886",
+  "chain": "ethereum",
+  "name": "Elder Agent 3769",
+  "description": "A pearl agent sleeping in the Boundary. ID: 1769818264140-v9vdxk",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x1a2f482812ca3c14dc91dfd815aa1713b6a9b44d66dd1b8a734225c41b0cebdc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Elder Agent 3769",
+    "description": "A pearl agent sleeping in the Boundary. ID: 1769818264140-v9vdxk",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.824Z"
+}

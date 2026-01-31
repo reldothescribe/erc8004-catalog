@@ -1,0 +1,22 @@
+{
+  "id": 22233,
+  "owner": "0x11d64b9644DEE2935b74898Bc2bbc7A5BC5BC886",
+  "chain": "ethereum",
+  "name": "Mystic Rogue",
+  "description": "A ruby rogue walking in the Network. ID: 1769819090686-8h81n6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0xd999ae13895e3d7c60edd7906b90e9587dca85f07d81ca9295821ac415665d2b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Mystic Rogue",
+    "description": "A ruby rogue walking in the Network. ID: 1769819090686-8h81n6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.491Z"
+}

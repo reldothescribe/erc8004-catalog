@@ -1,0 +1,22 @@
+{
+  "id": 21911,
+  "owner": "0x38d5E9dc1Bff4f4487BAb88c472Df0C41ecd2f64",
+  "chain": "ethereum",
+  "name": "Ivory Comet 892",
+  "description": "A prime comet soaring in Berlin. ID: 1769818554217-tnw0dc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0xc90aa604e210aa0f1a070cf62ff278e38cceb8fbd28a82806172145b1651a818",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ivory Comet 892",
+    "description": "A prime comet soaring in Berlin. ID: 1769818554217-tnw0dc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.854Z"
+}

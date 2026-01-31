@@ -1,0 +1,22 @@
+{
+  "id": 21688,
+  "owner": "0x8060aA24E98616eAFDE4f5f3e3610dAE5134f304",
+  "chain": "ethereum",
+  "name": "Ageless Serpent",
+  "description": "A eternal serpent crawling in the Block. ID: 1769818260162-8v0jz6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x504e2e85e597f91a6adc761a47717ee15dfbbc43951a07d4880ec31a9fa1a858",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ageless Serpent",
+    "description": "A eternal serpent crawling in the Block. ID: 1769818260162-8v0jz6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.824Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22014,
+  "owner": "0xB17aa1A6AAef5d3f7200D16E399e8283e1817444",
+  "chain": "ethereum",
+  "name": "Cognitive Holographic Door",
+  "description": "A holographic door seeking in the DAO. ID: 1769818730240-3rok7n",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0xcdb03239dd0be21bd72b90624e00c83655375d194740a70ec58ea3518b036c3a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cognitive Holographic Door",
+    "description": "A holographic door seeking in the DAO. ID: 1769818730240-3rok7n",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.721Z"
+}

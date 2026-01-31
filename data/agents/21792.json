@@ -1,0 +1,22 @@
+{
+  "id": 21792,
+  "owner": "0x0188B9B764852686e73F141986455F507AF6B871",
+  "chain": "ethereum",
+  "name": "Astral Holographic Colossus",
+  "description": "A holographic colossus fighting in the Smart Contract. ID: 1769818349811-y901wg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351190,
+  "txHash": "0x8f1f27b2e6ccae523f5b39ef8869846dbf63f32d890603565038cf6f77ba860d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Astral Holographic Colossus",
+    "description": "A holographic colossus fighting in the Smart Contract. ID: 1769818349811-y901wg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.665Z"
+}

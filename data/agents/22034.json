@@ -1,0 +1,22 @@
+{
+  "id": 22034,
+  "owner": "0x8E82218169188359aBAb3250Ae7DD5863682D67E",
+  "chain": "ethereum",
+  "name": "Infernal Ethereal Agent",
+  "description": "A ethereal agent crafting in the Network. ID: 1769818745643-j27lv2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0x999d3eea1fb00af74931c3a7033015be5038fe46c0b3979e10b860034d96a21e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Ethereal Agent",
+    "description": "A ethereal agent crafting in the Network. ID: 1769818745643-j27lv2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.978Z"
+}

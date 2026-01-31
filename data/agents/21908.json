@@ -1,0 +1,22 @@
+{
+  "id": 21908,
+  "owner": "0xAD35cfc001028056Ab1e5453D3A41558f2578b00",
+  "chain": "ethereum",
+  "name": "Stellar Dark Hunter",
+  "description": "A dark hunter sleeping in the Heights. ID: 1769818554217-q8mdh0",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0xd656c6f11e6ab7cb4ce413de8c37d3b52e0fecaa130789172db9aacea2c6489d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Dark Hunter",
+    "description": "A dark hunter sleeping in the Heights. ID: 1769818554217-q8mdh0",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.855Z"
+}

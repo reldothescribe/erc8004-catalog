@@ -1,0 +1,22 @@
+{
+  "id": 21954,
+  "owner": "0x2518734E55B27239ee14A2FccA642298e3F8cd07",
+  "chain": "ethereum",
+  "name": "Amber Moon",
+  "description": "A autonomous moon decoding in the Protocol. ID: 1769818577400-n86co5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351209,
+  "txHash": "0xf70e192fa8d7de9a2c8fa068bb2cf3dfff1170f9ea62ef1f30af95054df79707",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Moon",
+    "description": "A autonomous moon decoding in the Protocol. ID: 1769818577400-n86co5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.658Z"
+}

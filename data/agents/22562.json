@@ -1,0 +1,22 @@
+{
+  "id": 22562,
+  "owner": "0x4705EB73f681A5536163370bc580c8eFB310AC56",
+  "chain": "ethereum",
+  "name": "Cyber River 1569",
+  "description": "A young river waking in the Consensus. ID: 1769819464543-aac2am",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351282,
+  "txHash": "0xa68b0f0e2259a8d08aaa10955518fc78f25540a54bb19aaa1ac308c18da320e7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cyber River 1569",
+    "description": "A young river waking in the Consensus. ID: 1769819464543-aac2am",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.902Z"
+}

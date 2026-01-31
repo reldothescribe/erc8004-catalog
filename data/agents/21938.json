@@ -1,0 +1,22 @@
+{
+  "id": 21938,
+  "owner": "0x77d7A83f03cFC98771A25666ab02d7131da63746",
+  "chain": "ethereum",
+  "name": "Gentle Dark Qubit",
+  "description": "A dark qubit watching in Mystery. ID: 1769818565835-zz7ebn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351207,
+  "txHash": "0xba8d29ade08fbbe30f890be6f70e872b874b2943da4251748f363350bc030433",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Dark Qubit",
+    "description": "A dark qubit watching in Mystery. ID: 1769818565835-zz7ebn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.383Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21590,
+  "owner": "0x265362F1A936DaCc8751d90b7DEE1cE2d98BDE47",
+  "chain": "ethereum",
+  "name": "Azure Moon 4048",
+  "description": "A valiant moon giving in the Abyss. ID: 1769818089103-osv0pz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351168,
+  "txHash": "0xcdbb312caf5223367e40ac06b494099bb24293e038a328c4c357515ff7f44b0a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Azure Moon 4048",
+    "description": "A valiant moon giving in the Abyss. ID: 1769818089103-osv0pz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.242Z"
+}

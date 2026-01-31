@@ -1,0 +1,22 @@
+{
+  "id": 21746,
+  "owner": "0x2518734E55B27239ee14A2FccA642298e3F8cd07",
+  "chain": "ethereum",
+  "name": "Crystal Meta Dragon",
+  "description": "A meta dragon speaking in Space. ID: 1769818279636-jme305",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x55e59ab064b9263918b90c4a2057996c38819b4b782b6500a9d7188267aa477e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crystal Meta Dragon",
+    "description": "A meta dragon speaking in Space. ID: 1769818279636-jme305",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.871Z"
+}

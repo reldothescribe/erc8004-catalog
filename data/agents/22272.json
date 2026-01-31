@@ -1,0 +1,22 @@
+{
+  "id": 22272,
+  "owner": "0x5cF9cbf9962dd915236845Cc72fa41B73c8fef96",
+  "chain": "ethereum",
+  "name": "Neural Vortex 1788",
+  "description": "A sonic vortex swimming in Legend. ID: 1769819117673-ywo9r1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0x2d26d9acba76a7d34725588e49f7983a1892322ee769688c96e4e2f9d0313373",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neural Vortex 1788",
+    "description": "A sonic vortex swimming in Legend. ID: 1769819117673-ywo9r1",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.301Z"
+}

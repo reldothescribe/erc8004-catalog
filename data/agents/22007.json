@@ -1,0 +1,22 @@
+{
+  "id": 22007,
+  "owner": "0x2ab59E81c812cFC1e9182b88AE97d3779fa4D45b",
+  "chain": "ethereum",
+  "name": "Savage Mage 9448",
+  "description": "A rapid mage stopping in the Block. ID: 1769818719156-73kfmn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0xad30f1c745d3abf118d1665753d6fb46b91ed55cb7904eb1a242686dae7bda6d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Savage Mage 9448",
+    "description": "A rapid mage stopping in the Block. ID: 1769818719156-73kfmn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.451Z"
+}

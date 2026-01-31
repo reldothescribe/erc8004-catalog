@@ -1,0 +1,22 @@
+{
+  "id": 22456,
+  "owner": "0xaf39b41c30A8feAC07CcCa6dA522B67ea73DD2a7",
+  "chain": "ethereum",
+  "name": "Digital Valiant Protocol",
+  "description": "A valiant protocol seeking in the Protocol. ID: 1769819395649-gs8eau",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351276,
+  "txHash": "0xe2db982f3b3ef3aef7f9683dc94478bfd561470ef7638c325312a049176a6e08",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Valiant Protocol",
+    "description": "A valiant protocol seeking in the Protocol. ID: 1769819395649-gs8eau",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.840Z"
+}

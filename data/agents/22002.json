@@ -1,0 +1,22 @@
+{
+  "id": 22002,
+  "owner": "0x3911103ef15F32A1BF1F21561fD4699230ad6B90",
+  "chain": "ethereum",
+  "name": "Atomic Radiant Whale",
+  "description": "A radiant whale fighting in Pluto. ID: 1769818719156-450zmc",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351220,
+  "txHash": "0xad9508fb69eddc15ffbbb600f5652b92541f4dd84ed5666d9864e1b88ece3a82",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Radiant Whale",
+    "description": "A radiant whale fighting in Pluto. ID: 1769818719156-450zmc",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.451Z"
+}

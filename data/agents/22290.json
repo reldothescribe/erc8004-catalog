@@ -1,0 +1,22 @@
+{
+  "id": 22290,
+  "owner": "0x4450957928DC2dcD629BEf04Fb8b96fe966De88a",
+  "chain": "ethereum",
+  "name": "Digital Phantom",
+  "description": "A random phantom soaring in History. ID: 1769819197333-6xs835",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0xee7d0dea32623fe6af1a352144385db7bd2a3b0fce774fb9c62a00c36c2b8148",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Phantom",
+    "description": "A random phantom soaring in History. ID: 1769819197333-6xs835",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.561Z"
+}

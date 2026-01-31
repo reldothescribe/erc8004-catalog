@@ -1,0 +1,22 @@
+{
+  "id": 21639,
+  "owner": "0x7157A7FBEDB3D43c7732912AAfC9F804B537a951",
+  "chain": "ethereum",
+  "name": "Rapid Ghost",
+  "description": "A lunar ghost fighting in the Boundary. ID: 1769818167144-hpoueb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351175,
+  "txHash": "0x1fe7325237339493b333d2e208317d0c472ce0b1c268591e01b10a97f0a39d2c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Rapid Ghost",
+    "description": "A lunar ghost fighting in the Boundary. ID: 1769818167144-hpoueb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.041Z"
+}

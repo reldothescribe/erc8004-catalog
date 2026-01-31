@@ -1,0 +1,22 @@
+{
+  "id": 22297,
+  "owner": "0x7a74e010bA634CD127f9700a6a855e816dd290dF",
+  "chain": "ethereum",
+  "name": "Wise Echo",
+  "description": "A neo echo rising in Tokyo. ID: 1769819213757-dhvryh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0xbeb9ad1de836e21fe2fd9bc90f34fe3a832db5f6a9df4acb4ed901a76522778b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Wise Echo",
+    "description": "A neo echo rising in Tokyo. ID: 1769819213757-dhvryh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.818Z"
+}

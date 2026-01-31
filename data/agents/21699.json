@@ -1,0 +1,22 @@
+{
+  "id": 21699,
+  "owner": "0x5B0c5c7676Cf7B504E336c3Bf70Aa6087F5d144a",
+  "chain": "ethereum",
+  "name": "Spectral Serpent",
+  "description": "A iron serpent writing in the Center. ID: 1769818256431-qzevor",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x9d91e99521e08a6e7c95b348ec75aa32ab2654662ca8ea1fea2fcd13e7cf53e3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Spectral Serpent",
+    "description": "A iron serpent writing in the Center. ID: 1769818256431-qzevor",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.083Z"
+}

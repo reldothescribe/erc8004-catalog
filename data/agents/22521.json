@@ -1,0 +1,22 @@
+{
+  "id": 22521,
+  "owner": "0xda0F04704Bc26C8eBbc74d351903968BC98c7276",
+  "chain": "ethereum",
+  "name": "Solar Savage Agent",
+  "description": "A savage agent sharing in the Heights. ID: 1769819442276-ngr8v9",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351280,
+  "txHash": "0xe2a267842b95ba657346c4879a07346c2195e7490bf970f8042a237de3076ac6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Savage Agent",
+    "description": "A savage agent sharing in the Heights. ID: 1769819442276-ngr8v9",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.351Z"
+}

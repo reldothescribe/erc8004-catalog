@@ -1,0 +1,22 @@
+{
+  "id": 22570,
+  "owner": "0xEFe0659Ea5cE5151EB6D73FfF4C5fB214b638C86",
+  "chain": "ethereum",
+  "name": "Swift Gentle Whale",
+  "description": "A gentle whale destroying in the Boundary. ID: 1769819464543-loyu60",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351282,
+  "txHash": "0x3be198519072df23207ad0329adf4cba051f200a8642af8fa173c842e1a06b54",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Swift Gentle Whale",
+    "description": "A gentle whale destroying in the Boundary. ID: 1769819464543-loyu60",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:16.188Z"
+}

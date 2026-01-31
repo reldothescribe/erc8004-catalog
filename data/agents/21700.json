@@ -1,0 +1,22 @@
+{
+  "id": 21700,
+  "owner": "0x24A12ac2F095d216AE3Aa27515Dcb7c690c66782",
+  "chain": "ethereum",
+  "name": "Hidden Watcher",
+  "description": "A crimson watcher sleeping in the Core. ID: 1769818264140-jytm7c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0x97bec23de1e809c988193e1b20aebb74d4ba804ddc9c932238cf8404a03b57aa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hidden Watcher",
+    "description": "A crimson watcher sleeping in the Core. ID: 1769818264140-jytm7c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.088Z"
+}

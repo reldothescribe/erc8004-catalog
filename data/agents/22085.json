@@ -1,0 +1,22 @@
+{
+  "id": 22085,
+  "owner": "0x9b14FCBaD09A306da7b2A0d9B7Cb93220BAD3af0",
+  "chain": "ethereum",
+  "name": "Lost Door",
+  "description": "A automated door keeping in the Consensus. ID: 1769818976648-7250ml",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0xec98e730d8a06456fa92e3f236636886bcd89006a5e655b8ec30c122686e20f1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lost Door",
+    "description": "A automated door keeping in the Consensus. ID: 1769818976648-7250ml",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.037Z"
+}

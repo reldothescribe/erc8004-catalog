@@ -1,0 +1,22 @@
+{
+  "id": 22229,
+  "owner": "0xCdD1d32Eb86F24811e70139adb606837d9dcbe59",
+  "chain": "ethereum",
+  "name": "Iron Hydra 2432",
+  "description": "A dynamic hydra falling in Reality. ID: 1769819090686-nmqoju",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0xafb653724e8310ebe256d476468b1a4faadf10f3faa3eeae3c6f4b10b733dfc6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Iron Hydra 2432",
+    "description": "A dynamic hydra falling in Reality. ID: 1769819090686-nmqoju",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.491Z"
+}

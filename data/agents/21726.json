@@ -1,0 +1,22 @@
+{
+  "id": 21726,
+  "owner": "0x4705EB73f681A5536163370bc580c8eFB310AC56",
+  "chain": "ethereum",
+  "name": "Atomic Core",
+  "description": "A infinite core destroying in Web3. ID: 1769818277767-l8pyjx",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xb7224283138ad60ac1e705be397fbbc6aee17f1ab3ceecb66d067185faf34c13",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Core",
+    "description": "A infinite core destroying in Web3. ID: 1769818277767-l8pyjx",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.610Z"
+}

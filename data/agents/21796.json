@@ -1,0 +1,22 @@
+{
+  "id": 21796,
+  "owner": "0x4AcBCac2B3910C6129764C33220B789e54570a33",
+  "chain": "ethereum",
+  "name": "Virtual Quantum Explorer",
+  "description": "A quantum explorer learning in DeFi. ID: 1769818349811-cptqd6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351190,
+  "txHash": "0xa229d590d431f784a5d00847c9bf9788f5a4d9ccc28df273bc7b67ba669c2693",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Virtual Quantum Explorer",
+    "description": "A quantum explorer learning in DeFi. ID: 1769818349811-cptqd6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.666Z"
+}

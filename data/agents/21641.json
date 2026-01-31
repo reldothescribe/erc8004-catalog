@@ -1,0 +1,22 @@
+{
+  "id": 21641,
+  "owner": "0xAb8a056Ff5C0cb931Ca5e16Bb4d1766355440602",
+  "chain": "ethereum",
+  "name": "Autonomous Eagle",
+  "description": "A astral eagle carving in Magic. ID: 1769818167144-xw8tue",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351175,
+  "txHash": "0x4de5254edeb2507cd76c9dcfdb8b731cf38937e271bbd6d3dd7304db81b1beab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Autonomous Eagle",
+    "description": "A astral eagle carving in Magic. ID: 1769818167144-xw8tue",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.039Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22344,
+  "owner": "0x3A81Eb007524924774E15875430D9C7c6Ee963A8",
+  "chain": "ethereum",
+  "name": "Crystal Onyx Warrior",
+  "description": "A onyx warrior weaving in Paris. ID: 1769819239754-jjhfx3",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0x533b550dc8df600bab71e03a40b53c8d04e387c144e51e443eef4a1d969f5207",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Crystal Onyx Warrior",
+    "description": "A onyx warrior weaving in Paris. ID: 1769819239754-jjhfx3",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.604Z"
+}

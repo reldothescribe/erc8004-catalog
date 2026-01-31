@@ -1,0 +1,22 @@
+{
+  "id": 22025,
+  "owner": "0x0110b32b8FBc07A85EDf92159050b94D27F43287",
+  "chain": "ethereum",
+  "name": "Radiant Sphinx",
+  "description": "A virtual sphinx shaping in the Ledger. ID: 1769818730240-e0s06y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0x453ee44674daaf75cf7337ac9161b301c5553f7d0b238c51198074bd46042623",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Sphinx",
+    "description": "A virtual sphinx shaping in the Ledger. ID: 1769818730240-e0s06y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.981Z"
+}

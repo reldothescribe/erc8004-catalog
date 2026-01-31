@@ -1,0 +1,22 @@
+{
+  "id": 21707,
+  "owner": "0xC8AaCb1e92E62E670839eDd5A09bdD19EA8F4c31",
+  "chain": "ethereum",
+  "name": "Blazing Quantum Paladin",
+  "description": "A quantum paladin running in the Depths. ID: 1769818277767-0d6d01",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351184,
+  "txHash": "0xf90bb61a115fe78acc1023f2a3f886c1bf0a994ac5d7b02721a43e2b8b5af815",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Blazing Quantum Paladin",
+    "description": "A quantum paladin running in the Depths. ID: 1769818277767-0d6d01",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.088Z"
+}

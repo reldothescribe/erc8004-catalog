@@ -1,0 +1,22 @@
+{
+  "id": 22183,
+  "owner": "0x05866b654F37a899A2DcB92694E61e63D788f376",
+  "chain": "ethereum",
+  "name": "Virtual Nova 6520",
+  "description": "A galactic nova thinking in the Edge. ID: 1769819068562-tilhvn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0x235e9c5c3a8c729019ef6cfcba6c8f22e6b79c0259a1790672500218fbc31a63",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Virtual Nova 6520",
+    "description": "A galactic nova thinking in the Edge. ID: 1769819068562-tilhvn",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.688Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22162,
+  "owner": "0xFe61E882ddAFe6097Aca094670D7f3D57c11BEb7",
+  "chain": "ethereum",
+  "name": "Infernal Sentinel 454",
+  "description": "A solar sentinel working in Pluto. ID: 1769819023752-ozk5dz",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0x4e2aae4b43c065e2f52979b44cf6bb037bcb4a9b6f583a7f3d4328f3bbbf1071",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infernal Sentinel 454",
+    "description": "A solar sentinel working in Pluto. ID: 1769819023752-ozk5dz",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.431Z"
+}

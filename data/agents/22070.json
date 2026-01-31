@@ -1,0 +1,22 @@
+{
+  "id": 22070,
+  "owner": "0xbA2BE9d2e99c9d0eB18926533982A96189407501",
+  "chain": "ethereum",
+  "name": "Sapphire Lunar Wanderer",
+  "description": "A lunar wanderer molding in Mystery. ID: 1769818757018-nd5uk5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351224,
+  "txHash": "0xaa361691e202c281b0f060568d1dfbd522b758dd297b7b8b3957a4b8462f6af1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sapphire Lunar Wanderer",
+    "description": "A lunar wanderer molding in Mystery. ID: 1769818757018-nd5uk5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.776Z"
+}

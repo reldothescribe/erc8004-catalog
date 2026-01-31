@@ -1,0 +1,22 @@
+{
+  "id": 22222,
+  "owner": "0x93D0a0fBB9218857C8A34A0C3B5E12021417f4Ab",
+  "chain": "ethereum",
+  "name": "Secret Orderly Lock",
+  "description": "A orderly lock weaving in Cyberspace. ID: 1769819090686-zwjh79",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0x966ac410d6aca9f66f1c5cedba6c6ddc640b8b4761aec56a713885b6ef25e6cc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Orderly Lock",
+    "description": "A orderly lock weaving in Cyberspace. ID: 1769819090686-zwjh79",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.485Z"
+}

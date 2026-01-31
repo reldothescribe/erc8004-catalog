@@ -1,0 +1,22 @@
+{
+  "id": 21696,
+  "owner": "0x7a74e010bA634CD127f9700a6a855e816dd290dF",
+  "chain": "ethereum",
+  "name": "Sonic Unicorn 845",
+  "description": "A emerald unicorn speaking in Pluto. ID: 1769818254557-mc7l1x",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351182,
+  "txHash": "0xcb17fec0775520e2a67e9368dcf1bd3ffbeae56f818d8b27823464242807126f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Unicorn 845",
+    "description": "A emerald unicorn speaking in Pluto. ID: 1769818254557-mc7l1x",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.088Z"
+}

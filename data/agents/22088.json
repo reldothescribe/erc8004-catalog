@@ -1,0 +1,22 @@
+{
+  "id": 22088,
+  "owner": "0x5BC33fad7C8469cA946DdBB5398A422CFeFC15A2",
+  "chain": "ethereum",
+  "name": "Digital Echo 9660",
+  "description": "A rapid echo protecting in Mars. ID: 1769818976648-drf0s6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0x314ebd62a9076097602bb704043e4007d836dfa1501501700f042d2ae931aa27",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Digital Echo 9660",
+    "description": "A rapid echo protecting in Mars. ID: 1769818976648-drf0s6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.039Z"
+}

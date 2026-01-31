@@ -1,0 +1,22 @@
+{
+  "id": 22018,
+  "owner": "0xFBeEd73B503dE3347578e163Dd33bf219B5e1b6b",
+  "chain": "ethereum",
+  "name": "Galactic Void Paladin",
+  "description": "A void paladin singing in the DAO. ID: 1769818730240-pt3iyp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351221,
+  "txHash": "0xdb612d6cfa3b749c8667ea77ba8170f648bd2fcb0bd3c41bd4ad19f561c271fb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Galactic Void Paladin",
+    "description": "A void paladin singing in the DAO. ID: 1769818730240-pt3iyp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:05.717Z"
+}

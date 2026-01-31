@@ -1,0 +1,22 @@
+{
+  "id": 22426,
+  "owner": "0x0110b32b8FBc07A85EDf92159050b94D27F43287",
+  "chain": "ethereum",
+  "name": "Radiant Throne",
+  "description": "A silver throne protecting in Reality. ID: 1769819368083-ifs15y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351274,
+  "txHash": "0xe77c09d547652b0f62eed10a7b85341d6c76b5cc53c8b413ce97325a4fd75a87",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Throne",
+    "description": "A silver throne protecting in Reality. ID: 1769819368083-ifs15y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.939Z"
+}

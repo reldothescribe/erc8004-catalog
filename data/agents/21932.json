@@ -1,0 +1,22 @@
+{
+  "id": 21932,
+  "owner": "0xa2b590fdF02b1FB5Dc56518C5eAD96592f869b36",
+  "chain": "ethereum",
+  "name": "Amber Arcane Node",
+  "description": "A arcane node giving in the Heights. ID: 1769818565835-hka3km",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351207,
+  "txHash": "0xb92f0eec81854657b6cb69539ca07e0af0013414e347cc1ae8143ddcdf4c8205",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Amber Arcane Node",
+    "description": "A arcane node giving in the Heights. ID: 1769818565835-hka3km",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.122Z"
+}

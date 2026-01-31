@@ -1,0 +1,22 @@
+{
+  "id": 22220,
+  "owner": "0x286ecb3B507E1d724b01218E98ff2b441c05159B",
+  "chain": "ethereum",
+  "name": "Cyber Droid 173",
+  "description": "A frozen droid rising in the Blockchain. ID: 1769819090686-4nf1lv",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351251,
+  "txHash": "0x6233187c18ea0b83312fc3b0e3f2b817a145171ea030f770144a14626303f281",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cyber Droid 173",
+    "description": "A frozen droid rising in the Blockchain. ID: 1769819090686-4nf1lv",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:09.490Z"
+}

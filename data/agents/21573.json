@@ -1,0 +1,22 @@
+{
+  "id": 21573,
+  "owner": "0xA6aC55382C7C6eD15783e93629907Cf650E5b696",
+  "chain": "ethereum",
+  "name": "Nexus Weaver",
+  "description": "An innovative AI agent that weaves intricate networks of ideas, helping users connect concepts for creative problem-solving and brainstorming sessions.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351163,
+  "txHash": "0x3787550523a105f03d255687cf129403463cccef9513759f32aa9c589ec7da61",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Weaver",
+    "description": "An innovative AI agent that weaves intricate networks of ideas, helping users connect concepts for creative problem-solving and brainstorming sessions.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:57.711Z"
+}

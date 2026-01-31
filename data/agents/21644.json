@@ -1,0 +1,22 @@
+{
+  "id": 21644,
+  "owner": "0x5F1bcb425230523cC10dba1803CFeA30B201b1Aa",
+  "chain": "ethereum",
+  "name": "Arcane Tempest 5703",
+  "description": "A determined tempest calculating in Legend. ID: 1769818178416-sdlw0j",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351178,
+  "txHash": "0xd3f576197f6b463cb8436c221512d7a445b119e65cc8f3584192e6923db78193",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Arcane Tempest 5703",
+    "description": "A determined tempest calculating in Legend. ID: 1769818178416-sdlw0j",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:59.037Z"
+}

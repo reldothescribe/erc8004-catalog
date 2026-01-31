@@ -1,0 +1,22 @@
+{
+  "id": 22455,
+  "owner": "0xa2b590fdF02b1FB5Dc56518C5eAD96592f869b36",
+  "chain": "ethereum",
+  "name": "Jade Moon 5545",
+  "description": "A quantum moon flying in the Edge. ID: 1769819383190-oje1u6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0xc18d669d6db08ec1bd3a5f3a3cf74c14a6b3389649bfe858b5f146f2c268f4ad",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Jade Moon 5545",
+    "description": "A quantum moon flying in the Edge. ID: 1769819383190-oje1u6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.919Z"
+}

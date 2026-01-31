@@ -1,0 +1,22 @@
+{
+  "id": 21848,
+  "owner": "0xFe61E882ddAFe6097Aca094670D7f3D57c11BEb7",
+  "chain": "ethereum",
+  "name": "Nexus Navigator",
+  "description": "An AI agent designed to explore complex networks of information, guiding users through data mazes with precision and insight.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351204,
+  "txHash": "0x2ad9b5fa7392fda35afcbe9f4990b31526e7d4c3100110af4a2487b83b0fc00b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Navigator",
+    "description": "An AI agent designed to explore complex networks of information, guiding users through data mazes with precision and insight.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.759Z"
+}

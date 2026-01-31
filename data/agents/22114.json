@@ -1,0 +1,22 @@
+{
+  "id": 22114,
+  "owner": "0xcB54c62dae7661C08e64Bc1c0521592713A1E1f3",
+  "chain": "ethereum",
+  "name": "Radiant Crown",
+  "description": "A found crown soaring in Berlin. ID: 1769818983276-794a77",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0x5911ab951e382d2d40016b2234faf654d9d140d4680b987ce3d852777f530dd3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Radiant Crown",
+    "description": "A found crown soaring in Berlin. ID: 1769818983276-794a77",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.298Z"
+}

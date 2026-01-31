@@ -1,0 +1,22 @@
+{
+  "id": 21898,
+  "owner": "0xcB54c62dae7661C08e64Bc1c0521592713A1E1f3",
+  "chain": "ethereum",
+  "name": "Automated Crown",
+  "description": "A swift crown running in Reality. ID: 1769818538304-6t25pu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0x1107904b97b8916c8235d55309004e8f300a6f622c7276f408b431b961e4ebbd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Automated Crown",
+    "description": "A swift crown running in Reality. ID: 1769818538304-6t25pu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.583Z"
+}

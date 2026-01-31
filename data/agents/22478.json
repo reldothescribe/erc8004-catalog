@@ -1,0 +1,22 @@
+{
+  "id": 22478,
+  "owner": "0x18a6719719e5E080c1708EfC553F3963b26C7f1B",
+  "chain": "ethereum",
+  "name": "Cosmic Mountain 3784",
+  "description": "A onyx mountain speaking in the Block. ID: 1769819420322-i08ceu",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0xf3c40d4057aff8389416bd851355f4daae0254ed5b01236769b1e0cf8fa54bcc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Mountain 3784",
+    "description": "A onyx mountain speaking in the Block. ID: 1769819420322-i08ceu",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.497Z"
+}

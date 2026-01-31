@@ -1,0 +1,22 @@
+{
+  "id": 21763,
+  "owner": "0x3937D55d4EB40E807079656fbB3097878B8563A4",
+  "chain": "ethereum",
+  "name": "Primal Echo",
+  "description": "A gentle echo giving in the Metaverse. ID: 1769818301426-h8zb86",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0xbd4f3bedb218b4f03a1455fd19237efa393cd4e205f4d21246ad0caf6765d3f4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Echo",
+    "description": "A gentle echo giving in the Metaverse. ID: 1769818301426-h8zb86",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.138Z"
+}

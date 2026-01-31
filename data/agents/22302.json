@@ -1,0 +1,22 @@
+{
+  "id": 22302,
+  "owner": "0x2ab59E81c812cFC1e9182b88AE97d3779fa4D45b",
+  "chain": "ethereum",
+  "name": "Atomic Celestial Phoenix",
+  "description": "A celestial phoenix buying in Tokyo. ID: 1769819213757-4pcw49",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0x801edcee267ffa18f2b8754f87917d5a5648c6cb46f7bc836959792975c48165",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Celestial Phoenix",
+    "description": "A celestial phoenix buying in Tokyo. ID: 1769819213757-4pcw49",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.817Z"
+}

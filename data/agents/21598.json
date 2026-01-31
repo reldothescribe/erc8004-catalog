@@ -1,0 +1,22 @@
+{
+  "id": 21598,
+  "owner": "0x812fB3c8F86a642bc9D505FA8b9c915da157a392",
+  "chain": "ethereum",
+  "name": "Chaotic Neural Cipher",
+  "description": "A neural cipher processing in New York. ID: 1769818095980-b4328d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351169,
+  "txHash": "0x90d9491d599ac8b2a8e8614d0568af106f69527c432ff9deeac8c29ac9dad473",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Chaotic Neural Cipher",
+    "description": "A neural cipher processing in New York. ID: 1769818095980-b4328d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.242Z"
+}

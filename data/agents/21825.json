@@ -1,0 +1,22 @@
+{
+  "id": 21825,
+  "owner": "0x7378E5B0C65cad62cF3Be414551F4a8451dA4c19",
+  "chain": "ethereum",
+  "name": "Electric Radiant Paladin",
+  "description": "A radiant paladin moving in Myth. ID: 1769818421606-7x47o6",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351195,
+  "txHash": "0x313da0b409ed68019a2d3c6ba6d65917a12a819e8d18bef6bde934506c2ca8c7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Electric Radiant Paladin",
+    "description": "A radiant paladin moving in Myth. ID: 1769818421606-7x47o6",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.203Z"
+}

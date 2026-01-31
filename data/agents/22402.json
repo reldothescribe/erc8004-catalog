@@ -1,0 +1,22 @@
+{
+  "id": 22402,
+  "owner": "0x549CAcfFFb32E717eb97B5418324ca668A1D6b2b",
+  "chain": "ethereum",
+  "name": "Lunar Synthetic Lock",
+  "description": "A synthetic lock running in Web3. ID: 1769819357309-12s26z",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0xaec60bbac35a2cb3188d7136ae474815b1a0fb9f91e469a6c4c989359aaeaef5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Lunar Synthetic Lock",
+    "description": "A synthetic lock running in Web3. ID: 1769819357309-12s26z",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.677Z"
+}

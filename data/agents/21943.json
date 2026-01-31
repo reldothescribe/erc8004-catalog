@@ -1,0 +1,22 @@
+{
+  "id": 21943,
+  "owner": "0xFe61E882ddAFe6097Aca094670D7f3D57c11BEb7",
+  "chain": "ethereum",
+  "name": "Ruby Burning Tree",
+  "description": "A burning tree destroying in the Network. ID: 1769818577400-5vi2by",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351208,
+  "txHash": "0x1d3355e905e9f8b6a6ae18196a6d68776af870b35cf7f1e63a9258b109ada612",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ruby Burning Tree",
+    "description": "A burning tree destroying in the Network. ID: 1769818577400-5vi2by",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:04.382Z"
+}

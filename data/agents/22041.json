@@ -1,0 +1,22 @@
+{
+  "id": 22041,
+  "owner": "0x008E3dd3c4e6e51499D803B225148fbFc2deF2a5",
+  "chain": "ethereum",
+  "name": "Ether Phantom 5318",
+  "description": "A valiant phantom gathering in Tokyo. ID: 1769818745643-li99e5",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351222,
+  "txHash": "0xac941c2bf47f0273da20693c9409f8f210acac4b5acf35971ddc3e34c51df9b7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Ether Phantom 5318",
+    "description": "A valiant phantom gathering in Tokyo. ID: 1769818745643-li99e5",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.243Z"
+}

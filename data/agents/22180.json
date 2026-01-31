@@ -1,0 +1,22 @@
+{
+  "id": 22180,
+  "owner": "0x5BC33fad7C8469cA946DdBB5398A422CFeFC15A2",
+  "chain": "ethereum",
+  "name": "Holographic Network 3151",
+  "description": "A found network diving in Science. ID: 1769819068562-4fu37o",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351249,
+  "txHash": "0x2dd0bcf736946fc2eeab9ff95c30c9007e7a7af9356bbd0a51b5ce1eae5f0406",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Holographic Network 3151",
+    "description": "A found network diving in Science. ID: 1769819068562-4fu37o",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.691Z"
+}

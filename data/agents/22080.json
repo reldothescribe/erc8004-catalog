@@ -1,0 +1,22 @@
+{
+  "id": 22080,
+  "owner": "0x265362F1A936DaCc8751d90b7DEE1cE2d98BDE47",
+  "chain": "ethereum",
+  "name": "Gentle Synthetic Oracle",
+  "description": "A synthetic oracle keeping in Berlin. ID: 1769818976648-90dfyh",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0x42512e763f44c2561fbb4855096bb9cfe8231f22f79d8e8451bf26941e63563d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Gentle Synthetic Oracle",
+    "description": "A synthetic oracle keeping in Berlin. ID: 1769818976648-90dfyh",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.777Z"
+}

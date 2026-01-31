@@ -1,0 +1,22 @@
+{
+  "id": 22490,
+  "owner": "0x313be24CE4aC43337f796fA2406A16F39ff7ba9F",
+  "chain": "ethereum",
+  "name": "Serene Matrix",
+  "description": "A crystal matrix healing in Tokyo. ID: 1769819420322-ebboph",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351278,
+  "txHash": "0xbfc21e411028f21efb92381c8a987c150af2f6df6ea6a2f3f896777d9ee367b9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Serene Matrix",
+    "description": "A crystal matrix healing in Tokyo. ID: 1769819420322-ebboph",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:14.831Z"
+}

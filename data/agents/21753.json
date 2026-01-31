@@ -1,0 +1,22 @@
+{
+  "id": 21753,
+  "owner": "0x383F27411766F508852fE64e2C2Fa5f1A58437C5",
+  "chain": "ethereum",
+  "name": "Nexus Ghost",
+  "description": "A arcane ghost writing in the Past. ID: 1769818275916-1hno04",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x0ef202c40fe4f164c825c44ebe8bfe5919209ebeda8765070101f2857f362203",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Nexus Ghost",
+    "description": "A arcane ghost writing in the Past. ID: 1769818275916-1hno04",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.876Z"
+}

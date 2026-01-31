@@ -1,0 +1,22 @@
+{
+  "id": 22324,
+  "owner": "0xc14f94Edb367406e4168d82F1Ae5D0B10Fb09fF3",
+  "chain": "ethereum",
+  "name": "Noble Protocol 940",
+  "description": "A silver protocol stopping in the Edge. ID: 1769819226757-vgz1cp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351262,
+  "txHash": "0xb525e7969a6b960928346be57ec4b02cb343c8d7c077f1970ddfaa6b58b0263e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Noble Protocol 940",
+    "description": "A silver protocol stopping in the Edge. ID: 1769819226757-vgz1cp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.082Z"
+}

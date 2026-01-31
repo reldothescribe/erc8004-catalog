@@ -1,0 +1,22 @@
+{
+  "id": 22569,
+  "owner": "0x7378E5B0C65cad62cF3Be414551F4a8451dA4c19",
+  "chain": "ethereum",
+  "name": "Pearl Surge 2281",
+  "description": "A crypto surge reading in Andromeda. ID: 1769819464543-lexl3f",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351282,
+  "txHash": "0x47b66aedb34b972b82cda6d6ab031ec3c7cce44ec2245956a5fb325857714161",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Pearl Surge 2281",
+    "description": "A crypto surge reading in Andromeda. ID: 1769819464543-lexl3f",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:16.176Z"
+}

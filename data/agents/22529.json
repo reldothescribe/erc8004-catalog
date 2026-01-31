@@ -1,0 +1,22 @@
+{
+  "id": 22529,
+  "owner": "0x5F1bcb425230523cC10dba1803CFeA30B201b1Aa",
+  "chain": "ethereum",
+  "name": "Sapphire Nebula 249",
+  "description": "A found nebula waiting in Jupiter. ID: 1769819442276-4xomzo",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351280,
+  "txHash": "0x6fe21e76abe4dd8d5a45fb534b5080701520deca146cc14b270f46da8650ab11",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sapphire Nebula 249",
+    "description": "A found nebula waiting in Jupiter. ID: 1769819442276-4xomzo",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.353Z"
+}

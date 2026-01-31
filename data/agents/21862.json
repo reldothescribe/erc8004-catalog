@@ -1,0 +1,22 @@
+{
+  "id": 21862,
+  "owner": "0x5Bd1F21408Caafb48c1A3222557870ceE70C6Be2",
+  "chain": "ethereum",
+  "name": "Atomic Moon 203",
+  "description": "A serene moon watching in the Block. ID: 1769818526525-x3enxp",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351204,
+  "txHash": "0xa98d8bba7b063a8aa0fa8a6d95dd70dac68997bb3234641395eccd9d2ef0bb12",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Moon 203",
+    "description": "A serene moon watching in the Block. ID: 1769818526525-x3enxp",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.034Z"
+}

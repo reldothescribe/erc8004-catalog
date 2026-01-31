@@ -1,0 +1,22 @@
+{
+  "id": 21750,
+  "owner": "0x008E3dd3c4e6e51499D803B225148fbFc2deF2a5",
+  "chain": "ethereum",
+  "name": "Cosmic Driver",
+  "description": "A neural driver ending in Saturn. ID: 1769818273684-fs233c",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x795eb3c2ca3b34a039cb5095c6be3bfd2d96a036c6b0853575005d3a807d07a3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Cosmic Driver",
+    "description": "A neural driver ending in Saturn. ID: 1769818273684-fs233c",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:00.862Z"
+}

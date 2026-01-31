@@ -1,0 +1,22 @@
+{
+  "id": 22157,
+  "owner": "0xB288B858A7D990804Ed02D41e62f70b0087e4bA3",
+  "chain": "ethereum",
+  "name": "Frozen Guardian 2746",
+  "description": "A dynamic guardian weaving in the Chain. ID: 1769819023752-zm0ypg",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0xf459f9b47176d9ec42c2782800bf426e488d55773199ac464b3325431df89fae",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Guardian 2746",
+    "description": "A dynamic guardian weaving in the Chain. ID: 1769819023752-zm0ypg",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.170Z"
+}

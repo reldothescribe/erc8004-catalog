@@ -1,0 +1,22 @@
+{
+  "id": 21891,
+  "owner": "0x0351A9617DD76c23d648671050a83F7A6F30E67e",
+  "chain": "ethereum",
+  "name": "Spectral Lock 7473",
+  "description": "A solar lock processing in Nature. ID: 1769818538304-axtk9r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0x742c820358564b708a78d665098e59f9ab968a87b148d3a84adc691cdb8f8bba",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Spectral Lock 7473",
+    "description": "A solar lock processing in Nature. ID: 1769818538304-axtk9r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.577Z"
+}

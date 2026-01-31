@@ -1,0 +1,22 @@
+{
+  "id": 22567,
+  "owner": "0x30991119891193D2Cfb957A465339ffb5103ba88",
+  "chain": "ethereum",
+  "name": "Neo Droid",
+  "description": "A pearl droid learning in the Chain. ID: 1769819464543-vctweq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351282,
+  "txHash": "0x7483333ced203733cdba1ab00159ffb3ea5d63310a0f187106b2f0ae8e2f3363",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Neo Droid",
+    "description": "A pearl droid learning in the Chain. ID: 1769819464543-vctweq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:16.178Z"
+}

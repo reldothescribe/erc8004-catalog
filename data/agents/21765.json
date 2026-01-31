@@ -1,0 +1,22 @@
+{
+  "id": 21765,
+  "owner": "0x38d5E9dc1Bff4f4487BAb88c472Df0C41ecd2f64",
+  "chain": "ethereum",
+  "name": "Kinetic Guardian",
+  "description": "A azure guardian dreaming in Paris. ID: 1769818265971-v7w71y",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x7f68f78251e815aa9a7585593d29b6863993ebb3d3e37b548014d2d90defe7f3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Kinetic Guardian",
+    "description": "A azure guardian dreaming in Paris. ID: 1769818265971-v7w71y",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.132Z"
+}

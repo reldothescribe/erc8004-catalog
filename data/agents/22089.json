@@ -1,0 +1,22 @@
+{
+  "id": 22089,
+  "owner": "0x05866b654F37a899A2DcB92694E61e63D788f376",
+  "chain": "ethereum",
+  "name": "Primal Tempest",
+  "description": "A iron tempest sharing in Berlin. ID: 1769818976648-vz0idq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351241,
+  "txHash": "0x65d1ca4efb80fb1d1c2b2d0f72ad28d67a16757265d2e0f053dcf5517729cb82",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Tempest",
+    "description": "A iron tempest sharing in Berlin. ID: 1769818976648-vz0idq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.033Z"
+}

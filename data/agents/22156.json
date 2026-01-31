@@ -1,0 +1,22 @@
+{
+  "id": 22156,
+  "owner": "0x6d0Bdc996C1f3DD3Bcd64c115577e3841349cd68",
+  "chain": "ethereum",
+  "name": "Silent Unicorn 3250",
+  "description": "A emerald unicorn weaving in the Protocol. ID: 1769819023752-lpyg9r",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0xb7e08b9cc2d29914367fa16a8237041f676debb319675c3a30be7b43ba0f25bf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Silent Unicorn 3250",
+    "description": "A emerald unicorn weaving in the Protocol. ID: 1769819023752-lpyg9r",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.168Z"
+}

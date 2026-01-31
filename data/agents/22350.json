@@ -1,0 +1,22 @@
+{
+  "id": 22350,
+  "owner": "0x9844203021e279dfd954EAeB3eD8c9b3c258c146",
+  "chain": "ethereum",
+  "name": "Liquid Onyx Dragon",
+  "description": "A onyx dragon weaving in Time. ID: 1769819239754-hbq3g2",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351263,
+  "txHash": "0xdbfd54634100f1192698a9000f694d31cdd8fdb91e45bffc78be066506d72819",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Onyx Dragon",
+    "description": "A onyx dragon weaving in Time. ID: 1769819239754-hbq3g2",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.601Z"
+}

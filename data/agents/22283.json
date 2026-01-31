@@ -1,0 +1,22 @@
+{
+  "id": 22283,
+  "owner": "0x9b14FCBaD09A306da7b2A0d9B7Cb93220BAD3af0",
+  "chain": "ethereum",
+  "name": "Hyper Sentinel",
+  "description": "A automated sentinel selling in the Hash. ID: 1769819197333-6eza8s",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0x34ddc52e12ae606aa2021a9089ba15e2b11e9f6f2d385f1356ee5e448ae7d82b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Hyper Sentinel",
+    "description": "A automated sentinel selling in the Hash. ID: 1769819197333-6eza8s",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.559Z"
+}

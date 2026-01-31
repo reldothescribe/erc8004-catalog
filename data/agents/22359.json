@@ -1,0 +1,22 @@
+{
+  "id": 22359,
+  "owner": "0x7719A6657e70d01867BABF5bEd938c24D9C81a32",
+  "chain": "ethereum",
+  "name": "Sonic Sun 6962",
+  "description": "A determined sun molding in the Frontier. ID: 1769819252754-d58564",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351265,
+  "txHash": "0xad22432040da9c2e6888b9e624f8d2027f0adf7e2ef4b249750df6eb84202dc9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Sonic Sun 6962",
+    "description": "A determined sun molding in the Frontier. ID: 1769819252754-d58564",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:11.892Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 22058,
+  "owner": "0xaf39b41c30A8feAC07CcCa6dA522B67ea73DD2a7",
+  "chain": "ethereum",
+  "name": "Stellar Elder Road",
+  "description": "A elder road building in the Consensus. ID: 1769818757018-2rym8f",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351223,
+  "txHash": "0x1e7baca688d767b7c7413ebc53c647dd5386646cb415c4bb7c2e69ac2dc587e7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Elder Road",
+    "description": "A elder road building in the Consensus. ID: 1769818757018-2rym8f",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:06.514Z"
+}

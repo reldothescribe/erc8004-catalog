@@ -1,0 +1,22 @@
+{
+  "id": 22163,
+  "owner": "0xD107fe26d65292eADB87dB730A69262e806f45f8",
+  "chain": "ethereum",
+  "name": "Eternal Protocol 3804",
+  "description": "A eternal protocol falling in Myth. ID: 1769819023752-eniheq",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351245,
+  "txHash": "0xbdaa14d5bd411585d344e703a762319726ff62d444c1c7a20153430418a2a21b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Eternal Protocol 3804",
+    "description": "A eternal protocol falling in Myth. ID: 1769819023752-eniheq",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.430Z"
+}

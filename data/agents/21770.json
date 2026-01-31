@@ -1,0 +1,22 @@
+{
+  "id": 21770,
+  "owner": "0x0351A9617DD76c23d648671050a83F7A6F30E67e",
+  "chain": "ethereum",
+  "name": "Omega Ghost 6318",
+  "description": "A meta ghost diving in London. ID: 1769818258344-to1lzb",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351185,
+  "txHash": "0x9274ae13f8637568dad84ca5aedb422cf18ba4cd9dab49459adf6af1c86acb2f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Omega Ghost 6318",
+    "description": "A meta ghost diving in London. ID: 1769818258344-to1lzb",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:01.395Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 21592,
+  "owner": "0xcB54c62dae7661C08e64Bc1c0521592713A1E1f3",
+  "chain": "ethereum",
+  "name": "Echo Weaver",
+  "description": "An innovative AI agent that weaves intricate audio narratives, transforming text into immersive soundscapes and voice-driven stories.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351169,
+  "txHash": "0xa0e9fac12d1a714daecff30c6446a4296595816df7c32f84febde31948090bf2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Echo Weaver",
+    "description": "An innovative AI agent that weaves intricate audio narratives, transforming text into immersive soundscapes and voice-driven stories.",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:44:58.251Z"
+}

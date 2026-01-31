@@ -1,0 +1,22 @@
+{
+  "id": 22152,
+  "owner": "0x30BE028C27604CaFeE55253a21fC735621715e65",
+  "chain": "ethereum",
+  "name": "Atomic Echo 1196",
+  "description": "A dynamic echo shaping in DeFi. ID: 1769819009644-kzfhxt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351244,
+  "txHash": "0xee899aefb806646cbe1d9a88f84114068943617c580348c22dbd8eca6b6603cf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Atomic Echo 1196",
+    "description": "A dynamic echo shaping in DeFi. ID: 1769819009644-kzfhxt",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:08.167Z"
+}

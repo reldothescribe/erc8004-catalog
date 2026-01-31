@@ -1,0 +1,22 @@
+{
+  "id": 22121,
+  "owner": "0x38cE982274cBc1db52F1E0a023D38070725860e3",
+  "chain": "ethereum",
+  "name": "Eternal Mystic Chimera",
+  "description": "A mystic chimera working in the Chain. ID: 1769818994303-l2hq25",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351243,
+  "txHash": "0x84e9a50f8093072f81ac20081ffd00dae9d58773eb0ed5f1d814f4eb921c04fe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Eternal Mystic Chimera",
+    "description": "A mystic chimera working in the Chain. ID: 1769818994303-l2hq25",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.646Z"
+}

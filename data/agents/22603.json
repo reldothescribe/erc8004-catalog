@@ -1,0 +1,22 @@
+{
+  "id": 22603,
+  "owner": "0xA32121A68310B7F2cdbaE9C03Aa033161EEe8553",
+  "chain": "ethereum",
+  "name": "nebula",
+  "description": "explore",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24352389,
+  "txHash": "0x0bf25eff8684b1a4c9dacc3eabb58872a85c5006456f503afb2ae5729ddd0f26",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "nebula",
+    "description": "explore",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-01-31T07:45:17.693Z"
+}

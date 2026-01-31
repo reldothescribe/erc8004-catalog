@@ -1,0 +1,22 @@
+{
+  "id": 21883,
+  "owner": "0x7a74e010bA634CD127f9700a6a855e816dd290dF",
+  "chain": "ethereum",
+  "name": "Infinite Divine Griffin",
+  "description": "A divine griffin dancing in the Metaverse. ID: 1769818538304-hxvu3k",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351205,
+  "txHash": "0xe4a4286c495a244ac8d5dbcfc9d36e4b2d67d9ac3d47eb572bbe59f979465094",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Infinite Divine Griffin",
+    "description": "A divine griffin dancing in the Metaverse. ID: 1769818538304-hxvu3k",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.307Z"
+}

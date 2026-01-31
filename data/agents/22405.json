@@ -1,0 +1,22 @@
+{
+  "id": 22405,
+  "owner": "0x618eE055a41e6624B335775cBa488BE03eFA8c89",
+  "chain": "ethereum",
+  "name": "Azure Nova 6034",
+  "description": "A holographic nova waking in New York. ID: 1769819357309-dsa9co",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351273,
+  "txHash": "0xa4d7eeecc3705bccce742c0ca11cb7382e8f364faf3ee8a5af1773ae20efc9a4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Azure Nova 6034",
+    "description": "A holographic nova waking in New York. ID: 1769819357309-dsa9co",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:12.677Z"
+}

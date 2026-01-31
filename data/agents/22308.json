@@ -1,0 +1,22 @@
+{
+  "id": 22308,
+  "owner": "0xcB54c62dae7661C08e64Bc1c0521592713A1E1f3",
+  "chain": "ethereum",
+  "name": "Savage Network 2989",
+  "description": "A burning network taking in the Heights. ID: 1769819213757-yvbv00",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351261,
+  "txHash": "0x5be02dffb9f93f1307f48a6d6c823390b102ddc7f345ccc11a84adf325dc4b83",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Savage Network 2989",
+    "description": "A burning network taking in the Heights. ID: 1769819213757-yvbv00",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.822Z"
+}

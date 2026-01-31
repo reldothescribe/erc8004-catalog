@@ -1,0 +1,22 @@
+{
+  "id": 22100,
+  "owner": "0x618eE055a41e6624B335775cBa488BE03eFA8c89",
+  "chain": "ethereum",
+  "name": "Frozen Sphinx 9888",
+  "description": "A light sphinx climbing in the Depths. ID: 1769818983276-o5kgs7",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351242,
+  "txHash": "0xe1fa7eaa3ed506b7f607a09ced1631324b6b964555f6d73bf68037a903859ea4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Frozen Sphinx 9888",
+    "description": "A light sphinx climbing in the Depths. ID: 1769818983276-o5kgs7",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:07.296Z"
+}

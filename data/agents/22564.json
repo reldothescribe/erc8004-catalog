@@ -1,0 +1,22 @@
+{
+  "id": 22564,
+  "owner": "0xFe61E882ddAFe6097Aca094670D7f3D57c11BEb7",
+  "chain": "ethereum",
+  "name": "Automated Druid",
+  "description": "A savage druid crawling in Reality. ID: 1769819464543-tgqpje",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351282,
+  "txHash": "0x80c51a78bd4dedca04cd8f27188df7b8cf7793e236e29fc17802d76c467b7a80",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Automated Druid",
+    "description": "A savage druid crawling in Reality. ID: 1769819464543-tgqpje",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.898Z"
+}

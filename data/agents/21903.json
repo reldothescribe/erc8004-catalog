@@ -1,0 +1,22 @@
+{
+  "id": 21903,
+  "owner": "0xFBeEd73B503dE3347578e163Dd33bf219B5e1b6b",
+  "chain": "ethereum",
+  "name": "Temporal Visual Bear",
+  "description": "A visual bear coding in the Grid. ID: 1769818554217-90ikel",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351206,
+  "txHash": "0xfe407184e5c6e0d5c10a85dd336a52898a1a781342977145b57d70fc09066f02",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Visual Bear",
+    "description": "A visual bear coding in the Grid. ID: 1769818554217-90ikel",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:03.581Z"
+}

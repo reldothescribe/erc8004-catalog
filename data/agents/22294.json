@@ -1,0 +1,22 @@
+{
+  "id": 22294,
+  "owner": "0xA765180C1FEd8BCeAB15c1711444D87DBcE838Bb",
+  "chain": "ethereum",
+  "name": "Stellar Key 8931",
+  "description": "A electric key seeking in Space. ID: 1769819197333-sd0prj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0x62f8cd9d6abb7c6ec5834a3e5cf9e4d6b5999028e02706c4a1cb5dd5160ea202",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Stellar Key 8931",
+    "description": "A electric key seeking in Space. ID: 1769819197333-sd0prj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.561Z"
+}

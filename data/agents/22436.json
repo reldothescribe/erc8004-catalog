@@ -1,0 +1,22 @@
+{
+  "id": 22436,
+  "owner": "0x30BE028C27604CaFeE55253a21fC735621715e65",
+  "chain": "ethereum",
+  "name": "Solar Fierce Algorithm",
+  "description": "A fierce algorithm climbing in the Heights. ID: 1769819383190-xczo25",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351275,
+  "txHash": "0xd101542ce8e9c8a69366460ea26873bda492edb01d311686766ae337e2389fd4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Solar Fierce Algorithm",
+    "description": "A fierce algorithm climbing in the Heights. ID: 1769819383190-xczo25",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.222Z"
+}

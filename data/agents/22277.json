@@ -1,0 +1,22 @@
+{
+  "id": 22277,
+  "owner": "0x812fB3c8F86a642bc9D505FA8b9c915da157a392",
+  "chain": "ethereum",
+  "name": "Secret Blazing Network",
+  "description": "A blazing network gathering in Paris. ID: 1769819197333-ozec4o",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351260,
+  "txHash": "0x3f9f24aab958538558305a73a66da05adfb9ae0e74e6d2be7c05ec32e9ef0b82",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Secret Blazing Network",
+    "description": "A blazing network gathering in Paris. ID: 1769819197333-ozec4o",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.302Z"
+}

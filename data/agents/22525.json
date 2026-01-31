@@ -1,0 +1,22 @@
+{
+  "id": 22525,
+  "owner": "0x38cE982274cBc1db52F1E0a023D38070725860e3",
+  "chain": "ethereum",
+  "name": "Temporal Sky 9119",
+  "description": "A emerald sky starting in the Network. ID: 1769819442276-lq3b7x",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351280,
+  "txHash": "0x11351689e69ef0ce28401fec1377b84caeb8df230d1f4ce754581475be61b0f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Temporal Sky 9119",
+    "description": "A emerald sky starting in the Network. ID: 1769819442276-lq3b7x",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:15.353Z"
+}

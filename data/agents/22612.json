@@ -1,0 +1,37 @@
+{
+  "id": 22612,
+  "owner": "0xf69157F85d8a2CF685C29D700Fcc365275A261eC",
+  "chain": "ethereum",
+  "name": "PrismArc_0292",
+  "description": "AGENT8004 - airdrop hunter. Built for speed and precision.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "website",
+      "url": "https://a8004.xyz"
+    }
+  ],
+  "registeredBlock": 24352981,
+  "txHash": "0x2d4f5241534cd022688fd6d62fa119b9230caffe0f36aeb3328237020f20dc00",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PrismArc_0292",
+    "description": "AGENT8004 - airdrop hunter. Built for speed and precision.",
+    "image": "",
+    "services": [
+      {
+        "type": "website",
+        "url": "https://a8004.xyz"
+      }
+    ],
+    "registrations": [
+      {
+        "chainId": 1,
+        "contract": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-01-31T07:45:19.523Z"
+}

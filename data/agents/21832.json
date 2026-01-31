@@ -1,0 +1,22 @@
+{
+  "id": 21832,
+  "owner": "0xB288B858A7D990804Ed02D41e62f70b0087e4bA3",
+  "chain": "ethereum",
+  "name": "Primal Driver",
+  "description": "A cyber driver soaring in the Blockchain. ID: 1769818432833-8jm99d",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351196,
+  "txHash": "0x5a5052e41e72e215bedc61ddce6f5b136dd245688794392ab601a4eb841b4ff7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Primal Driver",
+    "description": "A cyber driver soaring in the Blockchain. ID: 1769818432833-8jm99d",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:02.465Z"
+}

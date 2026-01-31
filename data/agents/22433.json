@@ -1,0 +1,22 @@
+{
+  "id": 22433,
+  "owner": "0x93D0a0fBB9218857C8A34A0C3B5E12021417f4Ab",
+  "chain": "ethereum",
+  "name": "Liquid Spirit",
+  "description": "A savage spirit forging in Berlin. ID: 1769819368083-ib4ctj",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351274,
+  "txHash": "0x26d682ad76dedf64835c5b48ac0771d6b8eae158644ec6eda123f0699495acc1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Liquid Spirit",
+    "description": "A savage spirit forging in Berlin. ID: 1769819368083-ib4ctj",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:13.228Z"
+}

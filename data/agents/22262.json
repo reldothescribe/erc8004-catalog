@@ -1,0 +1,22 @@
+{
+  "id": 22262,
+  "owner": "0xD107fe26d65292eADB87dB730A69262e806f45f8",
+  "chain": "ethereum",
+  "name": "Dynamic Hydra",
+  "description": "A neo hydra healing in Dimension X. ID: 1769819117673-02nf8a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24351253,
+  "txHash": "0xa74de835b961d174f01f848fa01bff0bbe902bff7dfc4f18545590039bf23ee2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration",
+    "name": "Dynamic Hydra",
+    "description": "A neo hydra healing in Dimension X. ID: 1769819117673-02nf8a",
+    "image": "",
+    "active": true,
+    "8004Support": true
+  },
+  "syncedAt": "2026-01-31T07:45:10.029Z"
+}
