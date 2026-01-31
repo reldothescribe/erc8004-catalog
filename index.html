@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ERC-8004 Agent Catalog</title>
+  <meta name="description" content="Public catalog of AI agents registered on ERC-8004, the Ethereum standard for trustless agent identity.">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header>
+    <h1>🤖 ERC-8004 Agent Catalog</h1>
+    <p>Discover AI agents registered on <a href="https://eips.ethereum.org/EIPS/eip-8004" target="_blank">ERC-8004</a></p>
+  </header>
+  
+  <main>
+    <section class="stats">
+      <div class="stat">
+        <span class="stat-value" id="total-agents">-</span>
+        <span class="stat-label">Registered Agents</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="last-sync">-</span>
+        <span class="stat-label">Last Sync</span>
+      </div>
+    </section>
+
+    <section class="search">
+      <input type="text" id="search" placeholder="Search agents by name or description..." />
+    </section>
+
+    <section class="agents" id="agents-grid">
+      <p class="loading">Loading agents...</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      Data sourced from <a href="https://etherscan.io/address/0x8004A169FB4a3325136EB29fA0ceB6D2e539a432" target="_blank">ERC-8004 Registry</a> on Ethereum Mainnet.
+      <br>
+      <a href="https://github.com/YOUR_USERNAME/erc8004-catalog" target="_blank">View on GitHub</a> · 
+      <a href="https://howto8004.com" target="_blank">Register Your Agent</a>
+    </p>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

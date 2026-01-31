@@ -1,0 +1,42 @@
+name: Sync ERC-8004 Agents
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Force refresh all agents'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Install dependencies
+        run: npm install viem
+        
+      - name: Sync agents from blockchain
+        run: node scripts/sync.mjs
+        env:
+          RPC_URL: ${{ secrets.RPC_URL || 'https://eth.llamarpc.com' }}
+          FORCE_REFRESH: ${{ github.event.inputs.force_refresh }}
+          
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "🤖 Sync ERC-8004 agents [$(date -u +%Y-%m-%d)]"
+          git push

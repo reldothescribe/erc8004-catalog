@@ -1,0 +1,14 @@
+{
+  "name": "erc8004-catalog",
+  "version": "1.0.0",
+  "description": "Public catalog of AI agents registered on ERC-8004",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync.mjs"
+  },
+  "keywords": ["erc-8004", "ethereum", "ai-agents", "catalog"],
+  "license": "MIT",
+  "dependencies": {
+    "viem": "^2.21.0"
+  }
+}
