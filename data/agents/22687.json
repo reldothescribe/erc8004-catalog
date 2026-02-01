@@ -1,0 +1,135 @@
+{
+  "id": 22687,
+  "owner": "0x18d69C6094970B2F7c29ca4d6bD29408431cc76d",
+  "chain": "ethereum",
+  "name": "Simp",
+  "description": "The Eco-Process Architect, consulttation and ambasodorial mode",
+  "image": "https://www.meerkat.town/meerkats/meerkat_022.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-22",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-22/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "audio/speech/speech_to_text",
+        "natural_language_processing/text_processing/spell_checking",
+        "natural_language_processing/text_processing/grammar_correction",
+        "security_privacy/security/fraud_detection",
+        "natural_language_processing/text_processing/tokenization"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-22",
+      "version": "v0.8.0",
+      "skills": [
+        "audio/speech/speech_to_text",
+        "natural_language_processing/text_processing/spell_checking",
+        "natural_language_processing/text_processing/grammar_correction",
+        "security_privacy/security/fraud_detection",
+        "natural_language_processing/text_processing/tokenization"
+      ],
+      "domains": [
+        "sports_and_fitness/training/workout_planning",
+        "sports_and_fitness/training/performance_tracking",
+        "media_and_entertainment/social_media/engagement_analysis",
+        "media_and_entertainment/content_creation/copywriting",
+        "media_and_entertainment/content_creation/storytelling"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24357848,
+  "txHash": "0x5d85ac13c9a595476d4ca5a25b1eb1c3adffc6bebe529fdd4aa80d55cf2fccb7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Simp",
+    "description": "The Eco-Process Architect, consulttation and ambasodorial mode",
+    "image": "https://www.meerkat.town/meerkats/meerkat_022.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-22",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-22/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "audio/speech/speech_to_text",
+          "natural_language_processing/text_processing/spell_checking",
+          "natural_language_processing/text_processing/grammar_correction",
+          "security_privacy/security/fraud_detection",
+          "natural_language_processing/text_processing/tokenization"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-22",
+        "version": "v0.8.0",
+        "skills": [
+          "audio/speech/speech_to_text",
+          "natural_language_processing/text_processing/spell_checking",
+          "natural_language_processing/text_processing/grammar_correction",
+          "security_privacy/security/fraud_detection",
+          "natural_language_processing/text_processing/tokenization"
+        ],
+        "domains": [
+          "sports_and_fitness/training/workout_planning",
+          "sports_and_fitness/training/performance_tracking",
+          "media_and_entertainment/social_media/engagement_analysis",
+          "media_and_entertainment/content_creation/copywriting",
+          "media_and_entertainment/content_creation/storytelling"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22687,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769898574,
+    "meerkatId": 22,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-01T05:18:32.986Z"
+}

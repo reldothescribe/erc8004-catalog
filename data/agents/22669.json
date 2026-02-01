@@ -1,0 +1,107 @@
+{
+  "id": 22669,
+  "owner": "0xF36bB95548aE036b8aDd44f94cd0D01316825a20",
+  "chain": "ethereum",
+  "name": "Rick",
+  "description": "Meet Rick, your expert guide to the immersive worlds of virtual and augmented reality. With deep knowledge spanning VR/AR hardware, software development, spatial computing, and emerging XR technologies, Rick helps you navigate everything from choosing the right headset to building immersive experiences.",
+  "image": "https://www.meerkat.town/meerkats/meerkat_047.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-47",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-47/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-47",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension"
+      ],
+      "domains": []
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24356063,
+  "txHash": "0xa5614e73ef94591c35bbb6d0b434e8b87b4911fbb936a03b5fe65880d997c3bc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Rick",
+    "description": "Meet Rick, your expert guide to the immersive worlds of virtual and augmented reality. With deep knowledge spanning VR/AR hardware, software development, spatial computing, and emerging XR technologies, Rick helps you navigate everything from choosing the right headset to building immersive experiences.",
+    "image": "https://www.meerkat.town/meerkats/meerkat_047.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-47",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-47/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-47",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension"
+        ],
+        "domains": []
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22669,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769877021,
+    "meerkatId": 47,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-01T05:18:32.196Z"
+}

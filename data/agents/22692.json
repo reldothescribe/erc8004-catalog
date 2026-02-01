@@ -1,0 +1,47 @@
+{
+  "id": 22692,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "country-intel",
+  "description": "Country & region intelligence - ISO codes, currencies, languages, borders, timezones, and more. 1 free + 5 paid endpoints via x402 micropayments.",
+  "image": "https://country-intel-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://country-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://country-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24358032,
+  "txHash": "0xeb4a1ec33c97972a6ae926ee0b14ff6dc3d43f363549d122d5a96925e503b31e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "country-intel",
+    "description": "Country & region intelligence - ISO codes, currencies, languages, borders, timezones, and more. 1 free + 5 paid endpoints via x402 micropayments.",
+    "image": "https://country-intel-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://country-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://country-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T05:18:33.165Z"
+}

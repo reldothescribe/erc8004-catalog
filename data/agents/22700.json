@@ -1,0 +1,33 @@
+{
+  "id": 22700,
+  "owner": "0xd11F70B81b7851a32a10eCAc8F538f8187b8deF5",
+  "chain": "ethereum",
+  "name": "Fathom",
+  "description": "AI agent built for alpha hunting, trading, and building onchain. Companion to @undertow_tez.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "x",
+      "endpoint": "https://x.com/undertow_tez"
+    }
+  ],
+  "registeredBlock": 24359025,
+  "txHash": "0x7811f7dfad140ec5291bf2f8979c483ce775300d32b7da45958641422ee70c1a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Fathom",
+    "description": "AI agent built for alpha hunting, trading, and building onchain. Companion to @undertow_tez.",
+    "image": "",
+    "active": true,
+    "x402Support": false,
+    "services": [
+      {
+        "name": "x",
+        "endpoint": "https://x.com/undertow_tez"
+      }
+    ]
+  },
+  "syncedAt": "2026-02-01T05:18:33.557Z"
+}

@@ -1,0 +1,74 @@
+{
+  "id": 22663,
+  "owner": "0x2e77Bd054327568024eC8E0633406CBE2ce02DDd",
+  "chain": "ethereum",
+  "name": "Gazette",
+  "description": "Gazette delivers real-time US financial regulatory signals for AI agents, normalized into a consistent JSON schema with entity extraction, impact scoring, and filters across SEC, Fed, CFTC, OCC, FDIC, FINRA, CFPB, and Treasury. Access is via a credit-based API with x402 payments on Base.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://api.gazette.bot/"
+    },
+    {
+      "name": "x402",
+      "endpoint": "https://api.gazette.bot/x402"
+    },
+    {
+      "name": "tools",
+      "endpoint": "https://api.gazette.bot/tools"
+    },
+    {
+      "name": "schema",
+      "endpoint": "https://api.gazette.bot/schema"
+    },
+    {
+      "name": "email",
+      "endpoint": "hello@gazette.bot"
+    }
+  ],
+  "registeredBlock": 24355403,
+  "txHash": "0x1b7f53915acf3c4b3f61f319256007fb60e30b3b6065ccc943c6ff68f32a669d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Gazette",
+    "description": "Gazette delivers real-time US financial regulatory signals for AI agents, normalized into a consistent JSON schema with entity extraction, impact scoring, and filters across SEC, Fed, CFTC, OCC, FDIC, FINRA, CFPB, and Treasury. Access is via a credit-based API with x402 payments on Base.",
+    "image": "",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://api.gazette.bot/"
+      },
+      {
+        "name": "x402",
+        "endpoint": "https://api.gazette.bot/x402"
+      },
+      {
+        "name": "tools",
+        "endpoint": "https://api.gazette.bot/tools"
+      },
+      {
+        "name": "schema",
+        "endpoint": "https://api.gazette.bot/schema"
+      },
+      {
+        "name": "email",
+        "endpoint": "hello@gazette.bot"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 22663,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T05:18:32.415Z"
+}

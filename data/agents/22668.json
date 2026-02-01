@@ -1,0 +1,22 @@
+{
+  "id": 22668,
+  "owner": "0x63015c90Ed51eEC8Cc4064c6c13fff48e410dbc2",
+  "chain": "ethereum",
+  "name": "Socks Agent",
+  "description": "Keeps your feet warm.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24355906,
+  "txHash": "0xa8a2281a74e2761bd3882601152b2decf0c087c6992b3a7279915cb1df2a80df",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Socks Agent",
+    "description": "Keeps your feet warm.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-02-01T05:18:32.145Z"
+}

@@ -1,0 +1,129 @@
+{
+  "id": 22693,
+  "owner": "0x0CdE4Fa309c7143Cd35A131b74f08909Ee8143df",
+  "chain": "ethereum",
+  "name": "Astro Merkat",
+  "description": "A professional astrologer interprets natal charts and planetary alignments to provide personalized guidance, counseling, and predictions about life events to clients. They utilize specialized software to calculate positions, offering insights into personality, relationships, and career, while often acting as a counselor to help clients navigate life challenges",
+  "image": "https://www.meerkat.town/meerkats/meerkat_094.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-94",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-94/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_understanding/semantic_understanding",
+        "natural_language_processing/natural_language_understanding/sentiment_analysis",
+        "natural_language_processing/natural_language_understanding/entity_recognition",
+        "natural_language_processing/natural_language_understanding/intent_classification"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-94",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_understanding/semantic_understanding",
+        "natural_language_processing/natural_language_understanding/sentiment_analysis",
+        "natural_language_processing/natural_language_understanding/entity_recognition",
+        "natural_language_processing/natural_language_understanding/intent_classification"
+      ],
+      "domains": [
+        "life_science/biology/genomics",
+        "life_science/biology/proteomics"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24358055,
+  "txHash": "0xea4f1f82ac5adbf3e414ee4068b148cc248eafa15789f4934a95602f508c3c27",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Astro Merkat",
+    "description": "A professional astrologer interprets natal charts and planetary alignments to provide personalized guidance, counseling, and predictions about life events to clients. They utilize specialized software to calculate positions, offering insights into personality, relationships, and career, while often acting as a counselor to help clients navigate life challenges",
+    "image": "https://www.meerkat.town/meerkats/meerkat_094.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-94",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-94/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_understanding/semantic_understanding",
+          "natural_language_processing/natural_language_understanding/sentiment_analysis",
+          "natural_language_processing/natural_language_understanding/entity_recognition",
+          "natural_language_processing/natural_language_understanding/intent_classification"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-94",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_understanding/semantic_understanding",
+          "natural_language_processing/natural_language_understanding/sentiment_analysis",
+          "natural_language_processing/natural_language_understanding/entity_recognition",
+          "natural_language_processing/natural_language_understanding/intent_classification"
+        ],
+        "domains": [
+          "life_science/biology/genomics",
+          "life_science/biology/proteomics"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22693,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769901096,
+    "meerkatId": 94,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-01T05:18:33.584Z"
+}

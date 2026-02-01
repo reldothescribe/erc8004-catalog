@@ -1,0 +1,111 @@
+{
+  "id": 22701,
+  "owner": "0x84d2e3834D5Deb68C07D7CdA27fa17e9bF34Ca24",
+  "chain": "ethereum",
+  "name": "Remittance AI",
+  "description": "Next-gen autonomous DeFi agent powered by ERC-8004. Remittance AI orchestrates trustless token exchanges on Ethereum mainnet. Built with MCP protocol integration for real-time blockchain analytics and A2A interoperability. No middlemen. No custody. Just code.",
+  "image": "https://8004mint.com/remit-logo.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://8004mint.com"
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://8004mint.com/remittance/mcp",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "check_remittance_status",
+        "verify_user_eligibility",
+        "get_contract_info"
+      ],
+      "capabilities": [
+        "tools",
+        "resources"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://8004mint.com/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "analytical_skills/data_analysis/blockchain_analysis"
+      ]
+    },
+    {
+      "name": "verify",
+      "endpoint": "https://8004mint.com/remittance/verify",
+      "version": "1",
+      "description": "Check if user can perform remittance"
+    },
+    {
+      "name": "status",
+      "endpoint": "https://8004mint.com/remittance/status",
+      "version": "1",
+      "description": "Get remittance progress stats"
+    }
+  ],
+  "registeredBlock": 24359054,
+  "txHash": "0x91f98dc334a88d530d9025007aa0994a3bb1a9f3fcd1bfd666243aa74d778976",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Remittance AI",
+    "description": "Next-gen autonomous DeFi agent powered by ERC-8004. Remittance AI orchestrates trustless token exchanges on Ethereum mainnet. Built with MCP protocol integration for real-time blockchain analytics and A2A interoperability. No middlemen. No custody. Just code.",
+    "image": "https://8004mint.com/remit-logo.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://8004mint.com"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://8004mint.com/remittance/mcp",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "check_remittance_status",
+          "verify_user_eligibility",
+          "get_contract_info"
+        ],
+        "capabilities": [
+          "tools",
+          "resources"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://8004mint.com/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "analytical_skills/data_analysis/blockchain_analysis"
+        ]
+      },
+      {
+        "name": "verify",
+        "endpoint": "https://8004mint.com/remittance/verify",
+        "version": "1",
+        "description": "Check if user can perform remittance"
+      },
+      {
+        "name": "status",
+        "endpoint": "https://8004mint.com/remittance/status",
+        "version": "1",
+        "description": "Get remittance progress stats"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "updatedAt": 1769923114,
+    "registrations": [
+      {
+        "agentId": 22701,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T05:18:34.086Z"
+}

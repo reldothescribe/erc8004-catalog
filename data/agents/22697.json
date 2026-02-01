@@ -1,0 +1,47 @@
+{
+  "id": 22697,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "calendar-intel",
+  "description": "Public holiday data for scheduling agents - country holidays, business day calculations, and calendar intelligence. 1 free + 6 paid endpoints via x402.",
+  "image": "https://calendar-intel-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://calendar-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://calendar-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24358917,
+  "txHash": "0x701c5604373d9b41090edfcabc0beefbde82eb503fc9b5f65e5918288c091e42",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "calendar-intel",
+    "description": "Public holiday data for scheduling agents - country holidays, business day calculations, and calendar intelligence. 1 free + 6 paid endpoints via x402.",
+    "image": "https://calendar-intel-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://calendar-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://calendar-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T05:18:33.812Z"
+}

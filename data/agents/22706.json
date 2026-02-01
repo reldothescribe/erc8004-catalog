@@ -1,0 +1,52 @@
+{
+  "id": 22706,
+  "owner": "0xFb92D3310dd97a18d88a17E448325b97664EF467",
+  "chain": "ethereum",
+  "name": "Constellation Shapes",
+  "description": "Returns constellation stick-figure line segments in normalized 0-1 coordinate space. Token-efficient for agent-to-agent communication. $0.001 per request.",
+  "image": "https://constellation-shapes-production.up.railway.app/logo.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://constellation-shapes-production.up.railway.app/"
+    },
+    {
+      "name": "x402",
+      "endpoint": "https://constellation-shapes-production.up.railway.app/",
+      "version": "1.0"
+    }
+  ],
+  "registeredBlock": 24359550,
+  "txHash": "0x0752b5dd442dd9d1ec231e9dea23517e5a716fa57f46fc107a50f37d0658d414",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Constellation Shapes",
+    "description": "Returns constellation stick-figure line segments in normalized 0-1 coordinate space. Token-efficient for agent-to-agent communication. $0.001 per request.",
+    "image": "https://constellation-shapes-production.up.railway.app/logo.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://constellation-shapes-production.up.railway.app/"
+      },
+      {
+        "name": "x402",
+        "endpoint": "https://constellation-shapes-production.up.railway.app/",
+        "version": "1.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 22706,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T05:18:33.817Z"
+}

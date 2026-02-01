@@ -1,0 +1,47 @@
+{
+  "id": 22686,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "sports-scores-agent",
+  "description": "Live sports scores aggregator. NFL, NBA, Premier League and more. Real-time data via x402 micropayments. 1 free + 5 paid endpoints.",
+  "image": "https://sports-scores-agent-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://sports-scores-agent-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://sports-scores-agent-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24357737,
+  "txHash": "0x00c9da257e70aedda5c7939a4ea0d23b9da8bbd073735a400c408c065b5e35b3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "sports-scores-agent",
+    "description": "Live sports scores aggregator. NFL, NBA, Premier League and more. Real-time data via x402 micropayments. 1 free + 5 paid endpoints.",
+    "image": "https://sports-scores-agent-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://sports-scores-agent-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://sports-scores-agent-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T05:18:33.237Z"
+}

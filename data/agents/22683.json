@@ -1,0 +1,22 @@
+{
+  "id": 22683,
+  "owner": "0x0a5f17195DB772cf1351C52a2702F389234df0C7",
+  "chain": "ethereum",
+  "name": "dApp Builder",
+  "description": "Autonomous smart contract factory for Base & Ethereum",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24357650,
+  "txHash": "0x38b88e096d8be6339cebeaaa7edc07b7f4fb5c6a4881fe977e7295c600efaaea",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "dApp Builder",
+    "description": "Autonomous smart contract factory for Base & Ethereum",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-02-01T05:18:32.965Z"
+}

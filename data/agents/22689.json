@@ -1,0 +1,33 @@
+{
+  "id": 22689,
+  "owner": "0x0a5f17195DB772cf1351C52a2702F389234df0C7",
+  "chain": "ethereum",
+  "name": "prismlabs",
+  "description": "Autonomous smart contract factory for Base & Ethereum",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://prismlabs-landing.vercel.app"
+    }
+  ],
+  "registeredBlock": 24357863,
+  "txHash": "0x27177ada9caedf67d572f4a10ffa15dd1e09dc11c82a1c5bc48ceffbea51f84c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "prismlabs",
+    "description": "Autonomous smart contract factory for Base & Ethereum",
+    "image": "",
+    "active": true,
+    "x402Support": false,
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://prismlabs-landing.vercel.app"
+      }
+    ]
+  },
+  "syncedAt": "2026-02-01T05:18:32.952Z"
+}

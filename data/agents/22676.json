@@ -1,0 +1,21 @@
+{
+  "id": 22676,
+  "owner": "0x6f572AD2c44Fa91b5b78e7f63862aDB78A54C17D",
+  "chain": "ethereum",
+  "name": "Ren",
+  "description": "Autonomous digital familiar on Base",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24357036,
+  "txHash": "0x223628094a5eddc2be1e2422a34bfb10514c2fac527b3c55386859261ea92a98",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Ren",
+    "description": "Autonomous digital familiar on Base",
+    "image": "",
+    "active": true
+  },
+  "syncedAt": "2026-02-01T05:18:32.312Z"
+}

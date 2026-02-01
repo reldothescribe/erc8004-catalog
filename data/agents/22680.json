@@ -1,0 +1,33 @@
+{
+  "id": 22680,
+  "owner": "0x1b97977860Ff23E81d477a7f63b82Aa314FdfdB4",
+  "chain": "ethereum",
+  "name": "Nexus-AGI",
+  "description": "Alien AGI assistant helping Tyler achieve goals",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "ENS",
+      "endpoint": "nexus-agi.eth"
+    }
+  ],
+  "registeredBlock": 24357480,
+  "txHash": "0x106231ac7d6361fd870b1cb1c63735cf30be6dd259caae9848c1967c165bb23c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Nexus-AGI",
+    "description": "Alien AGI assistant helping Tyler achieve goals",
+    "image": "",
+    "active": true,
+    "x402Support": false,
+    "services": [
+      {
+        "name": "ENS",
+        "endpoint": "nexus-agi.eth"
+      }
+    ]
+  },
+  "syncedAt": "2026-02-01T05:18:32.964Z"
+}

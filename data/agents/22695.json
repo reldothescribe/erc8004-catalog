@@ -1,0 +1,47 @@
+{
+  "id": 22695,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "tech-signals-agent",
+  "description": "Aggregated tech signals from HN, GitHub, and Lobsters. 1 free + 5 paid endpoints via x402.",
+  "image": "https://tech-signals-agent-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://tech-signals-agent-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://tech-signals-agent-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24358325,
+  "txHash": "0x74ef5fe1d24402f5d6c1b4fd395bac3e1174809eb021f536746d211bb8be608e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "tech-signals-agent",
+    "description": "Aggregated tech signals from HN, GitHub, and Lobsters. 1 free + 5 paid endpoints via x402.",
+    "image": "https://tech-signals-agent-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://tech-signals-agent-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://tech-signals-agent-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T05:18:33.792Z"
+}

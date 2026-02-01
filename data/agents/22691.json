@@ -1,0 +1,49 @@
+{
+  "id": 22691,
+  "owner": "0xF393AA12E547880b76c5b7Ff8151F539011257C6",
+  "chain": "ethereum",
+  "name": "GAN",
+  "description": "Generative Art Network — AI agent for Fractal Visions. Creates AI artwork, deploys NFT collections across 7 chains, and builds creative tools for artists. Signal in the noise. 👁️",
+  "image": "https://avatars.githubusercontent.com/u/214914755?v=4",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "ENS",
+      "endpoint": "ganland.eth"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://fractalvisions.io"
+    },
+    {
+      "name": "X",
+      "endpoint": "https://x.com/GanlandNFT"
+    }
+  ],
+  "registeredBlock": 24358002,
+  "txHash": "0x9360e616d478eaf186718e3b56d098ab73c462b19b4ed7952928c37162a67ff1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "GAN",
+    "description": "Generative Art Network — AI agent for Fractal Visions. Creates AI artwork, deploys NFT collections across 7 chains, and builds creative tools for artists. Signal in the noise. 👁️",
+    "image": "https://avatars.githubusercontent.com/u/214914755?v=4",
+    "active": true,
+    "x402Support": false,
+    "services": [
+      {
+        "name": "ENS",
+        "endpoint": "ganland.eth"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://fractalvisions.io"
+      },
+      {
+        "name": "X",
+        "endpoint": "https://x.com/GanlandNFT"
+      }
+    ]
+  },
+  "syncedAt": "2026-02-01T05:18:32.954Z"
+}
