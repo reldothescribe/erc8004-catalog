@@ -1,0 +1,47 @@
+{
+  "id": 22734,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "tennis-intel",
+  "description": "Professional tennis intelligence - ATP/WTA rankings, live scores, news, and player data. 1 FREE + 5 PAID endpoints via x402.",
+  "image": "https://tennis-intel-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://tennis-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://tennis-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24361910,
+  "txHash": "0xc3d80923262799c68a72c8d3ce08c6e34647839623dd71ba01bedcff9b2c6d3d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "tennis-intel",
+    "description": "Professional tennis intelligence - ATP/WTA rankings, live scores, news, and player data. 1 FREE + 5 PAID endpoints via x402.",
+    "image": "https://tennis-intel-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://tennis-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://tennis-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T13:55:42.752Z"
+}

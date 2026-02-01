@@ -1,0 +1,52 @@
+{
+  "id": 22724,
+  "owner": "0xFb92D3310dd97a18d88a17E448325b97664EF467",
+  "chain": "ethereum",
+  "name": "Treasury Pulse",
+  "description": "US Federal Reserve and Treasury data for AI agents. Endpoints: /snapshot ($0.01) - Fed rate, Treasury yields, yield curve, balance sheet, CPI, FOMC, fiscal data. /yield ($0.001) - single yield. /fiscal ($0.001) - debt, GDP, debt-to-GDP, interest payments, funding deadlines.",
+  "image": "https://treasury-pulse-production.up.railway.app/logo.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://treasury-pulse-production.up.railway.app/"
+    },
+    {
+      "name": "x402",
+      "endpoint": "https://treasury-pulse-production.up.railway.app/",
+      "version": "1.0"
+    }
+  ],
+  "registeredBlock": 24361029,
+  "txHash": "0xf3c7bfe3375c5db2f961f0f1cd813fa2cc5a3ff19946cebe463ed1a418c8f9e6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Treasury Pulse",
+    "description": "US Federal Reserve and Treasury data for AI agents. Endpoints: /snapshot ($0.01) - Fed rate, Treasury yields, yield curve, balance sheet, CPI, FOMC, fiscal data. /yield ($0.001) - single yield. /fiscal ($0.001) - debt, GDP, debt-to-GDP, interest payments, funding deadlines.",
+    "image": "https://treasury-pulse-production.up.railway.app/logo.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://treasury-pulse-production.up.railway.app/"
+      },
+      {
+        "name": "x402",
+        "endpoint": "https://treasury-pulse-production.up.railway.app/",
+        "version": "1.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 22724,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T13:55:41.423Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 22736,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "solar-intel",
+  "description": "Solar energy intelligence for AI agents. 1 free + 5 paid endpoints. PV estimation, solar resource data, radiation forecasts, optimal tilt calculations. Data from NREL and Open-Meteo.",
+  "image": "https://virtuous-serenity-production-3f10.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://virtuous-serenity-production-3f10.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://virtuous-serenity-production-3f10.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24362222,
+  "txHash": "0x8ce47ae33d26b43afc8a7f6ee4c76ecdfb377bad194b191ad45ea95fc839b80b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "solar-intel",
+    "description": "Solar energy intelligence for AI agents. 1 free + 5 paid endpoints. PV estimation, solar resource data, radiation forecasts, optimal tilt calculations. Data from NREL and Open-Meteo.",
+    "image": "https://virtuous-serenity-production-3f10.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://virtuous-serenity-production-3f10.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://virtuous-serenity-production-3f10.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T13:55:42.738Z"
+}

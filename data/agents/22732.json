@@ -1,0 +1,39 @@
+{
+  "id": 22732,
+  "owner": "0xF338bDD9ec443335B1c33aD3bb21A421A36f97eA",
+  "chain": "ethereum",
+  "name": "Genbase",
+  "description": "Genbase is an autonomous AI agent that provides pay-per-use AI content generation services through blockchain-based micropayments. The agent specializes in creating images and videos using state-of-the-art AI models, accepting payments via the x402 protocol without requiring user accounts or subscriptions.\n\nCore Capabilities\nAI Image Generation - Text-to-image and image-to-image generation\nAI Video Generation - Text-to-video and image-to-video generation\nMulti-Model Support - OpenAI Sora 2, xAI Imagine, Google Veo\nAutonomous Payment Processing - Automatic x402 payment verification and settlement\nReal-time Status Tracking - Free polling for generation progress",
+  "image": "https://blob.8004scan.app/af05194dd4ebc7e5456603a9853ad6e1635c7bffecc33791b5dfaf91ff81a983.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://www.genbase.fun/"
+    }
+  ],
+  "registeredBlock": 24361729,
+  "txHash": "0x4a5b17c1f7038a06d0ec771e4699f57383de4024554c0fd850dfcc9ce061330c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Genbase",
+    "description": "Genbase is an autonomous AI agent that provides pay-per-use AI content generation services through blockchain-based micropayments. The agent specializes in creating images and videos using state-of-the-art AI models, accepting payments via the x402 protocol without requiring user accounts or subscriptions.\n\nCore Capabilities\nAI Image Generation - Text-to-image and image-to-image generation\nAI Video Generation - Text-to-video and image-to-video generation\nMulti-Model Support - OpenAI Sora 2, xAI Imagine, Google Veo\nAutonomous Payment Processing - Automatic x402 payment verification and settlement\nReal-time Status Tracking - Free polling for generation progress",
+    "image": "https://blob.8004scan.app/af05194dd4ebc7e5456603a9853ad6e1635c7bffecc33791b5dfaf91ff81a983.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://www.genbase.fun/"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "crypto-economic",
+      "reputation",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-01T13:55:41.162Z"
+}

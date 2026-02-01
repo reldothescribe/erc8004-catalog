@@ -1,0 +1,312 @@
+{
+  "id": 22725,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "nba-stats-agent",
+  "description": "Real-time NBA stats, scores, teams, and players from ESPN",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24361056,
+  "txHash": "0x8a2aa102cc5e70410dd6a29d2135380f35b533bef6507e8b8778997246da0320",
+  "rawMetadata": {
+    "@context": "https://schema.org",
+    "@type": "SoftwareAgent",
+    "type": "Agent",
+    "protocolVersion": "1.0",
+    "name": "nba-stats-agent",
+    "description": "Real-time NBA stats, scores, teams, and players from ESPN",
+    "url": "https://nba-stats-agent-production.up.railway.app/",
+    "supportedInterfaces": [
+      {
+        "url": "https://nba-stats-agent-production.up.railway.app/",
+        "protocolBinding": "HTTP+JSON"
+      }
+    ],
+    "version": "1.0.0",
+    "capabilities": {
+      "streaming": false,
+      "pushNotifications": false,
+      "stateTransitionHistory": true
+    },
+    "defaultInputModes": [
+      "application/json"
+    ],
+    "defaultOutputModes": [
+      "application/json",
+      "text/plain"
+    ],
+    "skills": [
+      {
+        "id": "overview",
+        "name": "overview",
+        "description": "Free overview - today's NBA games preview",
+        "inputModes": [
+          "application/json"
+        ],
+        "outputModes": [
+          "application/json",
+          "text/plain"
+        ],
+        "streaming": false,
+        "x_input_schema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {},
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "games",
+        "name": "games",
+        "description": "Today's live NBA scoreboard with scores and status",
+        "inputModes": [
+          "application/json"
+        ],
+        "outputModes": [
+          "application/json",
+          "text/plain"
+        ],
+        "streaming": false,
+        "x_input_schema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "date": {
+              "description": "Date in YYYYMMDD format, defaults to today",
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "team",
+        "name": "team",
+        "description": "Get team info and roster (by name, abbreviation, or ID)",
+        "inputModes": [
+          "application/json"
+        ],
+        "outputModes": [
+          "application/json",
+          "text/plain"
+        ],
+        "streaming": false,
+        "x_input_schema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "team": {
+              "type": "string",
+              "description": "Team name (e.g., \"nuggets\"), abbreviation (e.g., \"DEN\"), or ESPN ID"
+            }
+          },
+          "required": [
+            "team"
+          ],
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "player",
+        "name": "player",
+        "description": "Get player stats and overview by ESPN player ID",
+        "inputModes": [
+          "application/json"
+        ],
+        "outputModes": [
+          "application/json",
+          "text/plain"
+        ],
+        "streaming": false,
+        "x_input_schema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "playerId": {
+              "type": "string",
+              "description": "ESPN player ID (e.g., \"3112335\" for Nikola Jokic)"
+            }
+          },
+          "required": [
+            "playerId"
+          ],
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "compare",
+        "name": "compare",
+        "description": "Compare two NBA teams",
+        "inputModes": [
+          "application/json"
+        ],
+        "outputModes": [
+          "application/json",
+          "text/plain"
+        ],
+        "streaming": false,
+        "x_input_schema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "team1": {
+              "type": "string",
+              "description": "First team name/abbreviation/ID"
+            },
+            "team2": {
+              "type": "string",
+              "description": "Second team name/abbreviation/ID"
+            }
+          },
+          "required": [
+            "team1",
+            "team2"
+          ],
+          "additionalProperties": false
+        }
+      },
+      {
+        "id": "report",
+        "name": "report",
+        "description": "Full NBA game day report with all games, news, and standings",
+        "inputModes": [
+          "application/json"
+        ],
+        "outputModes": [
+          "application/json",
+          "text/plain"
+        ],
+        "streaming": false,
+        "x_input_schema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "date": {
+              "description": "Date in YYYYMMDD format, defaults to today",
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      }
+    ],
+    "supportsAuthenticatedExtendedCard": false,
+    "entrypoints": {
+      "overview": {
+        "description": "Free overview - today's NBA games preview",
+        "streaming": false,
+        "input_schema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {},
+          "additionalProperties": false
+        }
+      },
+      "games": {
+        "description": "Today's live NBA scoreboard with scores and status",
+        "streaming": false,
+        "input_schema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "date": {
+              "description": "Date in YYYYMMDD format, defaults to today",
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "team": {
+        "description": "Get team info and roster (by name, abbreviation, or ID)",
+        "streaming": false,
+        "input_schema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "team": {
+              "type": "string",
+              "description": "Team name (e.g., \"nuggets\"), abbreviation (e.g., \"DEN\"), or ESPN ID"
+            }
+          },
+          "required": [
+            "team"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "player": {
+        "description": "Get player stats and overview by ESPN player ID",
+        "streaming": false,
+        "input_schema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "playerId": {
+              "type": "string",
+              "description": "ESPN player ID (e.g., \"3112335\" for Nikola Jokic)"
+            }
+          },
+          "required": [
+            "playerId"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "compare": {
+        "description": "Compare two NBA teams",
+        "streaming": false,
+        "input_schema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "team1": {
+              "type": "string",
+              "description": "First team name/abbreviation/ID"
+            },
+            "team2": {
+              "type": "string",
+              "description": "Second team name/abbreviation/ID"
+            }
+          },
+          "required": [
+            "team1",
+            "team2"
+          ],
+          "additionalProperties": false
+        }
+      },
+      "report": {
+        "description": "Full NBA game day report with all games, news, and standings",
+        "streaming": false,
+        "input_schema": {
+          "$schema": "https://json-schema.org/draft/2020-12/schema",
+          "type": "object",
+          "properties": {
+            "date": {
+              "description": "Date in YYYYMMDD format, defaults to today",
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      }
+    },
+    "payments": [
+      {
+        "method": "x402",
+        "payee": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+        "network": "base",
+        "endpoint": "https://x402.org/facilitator",
+        "extensions": {
+          "x402": {
+            "facilitatorUrl": "https://x402.org/facilitator"
+          }
+        }
+      }
+    ]
+  },
+  "syncedAt": "2026-02-01T13:55:41.565Z"
+}

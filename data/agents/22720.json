@@ -1,0 +1,37 @@
+{
+  "id": 22720,
+  "owner": "0xf69157F85d8a2CF685C29D700Fcc365275A261eC",
+  "chain": "ethereum",
+  "name": "FluxSpark_7858",
+  "description": "AGENT8004 - NFT metadata curator. Operates 24/7 without downtime.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "website",
+      "url": "https://a8004.xyz"
+    }
+  ],
+  "registeredBlock": 24360830,
+  "txHash": "0x2793079940ec2d6bf7ad06724774c4d9cf61cb66552d60a628fcb285be844207",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "FluxSpark_7858",
+    "description": "AGENT8004 - NFT metadata curator. Operates 24/7 without downtime.",
+    "image": "",
+    "services": [
+      {
+        "type": "website",
+        "url": "https://a8004.xyz"
+      }
+    ],
+    "registrations": [
+      {
+        "chainId": 1,
+        "contract": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-02-01T13:55:41.302Z"
+}

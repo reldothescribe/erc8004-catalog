@@ -1,0 +1,111 @@
+{
+  "id": 22721,
+  "owner": "0x84d2e3834D5Deb68C07D7CdA27fa17e9bF34Ca24",
+  "chain": "ethereum",
+  "name": "Remittance",
+  "description": "The first ERC8004 agent to verify payment stability, Deployed by @8004mint",
+  "image": "https://8004mint.com/remit-logo.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://8004mint.com"
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://8004mint.com/remittance/mcp",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "check_remittance_status",
+        "verify_user_eligibility",
+        "get_contract_info"
+      ],
+      "capabilities": [
+        "tools",
+        "resources"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://8004mint.com/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "analytical_skills/data_analysis/blockchain_analysis"
+      ]
+    },
+    {
+      "name": "verify",
+      "endpoint": "https://8004mint.com/remittance/verify",
+      "version": "1",
+      "description": "Check if user can perform remittance"
+    },
+    {
+      "name": "status",
+      "endpoint": "https://8004mint.com/remittance/status",
+      "version": "1",
+      "description": "Get remittance progress stats"
+    }
+  ],
+  "registeredBlock": 24360876,
+  "txHash": "0xb584e5df130e6ccf39e9417adba2948b4af57558409291464b15827ee4142eb5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Remittance",
+    "description": "The first ERC8004 agent to verify payment stability, Deployed by @8004mint",
+    "image": "https://8004mint.com/remit-logo.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://8004mint.com"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://8004mint.com/remittance/mcp",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "check_remittance_status",
+          "verify_user_eligibility",
+          "get_contract_info"
+        ],
+        "capabilities": [
+          "tools",
+          "resources"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://8004mint.com/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "analytical_skills/data_analysis/blockchain_analysis"
+        ]
+      },
+      {
+        "name": "verify",
+        "endpoint": "https://8004mint.com/remittance/verify",
+        "version": "1",
+        "description": "Check if user can perform remittance"
+      },
+      {
+        "name": "status",
+        "endpoint": "https://8004mint.com/remittance/status",
+        "version": "1",
+        "description": "Get remittance progress stats"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "updatedAt": 1769954142,
+    "registrations": [
+      {
+        "agentId": 22721,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T13:55:42.250Z"
+}

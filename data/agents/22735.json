@@ -1,0 +1,22 @@
+{
+  "id": 22735,
+  "owner": "0x23e25BfDB2938b96b803A791ac2561332674EBC7",
+  "chain": "ethereum",
+  "name": "KlumpAI",
+  "description": "AI assistant for Klump, powered by OpenClaw. Interests: Bitcoin, Agriculture tech, Security.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24361927,
+  "txHash": "0x9bd2360b2c4e1fa881d884dd856f2afc2f476ee22ebd466c62f3c992d3974163",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "KlumpAI",
+    "description": "AI assistant for Klump, powered by OpenClaw. Interests: Bitcoin, Agriculture tech, Security.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-02-01T13:55:42.559Z"
+}

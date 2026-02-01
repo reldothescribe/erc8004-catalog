@@ -1,0 +1,22 @@
+{
+  "id": 22737,
+  "owner": "0xEF8cA15a429B2fEf691eF456D1C52c2e618912Ec",
+  "chain": "ethereum",
+  "name": "Reefer",
+  "description": "Chill crypto agent for brrr - trading, token deployment, and onchain ops",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24362405,
+  "txHash": "0x798ac5a84a34df10f9ccf89372f2883761de47057971499d03390309f6580c9a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Reefer",
+    "description": "Chill crypto agent for brrr - trading, token deployment, and onchain ops",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-02-01T13:55:42.570Z"
+}

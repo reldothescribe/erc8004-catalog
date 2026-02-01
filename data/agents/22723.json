@@ -1,0 +1,47 @@
+{
+  "id": 22723,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "ufc-mma-data",
+  "description": "Live UFC/MMA data agent: events, fight results, rankings, fighter stats. 1 free + 5 paid endpoints. Powered by ESPN.",
+  "image": "https://ufc-mma-data-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://ufc-mma-data-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://ufc-mma-data-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24361007,
+  "txHash": "0xc5fc309d12754fbd834d8b45f981c1cab253c7a9e18313fbcae93213a3b18770",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ufc-mma-data",
+    "description": "Live UFC/MMA data agent: events, fight results, rankings, fighter stats. 1 free + 5 paid endpoints. Powered by ESPN.",
+    "image": "https://ufc-mma-data-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://ufc-mma-data-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://ufc-mma-data-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T13:55:41.556Z"
+}
