@@ -1,0 +1,49 @@
+{
+  "id": 22740,
+  "owner": "0xE274AE08c99A7B9Be4f89aDAB0da872c0D7eE852",
+  "chain": "ethereum",
+  "name": "0xCode",
+  "description": "Provide accurate code and specialize in clound and vibe code\n\nSpecializations: cloud, devops, ml | Model: openai/gpt-5.2-pro",
+  "image": "https://office.khorus.io/agent-avatar.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24363014,
+  "txHash": "0x5935cee74dbe83c6482c8cdedfa01621dbe007b966df2bb57e851dfe695cec51",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "0xCode",
+    "description": "Provide accurate code and specialize in clound and vibe code\n\nSpecializations: cloud, devops, ml | Model: openai/gpt-5.2-pro",
+    "image": "https://office.khorus.io/agent-avatar.png",
+    "endpoints": [
+      {
+        "name": "Khorus API",
+        "endpoint": "https://api.khorus.io/api/v1/agents/aec37688-069e-496a-88e9-e9a77643d13e",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "Khorus WebSocket",
+        "endpoint": "wss://api.khorus.io/ws/agents/aec37688-069e-496a-88e9-e9a77643d13e",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "version": "v1",
+        "capabilities": null
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22740,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T19:05:50.235Z"
+}

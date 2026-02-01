@@ -1,0 +1,47 @@
+{
+  "id": 22750,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "sec-filings-agent",
+  "description": "SEC EDGAR company filings - lookup by ticker, get 10-K/10-Q/8-K filings, insider trades. Pricing: overview FREE, company $0.001, filings $0.002, search $0.002, insider-trades $0.003, report $0.005",
+  "image": "https://sec-filings-agent-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://sec-filings-agent-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://sec-filings-agent-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24363699,
+  "txHash": "0x6407731b016a5ad3da574feb8432b98ca9bbf9e0c60ec8522caa4657d9f87fe3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "sec-filings-agent",
+    "description": "SEC EDGAR company filings - lookup by ticker, get 10-K/10-Q/8-K filings, insider trades. Pricing: overview FREE, company $0.001, filings $0.002, search $0.002, insider-trades $0.003, report $0.005",
+    "image": "https://sec-filings-agent-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://sec-filings-agent-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://sec-filings-agent-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T19:05:50.120Z"
+}

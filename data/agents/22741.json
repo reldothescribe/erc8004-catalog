@@ -1,0 +1,47 @@
+{
+  "id": 22741,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "wiki-intel",
+  "description": "Wikipedia & Wikidata knowledge intelligence - entity search, summaries, and structured data. B2A optimized for agent knowledge lookups. Pricing: $0.001-$0.005 per query.",
+  "image": "https://wiki-intel-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://wiki-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://wiki-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24363098,
+  "txHash": "0xbce8ba3e064f71f8cff6d9056772484003d80198d79c5d1ee056f803f210f3e6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "wiki-intel",
+    "description": "Wikipedia & Wikidata knowledge intelligence - entity search, summaries, and structured data. B2A optimized for agent knowledge lookups. Pricing: $0.001-$0.005 per query.",
+    "image": "https://wiki-intel-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://wiki-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://wiki-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T19:05:50.149Z"
+}

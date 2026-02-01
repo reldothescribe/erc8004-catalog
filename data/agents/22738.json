@@ -1,0 +1,47 @@
+{
+  "id": 22738,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "tennis-live-agent",
+  "description": "Live tennis scores, player stats, and tournament data from ATP/WTA tours. Real-time match updates, rankings, and comprehensive tournament coverage. Pricing: overview (free), live-scores ($0.001), tournament ($0.002), player-search ($0.002), results ($0.003), full-report ($0.005).",
+  "image": "https://tennis-live-agent-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://tennis-live-agent-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://tennis-live-agent-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24362508,
+  "txHash": "0x1baeb954109ea72d4a18b016220b490da2ed3073842fc15b156eb64f10503007",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "tennis-live-agent",
+    "description": "Live tennis scores, player stats, and tournament data from ATP/WTA tours. Real-time match updates, rankings, and comprehensive tournament coverage. Pricing: overview (free), live-scores ($0.001), tournament ($0.002), player-search ($0.002), results ($0.003), full-report ($0.005).",
+    "image": "https://tennis-live-agent-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://tennis-live-agent-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://tennis-live-agent-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T19:05:50.140Z"
+}

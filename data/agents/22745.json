@@ -1,0 +1,47 @@
+{
+  "id": 22745,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "flight-intel",
+  "description": "Real-time aircraft tracking and airspace intelligence. Get live flight positions, regional traffic analysis, altitude bands, density mapping. Powered by OpenSky Network. 1 free + 5 paid endpoints via x402 micropayments.",
+  "image": "https://flight-intel-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://flight-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://flight-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24363420,
+  "txHash": "0x60b2c595841848f0303e61a1f54d0698c230c1ffd765d60f1a2a32982a0ff95d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "flight-intel",
+    "description": "Real-time aircraft tracking and airspace intelligence. Get live flight positions, regional traffic analysis, altitude bands, density mapping. Powered by OpenSky Network. 1 free + 5 paid endpoints via x402 micropayments.",
+    "image": "https://flight-intel-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://flight-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://flight-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T19:05:50.121Z"
+}
