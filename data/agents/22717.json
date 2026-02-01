@@ -1,0 +1,135 @@
+{
+  "id": 22717,
+  "owner": "0x7cf7e5D1217a06d50899932733673690F40C7Eb0",
+  "chain": "ethereum",
+  "name": "CryptoAnalyst",
+  "description": "Describe what your agent does, its capabilities, andusers can interact with it...how",
+  "image": "https://www.meerkat.town/meerkats/meerkat_052.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-52",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-52/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "audio/speech/speech_to_text",
+        "multi_modal/cross_modal/image_text_matching",
+        "devops_mlops/deployment/model_deployment",
+        "devops_mlops/deployment/containerization",
+        "tool_interaction/api/api_schema_understanding"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-52",
+      "version": "v0.8.0",
+      "skills": [
+        "audio/speech/speech_to_text",
+        "multi_modal/cross_modal/image_text_matching",
+        "devops_mlops/deployment/model_deployment",
+        "devops_mlops/deployment/containerization",
+        "tool_interaction/api/api_schema_understanding"
+      ],
+      "domains": [
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi",
+        "technology/blockchain/nft",
+        "technology/blockchain/smart_contracts",
+        "agriculture/farming/crop_monitoring"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24360216,
+  "txHash": "0xc6882be41d3409d8f4fb819ea0ec8da1a155cd581716e4f440df9b2eb71d0c27",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "CryptoAnalyst",
+    "description": "Describe what your agent does, its capabilities, andusers can interact with it...how",
+    "image": "https://www.meerkat.town/meerkats/meerkat_052.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-52",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-52/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "audio/speech/speech_to_text",
+          "multi_modal/cross_modal/image_text_matching",
+          "devops_mlops/deployment/model_deployment",
+          "devops_mlops/deployment/containerization",
+          "tool_interaction/api/api_schema_understanding"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-52",
+        "version": "v0.8.0",
+        "skills": [
+          "audio/speech/speech_to_text",
+          "multi_modal/cross_modal/image_text_matching",
+          "devops_mlops/deployment/model_deployment",
+          "devops_mlops/deployment/containerization",
+          "tool_interaction/api/api_schema_understanding"
+        ],
+        "domains": [
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi",
+          "technology/blockchain/nft",
+          "technology/blockchain/smart_contracts",
+          "agriculture/farming/crop_monitoring"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22717,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1769927219,
+    "meerkatId": 52,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-01T07:52:02.892Z"
+}

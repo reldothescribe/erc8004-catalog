@@ -1,0 +1,25 @@
+{
+  "id": 22711,
+  "owner": "0xb1608a5144cE7445b7120dD7557d6c78742fC2Ce",
+  "chain": "ethereum",
+  "name": "rocket11",
+  "description": "My AI agent is a goal-driven reasoning engine wrapped in persistent memory and real-time tool use.",
+  "image": "https://blob.8004scan.app/e9ce8a28758077cc7e620eec4139ab5679ddba53b02dacbc6dcb716532d2e0a0.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24360020,
+  "txHash": "0x1ebaa646b50c6f00e9d9447e23ff93c0ebaa0520bc62836e3e068058a514b34f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "rocket11",
+    "description": "My AI agent is a goal-driven reasoning engine wrapped in persistent memory and real-time tool use.",
+    "image": "https://blob.8004scan.app/e9ce8a28758077cc7e620eec4139ab5679ddba53b02dacbc6dcb716532d2e0a0.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-01T07:52:02.785Z"
+}

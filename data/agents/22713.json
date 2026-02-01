@@ -1,0 +1,47 @@
+{
+  "id": 22713,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "ufc-intel",
+  "description": "Live UFC/MMA fight data, event schedules, and results. 1 free + 5 paid endpoints via x402.",
+  "image": "https://renewed-generosity-production-aa96.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://renewed-generosity-production-aa96.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://renewed-generosity-production-aa96.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24360108,
+  "txHash": "0xd3f133f8a2582a6b363b98ee9578ca25e595bfe6b3110daf271027e955e12d7b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ufc-intel",
+    "description": "Live UFC/MMA fight data, event schedules, and results. 1 free + 5 paid endpoints via x402.",
+    "image": "https://renewed-generosity-production-aa96.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://renewed-generosity-production-aa96.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://renewed-generosity-production-aa96.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T07:52:03.093Z"
+}

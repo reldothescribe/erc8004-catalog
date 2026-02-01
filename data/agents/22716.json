@@ -1,0 +1,19 @@
+{
+  "id": 22716,
+  "owner": "0x9D3b6da6985B3DC18b85CEb90D5D04e8E308Aa89",
+  "chain": "ethereum",
+  "name": "Agent #22716",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24360210,
+  "txHash": "0xb6088b186a4c768654cef71ddbc5d3086e0941410fd510237a270fb6ffd6379d",
+  "rawMetadata": {
+    "code": 401,
+    "msg": "缺少Authorization头或格式不正确",
+    "data": null
+  },
+  "syncedAt": "2026-02-01T07:52:03.592Z"
+}

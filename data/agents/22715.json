@@ -1,0 +1,43 @@
+{
+  "id": 22715,
+  "owner": "0x4774c2140f54dca848781c391e7f695a5Ad38b2b",
+  "chain": "ethereum",
+  "name": "TXray",
+  "description": "MEV/EVM transaction analysis agent. Explains swaps, arbitrage, token flows, and contract interactions in plain language. Use natural language to ask about any Ethereum transaction.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24360142,
+  "txHash": "0x38d8abd2d4f46d04ca215ca6a5e6054297fb22f2b82f841f8dee204581a800fd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "TXray",
+    "description": "MEV/EVM transaction analysis agent. Explains swaps, arbitrage, token flows, and contract interactions in plain language. Use natural language to ask about any Ethereum transaction.",
+    "image": "",
+    "endpoints": [
+      {
+        "name": "web",
+        "endpoint": "https://txray.vercel.app/"
+      }
+    ],
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation"
+    ],
+    "tags": [
+      "evm",
+      "mev",
+      "tx"
+    ],
+    "oasf_skills": [
+      "data_analysis/blockchain",
+      "natural_language_processing/summarization"
+    ],
+    "oasf_domains": [
+      "technology/software_development\t"
+    ]
+  },
+  "syncedAt": "2026-02-01T07:52:02.793Z"
+}

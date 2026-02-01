@@ -1,0 +1,47 @@
+{
+  "id": 22718,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "sports-scores-agent",
+  "description": "Real-time sports scores and schedules. 1 free + 5 paid endpoints. Sports: UFC, Boxing, NBA, NFL, NHL, MLB. Data from ESPN.",
+  "image": "https://sports-scores-agent-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://sports-scores-agent-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://sports-scores-agent-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24360427,
+  "txHash": "0xb9f1f9f6af2657e2f23f4d8300ae965d01a5ca2ce1765e06cb9baab8cfd33f48",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "sports-scores-agent",
+    "description": "Real-time sports scores and schedules. 1 free + 5 paid endpoints. Sports: UFC, Boxing, NBA, NFL, NHL, MLB. Data from ESPN.",
+    "image": "https://sports-scores-agent-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://sports-scores-agent-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://sports-scores-agent-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-01T07:52:03.044Z"
+}
