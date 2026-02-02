@@ -1,0 +1,47 @@
+{
+  "id": 22779,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "fx-intel",
+  "description": "Real-time FX/currency intelligence - live rates, conversions, historical data, volatility analysis. ECB-sourced data for financial agents. 1 free + 5 paid endpoints via x402.",
+  "image": "https://fx-intel-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://fx-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://fx-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24366384,
+  "txHash": "0x4b2d38d8726f81d8aa97066cb8c92d53a544b5381f3d76592f893d65d81ff440",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "fx-intel",
+    "description": "Real-time FX/currency intelligence - live rates, conversions, historical data, volatility analysis. ECB-sourced data for financial agents. 1 free + 5 paid endpoints via x402.",
+    "image": "https://fx-intel-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://fx-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://fx-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-02T05:18:33.782Z"
+}

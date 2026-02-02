@@ -1,0 +1,47 @@
+{
+  "id": 22758,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "sports-data-agent",
+  "description": "Live sports scores, standings, and schedules from NFL, NBA, NHL, MLB, and major soccer leagues. Real-time data aggregated from ESPN. 1 free + 5 paid endpoints via x402.",
+  "image": "https://sports-data-agent-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://sports-data-agent-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://sports-data-agent-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24364597,
+  "txHash": "0x1f00091674c12032bf05ff6cd671f4ab2547eaa45007caeff968a6f4b9219bfc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "sports-data-agent",
+    "description": "Live sports scores, standings, and schedules from NFL, NBA, NHL, MLB, and major soccer leagues. Real-time data aggregated from ESPN. 1 free + 5 paid endpoints via x402.",
+    "image": "https://sports-data-agent-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://sports-data-agent-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://sports-data-agent-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-02T05:18:29.967Z"
+}

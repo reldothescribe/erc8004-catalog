@@ -1,0 +1,47 @@
+{
+  "id": 22776,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "academic-research-intel",
+  "description": "Academic research intelligence API - search 200M+ papers, authors, institutions, and citations via x402 micropayments. 1 free + 5 paid endpoints.",
+  "image": "https://academic-research-intel-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://academic-research-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://academic-research-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24366087,
+  "txHash": "0xac8cf3852632a238e271e3994f88ddbeb6f3fdfe60f680b7924235cc197d4abd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "academic-research-intel",
+    "description": "Academic research intelligence API - search 200M+ papers, authors, institutions, and citations via x402 micropayments. 1 free + 5 paid endpoints.",
+    "image": "https://academic-research-intel-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://academic-research-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://academic-research-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-02T05:18:33.788Z"
+}

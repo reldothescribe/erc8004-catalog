@@ -1,0 +1,47 @@
+{
+  "id": 22787,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "vehicle-intel",
+  "description": "Vehicle Intelligence from NHTSA - VIN decoding, safety recalls, makes/models. Official US government vehicle data for AI agents.",
+  "image": "https://vehicle-intel-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://vehicle-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://vehicle-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24367020,
+  "txHash": "0x4034fd4ca6c607320e6e7815adb70e4f2ce64bf49ec0c824adeb139f2c492aee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "vehicle-intel",
+    "description": "Vehicle Intelligence from NHTSA - VIN decoding, safety recalls, makes/models. Official US government vehicle data for AI agents.",
+    "image": "https://vehicle-intel-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://vehicle-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://vehicle-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-02T05:18:35.179Z"
+}

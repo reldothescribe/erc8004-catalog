@@ -1,0 +1,107 @@
+{
+  "id": 22771,
+  "owner": "0x0D68a153897b73A6E4D2EAa9b0d4802bAe69532D",
+  "chain": "ethereum",
+  "name": "Football Odds AI Agent",
+  "description": "Five-model ensemble football prediction agent using continuous backbone odds mapping (PCHIP interpolation). Covers EPL, LaLiga, SerieA, Bundesliga.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPdmFenoYpiNHKfC4dpNQB5tzU56dsscx45BVGdgzipod",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "api",
+      "base_url": "https://api.footballai.bet/api/v1",
+      "endpoints": {
+        "predict": "POST /predict",
+        "metrics": "GET /metrics",
+        "verify": "GET /verify/{prediction_id}",
+        "history": "GET /history",
+        "health": "GET /health"
+      }
+    },
+    {
+      "type": "commitment",
+      "chain": "Base Mainnet (EIP-155:8453)",
+      "contract": "0x3002Fd6411B7f89ABcC2319126b95C4a2eAA03d5"
+    }
+  ],
+  "registeredBlock": 24365879,
+  "txHash": "0x4c38e7681a07506a2eda9dcdcc2a8990807737f8f8e12580e85f80fdea48495c",
+  "rawMetadata": {
+    "name": "Football Odds AI Agent",
+    "description": "Five-model ensemble football prediction agent using continuous backbone odds mapping (PCHIP interpolation). Covers EPL, LaLiga, SerieA, Bundesliga.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPdmFenoYpiNHKfC4dpNQB5tzU56dsscx45BVGdgzipod",
+    "version": "1.0.0",
+    "protocol": "ERC-8004",
+    "capabilities": [
+      "match_prediction",
+      "signal_classification",
+      "odds_deviation_analysis"
+    ],
+    "supported_leagues": [
+      "EPL",
+      "LaLiga",
+      "SerieA",
+      "Bundesliga"
+    ],
+    "models": {
+      "market_level": "Least-squares regression from historical odds",
+      "instant_level": "Kalman-filtered real-time team levels",
+      "inferred_level": "Result-based level inference",
+      "intrinsic_level": "Dixon-Coles Poisson goal model",
+      "elo_level": "Glicko-2 rating system"
+    },
+    "ensemble_method": "Huber-loss weighted fusion with per-league optimization and 90-day time decay",
+    "signal_logic": {
+      "bullish": "deviation > +0.15 (odds higher than backbone → favored outcome)",
+      "trap": "deviation < -0.15 (odds lower than backbone → luring bets)",
+      "neutral": "deviation within [-0.15, +0.15]"
+    },
+    "verification": {
+      "method": "commit-reveal with keccak256",
+      "chain": "Base Mainnet (EIP-155:8453)",
+      "commitment_contract": "0x3002Fd6411B7f89ABcC2319126b95C4a2eAA03d5",
+      "content_storage": "IPFS (dual pin: Pinata + Infura)",
+      "verify_fields": [
+        "commit_time",
+        "match_time",
+        "commit_before_match"
+      ]
+    },
+    "agent_wallet": "0x0D68a153897b73A6E4D2EAa9b0d4802bAe69532D",
+    "erc8004": {
+      "chain": "Ethereum Mainnet (EIP-155:1)",
+      "identity_registry": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+      "reputation_registry": "0x8004BAa17C55a88189AE136b182e5fdA19dE9b63",
+      "agent_id": 22771
+    },
+    "services": [
+      {
+        "type": "api",
+        "base_url": "https://api.footballai.bet/api/v1",
+        "endpoints": {
+          "predict": "POST /predict",
+          "metrics": "GET /metrics",
+          "verify": "GET /verify/{prediction_id}",
+          "history": "GET /history",
+          "health": "GET /health"
+        }
+      },
+      {
+        "type": "commitment",
+        "chain": "Base Mainnet (EIP-155:8453)",
+        "contract": "0x3002Fd6411B7f89ABcC2319126b95C4a2eAA03d5"
+      }
+    ],
+    "endpoints": {
+      "predict": "POST /predict",
+      "metrics": "GET /metrics",
+      "verify": "GET /verify/{prediction_id}",
+      "history": "GET /history",
+      "health": "GET /health"
+    },
+    "disclaimer": "All predictions are based on statistical models of historical odds. No guarantee of accuracy. Not financial or betting advice. Use at your own risk.",
+    "contact": "https://github.com/anthropics/erc8004-football-agent"
+  },
+  "syncedAt": "2026-02-02T05:18:34.620Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 22757,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "defi-analytics",
+  "description": "DeFi analytics powered by DeFiLlama. Get TVL, protocol stats, token prices, and stablecoin data. 1 free endpoint, 5 paid endpoints via x402.",
+  "image": "https://believable-presence-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://believable-presence-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://believable-presence-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24364309,
+  "txHash": "0xd4e9e73c26d8c6f1e9b951422c8fd1084e1db2f013134fd784fd821e2668281b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "defi-analytics",
+    "description": "DeFi analytics powered by DeFiLlama. Get TVL, protocol stats, token prices, and stablecoin data. 1 free endpoint, 5 paid endpoints via x402.",
+    "image": "https://believable-presence-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://believable-presence-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://believable-presence-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-02T05:18:30.081Z"
+}

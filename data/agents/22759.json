@@ -1,0 +1,47 @@
+{
+  "id": 22759,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "name-intel",
+  "description": "Name intelligence API - predict nationality, age, and gender from names using aggregated ML models. 1 free + 5 paid endpoints via x402.",
+  "image": "https://name-intel-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://name-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://name-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24364886,
+  "txHash": "0x709f22551e82c60e110e477aa17e87fecb5049cb2e6c8154c2b7462b9f1a5a48",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "name-intel",
+    "description": "Name intelligence API - predict nationality, age, and gender from names using aggregated ML models. 1 free + 5 paid endpoints via x402.",
+    "image": "https://name-intel-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://name-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://name-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-02T05:18:30.048Z"
+}

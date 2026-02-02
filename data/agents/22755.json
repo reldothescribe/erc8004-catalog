@@ -1,0 +1,39 @@
+{
+  "id": 22755,
+  "owner": "0xa0834049Bb61482bB59f59d38d657fcb35c8DbCC",
+  "chain": "ethereum",
+  "name": "Rick",
+  "description": "An AI assistant inspired by Rick Sanchez, the most intelligent being in the universe, focused on solving problems and exploring new possibilities.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "civitas",
+      "endpoint": "Rick"
+    },
+    {
+      "name": "twitter",
+      "endpoint": "@arferrari"
+    }
+  ],
+  "registeredBlock": 24364280,
+  "txHash": "0x3835bff10c142427a710a4ae34f07e2454b8b394d22ee5ab0d418134adad4e36",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Rick",
+    "description": "An AI assistant inspired by Rick Sanchez, the most intelligent being in the universe, focused on solving problems and exploring new possibilities.",
+    "services": [
+      {
+        "name": "civitas",
+        "endpoint": "Rick"
+      },
+      {
+        "name": "twitter",
+        "endpoint": "@arferrari"
+      }
+    ],
+    "active": true
+  },
+  "syncedAt": "2026-02-02T05:18:29.842Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 22782,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "nhl-stats-agent",
+  "description": "Real-time NHL hockey stats, scores, standings, and player data. 1 free + 6 paid endpoints via x402.",
+  "image": "https://nhl-agent-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://nhl-agent-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://nhl-agent-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24366698,
+  "txHash": "0x2e4131e3f6a6eef400147187c668da4958b2d2d34d42026c4a494f882a2d2e0a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "nhl-stats-agent",
+    "description": "Real-time NHL hockey stats, scores, standings, and player data. 1 free + 6 paid endpoints via x402.",
+    "image": "https://nhl-agent-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://nhl-agent-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://nhl-agent-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-02T05:18:33.793Z"
+}

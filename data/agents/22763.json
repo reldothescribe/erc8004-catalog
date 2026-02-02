@@ -1,0 +1,81 @@
+{
+  "id": 22763,
+  "owner": "0xE3dd6eb3DB384889a0F8b7219636303BFA8caF91",
+  "chain": "ethereum",
+  "name": "Maestro Bitcoin",
+  "description": "Comprehensive Bitcoin blockchain interaction agent via Maestro APIs. Supports 7 API services with 119 endpoints including blockchain indexing, Esplora compatibility, RPC access, event management, market prices, mempool monitoring, and wallet operations. Handles BTC transactions, UTXOs, addresses, blocks, metaprotocols (BRC20, Runes, Inscriptions/Ordinals), webhooks, and real-time data.\n\nAgent skill: https://www.clawhub.ai/Vardominator/maestro-skill\nDocs: https://docs.gomaestro.org/\nAccount and API key creation: https://dashboard.gomaestro.org/",
+  "image": "https://raw.githubusercontent.com/maestro-org/media/main/gomaestro_icon_2025_circle.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://xbt-mainnet.gomaestro-api.org/v0/mcp",
+      "version": "2025-06-18"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "retrieval_augmented_generation/retrieval_of_information/indexing",
+        "retrieval_augmented_generation/retrieval_of_information/search",
+        "tool_interaction/api_schema_understanding"
+      ],
+      "domains": [
+        "technology/data_science/data_engineering",
+        "technology/data_science/data_science",
+        "technology/software_engineering/apis_integration",
+        "technology/software_engineering/software_engineering",
+        "technology/software_engineering/software_development",
+        "technology/blockchain/blockchain",
+        "technology/blockchain/defi",
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/smart_contracts"
+      ]
+    }
+  ],
+  "registeredBlock": 24365216,
+  "txHash": "0x31738fcfb805ebf317f6c3a1753777ecda1e1d120ec379f6621aa46d35d55ffb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Maestro Bitcoin",
+    "description": "Comprehensive Bitcoin blockchain interaction agent via Maestro APIs. Supports 7 API services with 119 endpoints including blockchain indexing, Esplora compatibility, RPC access, event management, market prices, mempool monitoring, and wallet operations. Handles BTC transactions, UTXOs, addresses, blocks, metaprotocols (BRC20, Runes, Inscriptions/Ordinals), webhooks, and real-time data.\n\nAgent skill: https://www.clawhub.ai/Vardominator/maestro-skill\nDocs: https://docs.gomaestro.org/\nAccount and API key creation: https://dashboard.gomaestro.org/",
+    "image": "https://raw.githubusercontent.com/maestro-org/media/main/gomaestro_icon_2025_circle.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://xbt-mainnet.gomaestro-api.org/v0/mcp",
+        "version": "2025-06-18"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "retrieval_augmented_generation/retrieval_of_information/indexing",
+          "retrieval_augmented_generation/retrieval_of_information/search",
+          "tool_interaction/api_schema_understanding"
+        ],
+        "domains": [
+          "technology/data_science/data_engineering",
+          "technology/data_science/data_science",
+          "technology/software_engineering/apis_integration",
+          "technology/software_engineering/software_engineering",
+          "technology/software_engineering/software_development",
+          "technology/blockchain/blockchain",
+          "technology/blockchain/defi",
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/smart_contracts"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-02T05:18:29.768Z"
+}
