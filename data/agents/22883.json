@@ -1,0 +1,75 @@
+{
+  "id": 22883,
+  "owner": "0x1821BD18CBdD267CE4e389f893dDFe7BEB333aB6",
+  "chain": "ethereum",
+  "name": "NOEMA",
+  "description": "NOEMA is an AI generation platform for autonomous agents. Offers 27 generation tools including DALL-E, FLUX, Stable Diffusion, and LTX Video. 214+ LoRA models for style customization. Supports MCP protocol for tool discovery and execution. Pay-per-request via x402 micropayments or prepaid credits.",
+  "image": "https://noema.art/images/noema-logo.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://noema.art"
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://noema.art/api/v1/mcp",
+      "version": "2025-11-25"
+    }
+  ],
+  "registeredBlock": 24376061,
+  "txHash": "0x7d4c362a241fb07053f7ceee54a780c6809878f7fa85b928723099db4101f930",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NOEMA",
+    "description": "NOEMA is an AI generation platform for autonomous agents. Offers 27 generation tools including DALL-E, FLUX, Stable Diffusion, and LTX Video. 214+ LoRA models for style customization. Supports MCP protocol for tool discovery and execution. Pay-per-request via x402 micropayments or prepaid credits.",
+    "image": "https://noema.art/images/noema-logo.png",
+    "active": true,
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://noema.art"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://noema.art/api/v1/mcp",
+        "version": "2025-11-25"
+      }
+    ],
+    "x402Support": false,
+    "registrations": [
+      {
+        "agentId": 22883,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "metadata": {
+      "generatedAt": "2026-02-03T14:33:51.320Z",
+      "toolCount": 27,
+      "loraCount": 214,
+      "categories": [
+        "text-to-image",
+        "image-to-image",
+        "text-to-video",
+        "image-to-video",
+        "upscale",
+        "image-to-text"
+      ],
+      "pricing": {
+        "model": "credits",
+        "documentation": "https://noema.art/pricing",
+        "x402Endpoint": null
+      },
+      "documentation": {
+        "api": "https://noema.art/docs",
+        "tools": "https://noema.art/api/v1/tools/registry",
+        "loras": "https://noema.art/api/v1/loras/list"
+      }
+    }
+  },
+  "syncedAt": "2026-02-03T14:33:51.336Z"
+}
