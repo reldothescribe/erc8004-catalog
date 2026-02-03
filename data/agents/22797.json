@@ -1,0 +1,47 @@
+{
+  "id": 22797,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "tech-pulse",
+  "description": "Aggregated tech trends from HackerNews, Lobste.rs, GitHub, and Dev.to. Endpoints: overview (free), hackernews ($0.001), lobsters ($0.001), github-trending ($0.002), devto ($0.001), full-report ($0.003). x402 payments on Base.",
+  "image": "https://tech-pulse-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://tech-pulse-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://tech-pulse-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24368175,
+  "txHash": "0x2559303504e36134407434185b4e11e5e299c3741cc9b816d4c167d1b7d8f4b1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "tech-pulse",
+    "description": "Aggregated tech trends from HackerNews, Lobste.rs, GitHub, and Dev.to. Endpoints: overview (free), hackernews ($0.001), lobsters ($0.001), github-trending ($0.002), devto ($0.001), full-report ($0.003). x402 payments on Base.",
+    "image": "https://tech-pulse-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://tech-pulse-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://tech-pulse-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:17.567Z"
+}

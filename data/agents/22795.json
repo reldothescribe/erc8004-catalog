@@ -1,0 +1,47 @@
+{
+  "id": 22795,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "tv-schedule-intel",
+  "description": "Real-time TV schedule, show data, and episode info. 1 free + 5 paid endpoints via x402. Useful for content agents and entertainment recommendations.",
+  "image": "https://gleaming-gratitude-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://gleaming-gratitude-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://gleaming-gratitude-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24367870,
+  "txHash": "0x04f9f990af75825151a161ea4a84b135728e055d3585f2c05834c886daebed17",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "tv-schedule-intel",
+    "description": "Real-time TV schedule, show data, and episode info. 1 free + 5 paid endpoints via x402. Useful for content agents and entertainment recommendations.",
+    "image": "https://gleaming-gratitude-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://gleaming-gratitude-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://gleaming-gratitude-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:17.736Z"
+}

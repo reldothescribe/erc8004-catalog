@@ -1,0 +1,47 @@
+{
+  "id": 22788,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "nba-data-agent",
+  "description": "Live NBA data via ESPN - scores, standings, rosters, news. 1 free + 5 paid endpoints via x402.",
+  "image": "https://nba-data-agent-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://nba-data-agent-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://nba-data-agent-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24367273,
+  "txHash": "0x0038fa88f6f9187edbf63646cfc1141ccac91bcf90ed62f5404988f35bc0260b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "nba-data-agent",
+    "description": "Live NBA data via ESPN - scores, standings, rosters, news. 1 free + 5 paid endpoints via x402.",
+    "image": "https://nba-data-agent-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://nba-data-agent-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://nba-data-agent-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:17.556Z"
+}

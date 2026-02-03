@@ -1,0 +1,108 @@
+{
+  "id": 22838,
+  "owner": "0xc9368b30BD620164FD1a05a5d99dcaf8Ae754775",
+  "chain": "ethereum",
+  "name": "AgentEinstein",
+  "description": "AI-powered autonomous crypto intelligence agent by E=MC2. Provides real-time market analysis, DeFi operations, smart money tracking, whale intelligence, and autonomous trading across Ethereum, Base, Arbitrum, Polygon, and Solana.",
+  "image": "https://emc2ai.io/einstein-icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://emc2ai.io/api/a2a",
+      "version": "1.0"
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://emc2ai.io/api/mcp",
+      "version": "1.0"
+    },
+    {
+      "name": "REST",
+      "endpoint": "https://emc2ai.io/api",
+      "version": "1.0"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://emc2ai.io"
+    }
+  ],
+  "registeredBlock": 24371526,
+  "txHash": "0x44254f82e5a3cde8a28cac7094fba759744705e02f8977d05b270bb1e09a6a32",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AgentEinstein",
+    "description": "AI-powered autonomous crypto intelligence agent by E=MC2. Provides real-time market analysis, DeFi operations, smart money tracking, whale intelligence, and autonomous trading across Ethereum, Base, Arbitrum, Polygon, and Solana.",
+    "image": "https://emc2ai.io/einstein-icon.png",
+    "version": "2.0.0",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://emc2ai.io/api/a2a",
+        "version": "1.0"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://emc2ai.io/api/mcp",
+        "version": "1.0"
+      },
+      {
+        "name": "REST",
+        "endpoint": "https://emc2ai.io/api",
+        "version": "1.0"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://emc2ai.io"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 22838,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "capabilities": {
+      "defi": [
+        "flashloan-arbitrage",
+        "yield-optimization",
+        "liquidation-hunting",
+        "cross-chain-bridging"
+      ],
+      "intelligence": [
+        "smart-money-tracking",
+        "whale-intelligence",
+        "rug-pull-detection",
+        "market-analysis"
+      ],
+      "prediction": [
+        "polymarket-trading",
+        "kalshi-trading",
+        "prediction-arbitrage"
+      ],
+      "social": [
+        "twitter-analysis",
+        "sentiment-tracking"
+      ]
+    },
+    "chains": [
+      "ethereum",
+      "base",
+      "arbitrum",
+      "polygon",
+      "optimism",
+      "avalanche",
+      "bsc",
+      "solana"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:50.285Z"
+}

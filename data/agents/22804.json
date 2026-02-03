@@ -1,0 +1,47 @@
+{
+  "id": 22804,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "word-intel",
+  "description": "Language & vocabulary intelligence for AI agents - definitions, synonyms, related words, rhymes. Aggregates Free Dictionary API + Datamuse. 1 FREE + 6 PAID endpoints via x402.",
+  "image": "https://agile-charisma-production-fc6e.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://agile-charisma-production-fc6e.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://agile-charisma-production-fc6e.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24368474,
+  "txHash": "0xfdcc45bcfe60cd6c2fe25afed6111edfbbb2b8eb230baf5f0d288e982a5b6144",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "word-intel",
+    "description": "Language & vocabulary intelligence for AI agents - definitions, synonyms, related words, rhymes. Aggregates Free Dictionary API + Datamuse. 1 FREE + 6 PAID endpoints via x402.",
+    "image": "https://agile-charisma-production-fc6e.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://agile-charisma-production-fc6e.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://agile-charisma-production-fc6e.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:48.129Z"
+}

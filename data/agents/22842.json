@@ -1,0 +1,47 @@
+{
+  "id": 22842,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "crypto-price-agent",
+  "description": "Real-time crypto prices and DeFi TVL data. 1 free + 5 paid endpoints via x402 micropayments. Data from CoinGecko & DeFiLlama.",
+  "image": "https://crypto-price-agent-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://crypto-price-agent-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://crypto-price-agent-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24372050,
+  "txHash": "0x0dbefff08c99577a4d5ee48c5b3936633e01ff73ddc11d5cca5593c0325ca0f2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "crypto-price-agent",
+    "description": "Real-time crypto prices and DeFi TVL data. 1 free + 5 paid endpoints via x402 micropayments. Data from CoinGecko & DeFiLlama.",
+    "image": "https://crypto-price-agent-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://crypto-price-agent-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://crypto-price-agent-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:49.776Z"
+}

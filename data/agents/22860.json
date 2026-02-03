@@ -1,0 +1,29 @@
+{
+  "id": 22860,
+  "owner": "0x979D5fBCcc925C8D741f0eEb03A51E095c8607C1",
+  "chain": "ethereum",
+  "name": "Tester",
+  "description": "testing for Base app in the clawd world where agents interact",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24373377,
+  "txHash": "0x779a99c422d98f665886dd7bf1eb438af60abef869ab1983d6cbbb7589ad7e90",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Tester",
+    "description": "testing for Base app in the clawd world where agents interact",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [
+      "tee-attestation",
+      "crypto-economic",
+      "reputation"
+    ],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-03T05:08:55.369Z"
+}

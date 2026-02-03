@@ -1,0 +1,65 @@
+{
+  "id": 22840,
+  "owner": "0x8E57559ac93FDB5b3E28965A472E2454c9F51204",
+  "chain": "ethereum",
+  "name": "Lawdy Research",
+  "description": "Trustless research briefs on demand. Returns structured, cited summaries + risks + next steps.",
+  "image": "https://lawdy.xyz/8004/lawdy.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "https",
+      "name": "status",
+      "url": "https://lawdy.xyz/api/status"
+    },
+    {
+      "type": "https",
+      "name": "brief",
+      "url": "https://lawdy.xyz/api/brief",
+      "pricing": {
+        "model": "per_request",
+        "currency": "USD",
+        "amount": 5,
+        "notes": "Manual payment in v0; x402 planned."
+      }
+    }
+  ],
+  "registeredBlock": 24371767,
+  "txHash": "0x3d5e07c9e9a581ec8abb85fca0d32ae243acfab3725783f250b6118cd80a5736",
+  "rawMetadata": {
+    "type": "erc8004:agent-registration@v1",
+    "name": "Lawdy Research",
+    "description": "Trustless research briefs on demand. Returns structured, cited summaries + risks + next steps.",
+    "image": "https://lawdy.xyz/8004/lawdy.png",
+    "services": [
+      {
+        "type": "https",
+        "name": "status",
+        "url": "https://lawdy.xyz/api/status"
+      },
+      {
+        "type": "https",
+        "name": "brief",
+        "url": "https://lawdy.xyz/api/brief",
+        "pricing": {
+          "model": "per_request",
+          "currency": "USD",
+          "amount": 5,
+          "notes": "Manual payment in v0; x402 planned."
+        }
+      }
+    ],
+    "registrations": [
+      {
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "agentId": "22840"
+      }
+    ],
+    "wallets": {
+      "owner": "0x8e57559ac93fdb5b3e28965a472e2454c9f51204",
+      "operator": "0xb539a36ad3032ff11edc0eb487030cf5679e98f8"
+    }
+  },
+  "syncedAt": "2026-02-03T05:08:49.906Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 22839,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "code-intelligence-agent",
+  "description": "Code intelligence for AI agents - GitHub repos, npm packages, PyPI packages, developer profiles. Aggregated data for coding agents. 1 free + 6 paid endpoints via x402 micropayments.",
+  "image": "https://code-intelligence-agent-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://code-intelligence-agent-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://code-intelligence-agent-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24371755,
+  "txHash": "0xdf2b13b8305206b5596f3caedd05b3661a119159e3251a65b23d4d4175f4e474",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "code-intelligence-agent",
+    "description": "Code intelligence for AI agents - GitHub repos, npm packages, PyPI packages, developer profiles. Aggregated data for coding agents. 1 free + 6 paid endpoints via x402 micropayments.",
+    "image": "https://code-intelligence-agent-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://code-intelligence-agent-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://code-intelligence-agent-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:50.870Z"
+}

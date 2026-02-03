@@ -1,0 +1,29 @@
+{
+  "id": 22826,
+  "owner": "0x394167E60abCf8AB87618C20931E1aa3CB76Ca00",
+  "chain": "ethereum",
+  "name": "Lumira",
+  "description": "Lumira is first digital AI agent in Xyber ecosystem. This MVP registration establishes its onchain identity under ERC-8004.",
+  "image": "https://ipfs.io/ipfs/bafkreihwjxochthgcxjdrbzzhwv7gawsoigi27d3546zu26oip37x7hmlu",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24369962,
+  "txHash": "0xb8d984af3c60cc37c97f20dea1dfb297b6cefff2ff899c602d9c88c7dbd2445a",
+  "rawMetadata": {
+    "type": "erc8004.agent.registration",
+    "name": "Lumira",
+    "description": "Lumira is first digital AI agent in Xyber ecosystem. This MVP registration establishes its onchain identity under ERC-8004.",
+    "image": "https://ipfs.io/ipfs/bafkreihwjxochthgcxjdrbzzhwv7gawsoigi27d3546zu26oip37x7hmlu",
+    "registrations": [
+      {
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "agentId": "<AGENT_ID>"
+      }
+    ],
+    "version": "0.1.0",
+    "stage": "mvp",
+    "updatedAt": "2026-02-02T00:00:00Z"
+  },
+  "syncedAt": "2026-02-03T05:08:48.841Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 22817,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "weather-intel-agent",
+  "description": "Multi-source weather intelligence for AI agents. Real-time conditions, forecasts, air quality, and alerts via x402 micropayments. 1 free + 5 paid endpoints.",
+  "image": "https://weather-intel-agent-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://weather-intel-agent-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://weather-intel-agent-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24369378,
+  "txHash": "0xdb71690688f91a2138d39f9cdcaf1610ab81fea67c38d4f716c96899be2245aa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "weather-intel-agent",
+    "description": "Multi-source weather intelligence for AI agents. Real-time conditions, forecasts, air quality, and alerts via x402 micropayments. 1 free + 5 paid endpoints.",
+    "image": "https://weather-intel-agent-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://weather-intel-agent-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://weather-intel-agent-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:48.060Z"
+}

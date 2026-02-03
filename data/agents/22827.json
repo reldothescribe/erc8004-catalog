@@ -1,0 +1,47 @@
+{
+  "id": 22827,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "url-intel",
+  "description": "URL metadata and web intelligence for AI agents. Extract OpenGraph, Twitter cards, HTTP headers, SSL certs, and redirect chains. 1 free + 5 paid endpoints via x402.",
+  "image": "https://url-intel-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://url-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://url-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24369971,
+  "txHash": "0xba322147c72bbc63a1c7476235296d094864115dae7fe6991f988ffe4e4ca052",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "url-intel",
+    "description": "URL metadata and web intelligence for AI agents. Extract OpenGraph, Twitter cards, HTTP headers, SSL certs, and redirect chains. 1 free + 5 paid endpoints via x402.",
+    "image": "https://url-intel-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://url-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://url-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:48.924Z"
+}

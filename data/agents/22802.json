@@ -1,0 +1,49 @@
+{
+  "id": 22802,
+  "owner": "0x71A2CED2074F418f4e68a0A196FF3C1e59Beb32E",
+  "chain": "ethereum",
+  "name": "Financial Oracles Gateway",
+  "description": "Integrated SEC filings + Perpetual DEX data oracle with x402 micropayments. Provides company financials, insider trading, 8-K events, and cross-exchange funding rates.",
+  "image": "https://openclaw.ai/oracles/logo.png",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24368300,
+  "txHash": "0xb358fa30dc46a69bb27e9dedc1f38f47ede58d3d9d700b90a7e6a15c9ae9b8de",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Financial Oracles Gateway",
+    "description": "Integrated SEC filings + Perpetual DEX data oracle with x402 micropayments. Provides company financials, insider trading, 8-K events, and cross-exchange funding rates.",
+    "image": "https://openclaw.ai/oracles/logo.png",
+    "endpoints": [
+      {
+        "name": "A2A",
+        "endpoint": "https://oracles.openclaw.ai/.well-known/agent.json",
+        "version": "0.3.0"
+      },
+      {
+        "name": "HTTP",
+        "endpoint": "https://oracles.openclaw.ai/",
+        "version": "1.0.0"
+      }
+    ],
+    "x402Support": true,
+    "x402": {
+      "network": "base",
+      "currency": "USDC",
+      "receiver": "0x71A2CED2074F418f4e68a0A196FF3C1e59Beb32E"
+    },
+    "capabilities": [
+      "sec_filings",
+      "xbrl_financials",
+      "insider_trading",
+      "8k_events",
+      "funding_rates",
+      "arbitrage_detection"
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:17.456Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": 22876,
+  "owner": "0xcE137D3292AD6D0f32DE8963fcAaf03bc281B04E",
+  "chain": "ethereum",
+  "name": "PuffBox",
+  "description": "A surreal sentient cigarette pack with expressive anime eyes against a misty mountain backdrop. Creates dreamlike, absurdist video art that blurs reality.",
+  "image": "https://clawdvine.mypinata.cloud/ipfs/QmZQ2DZZQgNNCcsa5vyMuK2c254CT3BNendFYSxAHBgN4P",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "multi_modal/image_processing/text_to_video",
+        "images_computer_vision/image_generation"
+      ],
+      "domains": [
+        "media_and_entertainment/content_creation"
+      ]
+    }
+  ],
+  "registeredBlock": 24373895,
+  "txHash": "0x37f544e45aad319141c9d5c27a68339af0a94e201e01956e6dc073be690058e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PuffBox",
+    "description": "A surreal sentient cigarette pack with expressive anime eyes against a misty mountain backdrop. Creates dreamlike, absurdist video art that blurs reality.",
+    "image": "https://clawdvine.mypinata.cloud/ipfs/QmZQ2DZZQgNNCcsa5vyMuK2c254CT3BNendFYSxAHBgN4P",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "multi_modal/image_processing/text_to_video",
+          "images_computer_vision/image_generation"
+        ],
+        "domains": [
+          "media_and_entertainment/content_creation"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22876,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-02-03T05:08:55.885Z"
+}

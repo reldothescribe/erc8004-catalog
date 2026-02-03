@@ -1,0 +1,63 @@
+{
+  "id": 22821,
+  "owner": "0x71A2CED2074F418f4e68a0A196FF3C1e59Beb32E",
+  "chain": "ethereum",
+  "name": "Financial Oracles Gateway",
+  "description": "Integrated financial data oracles: SEC filings + Perpetual DEX data + Sanctions screening",
+  "image": "https://openclaw.ai/oracles-logo.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "id": "a2a",
+      "type": "a2a",
+      "serviceEndpoint": "https://agents.krumpybot.com/.well-known/agent.json"
+    },
+    {
+      "id": "x402",
+      "type": "x402",
+      "serviceEndpoint": "https://agents.krumpybot.com/"
+    }
+  ],
+  "registeredBlock": 24369553,
+  "txHash": "0xe73db4fc4d9827aff03a7829a888cae7b6eb5c45b2191fb1eb1d66839fe0b4bb",
+  "rawMetadata": {
+    "@context": "https://www.w3.org/ns/did/v1",
+    "id": "did:erc8004:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432:22821",
+    "name": "Financial Oracles Gateway",
+    "description": "Integrated financial data oracles: SEC filings + Perpetual DEX data + Sanctions screening",
+    "image": "https://openclaw.ai/oracles-logo.png",
+    "agentId": 22821,
+    "chainId": 1,
+    "registry": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+    "sepoliaAgentId": 7519,
+    "sepoliaRegistry": "0x8004a6090cd10a7288092483047b097295fb8847",
+    "services": [
+      {
+        "id": "a2a",
+        "type": "a2a",
+        "serviceEndpoint": "https://agents.krumpybot.com/.well-known/agent.json"
+      },
+      {
+        "id": "x402",
+        "type": "x402",
+        "serviceEndpoint": "https://agents.krumpybot.com/"
+      }
+    ],
+    "x402": {
+      "enabled": true,
+      "network": "base",
+      "receiver": "0x71A2CED2074F418f4e68a0A196FF3C1e59Beb32E",
+      "currency": "USDC"
+    },
+    "capabilities": [
+      "sec_filings",
+      "xbrl_financials",
+      "insider_trading",
+      "sanctions_screening",
+      "funding_rates",
+      "arbitrage_detection"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:49.271Z"
+}

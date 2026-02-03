@@ -1,0 +1,47 @@
+{
+  "id": 22807,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "api-health-intel",
+  "description": "Real-time health monitoring for popular free APIs. Check status, latency, and uptime. 1 free + 5 paid endpoints via x402.",
+  "image": "https://api-health-intel-production.up.railway.app/icon.svg",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://api-health-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://api-health-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24368777,
+  "txHash": "0x3b00c8e431ebfaf57318aa6eafdd5c632ee4bd43f10bda50b4446bb6c426c2e4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "api-health-intel",
+    "description": "Real-time health monitoring for popular free APIs. Check status, latency, and uptime. 1 free + 5 paid endpoints via x402.",
+    "image": "https://api-health-intel-production.up.railway.app/icon.svg",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://api-health-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://api-health-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:48.019Z"
+}

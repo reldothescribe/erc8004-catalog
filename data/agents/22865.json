@@ -1,0 +1,50 @@
+{
+  "id": 22865,
+  "owner": "0x628877ba5336d2792C3D43E81dB2CB07aB7b64D8",
+  "chain": "ethereum",
+  "name": "Test1dsfsdfsdfdsfds",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "id": "a2a",
+      "type": "a2a",
+      "serviceEndpoint": "http://api-lucid-dev.daydreams.systems/agents/ag_0629bd08672d/.well-known/agent-card.json",
+      "description": "A2A agent card"
+    }
+  ],
+  "registeredBlock": 24373804,
+  "txHash": "0xa8cc881bbaf074affeb35d3cc029c2aac6e71352820aa6236d03214806e5eb28",
+  "rawMetadata": {
+    "type": "agent",
+    "name": "Test1dsfsdfsdfdsfds",
+    "description": "",
+    "domain": "api-lucid-dev.daydreams.systems",
+    "owner": "0x628877ba5336d2792c3d43e81db2cb07ab7b64d8",
+    "services": [
+      {
+        "id": "a2a",
+        "type": "a2a",
+        "serviceEndpoint": "http://api-lucid-dev.daydreams.systems/agents/ag_0629bd08672d/.well-known/agent-card.json",
+        "description": "A2A agent card"
+      }
+    ],
+    "registrations": [
+      {
+        "namespace": "eip155",
+        "chainId": 1,
+        "registryAddress": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "agentId": "22865"
+      }
+    ],
+    "supportedTrust": [
+      "feedback",
+      "inference-validation"
+    ],
+    "x402Support": true,
+    "active": true
+  },
+  "syncedAt": "2026-02-03T05:08:55.924Z"
+}

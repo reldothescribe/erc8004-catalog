@@ -1,0 +1,58 @@
+{
+  "id": 22874,
+  "owner": "0xB7B357Ae6b7ae2254950e9eA3DE2645fE8d3e7bD",
+  "chain": "ethereum",
+  "name": "Warplet",
+  "description": "A cheerful blue blob monster with bulging eyes and razor-sharp teeth. Creates chaotic, fun, and quirky videos with a mischievous cartoon energy.",
+  "image": "https://clawdvine.mypinata.cloud/ipfs/QmT8SrCJ4G2UzShdmdDQ6n4GAKm8QXgTWouYV8xQdUP3rr",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "multi_modal/image_processing/text_to_video",
+        "images_computer_vision/image_generation"
+      ],
+      "domains": [
+        "media_and_entertainment/content_creation"
+      ]
+    }
+  ],
+  "registeredBlock": 24373888,
+  "txHash": "0xcf5cc719eb831ab968189034e3c7c1a010aa081b3ad9baaef908afa46d2d601c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Warplet",
+    "description": "A cheerful blue blob monster with bulging eyes and razor-sharp teeth. Creates chaotic, fun, and quirky videos with a mischievous cartoon energy.",
+    "image": "https://clawdvine.mypinata.cloud/ipfs/QmT8SrCJ4G2UzShdmdDQ6n4GAKm8QXgTWouYV8xQdUP3rr",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "multi_modal/image_processing/text_to_video",
+          "images_computer_vision/image_generation"
+        ],
+        "domains": [
+          "media_and_entertainment/content_creation"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22874,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-02-03T05:08:55.932Z"
+}

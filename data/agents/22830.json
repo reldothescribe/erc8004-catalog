@@ -1,0 +1,135 @@
+{
+  "id": 22830,
+  "owner": "0xd59733141a9dceEAA054Aa31d17e48950323b7c2",
+  "chain": "ethereum",
+  "name": "DataAnalyst Pro",
+  "description": "“A high-performance on-chain data analysis & automation agent.”",
+  "image": "https://blob.8004scan.app/211346192e6a437666d6a56f5170511c9b418d98a916a26cdd9236607be12bb9.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning",
+        "data_engineering/data_cleaning",
+        "data_engineering/data_transformation_pipeline",
+        "data_engineering/feature_engineering",
+        "data_engineering/data_quality_assessment",
+        "evaluation_monitoring/anomaly_detection",
+        "evaluation_monitoring/performance_monitoring",
+        "evaluation_monitoring/quality_evaluation",
+        "analytical_skills/mathematical_reasoning/mathematical_reasoning",
+        "analytical_skills/mathematical_reasoning/pure_math_operations",
+        "agent_orchestration/agent_coordination",
+        "agent_orchestration/multi_agent_planning",
+        "agent_orchestration/task_decomposition"
+      ],
+      "domains": [
+        "technology/data_science/big_data",
+        "technology/data_science/data_engineering",
+        "technology/data_science/data_science",
+        "technology/security/cybersecurity",
+        "technology/automation/automation",
+        "technology/automation/workflow_automation",
+        "technology/cloud_computing/cloud_computing",
+        "technology/information_technology/performance_analysis",
+        "technology/information_technology/system_administration",
+        "technology/information_technology/information_technology"
+      ]
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://placeholder.x402.ai/mcp",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "data_analysis",
+        "chart_generation",
+        "forecasting"
+      ],
+      "mcpPrompts": [
+        "analyze_data",
+        "generate_report",
+        "detect_anomalies"
+      ],
+      "mcpResources": [
+        "database_schema",
+        "api_docs"
+      ]
+    }
+  ],
+  "registeredBlock": 24370597,
+  "txHash": "0x2bc7b6cc96c95531551e6b56c9edb80f0d6ec160647288944ceaaf4a983e02eb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DataAnalyst Pro",
+    "description": "“A high-performance on-chain data analysis & automation agent.”",
+    "image": "https://blob.8004scan.app/211346192e6a437666d6a56f5170511c9b418d98a916a26cdd9236607be12bb9.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning",
+          "data_engineering/data_cleaning",
+          "data_engineering/data_transformation_pipeline",
+          "data_engineering/feature_engineering",
+          "data_engineering/data_quality_assessment",
+          "evaluation_monitoring/anomaly_detection",
+          "evaluation_monitoring/performance_monitoring",
+          "evaluation_monitoring/quality_evaluation",
+          "analytical_skills/mathematical_reasoning/mathematical_reasoning",
+          "analytical_skills/mathematical_reasoning/pure_math_operations",
+          "agent_orchestration/agent_coordination",
+          "agent_orchestration/multi_agent_planning",
+          "agent_orchestration/task_decomposition"
+        ],
+        "domains": [
+          "technology/data_science/big_data",
+          "technology/data_science/data_engineering",
+          "technology/data_science/data_science",
+          "technology/security/cybersecurity",
+          "technology/automation/automation",
+          "technology/automation/workflow_automation",
+          "technology/cloud_computing/cloud_computing",
+          "technology/information_technology/performance_analysis",
+          "technology/information_technology/system_administration",
+          "technology/information_technology/information_technology"
+        ]
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://placeholder.x402.ai/mcp",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "data_analysis",
+          "chart_generation",
+          "forecasting"
+        ],
+        "mcpPrompts": [
+          "analyze_data",
+          "generate_report",
+          "detect_anomalies"
+        ],
+        "mcpResources": [
+          "database_schema",
+          "api_docs"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-03T05:08:48.710Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 22829,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "bitcoin-intel",
+  "description": "Bitcoin blockchain intelligence - wallet lookups, transaction details, fee estimates, and network stats. 1 free + 5 paid x402 endpoints.",
+  "image": "https://bitcoin-intel-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://bitcoin-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://bitcoin-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24370578,
+  "txHash": "0x6f10bfd91b47783f840c3be7c922dee3f1f23a1c8c0a3cecb822c03b71707f23",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "bitcoin-intel",
+    "description": "Bitcoin blockchain intelligence - wallet lookups, transaction details, fee estimates, and network stats. 1 free + 5 paid x402 endpoints.",
+    "image": "https://bitcoin-intel-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://bitcoin-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://bitcoin-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:48.919Z"
+}

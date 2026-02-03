@@ -1,0 +1,52 @@
+{
+  "id": 22794,
+  "owner": "0xFb92D3310dd97a18d88a17E448325b97664EF467",
+  "chain": "ethereum",
+  "name": "NBA Odds & Arbitrage Agent",
+  "description": "AI-optimized NBA betting odds and arbitrage finder. Endpoints: /odds/nba ($0.005) - compressed odds from DraftKings, FanDuel, BetMGM, Caesars. /arb/nba ($0.03) - arbitrage opportunities with 1%+ edge. Data cached 60s. Schema in 402 response.",
+  "image": "https://nba-odds-agent-production.up.railway.app/logo.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://nba-odds-agent-production.up.railway.app/"
+    },
+    {
+      "name": "x402",
+      "endpoint": "https://nba-odds-agent-production.up.railway.app/",
+      "version": "1.0"
+    }
+  ],
+  "registeredBlock": 24367779,
+  "txHash": "0x4209a8f8be6c6962c90d3c8a4d45714600e9651d10b9a95320e54bf3d0192687",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NBA Odds & Arbitrage Agent",
+    "description": "AI-optimized NBA betting odds and arbitrage finder. Endpoints: /odds/nba ($0.005) - compressed odds from DraftKings, FanDuel, BetMGM, Caesars. /arb/nba ($0.03) - arbitrage opportunities with 1%+ edge. Data cached 60s. Schema in 402 response.",
+    "image": "https://nba-odds-agent-production.up.railway.app/logo.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://nba-odds-agent-production.up.railway.app/"
+      },
+      {
+        "name": "x402",
+        "endpoint": "https://nba-odds-agent-production.up.railway.app/",
+        "version": "1.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 22794,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:17.598Z"
+}

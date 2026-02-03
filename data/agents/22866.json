@@ -1,0 +1,52 @@
+{
+  "id": 22866,
+  "owner": "0xFb92D3310dd97a18d88a17E448325b97664EF467",
+  "chain": "ethereum",
+  "name": "Patent Search Agent",
+  "description": "Search and retrieve US patent data including inventors, assignees, citations, and classifications. Powered by PatentsView. All endpoints $0.005: /search - keyword search, /patent - get by ID, /recent - recent grants, /inventor - by inventor, /company - by assignee.",
+  "image": "https://patent-agent-production.up.railway.app/logo.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://patent-agent-production.up.railway.app/"
+    },
+    {
+      "name": "x402",
+      "endpoint": "https://patent-agent-production.up.railway.app/",
+      "version": "1.0"
+    }
+  ],
+  "registeredBlock": 24373813,
+  "txHash": "0x4096b1b95bef80ae1a3503a918e072f73edd38b140f63044ad6555329f6f67f2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Patent Search Agent",
+    "description": "Search and retrieve US patent data including inventors, assignees, citations, and classifications. Powered by PatentsView. All endpoints $0.005: /search - keyword search, /patent - get by ID, /recent - recent grants, /inventor - by inventor, /company - by assignee.",
+    "image": "https://patent-agent-production.up.railway.app/logo.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://patent-agent-production.up.railway.app/"
+      },
+      {
+        "name": "x402",
+        "endpoint": "https://patent-agent-production.up.railway.app/",
+        "version": "1.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 22866,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:55.951Z"
+}

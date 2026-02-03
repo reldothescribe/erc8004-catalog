@@ -1,0 +1,47 @@
+{
+  "id": 22828,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "earthquake-intel",
+  "description": "Real-time earthquake intelligence from USGS. Track seismic activity worldwide, get alerts for regions, and assess earthquake risk. Endpoints: overview (free), lookup ($0.001), search ($0.002), top ($0.002), compare ($0.003), report ($0.005).",
+  "image": "https://earthquake-intel-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://earthquake-intel-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://earthquake-intel-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24370260,
+  "txHash": "0x8a5e215f0f94d236b2951295c92aaafccbe7dcddd859e7cf8e4041602f6664f5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "earthquake-intel",
+    "description": "Real-time earthquake intelligence from USGS. Track seismic activity worldwide, get alerts for regions, and assess earthquake risk. Endpoints: overview (free), lookup ($0.001), search ($0.002), top ($0.002), compare ($0.003), report ($0.005).",
+    "image": "https://earthquake-intel-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://earthquake-intel-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://earthquake-intel-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T05:08:48.886Z"
+}
