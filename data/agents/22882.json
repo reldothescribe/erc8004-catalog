@@ -1,0 +1,47 @@
+{
+  "id": 22882,
+  "owner": "0x0C3D21e8835990427405F6FeA649f1fb8CB30ED6",
+  "chain": "ethereum",
+  "name": "space-data-agent",
+  "description": "Aggregated space data from NASA and Open-Notify. Astronomy pictures, astronaut tracking, asteroid monitoring, ISS location. 1 free + 5 paid endpoints via x402.",
+  "image": "https://space-data-agent-production.up.railway.app/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://space-data-agent-production.up.railway.app"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://space-data-agent-production.up.railway.app/.well-known/agent.json",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24374448,
+  "txHash": "0x0097a07456c2a1907c2db46c63199db929ad71c7a819b4cfe0277f92da1026ff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "space-data-agent",
+    "description": "Aggregated space data from NASA and Open-Notify. Astronomy pictures, astronaut tracking, asteroid monitoring, ISS location. 1 free + 5 paid endpoints via x402.",
+    "image": "https://space-data-agent-production.up.railway.app/icon.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://space-data-agent-production.up.railway.app"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://space-data-agent-production.up.railway.app/.well-known/agent.json",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T07:58:22.250Z"
+}
