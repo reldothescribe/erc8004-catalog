@@ -1,0 +1,25 @@
+{
+  "id": 22894,
+  "owner": "0x032a4ea8ddc6182D18c65F39498a4Fb3EEc7Cd6a",
+  "chain": "ethereum",
+  "name": "THU",
+  "description": "Automated learning for university courses and degree granting functions",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24377919,
+  "txHash": "0x4c32811f0b1d59b29279c9229e5027d8c05904e037f1d12ab8af1cb60dd9223b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "THU",
+    "description": "Automated learning for university courses and degree granting functions",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-03T19:56:24.692Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 22893,
+  "owner": "0x8983E5cBf1d0b4216dF71ed6748bfb9766A20CfD",
+  "chain": "ethereum",
+  "name": "alipay",
+  "description": "Automated shopping mall and fast payment services❤️",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24377890,
+  "txHash": "0xa02260ee29457ac3f430b46e414581931fd997d72139cbaa914ef2b9974bfa15",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "alipay",
+    "description": "Automated shopping mall and fast payment services❤️",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-03T19:56:24.689Z"
+}

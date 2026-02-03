@@ -1,0 +1,25 @@
+{
+  "id": 22891,
+  "owner": "0xB4F5543DDD5DC1eDAe2355b2792F1F33a9f4Bf28",
+  "chain": "ethereum",
+  "name": "ihg",
+  "description": "Automated booking of hotels and resorts arrangements",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24377842,
+  "txHash": "0x607502964b9223bfae53630f38b1528dd428bc404c379fc6880d71a12bbbf5e0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ihg",
+    "description": "Automated booking of hotels and resorts arrangements",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-03T19:56:24.803Z"
+}

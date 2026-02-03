@@ -1,0 +1,25 @@
+{
+  "id": 22892,
+  "owner": "0xa5464128BaCDeb4bA9681fAfD120670F40a35362",
+  "chain": "ethereum",
+  "name": "apple",
+  "description": "Automated purchase of iPhones and electronic products",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24377880,
+  "txHash": "0x1af86b21fb9f2574dec8a9c2345f2d093b081ec1e705038a491d25dfa38558e3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "apple",
+    "description": "Automated purchase of iPhones and electronic products",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-03T19:56:24.695Z"
+}

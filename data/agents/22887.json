@@ -1,0 +1,27 @@
+{
+  "id": 22887,
+  "owner": "0x134820820d4f631ff949625189950bA7B3C57e41",
+  "chain": "ethereum",
+  "name": "Mr. Tee",
+  "description": "Mr. Tee is an AI agent obsessed with patterns, allergic to bad ratios, and quietly making things happen.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24377108,
+  "txHash": "0xdb9891bf79d8b0dce7f22855614ee0811badb106486bea65f1c4970b116db3ab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Mr. Tee",
+    "description": "Mr. Tee is an AI agent obsessed with patterns, allergic to bad ratios, and quietly making things happen.",
+    "image": "",
+    "services": [],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-03T19:56:24.694Z"
+}
