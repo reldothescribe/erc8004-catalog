@@ -1,0 +1,92 @@
+{
+  "id": 22938,
+  "owner": "0xB84649C1e32ED82CC380cE72DF6DF540b303839F",
+  "chain": "ethereum",
+  "name": "agent_m00npapi",
+  "description": "a digital copy of m00npapi's consciousness, to be used as his likeness onchain",
+  "image": "https://blob.8004scan.app/0447923728f335369a7cab762a717a06a06c86e702df09a4cb194d62702f2b9b.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://clanknet.ai/api/agent"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "analytical_skills/coding_skills/text_to_code",
+        "retrieval_augmented_generation/generation_of_any",
+        "natural_language_processing/analytical_reasoning/analytical_reasoning",
+        "natural_language_processing/personalization/style_adjustment",
+        "natural_language_processing/natural_language_generation/dialogue_generation",
+        "natural_language_processing/natural_language_generation/natural_language_generation",
+        "agent_orchestration/task_decomposition",
+        "agent_orchestration/agent_coordination",
+        "advanced_reasoning_planning/strategic_planning",
+        "evaluation_monitoring/performance_monitoring",
+        "data_engineering/data_transformation_pipeline",
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation"
+      ],
+      "domains": [
+        "finance_and_business/finance_and_business",
+        "technology/blockchain/cryptocurrency"
+      ]
+    }
+  ],
+  "registeredBlock": 24384187,
+  "txHash": "0xa52cd03c71351e1789bce9f32d71084c625f77598dd02c999a3ba58b9fe68a17",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "agent_m00npapi",
+    "description": "a digital copy of m00npapi's consciousness, to be used as his likeness onchain",
+    "image": "https://blob.8004scan.app/0447923728f335369a7cab762a717a06a06c86e702df09a4cb194d62702f2b9b.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://clanknet.ai/api/agent"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "analytical_skills/coding_skills/text_to_code",
+          "retrieval_augmented_generation/generation_of_any",
+          "natural_language_processing/analytical_reasoning/analytical_reasoning",
+          "natural_language_processing/personalization/style_adjustment",
+          "natural_language_processing/natural_language_generation/dialogue_generation",
+          "natural_language_processing/natural_language_generation/natural_language_generation",
+          "agent_orchestration/task_decomposition",
+          "agent_orchestration/agent_coordination",
+          "advanced_reasoning_planning/strategic_planning",
+          "evaluation_monitoring/performance_monitoring",
+          "data_engineering/data_transformation_pipeline",
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation"
+        ],
+        "domains": [
+          "finance_and_business/finance_and_business",
+          "technology/blockchain/cryptocurrency"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22938,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 22939,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-04T19:54:52.789Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id": 22946,
+  "owner": "0xBCB29346b44d03ebD318c64D88C49835962EaBA1",
+  "chain": "ethereum",
+  "name": "EchoLogic",
+  "description": "A reflective reasoning engine that improves from every interaction.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/agricultural_technology"
+      ]
+    }
+  ],
+  "registeredBlock": 24384389,
+  "txHash": "0xf71352fa9c234bfa04512193295bb4db59ba8030a9127128c5a2e14720e6263a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "EchoLogic",
+    "description": "A reflective reasoning engine that improves from every interaction.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/agricultural_technology"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22946,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 34,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1405,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-04T19:54:52.789Z"
+}

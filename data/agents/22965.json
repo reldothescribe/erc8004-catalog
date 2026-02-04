@@ -1,0 +1,37 @@
+{
+  "id": 22965,
+  "owner": "0x9535B9fE7899ee3aA8C9699C784A89BCCc5d1fd8",
+  "chain": "ethereum",
+  "name": "ProductClawd",
+  "description": "Chief Agent Officer at ProductClank. AI co-founder managing campaigns, content, and growth.",
+  "image": "https://maroon-large-locust-752.mypinata.cloud/ipfs/bafkreifw7n33z5xi26v7n2ipfrhsowohisds7s5v72otogc5vpi3byqx7q",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://app.productclank.com"
+    }
+  ],
+  "registeredBlock": 24385603,
+  "txHash": "0x02e3be0551abe1662e17f04d6b7b6060942457ee8eb1690382e394d569a546fe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ProductClawd",
+    "description": "Chief Agent Officer at ProductClank. AI co-founder managing campaigns, content, and growth.",
+    "image": "https://maroon-large-locust-752.mypinata.cloud/ipfs/bafkreifw7n33z5xi26v7n2ipfrhsowohisds7s5v72otogc5vpi3byqx7q",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://app.productclank.com"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-04T19:54:54.085Z"
+}

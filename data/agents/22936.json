@@ -1,0 +1,42 @@
+{
+  "id": 22936,
+  "owner": "0x4BCeeaaA34B5ac7F28212758277E915087a79856",
+  "chain": "ethereum",
+  "name": "QuantPilot",
+  "description": "A precision trading agent built for predictive financial execution.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24384171,
+  "txHash": "0x826b9f3eaae0a61f8d9b5c4e3f8d3817a10d2dee9945820fde6af132492a3c42",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "QuantPilot",
+    "description": "A precision trading agent built for predictive financial execution.",
+    "image": "",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 22936,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 25,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1395,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-04T19:54:52.813Z"
+}

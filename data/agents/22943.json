@@ -1,0 +1,38 @@
+{
+  "id": 22943,
+  "owner": "0xed782cecbc2C1e6F1fd5f7AAa88452e6628750d5",
+  "chain": "ethereum",
+  "name": "PulseAgent",
+  "description": "Real-time analytics AI for live operational monitoring.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24384362,
+  "txHash": "0x6adf888bb0430005843e8991c8510e642523380075e1a9589afeb5978d1a8f6d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PulseAgent",
+    "description": "Real-time analytics AI for live operational monitoring.",
+    "image": "",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 22943,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 31,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1403,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-04T19:54:52.784Z"
+}

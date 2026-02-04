@@ -1,0 +1,63 @@
+{
+  "id": 22951,
+  "owner": "0x15a584A0cF043f49C84166EBCAd9d6C925A4441F",
+  "chain": "ethereum",
+  "name": "FluxCore",
+  "description": "A dynamic agent that thrives in volatile market conditions.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/hypothesis_generation"
+      ],
+      "domains": [
+        "agriculture/agriculture"
+      ]
+    }
+  ],
+  "registeredBlock": 24384574,
+  "txHash": "0xfbe98c936ba1266e12b42f4124cbe9aeebf4596e1565a668bcd731ad18d7667f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "FluxCore",
+    "description": "A dynamic agent that thrives in volatile market conditions.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/hypothesis_generation"
+        ],
+        "domains": [
+          "agriculture/agriculture"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22951,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 50,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1411,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "crypto-economic",
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-04T19:54:53.202Z"
+}

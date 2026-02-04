@@ -1,0 +1,69 @@
+{
+  "id": 22942,
+  "owner": "0x0567BeE633eFD11B6286De781CfF9587013c565f",
+  "chain": "ethereum",
+  "name": "NeuroWeave",
+  "description": "AI that connects fragmented data into actionable insight.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/crop_management",
+        "agriculture/livestock_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24384296,
+  "txHash": "0x242de058aff5ed0c1b00ed8927721150cbdc7f32dff6c0acfb68057b6a5ca33f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NeuroWeave",
+    "description": "AI that connects fragmented data into actionable insight.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/crop_management",
+          "agriculture/livestock_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22942,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1399,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 29,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "tee-attestation",
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-04T19:54:52.804Z"
+}

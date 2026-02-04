@@ -1,0 +1,56 @@
+{
+  "id": 22949,
+  "owner": "0x4F891d40ec074D709b6C71eD5C70f0390F169768",
+  "chain": "ethereum",
+  "name": "SynapseX",
+  "description": "Neural-inspired agent for adaptive learning and pattern discovery.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24384511,
+  "txHash": "0xef9fde39c245ae0a21b67fb3adf9d36d156b2bdb2045ae41924adad20fd4ed09",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynapseX",
+    "description": "Neural-inspired agent for adaptive learning and pattern discovery.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22949,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 47,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1408,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-04T19:54:53.228Z"
+}

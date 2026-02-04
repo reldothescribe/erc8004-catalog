@@ -1,0 +1,42 @@
+{
+  "id": 22941,
+  "owner": "0x9Ce324b3B5981fe26Eb79386B973Dd87E5a7adE9",
+  "chain": "ethereum",
+  "name": "AstraCore",
+  "description": "A self-evolving intelligence engine for complex system coordination.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24384260,
+  "txHash": "0xc287149bb6057472c431a46b4f1b59a5f9f2ab2491a0003cdf874d39fb259bc6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AstraCore",
+    "description": "A self-evolving intelligence engine for complex system coordination.",
+    "image": "",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 22941,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 27,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1397,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-04T19:54:52.805Z"
+}

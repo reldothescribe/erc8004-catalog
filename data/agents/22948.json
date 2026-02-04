@@ -1,0 +1,68 @@
+{
+  "id": 22948,
+  "owner": "0xfc0eDf39C158cf49070A978adDD156522AA5D6bC",
+  "chain": "ethereum",
+  "name": "OrbitMind",
+  "description": "A multi-domain AI that navigates large-scale data ecosystems.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": [
+        "agriculture/crop_management",
+        "agriculture/agriculture"
+      ]
+    }
+  ],
+  "registeredBlock": 24384477,
+  "txHash": "0x5552f04fa5c95ddd078d9aea5110019627bcb9db7feb205fac6635bf030369f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbitMind",
+    "description": "A multi-domain AI that navigates large-scale data ecosystems.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": [
+          "agriculture/crop_management",
+          "agriculture/agriculture"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22948,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 44,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1407,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-04T19:54:52.798Z"
+}

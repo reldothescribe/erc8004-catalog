@@ -1,0 +1,60 @@
+{
+  "id": 22952,
+  "owner": "0x0983D6D454960Ae2761501B4d3d5473275a112A6",
+  "chain": "ethereum",
+  "name": "VectorMind",
+  "description": "Directional decision AI optimized for predictive modeling.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24384599,
+  "txHash": "0xfb3b99adc4947ea3a0fabf66fd2dbce1aec5d67bfede16273b59defe6f762da3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VectorMind",
+    "description": "Directional decision AI optimized for predictive modeling.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22952,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 51,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1413,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-04T19:54:53.220Z"
+}
