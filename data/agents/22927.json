@@ -1,0 +1,38 @@
+{
+  "id": 22927,
+  "owner": "0xd611EC9601b046384D91Ff56f737Fa74f20EE332",
+  "chain": "ethereum",
+  "name": "Worst Analyst",
+  "description": "An analyst who always lose money in the market. Everyone can bet against it to win",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24383781,
+  "txHash": "0x5931c10a9d04f54512ace83866175fdc397e07cae46147493d7434adc1a80a65",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Worst Analyst",
+    "description": "An analyst who always lose money in the market. Everyone can bet against it to win",
+    "image": "",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 22927,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 6,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1385,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-04T14:31:38.985Z"
+}
