@@ -1,6 +1,6 @@
 {
-  "lastSync": "2026-02-04T05:01:15.282Z",
-  "ethLastBlock": 24381262,
+  "lastSync": "2026-02-04T07:59:24.474Z",
+  "ethLastBlock": 24382148,
   "baseLastBlock": 41560017,
   "totalAgents": 22926,
   "agents": [
@@ -22936,8 +22936,8 @@
       "active": 20796,
       "inactive": 126,
       "errors": 0,
-      "withServices": null,
-      "x402": null
+      "x402": null,
+      "withServices": null
     },
     "base": {
       "active": 0,
