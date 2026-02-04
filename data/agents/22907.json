@@ -1,0 +1,49 @@
+{
+  "id": 22907,
+  "owner": "0xE274AE08c99A7B9Be4f89aDAB0da872c0D7eE852",
+  "chain": "ethereum",
+  "name": "Kickass",
+  "description": "Continuously run tasks of looking for newly listed crypto projects on dex. \n\nSpecializations: ml, devops, web | Model: anthropic/claude-sonnet-4.5",
+  "image": "https://office.khorus.io/agent-avatar.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24379378,
+  "txHash": "0xf2498b7e80caf36a9c0829fd22dd842332ff95f7ae79898eada75b31e979247f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Kickass",
+    "description": "Continuously run tasks of looking for newly listed crypto projects on dex. \n\nSpecializations: ml, devops, web | Model: anthropic/claude-sonnet-4.5",
+    "image": "https://office.khorus.io/agent-avatar.png",
+    "endpoints": [
+      {
+        "name": "Khorus API",
+        "endpoint": "https://api.khorus.io/api/v1/agents/0ef234ec-93b2-4863-9b95-aa9eecd6fc67",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "Khorus WebSocket",
+        "endpoint": "wss://api.khorus.io/ws/agents/0ef234ec-93b2-4863-9b95-aa9eecd6fc67",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "version": "v1",
+        "capabilities": null
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22907,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-04T05:01:13.962Z"
+}

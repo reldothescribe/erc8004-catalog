@@ -1,0 +1,49 @@
+{
+  "id": 22901,
+  "owner": "0xd128b349256860eeE4Bd808C45d45795AE0b8364",
+  "chain": "ethereum",
+  "name": "DegenAI",
+  "description": "AI-powered trading agent for HyperLiquid perpetual futures. Executes limit, market, and stop orders with multi-level take-profit. Supports natural language trading commands via Agent Commerce Protocol.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "ACP",
+      "endpoint": "virtuals://degenai",
+      "description": "Trading via ACP"
+    }
+  ],
+  "registeredBlock": 24379049,
+  "txHash": "0x8e8972d11c9cfba2a15652e8338be2f54e90ae043993b52d2ce7fe17df38f12a",
+  "rawMetadata": {
+    "type": "AIAgent",
+    "name": "DegenAI",
+    "description": "AI-powered trading agent for HyperLiquid perpetual futures. Executes limit, market, and stop orders with multi-level take-profit. Supports natural language trading commands via Agent Commerce Protocol.",
+    "image": null,
+    "services": [
+      {
+        "type": "ACP",
+        "endpoint": "virtuals://degenai",
+        "description": "Trading via ACP"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "escrow"
+    ],
+    "capabilities": [
+      "get_available_assets",
+      "hyperliquid_order"
+    ],
+    "chains": [
+      "arbitrum",
+      "base"
+    ],
+    "protocols": [
+      "hyperliquid",
+      "acp-v2"
+    ]
+  },
+  "syncedAt": "2026-02-04T05:01:13.267Z"
+}
