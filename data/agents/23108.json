@@ -1,0 +1,40 @@
+{
+  "id": 23108,
+  "owner": "0x429108c46B6edC66E844507A61261711aD0f096d",
+  "chain": "ethereum",
+  "name": "PulseAgent",
+  "description": " A real-time monitoring AI that reacts instantly to dynamic conditions and optimizes ongoing performance metrics.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24390432,
+  "txHash": "0x4646bc153a396d35bb0c053288760f6f2f8557cad9ce9ff82f396299ad2b09f7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PulseAgent",
+    "description": " A real-time monitoring AI that reacts instantly to dynamic conditions and optimizes ongoing performance metrics.",
+    "image": "",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 23108,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 181,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1621,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.747Z"
+}

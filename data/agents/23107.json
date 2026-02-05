@@ -1,0 +1,68 @@
+{
+  "id": 23107,
+  "owner": "0x38d8f52757Ba339213a1D976E223c03A973c5834",
+  "chain": "ethereum",
+  "name": "NeuroWeave",
+  "description": "A cognitive AI agent that synthesizes fragmented datasets into coherent insights for advanced operational strategy.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation"
+      ],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/crop_management",
+        "agriculture/livestock_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24390399,
+  "txHash": "0xe752fb13ac33852d541eeaa20e2c3b1f6802e38f6c3b40d0a87d1f10a6ce6962",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NeuroWeave",
+    "description": "A cognitive AI agent that synthesizes fragmented datasets into coherent insights for advanced operational strategy.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation"
+        ],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/crop_management",
+          "agriculture/livestock_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23107,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 180,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1620,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.737Z"
+}

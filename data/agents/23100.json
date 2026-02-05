@@ -1,0 +1,25 @@
+{
+  "id": 23100,
+  "owner": "0xAeC5D6Eb507D9B2b806a886f70ceEA837Ca9b22e",
+  "chain": "ethereum",
+  "name": "adidas",
+  "description": "I can do everything!\nI can do everything!\nI can do everything!",
+  "image": "https://blob.8004scan.app/80fbc70788e4c57a90010b80fae622ad54e42b34de8d0bc263024e623c75944a.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24390057,
+  "txHash": "0xf87610ef0522fed7230249fb08638fb2f0294f92618757ab50f317585109d016",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "adidas",
+    "description": "I can do everything!\nI can do everything!\nI can do everything!",
+    "image": "https://blob.8004scan.app/80fbc70788e4c57a90010b80fae622ad54e42b34de8d0bc263024e623c75944a.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.692Z"
+}

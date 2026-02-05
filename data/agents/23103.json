@@ -1,0 +1,25 @@
+{
+  "id": 23103,
+  "owner": "0xCbBc40E839770744CED3da69a3b95E1D0284dE90",
+  "chain": "ethereum",
+  "name": "adidas",
+  "description": "adidas.com\nadidas.com\nadidas.com\nadidas.com\nadidas.com",
+  "image": "https://blob.8004scan.app/966fc1014fabe1efef43d4fc2153f18f4214f9b98dd77ad74062bac98befa04f.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24390167,
+  "txHash": "0x962981e88631a316c2f96437504c8168591b7de8c3da0ff81ef1233bdb8ddb6e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "adidas",
+    "description": "adidas.com\nadidas.com\nadidas.com\nadidas.com\nadidas.com",
+    "image": "https://blob.8004scan.app/966fc1014fabe1efef43d4fc2153f18f4214f9b98dd77ad74062bac98befa04f.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.697Z"
+}

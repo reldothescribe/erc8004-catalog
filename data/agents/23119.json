@@ -1,0 +1,58 @@
+{
+  "id": 23119,
+  "owner": "0xC90F00F528153Bf321A7257DD047371a6a279771",
+  "chain": "ethereum",
+  "name": "AtlasCore",
+  "description": "A large-scale infrastructure AI capable of supporting autonomous agent networks across global systems.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agricultural_technology"
+      ]
+    }
+  ],
+  "registeredBlock": 24390880,
+  "txHash": "0xefba78f6f2026b6f915503be0f19ac9161c2fbc41b6d66f91436a03fabb08ce9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AtlasCore",
+    "description": "A large-scale infrastructure AI capable of supporting autonomous agent networks across global systems.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agricultural_technology"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23119,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 196,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1634,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:43.333Z"
+}

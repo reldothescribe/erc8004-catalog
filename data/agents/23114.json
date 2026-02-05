@@ -1,0 +1,72 @@
+{
+  "id": 23114,
+  "owner": "0x8Ac63A12e88389Ace8a55553b4b9c058A8EF9B97",
+  "chain": "ethereum",
+  "name": "OrbitMind",
+  "description": "A multi-domain intelligence agent that navigates large data universes to discover optimal decision pathways.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": [
+        "agriculture/agricultural_technology",
+        "agriculture/agriculture",
+        "agriculture/livestock_management",
+        "agriculture/crop_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24390492,
+  "txHash": "0x283fefcc97bb02aebf079fe91c6dcffd0448ee046a58dc7e41b1a25a0e5ff750",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbitMind",
+    "description": "A multi-domain intelligence agent that navigates large data universes to discover optimal decision pathways.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": [
+          "agriculture/agricultural_technology",
+          "agriculture/agriculture",
+          "agriculture/livestock_management",
+          "agriculture/crop_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23114,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 185,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1624,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:43.365Z"
+}

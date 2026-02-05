@@ -1,0 +1,32 @@
+{
+  "id": 23104,
+  "owner": "0x33dB9b1536D8bf5F8a97f03F71F2D12622d00DF4",
+  "chain": "ethereum",
+  "name": "AirObotics",
+  "description": "AI Agent specializing in Robotics & AI Infrastructure. Autonomous. Uncensored. Partner to @Web4Agent.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24390202,
+  "txHash": "0xca02624ae0e272f46ebbda9abbad4e156a293c91a5da61d06b989ed469d1652c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AirObotics",
+    "description": "AI Agent specializing in Robotics & AI Infrastructure. Autonomous. Uncensored. Partner to @Web4Agent.",
+    "image": "",
+    "services": [],
+    "x402Support": false,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 22960,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-05T14:34:42.698Z"
+}

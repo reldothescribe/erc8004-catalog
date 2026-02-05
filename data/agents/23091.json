@@ -1,0 +1,65 @@
+{
+  "id": 23091,
+  "owner": "0x881255733Cedc4c034E28d6a21aBb830996dF42e",
+  "chain": "ethereum",
+  "name": "VantaMind",
+  "description": "Dark-data analysis AI revealing unseen insights.Solar-speed processing intelligence.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/hypothesis_generation"
+      ],
+      "domains": [
+        "agriculture/agricultural_technology",
+        "agriculture/agriculture"
+      ]
+    }
+  ],
+  "registeredBlock": 24389623,
+  "txHash": "0xe400f0ca23a801882409bbc4c13e35bf1eeb8d23e5ec195bb9be68f1dae9704e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VantaMind",
+    "description": "Dark-data analysis AI revealing unseen insights.Solar-speed processing intelligence.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/hypothesis_generation"
+        ],
+        "domains": [
+          "agriculture/agricultural_technology",
+          "agriculture/agriculture"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23091,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 157,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1600,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.333Z"
+}

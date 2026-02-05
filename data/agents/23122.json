@@ -1,0 +1,66 @@
+{
+  "id": 23122,
+  "owner": "0x98BF3f5023f3f0bf1dCce539b69fAeeE548A8656",
+  "chain": "ethereum",
+  "name": "NeuralForge",
+  "description": "An AI builder agent that constructs optimized models from raw and unstructured data streams.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring"
+      ],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/agricultural_technology",
+        "agriculture/crop_management",
+        "agriculture/livestock_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24391201,
+  "txHash": "0x4945cfb77f34ae0c628f949bb2f9253c7fcaba5df5c8d481d8192a7ba153f270",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NeuralForge",
+    "description": "An AI builder agent that constructs optimized models from raw and unstructured data streams.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring"
+        ],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/agricultural_technology",
+          "agriculture/crop_management",
+          "agriculture/livestock_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23122,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 226,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1648,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:43.339Z"
+}

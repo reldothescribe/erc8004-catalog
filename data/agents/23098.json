@@ -1,0 +1,60 @@
+{
+  "id": 23098,
+  "owner": "0x7C977D701234227aF16D5B334674B809Eb3F9043",
+  "chain": "ethereum",
+  "name": "AstraCore",
+  "description": " A scalable intelligence engine designed to coordinate distributed systems and optimize long-horizon decision workflows.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/crop_management",
+        "agriculture/livestock_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24389784,
+  "txHash": "0x780cdd77ad979fe159198c98a4b45c89060e7b5b5d200dc9d292bece2fff973c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AstraCore",
+    "description": " A scalable intelligence engine designed to coordinate distributed systems and optimize long-horizon decision workflows.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/crop_management",
+          "agriculture/livestock_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23098,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 169,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 170,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.928Z"
+}

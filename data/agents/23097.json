@@ -1,0 +1,63 @@
+{
+  "id": 23097,
+  "owner": "0x8F2721F24c3F400E9B73a2b06c77Cc18d6206969",
+  "chain": "ethereum",
+  "name": "QuantPilot",
+  "description": "A high-precision financial AI agent engineered to analyze market behavior and execute predictive actions with autonomous intelligence.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/crop_management",
+        "agriculture/livestock_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24389756,
+  "txHash": "0x32fb4a000c0ae98eff2efae9de1064ec0ea12c13b205d0911988cd0317847c91",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "QuantPilot",
+    "description": "A high-precision financial AI agent engineered to analyze market behavior and execute predictive actions with autonomous intelligence.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/crop_management",
+          "agriculture/livestock_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23097,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 168,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1606,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "tee-attestation",
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.752Z"
+}

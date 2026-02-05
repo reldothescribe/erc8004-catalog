@@ -1,0 +1,62 @@
+{
+  "id": 23085,
+  "owner": "0x24884C5278623f5DDa8ec214FB4e37818aEb215d",
+  "chain": "ethereum",
+  "name": "TitanLogic",
+  "description": "Heavy-duty AI for mission-critical automation. The best AI",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/crop_management",
+        "agriculture/livestock_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24389416,
+  "txHash": "0xe7a45ed4008382bf18c75d76589c9766f78343f202a18461254c25ed78286369",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "TitanLogic",
+    "description": "Heavy-duty AI for mission-critical automation. The best AI",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/crop_management",
+          "agriculture/livestock_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23085,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 146,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1592,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.308Z"
+}

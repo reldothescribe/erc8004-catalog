@@ -1,0 +1,60 @@
+{
+  "id": 23112,
+  "owner": "0xdD5fcaAF047cE7BA67dA0b43210a2fc30F837513",
+  "chain": "ethereum",
+  "name": "EchoLogic",
+  "description": "A reflective reasoning agent capable of self-evaluation and recursive improvement through feedback-driven learning loops.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring"
+      ],
+      "domains": [
+        "agriculture/agricultural_technology"
+      ]
+    }
+  ],
+  "registeredBlock": 24390453,
+  "txHash": "0x6343e808560a1ecb197cfd7625de9871ece978f3d1e1e28baf5664f15adb62c1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "EchoLogic",
+    "description": "A reflective reasoning agent capable of self-evaluation and recursive improvement through feedback-driven learning loops.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring"
+        ],
+        "domains": [
+          "agriculture/agricultural_technology"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23112,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 183,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1622,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:43.327Z"
+}

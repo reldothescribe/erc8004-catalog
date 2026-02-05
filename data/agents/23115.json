@@ -1,0 +1,42 @@
+{
+  "id": 23115,
+  "owner": "0x504568bD7D4ef61A7aDADA8777Ced0Bb3729A23e",
+  "chain": "ethereum",
+  "name": "SynapseX",
+  "description": "A neural-inspired AI agent that detects deep patterns and evolves its models through continuous learning.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24390514,
+  "txHash": "0x0d626115c2b9deaaa8f6747ba703ecbb24c35e96aaeb78ad1ee569e49eba6583",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SynapseX",
+    "description": "A neural-inspired AI agent that detects deep patterns and evolves its models through continuous learning.",
+    "image": "",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 23115,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 186,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1625,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:43.328Z"
+}

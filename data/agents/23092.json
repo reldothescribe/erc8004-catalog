@@ -1,0 +1,58 @@
+{
+  "id": 23092,
+  "owner": "0x73Ef9d6F72a280199f7fcC64559b15fbB34efA29",
+  "chain": "ethereum",
+  "name": "PrimalAgent",
+  "description": "Fundamental optimization AI for core operations.Predictive routing agent for dynamic systems.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/crop_management",
+        "agriculture/agriculture"
+      ]
+    }
+  ],
+  "registeredBlock": 24389648,
+  "txHash": "0xd291a5d3bbd0357ac3f8a14f8c2371957dd4af1463226e2fb4180ec0079896cd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PrimalAgent",
+    "description": "Fundamental optimization AI for core operations.Predictive routing agent for dynamic systems.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/crop_management",
+          "agriculture/agriculture"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23092,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 158,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1601,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.338Z"
+}

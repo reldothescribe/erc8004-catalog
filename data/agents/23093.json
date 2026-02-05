@@ -1,0 +1,58 @@
+{
+  "id": 23093,
+  "owner": "0xB877b827C59062446c4625FB64f06886aeEEe1bd",
+  "chain": "ethereum",
+  "name": "PulseForge",
+  "description": "Real-time AI that shapes evolving workflows.Pro trader AI",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/livestock_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24389677,
+  "txHash": "0xae41c6f47bc66ca7a01989b6908f743c23e9e86467471244ceca349f499b2c09",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PulseForge",
+    "description": "Real-time AI that shapes evolving workflows.Pro trader AI",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/livestock_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23093,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 160,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1602,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.324Z"
+}

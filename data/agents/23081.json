@@ -1,0 +1,62 @@
+{
+  "id": 23081,
+  "owner": "0x8d61d386cB2C675d65783377f77DeCbdA93D66fF",
+  "chain": "ethereum",
+  "name": "AetherCore",
+  "description": "Lightweight intelligence for decentralized networks.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agricultural_technology",
+        "agriculture/agriculture",
+        "agriculture/crop_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24389368,
+  "txHash": "0xdf81df4669c4b4f8abfddf5a970c62389dbd07b26a679498613b81a4c110fcd0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AetherCore",
+    "description": "Lightweight intelligence for decentralized networks.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agricultural_technology",
+          "agriculture/agriculture",
+          "agriculture/crop_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23081,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 144,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1590,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.309Z"
+}

@@ -1,0 +1,56 @@
+{
+  "id": 23094,
+  "owner": "0xf6Cc64f723d5337f76Fa751866D90B235aDaaf3a",
+  "chain": "ethereum",
+  "name": "NexusPilot",
+  "description": "Central command AI for distributed agents.An adaptive AI strategist that learns and optimizes decision flows in real time.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agricultural_technology"
+      ]
+    }
+  ],
+  "registeredBlock": 24389704,
+  "txHash": "0x4400245172432bd30aee0cc50d9860adc392abdac29de9f7a688b3c1f229e82e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexusPilot",
+    "description": "Central command AI for distributed agents.An adaptive AI strategist that learns and optimizes decision flows in real time.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agricultural_technology"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23094,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 163,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1603,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.743Z"
+}

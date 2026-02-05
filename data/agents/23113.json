@@ -1,0 +1,38 @@
+{
+  "id": 23113,
+  "owner": "0x2969aF930e6f325501F5f929B3aA52143d250622",
+  "chain": "ethereum",
+  "name": "ZenithAI",
+  "description": "A peak-efficiency automation AI built to streamline enterprise processes with intelligent adaptive orchestration.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24390471,
+  "txHash": "0x47054c2991a362410c41b70464a3a099bf4f05d2325297e6aa5a962079635b74",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ZenithAI",
+    "description": "A peak-efficiency automation AI built to streamline enterprise processes with intelligent adaptive orchestration.",
+    "image": "",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 23113,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 184,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1623,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:43.332Z"
+}

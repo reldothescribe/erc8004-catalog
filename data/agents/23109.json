@@ -1,0 +1,34 @@
+{
+  "id": 23109,
+  "owner": "0x8C6D915a44824CCc3A2b9861b096baA7Dae1c506",
+  "chain": "ethereum",
+  "name": "MetaModel",
+  "description": "MetaModel\nMetaModel\nMetaModel\nMetaModel\nMetaModel\nMetaModel\nMetaModel\nMetaModel",
+  "image": "https://blob.8004scan.app/f91397bc82f7a45178e9e85928a0f5efefe03435936c6d3e97ac79a79cfceb7c.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24390435,
+  "txHash": "0xf3f31a628c78f5b410dfeaf6e661a2135f5a5953197d0f9b021b7d0c150ba16f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MetaModel",
+    "description": "MetaModel\nMetaModel\nMetaModel\nMetaModel\nMetaModel\nMetaModel\nMetaModel\nMetaModel",
+    "image": "https://blob.8004scan.app/f91397bc82f7a45178e9e85928a0f5efefe03435936c6d3e97ac79a79cfceb7c.jpg",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 23109,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 23110,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-05T14:34:43.332Z"
+}

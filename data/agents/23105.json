@@ -1,0 +1,25 @@
+{
+  "id": 23105,
+  "owner": "0xAeC5D6Eb507D9B2b806a886f70ceEA837Ca9b22e",
+  "chain": "ethereum",
+  "name": "AI",
+  "description": "AIAIAIAI AIAIAIAI AIAIAIAI AIAIAIAI AIAIAIAI AIAIAIAI",
+  "image": "https://blob.8004scan.app/ab20b63d326eecf635e611fe16ab799880529a1b4ee44f2c9b342e0363274c12.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24390248,
+  "txHash": "0x62f81cca6411078a95aa4a625246e034bbad2a2a05a29fd5bd2f64b5a00e4382",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AI",
+    "description": "AIAIAIAI AIAIAIAI AIAIAIAI AIAIAIAI AIAIAIAI AIAIAIAI",
+    "image": "https://blob.8004scan.app/ab20b63d326eecf635e611fe16ab799880529a1b4ee44f2c9b342e0363274c12.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.687Z"
+}

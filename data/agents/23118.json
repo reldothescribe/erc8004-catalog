@@ -1,0 +1,62 @@
+{
+  "id": 23118,
+  "owner": "0x3028E6C009c136656ff03B47551DCe0614438eB6",
+  "chain": "ethereum",
+  "name": "VectorMind",
+  "description": "A directional decision AI built to forecast outcomes and guide systems toward measurable objectives.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/agricultural_technology",
+        "agriculture/livestock_management",
+        "agriculture/crop_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24390843,
+  "txHash": "0xe35d101199c8ec73f524815c2ec578570fdb78c46dca867cf2a6a3c1e3b69e79",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "VectorMind",
+    "description": "A directional decision AI built to forecast outcomes and guide systems toward measurable objectives.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/agricultural_technology",
+          "agriculture/livestock_management",
+          "agriculture/crop_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23118,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 193,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1632,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:43.329Z"
+}

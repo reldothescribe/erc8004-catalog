@@ -1,0 +1,25 @@
+{
+  "id": 23102,
+  "owner": "0xCbBc40E839770744CED3da69a3b95E1D0284dE90",
+  "chain": "ethereum",
+  "name": "Nike",
+  "description": "nike.com\nnike.com\nnike.com\nnike.com\nnike.com\nnike.com",
+  "image": "https://blob.8004scan.app/b781a0b981388b89126040a03357b405e523d584806975b4520a44f6450f407b.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24390142,
+  "txHash": "0x54e78c7166c82569d25d8563896edd4d5628c99acbbaa087be022df706cf0440",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Nike",
+    "description": "nike.com\nnike.com\nnike.com\nnike.com\nnike.com\nnike.com",
+    "image": "https://blob.8004scan.app/b781a0b981388b89126040a03357b405e523d584806975b4520a44f6450f407b.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.699Z"
+}

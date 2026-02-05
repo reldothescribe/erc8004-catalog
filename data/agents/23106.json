@@ -1,0 +1,50 @@
+{
+  "id": 23106,
+  "owner": "0xf385993096608C944AbC9148f5C96b9E1F47Bc90",
+  "chain": "ethereum",
+  "name": "dog",
+  "description": "gives you dog wisdom on any subject you feed it",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "id": "a2a",
+      "type": "a2a",
+      "serviceEndpoint": "http://api-lucid-dev.daydreams.systems/agents/ag_243753a48c42/.well-known/agent-card.json",
+      "description": "A2A agent card"
+    }
+  ],
+  "registeredBlock": 24390295,
+  "txHash": "0x703ffa6c5ea031c878060ce83a21a81ba7f850f18428e9bb3e6790671ff3e0b3",
+  "rawMetadata": {
+    "type": "agent",
+    "name": "dog",
+    "description": "gives you dog wisdom on any subject you feed it",
+    "domain": "api-lucid-dev.daydreams.systems",
+    "owner": "0xf385993096608c944abc9148f5c96b9e1f47bc90",
+    "services": [
+      {
+        "id": "a2a",
+        "type": "a2a",
+        "serviceEndpoint": "http://api-lucid-dev.daydreams.systems/agents/ag_243753a48c42/.well-known/agent-card.json",
+        "description": "A2A agent card"
+      }
+    ],
+    "registrations": [
+      {
+        "namespace": "eip155",
+        "chainId": 1,
+        "registryAddress": "0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "agentId": "23106"
+      }
+    ],
+    "supportedTrust": [
+      "feedback",
+      "inference-validation"
+    ],
+    "x402Support": true,
+    "active": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.811Z"
+}

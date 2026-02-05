@@ -1,0 +1,62 @@
+{
+  "id": 23120,
+  "owner": "0xdBa0721D48EdFEA42fc2ddAaC4a07224c01de366",
+  "chain": "ethereum",
+  "name": "QuantumPilot",
+  "description": "A high-speed reasoning agent leveraging probabilistic models for near-instant execution.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24390910,
+  "txHash": "0xc5feb6b07c285a29b68c9b110acdec37d003ade2b5e75e9d8a1985709210a8ee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "QuantumPilot",
+    "description": "A high-speed reasoning agent leveraging probabilistic models for near-instant execution.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23120,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 199,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1635,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:43.348Z"
+}

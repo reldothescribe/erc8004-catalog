@@ -1,0 +1,56 @@
+{
+  "id": 23116,
+  "owner": "0x86cf01c4988b401Bd28A136BAA580d0E90D7FA78",
+  "chain": "ethereum",
+  "name": "CipherAgent",
+  "description": "A privacy-focused AI system designed to operate securely within encrypted and decentralized environments.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/crop_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24390541,
+  "txHash": "0x0ad6171baabec40d9ee42533cbeb285b35c2a64aea113aa57a03449eb070776d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "CipherAgent",
+    "description": "A privacy-focused AI system designed to operate securely within encrypted and decentralized environments.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/crop_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23116,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 187,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1626,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:43.335Z"
+}

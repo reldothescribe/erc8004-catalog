@@ -1,0 +1,66 @@
+{
+  "id": 23089,
+  "owner": "0x4DE57eEC42a79888f923255b351c74926685AB87",
+  "chain": "ethereum",
+  "name": "OrbitLogic",
+  "description": "Predictive routing agent for dynamic systems.Feedback-driven self-correcting intelligence.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/agricultural_technology",
+        "agriculture/livestock_management",
+        "agriculture/crop_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24389576,
+  "txHash": "0xfb6e0f13e4609857faa21468c8e64a9b58bb3bc02b606448ff3bc80d4153ff83",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OrbitLogic",
+    "description": "Predictive routing agent for dynamic systems.Feedback-driven self-correcting intelligence.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/agricultural_technology",
+          "agriculture/livestock_management",
+          "agriculture/crop_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23089,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 154,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1598,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "tee-attestation",
+      "reputation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.306Z"
+}

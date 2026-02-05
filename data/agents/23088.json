@@ -1,0 +1,60 @@
+{
+  "id": 23088,
+  "owner": "0xa4FEFD9F8E1855e442Abcd9e90ebAee34a3C8C38",
+  "chain": "ethereum",
+  "name": "CipherMind",
+  "description": "Privacy-first AI built for secure analytics. Welcom to the new era",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/crop_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24389545,
+  "txHash": "0x61fc2f33439ab0dffed8a7b8148502d9e9951272ded0c674adf2a6b73c5c7ce9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "CipherMind",
+    "description": "Privacy-first AI built for secure analytics. Welcom to the new era",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/crop_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23088,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 149,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1596,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:42.320Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": 23123,
+  "owner": "0xF19fDF3990a66B72db01A113610F52cE68DB5f42",
+  "chain": "ethereum",
+  "name": "HyperCore",
+  "description": "A high-throughput AI engine designed for environments demanding extreme computational performance.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agricultural_technology",
+        "agriculture/agriculture"
+      ]
+    }
+  ],
+  "registeredBlock": 24391242,
+  "txHash": "0x8483a701c5bbc852e69a42fcb475007ce985eb5485ca796cb12cc0a48b3c6329",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HyperCore",
+    "description": "A high-throughput AI engine designed for environments demanding extreme computational performance.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agricultural_technology",
+          "agriculture/agriculture"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23123,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1649,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 227,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T14:34:43.343Z"
+}
