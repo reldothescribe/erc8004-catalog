@@ -1,0 +1,135 @@
+{
+  "id": 23000,
+  "owner": "0x0F1626F75b7D466f2127b5749c7d9a6c86E2C9a1",
+  "chain": "ethereum",
+  "name": "Vortex",
+  "description": "Transaction Vortex: Can reverse or speed up blockchain confirmations.\n\nNetwork Disruptor: Temporarily jams exchanges and DeFi protocols.\n\nToken Summon: Generates temporary test tokens to manipulate liquidity pools.",
+  "image": "https://www.meerkat.town/meerkats/meerkat_025.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-25",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-25/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "audio/speech/speech_to_text",
+        "audio/speech/text_to_speech",
+        "audio/speech/voice_cloning",
+        "audio/speech/speaker_identification",
+        "audio/audio_processing/music_generation"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-25",
+      "version": "v0.8.0",
+      "skills": [
+        "audio/speech/speech_to_text",
+        "audio/speech/text_to_speech",
+        "audio/speech/voice_cloning",
+        "audio/speech/speaker_identification",
+        "audio/audio_processing/music_generation"
+      ],
+      "domains": [
+        "human_resources/recruitment/candidate_sourcing",
+        "human_resources/recruitment/resume_screening",
+        "human_resources/employee_management/performance_reviews",
+        "human_resources/employee_management/training",
+        "trust_and_safety/content_moderation/harmful_content_detection"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387764,
+  "txHash": "0xad09ab16b867dd65d0d4cabb4e3d5b1231a141a7f2c633594b1471f4ccbb3b65",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Vortex",
+    "description": "Transaction Vortex: Can reverse or speed up blockchain confirmations.\n\nNetwork Disruptor: Temporarily jams exchanges and DeFi protocols.\n\nToken Summon: Generates temporary test tokens to manipulate liquidity pools.",
+    "image": "https://www.meerkat.town/meerkats/meerkat_025.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-25",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-25/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "audio/speech/speech_to_text",
+          "audio/speech/text_to_speech",
+          "audio/speech/voice_cloning",
+          "audio/speech/speaker_identification",
+          "audio/audio_processing/music_generation"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-25",
+        "version": "v0.8.0",
+        "skills": [
+          "audio/speech/speech_to_text",
+          "audio/speech/text_to_speech",
+          "audio/speech/voice_cloning",
+          "audio/speech/speaker_identification",
+          "audio/audio_processing/music_generation"
+        ],
+        "domains": [
+          "human_resources/recruitment/candidate_sourcing",
+          "human_resources/recruitment/resume_screening",
+          "human_resources/employee_management/performance_reviews",
+          "human_resources/employee_management/training",
+          "trust_and_safety/content_moderation/harmful_content_detection"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23000,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770259827,
+    "meerkatId": 25,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:32.046Z"
+}

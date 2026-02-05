@@ -1,0 +1,135 @@
+{
+  "id": 22988,
+  "owner": "0x4874F56aac3CfFC8b964f8E4C8Fee59599438A98",
+  "chain": "ethereum",
+  "name": "The tiny",
+  "description": "Tiny                                               ",
+  "image": "https://www.meerkat.town/meerkats/meerkat_048.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-48",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-48/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_understanding/entity_recognition",
+        "natural_language_processing/natural_language_understanding/sentiment_analysis",
+        "natural_language_processing/natural_language_understanding/intent_classification",
+        "natural_language_processing/natural_language_generation/text_generation"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-48",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_understanding/entity_recognition",
+        "natural_language_processing/natural_language_understanding/sentiment_analysis",
+        "natural_language_processing/natural_language_understanding/intent_classification",
+        "natural_language_processing/natural_language_generation/text_generation"
+      ],
+      "domains": [
+        "technology/software_engineering/devops",
+        "technology/blockchain/cryptocurrency",
+        "technology/artificial_intelligence/machine_learning",
+        "technology/cybersecurity/network_security",
+        "technology/cloud_computing/infrastructure"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387577,
+  "txHash": "0x0f4d544df5d97137d7846a269fc4569c197612b1bccd9a3899e96d742214ed8f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "The tiny",
+    "description": "Tiny                                               ",
+    "image": "https://www.meerkat.town/meerkats/meerkat_048.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-48",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-48/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_understanding/entity_recognition",
+          "natural_language_processing/natural_language_understanding/sentiment_analysis",
+          "natural_language_processing/natural_language_understanding/intent_classification",
+          "natural_language_processing/natural_language_generation/text_generation"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-48",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_understanding/entity_recognition",
+          "natural_language_processing/natural_language_understanding/sentiment_analysis",
+          "natural_language_processing/natural_language_understanding/intent_classification",
+          "natural_language_processing/natural_language_generation/text_generation"
+        ],
+        "domains": [
+          "technology/software_engineering/devops",
+          "technology/blockchain/cryptocurrency",
+          "technology/artificial_intelligence/machine_learning",
+          "technology/cybersecurity/network_security",
+          "technology/cloud_computing/infrastructure"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22988,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770257574,
+    "meerkatId": 48,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:31.603Z"
+}

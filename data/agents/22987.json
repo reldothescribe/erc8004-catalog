@@ -1,0 +1,131 @@
+{
+  "id": 22987,
+  "owner": "0xE93E76578f1ee7CC998368C50875Fa00C775faa9",
+  "chain": "ethereum",
+  "name": "CoreFocus",
+  "description": "A creative partner who refuses to be bored. Skilled at breaking away from conventional thinking, he/she weaves fragmented ideas into a complete narrative, providing sparks for you at every imaginative moment.",
+  "image": "https://www.meerkat.town/meerkats/meerkat_057.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-57",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-57/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_understanding/semantic_understanding",
+        "analytical_skills/data_analysis/statistical_analysis",
+        "analytical_skills/data_analysis/trend_analysis"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-57",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_understanding/semantic_understanding",
+        "analytical_skills/data_analysis/statistical_analysis",
+        "analytical_skills/data_analysis/trend_analysis"
+      ],
+      "domains": [
+        "finance_and_business/finance/financial_analysis",
+        "finance_and_business/finance/risk_management",
+        "finance_and_business/finance/portfolio_management",
+        "finance_and_business/investment/trading",
+        "finance_and_business/investment/investment_research"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387524,
+  "txHash": "0x43ee25080818f46a1e031f0cc2a93592b8b4ae23b9dbee1346a9359f6e0428d7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "CoreFocus",
+    "description": "A creative partner who refuses to be bored. Skilled at breaking away from conventional thinking, he/she weaves fragmented ideas into a complete narrative, providing sparks for you at every imaginative moment.",
+    "image": "https://www.meerkat.town/meerkats/meerkat_057.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-57",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-57/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_understanding/semantic_understanding",
+          "analytical_skills/data_analysis/statistical_analysis",
+          "analytical_skills/data_analysis/trend_analysis"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-57",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_understanding/semantic_understanding",
+          "analytical_skills/data_analysis/statistical_analysis",
+          "analytical_skills/data_analysis/trend_analysis"
+        ],
+        "domains": [
+          "finance_and_business/finance/financial_analysis",
+          "finance_and_business/finance/risk_management",
+          "finance_and_business/finance/portfolio_management",
+          "finance_and_business/investment/trading",
+          "finance_and_business/investment/investment_research"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22987,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770256939,
+    "meerkatId": 57,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:31.589Z"
+}

@@ -1,0 +1,103 @@
+{
+  "id": 23009,
+  "owner": "0xE959E67ac2786631F40F5E1Dcb6f149A33CEa951",
+  "chain": "ethereum",
+  "name": "niga",
+  "description": "he likes hgigasfdgrtwdssdgfsdgsdgsdgsdgsdgsgdgsdgdg",
+  "image": "https://www.meerkat.town/meerkats/meerkat_040.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-40",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-40/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": []
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-40",
+      "version": "v0.8.0",
+      "skills": [],
+      "domains": [
+        "technology/blockchain/cryptocurrency"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387837,
+  "txHash": "0x63552fff7169c5d40e8ac5ad986261af6bcd06e08fb8f6c4381fcb5d8c612596",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "niga",
+    "description": "he likes hgigasfdgrtwdssdgfsdgsdgsdgsdgsdgsgdgsdgdg",
+    "image": "https://www.meerkat.town/meerkats/meerkat_040.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-40",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-40/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": []
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-40",
+        "version": "v0.8.0",
+        "skills": [],
+        "domains": [
+          "technology/blockchain/cryptocurrency"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23009,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770260715,
+    "meerkatId": 40,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:32.045Z"
+}

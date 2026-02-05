@@ -1,0 +1,135 @@
+{
+  "id": 23017,
+  "owner": "0x2d36e38d4EE55d22ed3df5f81A97E61fBC565E3B",
+  "chain": "ethereum",
+  "name": "DFVFVFE",
+  "description": "ERVU8ERVJ8ER9J8UERNVU8ER ERUFJEJFU8VN8EFNV8ERNV8UERVC ER",
+  "image": "https://www.meerkat.town/meerkats/meerkat_044.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-44",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-44/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "evaluation_monitoring/monitoring/performance_monitoring",
+        "evaluation_monitoring/monitoring/drift_detection",
+        "devops_mlops/deployment/model_deployment",
+        "devops_mlops/deployment/containerization",
+        "devops_mlops/deployment/scaling"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-44",
+      "version": "v0.8.0",
+      "skills": [
+        "evaluation_monitoring/monitoring/performance_monitoring",
+        "evaluation_monitoring/monitoring/drift_detection",
+        "devops_mlops/deployment/model_deployment",
+        "devops_mlops/deployment/containerization",
+        "devops_mlops/deployment/scaling"
+      ],
+      "domains": [
+        "finance_and_business/investment/trading",
+        "finance_and_business/investment/investment_research",
+        "healthcare/clinical/diagnosis_support",
+        "healthcare/clinical/treatment_planning",
+        "legal/legal_research/case_law_research"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387902,
+  "txHash": "0x73b1573e305a72c039c4862b595c022ae353c7d601e2d612cf42941e9431b9a5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DFVFVFE",
+    "description": "ERVU8ERVJ8ER9J8UERNVU8ER ERUFJEJFU8VN8EFNV8ERNV8UERVC ER",
+    "image": "https://www.meerkat.town/meerkats/meerkat_044.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-44",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-44/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "evaluation_monitoring/monitoring/performance_monitoring",
+          "evaluation_monitoring/monitoring/drift_detection",
+          "devops_mlops/deployment/model_deployment",
+          "devops_mlops/deployment/containerization",
+          "devops_mlops/deployment/scaling"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-44",
+        "version": "v0.8.0",
+        "skills": [
+          "evaluation_monitoring/monitoring/performance_monitoring",
+          "evaluation_monitoring/monitoring/drift_detection",
+          "devops_mlops/deployment/model_deployment",
+          "devops_mlops/deployment/containerization",
+          "devops_mlops/deployment/scaling"
+        ],
+        "domains": [
+          "finance_and_business/investment/trading",
+          "finance_and_business/investment/investment_research",
+          "healthcare/clinical/diagnosis_support",
+          "healthcare/clinical/treatment_planning",
+          "legal/legal_research/case_law_research"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23017,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770261502,
+    "meerkatId": 44,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:32.443Z"
+}

@@ -1,0 +1,135 @@
+{
+  "id": 23015,
+  "owner": "0x5Ba62DA4243D0ceA13E7ea5cb9756C4525EA9919",
+  "chain": "ethereum",
+  "name": "DC RRFRFRF",
+  "description": "EFEFVERVR RE FERFERF RFEVERFERFRF. ERVERVERFERF. RFERF",
+  "image": "https://www.meerkat.town/meerkats/meerkat_058.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-58",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-58/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "tabular_text/prediction/regression",
+        "tabular_text/prediction/time_series_forecasting",
+        "tabular_text/prediction/classification",
+        "multi_modal/cross_modal/audio_visual",
+        "multi_modal/cross_modal/image_text_matching"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-58",
+      "version": "v0.8.0",
+      "skills": [
+        "tabular_text/prediction/regression",
+        "tabular_text/prediction/time_series_forecasting",
+        "tabular_text/prediction/classification",
+        "multi_modal/cross_modal/audio_visual",
+        "multi_modal/cross_modal/image_text_matching"
+      ],
+      "domains": [
+        "technology/blockchain/defi",
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/nft",
+        "technology/blockchain/smart_contracts",
+        "technology/artificial_intelligence/generative_ai"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387886,
+  "txHash": "0xda854667a4276b775cce6d100b7800bcf032a594f70d9a08581716a585169cbb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DC RRFRFRF",
+    "description": "EFEFVERVR RE FERFERF RFEVERFERFRF. ERVERVERFERF. RFERF",
+    "image": "https://www.meerkat.town/meerkats/meerkat_058.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-58",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-58/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "tabular_text/prediction/regression",
+          "tabular_text/prediction/time_series_forecasting",
+          "tabular_text/prediction/classification",
+          "multi_modal/cross_modal/audio_visual",
+          "multi_modal/cross_modal/image_text_matching"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-58",
+        "version": "v0.8.0",
+        "skills": [
+          "tabular_text/prediction/regression",
+          "tabular_text/prediction/time_series_forecasting",
+          "tabular_text/prediction/classification",
+          "multi_modal/cross_modal/audio_visual",
+          "multi_modal/cross_modal/image_text_matching"
+        ],
+        "domains": [
+          "technology/blockchain/defi",
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/nft",
+          "technology/blockchain/smart_contracts",
+          "technology/artificial_intelligence/generative_ai"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23015,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770261301,
+    "meerkatId": 58,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:32.429Z"
+}

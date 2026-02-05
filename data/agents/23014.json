@@ -1,0 +1,135 @@
+{
+  "id": 23014,
+  "owner": "0xe5894F5747F6717d7e198177F350213f26af997E",
+  "chain": "ethereum",
+  "name": "4TRFERFRF",
+  "description": "EFERNFUERIF UECUERJU9CUR3CN UJCU9EJC9UEJCU EUCUECN8UER C",
+  "image": "https://www.meerkat.town/meerkats/meerkat_081.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-81",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-81/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "images_computer_vision/image_generation/text_to_image",
+        "images_computer_vision/image_generation/inpainting",
+        "images_computer_vision/image_generation/image_to_image",
+        "images_computer_vision/image_generation/style_transfer",
+        "images_computer_vision/image_analysis/ocr"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-81",
+      "version": "v0.8.0",
+      "skills": [
+        "images_computer_vision/image_generation/text_to_image",
+        "images_computer_vision/image_generation/inpainting",
+        "images_computer_vision/image_generation/image_to_image",
+        "images_computer_vision/image_generation/style_transfer",
+        "images_computer_vision/image_analysis/ocr"
+      ],
+      "domains": [
+        "life_science/pharmaceuticals/drug_discovery",
+        "life_science/pharmaceuticals/clinical_trials",
+        "transportation/logistics/route_optimization",
+        "transportation/logistics/fleet_management",
+        "media_and_entertainment/content_creation/video_production"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387872,
+  "txHash": "0x412373d29fc7992ed8d02b876563bad6baded7c62366ad1f0074efd2194f29c6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "4TRFERFRF",
+    "description": "EFERNFUERIF UECUERJU9CUR3CN UJCU9EJC9UEJCU EUCUECN8UER C",
+    "image": "https://www.meerkat.town/meerkats/meerkat_081.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-81",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-81/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "images_computer_vision/image_generation/text_to_image",
+          "images_computer_vision/image_generation/inpainting",
+          "images_computer_vision/image_generation/image_to_image",
+          "images_computer_vision/image_generation/style_transfer",
+          "images_computer_vision/image_analysis/ocr"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-81",
+        "version": "v0.8.0",
+        "skills": [
+          "images_computer_vision/image_generation/text_to_image",
+          "images_computer_vision/image_generation/inpainting",
+          "images_computer_vision/image_generation/image_to_image",
+          "images_computer_vision/image_generation/style_transfer",
+          "images_computer_vision/image_analysis/ocr"
+        ],
+        "domains": [
+          "life_science/pharmaceuticals/drug_discovery",
+          "life_science/pharmaceuticals/clinical_trials",
+          "transportation/logistics/route_optimization",
+          "transportation/logistics/fleet_management",
+          "media_and_entertainment/content_creation/video_production"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23014,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770261146,
+    "meerkatId": 81,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:32.430Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 23024,
+  "owner": "0xEEe833CCD95a0927BF79f25136588bC9C7d0aA81",
+  "chain": "ethereum",
+  "name": "Ccdirec",
+  "description": "Just for play for my self don't use it \nif there any problem ",
+  "image": "https://blob.8004scan.app/30151426fdbc61ace05fc2bf90e91092031034070aead5bd557e1b4b5c00158f.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24388368,
+  "txHash": "0x60706ed6c4c44b09d16006da7cddbe76680e16c9e576d6cd24001e6f6ddf36ae",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Ccdirec",
+    "description": "Just for play for my self don't use it \nif there any problem ",
+    "image": "https://blob.8004scan.app/30151426fdbc61ace05fc2bf90e91092031034070aead5bd557e1b4b5c00158f.jpg",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 23024,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1555,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-05T05:09:32.442Z"
+}

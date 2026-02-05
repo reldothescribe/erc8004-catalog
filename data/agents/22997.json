@@ -1,0 +1,135 @@
+{
+  "id": 22997,
+  "owner": "0x15BD68B27975600cd26C9534c09B8C8a982AaE3c",
+  "chain": "ethereum",
+  "name": "DAOMA",
+  "description": "GOODWEB RGEERFR RFRF3RF. RF3R3R RE3R3F3 R3R3 RGF3R3R ",
+  "image": "https://www.meerkat.town/meerkats/meerkat_093.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-93",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-93/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_generation/text_generation",
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/text_processing/tokenization",
+        "natural_language_processing/conversation/chatbot"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-93",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/natural_language_understanding/contextual_comprehension",
+        "natural_language_processing/natural_language_generation/text_generation",
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/text_processing/tokenization",
+        "natural_language_processing/conversation/chatbot"
+      ],
+      "domains": [
+        "life_science/pharmaceuticals/drug_discovery",
+        "technology/blockchain/defi",
+        "technology/cloud_computing/infrastructure",
+        "trust_and_safety/content_moderation/harmful_content_detection",
+        "trust_and_safety/content_moderation/misinformation_detection"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387743,
+  "txHash": "0x8024dca39c6b01efd15a3144ef2f62833e59b0a2f40dbb34b1b68d3157ec5398",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DAOMA",
+    "description": "GOODWEB RGEERFR RFRF3RF. RF3R3R RE3R3F3 R3R3 RGF3R3R ",
+    "image": "https://www.meerkat.town/meerkats/meerkat_093.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-93",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-93/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_generation/text_generation",
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/text_processing/tokenization",
+          "natural_language_processing/conversation/chatbot"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-93",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/natural_language_understanding/contextual_comprehension",
+          "natural_language_processing/natural_language_generation/text_generation",
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/text_processing/tokenization",
+          "natural_language_processing/conversation/chatbot"
+        ],
+        "domains": [
+          "life_science/pharmaceuticals/drug_discovery",
+          "technology/blockchain/defi",
+          "technology/cloud_computing/infrastructure",
+          "trust_and_safety/content_moderation/harmful_content_detection",
+          "trust_and_safety/content_moderation/misinformation_detection"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22996,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770259585,
+    "meerkatId": 93,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:32.042Z"
+}

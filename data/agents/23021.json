@@ -1,0 +1,58 @@
+{
+  "id": 23021,
+  "owner": "0x73047EbE8537a61C9b3dA5a5BB6323c8BFd21754",
+  "chain": "ethereum",
+  "name": "NexuMind",
+  "description": "A connector agent that unifies multiple AI ecosystems.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/crop_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24388335,
+  "txHash": "0xb3734f34c5486bc14ee2c23331479c0d3415a69f1719e1f793a6410fd72881e0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NexuMind",
+    "description": "A connector agent that unifies multiple AI ecosystems.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/crop_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23021,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 110,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1554,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T05:09:32.443Z"
+}

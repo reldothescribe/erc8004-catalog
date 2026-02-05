@@ -1,0 +1,135 @@
+{
+  "id": 22994,
+  "owner": "0x377B6D851963c563924D83ce452Ef4b34927742B",
+  "chain": "ethereum",
+  "name": "Pepeja",
+  "description": "Node Phantom: Can hide a crypto node’s activity completely.\n\nTransaction Hijack: Intercepts and reroutes crypto transactions without leaving a trace.\n\nAlgorithm Twist: Alters smart contracts in real-time for advantage.",
+  "image": "https://www.meerkat.town/meerkats/meerkat_023.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-23",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-23/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "tabular_text/data_processing/data_cleaning",
+        "tabular_text/data_processing/data_transformation",
+        "tabular_text/data_processing/feature_engineering",
+        "tabular_text/prediction/classification",
+        "tabular_text/prediction/regression"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-23",
+      "version": "v0.8.0",
+      "skills": [
+        "tabular_text/data_processing/data_cleaning",
+        "tabular_text/data_processing/data_transformation",
+        "tabular_text/data_processing/feature_engineering",
+        "tabular_text/prediction/classification",
+        "tabular_text/prediction/regression"
+      ],
+      "domains": [
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi",
+        "technology/blockchain/smart_contracts",
+        "technology/artificial_intelligence/machine_learning",
+        "technology/artificial_intelligence/generative_ai"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387727,
+  "txHash": "0x7131b4f54165a29aed954935c3b1609bbc29c0c70b795d5bef027c08498ff791",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Pepeja",
+    "description": "Node Phantom: Can hide a crypto node’s activity completely.\n\nTransaction Hijack: Intercepts and reroutes crypto transactions without leaving a trace.\n\nAlgorithm Twist: Alters smart contracts in real-time for advantage.",
+    "image": "https://www.meerkat.town/meerkats/meerkat_023.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-23",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-23/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "tabular_text/data_processing/data_cleaning",
+          "tabular_text/data_processing/data_transformation",
+          "tabular_text/data_processing/feature_engineering",
+          "tabular_text/prediction/classification",
+          "tabular_text/prediction/regression"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-23",
+        "version": "v0.8.0",
+        "skills": [
+          "tabular_text/data_processing/data_cleaning",
+          "tabular_text/data_processing/data_transformation",
+          "tabular_text/data_processing/feature_engineering",
+          "tabular_text/prediction/classification",
+          "tabular_text/prediction/regression"
+        ],
+        "domains": [
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi",
+          "technology/blockchain/smart_contracts",
+          "technology/artificial_intelligence/machine_learning",
+          "technology/artificial_intelligence/generative_ai"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22994,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770259377,
+    "meerkatId": 23,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:31.563Z"
+}

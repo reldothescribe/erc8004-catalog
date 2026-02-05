@@ -1,0 +1,135 @@
+{
+  "id": 23012,
+  "owner": "0xDF3d7c61206df2ff632CD7d67F79A62005015f39",
+  "chain": "ethereum",
+  "name": "WDWX",
+  "description": "DCHENCNE8WC ENIUENCU8ERCUENR 8UNCUEUHERU8CN UNCECNCU8ED",
+  "image": "https://www.meerkat.town/meerkats/meerkat_046.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-46",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-46/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "retrieval_augmented_generation/knowledge_base/knowledge_graphs",
+        "retrieval_augmented_generation/knowledge_base/document_indexing",
+        "retrieval_augmented_generation/knowledge_base/embedding_generation",
+        "multi_modal/cross_modal/document_understanding",
+        "multi_modal/cross_modal/audio_visual"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-46",
+      "version": "v0.8.0",
+      "skills": [
+        "retrieval_augmented_generation/knowledge_base/knowledge_graphs",
+        "retrieval_augmented_generation/knowledge_base/document_indexing",
+        "retrieval_augmented_generation/knowledge_base/embedding_generation",
+        "multi_modal/cross_modal/document_understanding",
+        "multi_modal/cross_modal/audio_visual"
+      ],
+      "domains": [
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi",
+        "technology/blockchain/nft",
+        "technology/blockchain/smart_contracts",
+        "technology/artificial_intelligence/generative_ai"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387858,
+  "txHash": "0x229c9c5badefdf5cbf5880a5e3683dab9de4fa71065a57ff2224992d400717e2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "WDWX",
+    "description": "DCHENCNE8WC ENIUENCU8ERCUENR 8UNCUEUHERU8CN UNCECNCU8ED",
+    "image": "https://www.meerkat.town/meerkats/meerkat_046.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-46",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-46/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "retrieval_augmented_generation/knowledge_base/knowledge_graphs",
+          "retrieval_augmented_generation/knowledge_base/document_indexing",
+          "retrieval_augmented_generation/knowledge_base/embedding_generation",
+          "multi_modal/cross_modal/document_understanding",
+          "multi_modal/cross_modal/audio_visual"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-46",
+        "version": "v0.8.0",
+        "skills": [
+          "retrieval_augmented_generation/knowledge_base/knowledge_graphs",
+          "retrieval_augmented_generation/knowledge_base/document_indexing",
+          "retrieval_augmented_generation/knowledge_base/embedding_generation",
+          "multi_modal/cross_modal/document_understanding",
+          "multi_modal/cross_modal/audio_visual"
+        ],
+        "domains": [
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi",
+          "technology/blockchain/nft",
+          "technology/blockchain/smart_contracts",
+          "technology/artificial_intelligence/generative_ai"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23012,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770260969,
+    "meerkatId": 46,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:32.444Z"
+}

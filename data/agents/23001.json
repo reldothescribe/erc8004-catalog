@@ -1,0 +1,135 @@
+{
+  "id": 23001,
+  "owner": "0xA4d808D60B2861232CDE489fb4c555b69f02C3ad",
+  "chain": "ethereum",
+  "name": "RFEERR",
+  "description": "TGTGRTGTGB TGRTG4TG TGRTGRT TGVRTGVRTGRTGV T4G4RTGFTRG4TG",
+  "image": "https://www.meerkat.town/meerkats/meerkat_082.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-82",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-82/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "images_computer_vision/image_generation/text_to_image",
+        "images_computer_vision/image_generation/image_to_image",
+        "images_computer_vision/image_generation/inpainting",
+        "images_computer_vision/image_generation/style_transfer",
+        "audio/audio_processing/music_generation"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-82",
+      "version": "v0.8.0",
+      "skills": [
+        "images_computer_vision/image_generation/text_to_image",
+        "images_computer_vision/image_generation/image_to_image",
+        "images_computer_vision/image_generation/inpainting",
+        "images_computer_vision/image_generation/style_transfer",
+        "audio/audio_processing/music_generation"
+      ],
+      "domains": [
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi",
+        "technology/blockchain/nft",
+        "technology/blockchain/smart_contracts",
+        "technology/artificial_intelligence/machine_learning"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387765,
+  "txHash": "0x55b807b3ffec0c5d86bfb7795cadd2cecdc9a90f7ee720239111785b5744cc4f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "RFEERR",
+    "description": "TGTGRTGTGB TGRTG4TG TGRTGRT TGVRTGVRTGRTGV T4G4RTGFTRG4TG",
+    "image": "https://www.meerkat.town/meerkats/meerkat_082.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-82",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-82/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "images_computer_vision/image_generation/text_to_image",
+          "images_computer_vision/image_generation/image_to_image",
+          "images_computer_vision/image_generation/inpainting",
+          "images_computer_vision/image_generation/style_transfer",
+          "audio/audio_processing/music_generation"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-82",
+        "version": "v0.8.0",
+        "skills": [
+          "images_computer_vision/image_generation/text_to_image",
+          "images_computer_vision/image_generation/image_to_image",
+          "images_computer_vision/image_generation/inpainting",
+          "images_computer_vision/image_generation/style_transfer",
+          "audio/audio_processing/music_generation"
+        ],
+        "domains": [
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi",
+          "technology/blockchain/nft",
+          "technology/blockchain/smart_contracts",
+          "technology/artificial_intelligence/machine_learning"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23000,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770259845,
+    "meerkatId": 82,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:32.066Z"
+}

@@ -1,0 +1,135 @@
+{
+  "id": 22991,
+  "owner": "0x0a51B06f17125581ce08db0A8fab80453061cadA",
+  "chain": "ethereum",
+  "name": "The Whisper",
+  "description": "Blockchain Infiltration: Can bypass most security protocols on decentralized networks.\n\nCrypto Whispering: Reads and predicts market fluctuations with uncanny precision.\n\nDigital Cloak: Temporarily becomes invisible to tracking software.",
+  "image": "https://www.meerkat.town/meerkats/meerkat_041.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-41",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-41/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "analytical_skills/data_analysis/statistical_analysis",
+        "images_computer_vision/image_classification/object_detection",
+        "natural_language_processing/natural_language_generation/text_generation",
+        "natural_language_processing/natural_language_generation/summarization",
+        "natural_language_processing/natural_language_generation/paraphrasing"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-41",
+      "version": "v0.8.0",
+      "skills": [
+        "analytical_skills/data_analysis/statistical_analysis",
+        "images_computer_vision/image_classification/object_detection",
+        "natural_language_processing/natural_language_generation/text_generation",
+        "natural_language_processing/natural_language_generation/summarization",
+        "natural_language_processing/natural_language_generation/paraphrasing"
+      ],
+      "domains": [
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/smart_contracts",
+        "technology/software_engineering/devops",
+        "technology/software_engineering/apis_integration",
+        "human_resources/recruitment/candidate_sourcing"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387693,
+  "txHash": "0x3f4173f504d8393e3bbe5d35e0d8028476fd35892184f8653acd1ae1b728e711",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "The Whisper",
+    "description": "Blockchain Infiltration: Can bypass most security protocols on decentralized networks.\n\nCrypto Whispering: Reads and predicts market fluctuations with uncanny precision.\n\nDigital Cloak: Temporarily becomes invisible to tracking software.",
+    "image": "https://www.meerkat.town/meerkats/meerkat_041.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-41",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-41/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "analytical_skills/data_analysis/statistical_analysis",
+          "images_computer_vision/image_classification/object_detection",
+          "natural_language_processing/natural_language_generation/text_generation",
+          "natural_language_processing/natural_language_generation/summarization",
+          "natural_language_processing/natural_language_generation/paraphrasing"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-41",
+        "version": "v0.8.0",
+        "skills": [
+          "analytical_skills/data_analysis/statistical_analysis",
+          "images_computer_vision/image_classification/object_detection",
+          "natural_language_processing/natural_language_generation/text_generation",
+          "natural_language_processing/natural_language_generation/summarization",
+          "natural_language_processing/natural_language_generation/paraphrasing"
+        ],
+        "domains": [
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/smart_contracts",
+          "technology/software_engineering/devops",
+          "technology/software_engineering/apis_integration",
+          "human_resources/recruitment/candidate_sourcing"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22991,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770258961,
+    "meerkatId": 41,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:31.563Z"
+}

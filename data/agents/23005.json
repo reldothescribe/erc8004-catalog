@@ -1,0 +1,135 @@
+{
+  "id": 23005,
+  "owner": "0x5Dd4e9Fc7B027B8A050C2cc63551dA19c7DCcd43",
+  "chain": "ethereum",
+  "name": "EFVFR",
+  "description": "CNUWNCU UNRFURNFUR EUENFUEI JNFIHERNFIEW IEJNIE UNFIUEW ",
+  "image": "https://www.meerkat.town/meerkats/meerkat_070.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-70",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-70/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/information_retrieval_synthesis/knowledge_extraction",
+        "natural_language_processing/information_retrieval_synthesis/question_answering",
+        "natural_language_processing/information_retrieval_synthesis/document_classification",
+        "natural_language_processing/information_retrieval_synthesis/fact_verification"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-70",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/information_retrieval_synthesis/knowledge_extraction",
+        "natural_language_processing/information_retrieval_synthesis/question_answering",
+        "natural_language_processing/information_retrieval_synthesis/document_classification",
+        "natural_language_processing/information_retrieval_synthesis/fact_verification"
+      ],
+      "domains": [
+        "finance_and_business/investment/trading",
+        "finance_and_business/investment/investment_research",
+        "industrial_manufacturing/maintenance/predictive_maintenance",
+        "industrial_manufacturing/maintenance/equipment_monitoring",
+        "healthcare/clinical/diagnosis_support"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387793,
+  "txHash": "0x02ca06fa8144126ddad89638e943cebb023ba4938b10b491efc30b5a597455b7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "EFVFR",
+    "description": "CNUWNCU UNRFURNFUR EUENFUEI JNFIHERNFIEW IEJNIE UNFIUEW ",
+    "image": "https://www.meerkat.town/meerkats/meerkat_070.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-70",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-70/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/information_retrieval_synthesis/knowledge_extraction",
+          "natural_language_processing/information_retrieval_synthesis/question_answering",
+          "natural_language_processing/information_retrieval_synthesis/document_classification",
+          "natural_language_processing/information_retrieval_synthesis/fact_verification"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-70",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/information_retrieval_synthesis/knowledge_extraction",
+          "natural_language_processing/information_retrieval_synthesis/question_answering",
+          "natural_language_processing/information_retrieval_synthesis/document_classification",
+          "natural_language_processing/information_retrieval_synthesis/fact_verification"
+        ],
+        "domains": [
+          "finance_and_business/investment/trading",
+          "finance_and_business/investment/investment_research",
+          "industrial_manufacturing/maintenance/predictive_maintenance",
+          "industrial_manufacturing/maintenance/equipment_monitoring",
+          "healthcare/clinical/diagnosis_support"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23005,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770260191,
+    "meerkatId": 70,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:32.042Z"
+}

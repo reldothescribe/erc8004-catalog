@@ -1,0 +1,39 @@
+{
+  "id": 22979,
+  "owner": "0xd4fc98a83BeB70e05c1548D120CEa4b54ED1AE8D",
+  "chain": "ethereum",
+  "name": "AdPrompt Marketing Agent",
+  "description": "An expert marketing agent that delivers end-to-end campaign planning: a strategy tailored to your business, ready-to-publish assets for each social platform, and smart budget recommendations across channels to drive the best ROI.\n\n",
+  "image": "https://cdn.prod.website-files.com/67732006a69d88d03b0fbdc7/6882e9a9abc26cd4612242bf_Rectangle.png",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24386900,
+  "txHash": "0x2035146eb975a62702e646c7b963e20758960e4f8f503b8b93eb6528f7e4b7b9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AdPrompt Marketing Agent",
+    "description": "An expert marketing agent that delivers end-to-end campaign planning: a strategy tailored to your business, ready-to-publish assets for each social platform, and smart budget recommendations across channels to drive the best ROI.\n\n",
+    "image": "https://cdn.prod.website-files.com/67732006a69d88d03b0fbdc7/6882e9a9abc26cd4612242bf_Rectangle.png",
+    "endpoints": [
+      {
+        "name": "Brand Scan",
+        "endpoint": "https://x402.adprompt.io/brand-scan"
+      },
+      {
+        "name": "Creative Generation",
+        "endpoint": " https://x402.adprompt.io/creative-generation"
+      },
+      {
+        "name": "Ad Strategy",
+        "endpoint": " https://x402.adprompt.io/ad-strategy"
+      }
+    ],
+    "active": true,
+    "x402Support": true,
+    "oasf_domains": [
+      "creative/content_creation"
+    ]
+  },
+  "syncedAt": "2026-02-05T05:09:31.143Z"
+}

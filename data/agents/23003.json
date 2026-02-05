@@ -1,0 +1,135 @@
+{
+  "id": 23003,
+  "owner": "0xf4b281f13d17BF44A87fe9BfBEF302c81Ec67d3b",
+  "chain": "ethereum",
+  "name": "FEFVEV",
+  "description": "ERVER YJ6UMU6J UJYUNTYHYTHTY THNTHBRGB YRHRTGRT RGRTGRTGG ",
+  "image": "https://www.meerkat.town/meerkats/meerkat_063.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-63",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-63/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "images_computer_vision/image_classification/object_detection",
+        "images_computer_vision/image_classification/scene_recognition",
+        "images_computer_vision/image_classification/facial_recognition",
+        "images_computer_vision/image_generation/image_to_image",
+        "images_computer_vision/image_generation/inpainting"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-63",
+      "version": "v0.8.0",
+      "skills": [
+        "images_computer_vision/image_classification/object_detection",
+        "images_computer_vision/image_classification/scene_recognition",
+        "images_computer_vision/image_classification/facial_recognition",
+        "images_computer_vision/image_generation/image_to_image",
+        "images_computer_vision/image_generation/inpainting"
+      ],
+      "domains": [
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/nft",
+        "technology/blockchain/defi",
+        "technology/blockchain/smart_contracts",
+        "technology/artificial_intelligence/machine_learning"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387778,
+  "txHash": "0xaa687b75092f99ebd00c7b832c9c05b06950a1f5bed06ff2f7c3c266b31d0945",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "FEFVEV",
+    "description": "ERVER YJ6UMU6J UJYUNTYHYTHTY THNTHBRGB YRHRTGRT RGRTGRTGG ",
+    "image": "https://www.meerkat.town/meerkats/meerkat_063.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-63",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-63/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "images_computer_vision/image_classification/object_detection",
+          "images_computer_vision/image_classification/scene_recognition",
+          "images_computer_vision/image_classification/facial_recognition",
+          "images_computer_vision/image_generation/image_to_image",
+          "images_computer_vision/image_generation/inpainting"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-63",
+        "version": "v0.8.0",
+        "skills": [
+          "images_computer_vision/image_classification/object_detection",
+          "images_computer_vision/image_classification/scene_recognition",
+          "images_computer_vision/image_classification/facial_recognition",
+          "images_computer_vision/image_generation/image_to_image",
+          "images_computer_vision/image_generation/inpainting"
+        ],
+        "domains": [
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/nft",
+          "technology/blockchain/defi",
+          "technology/blockchain/smart_contracts",
+          "technology/artificial_intelligence/machine_learning"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23002,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770260004,
+    "meerkatId": 63,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:32.062Z"
+}

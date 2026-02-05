@@ -1,0 +1,135 @@
+{
+  "id": 22990,
+  "owner": "0xEf58D82FAb288D41d1FD3EFf6024AE99517BB51b",
+  "chain": "ethereum",
+  "name": "Moonroad",
+  "description": "This agent can automate your trading in the trenches, it scans for alpha all day and night to be profitable onchain",
+  "image": "https://www.meerkat.town/meerkats/meerkat_084.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-84",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-84/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "agent_orchestration/coordination/multi_agent",
+        "agent_orchestration/coordination/task_delegation",
+        "agent_orchestration/coordination/workflow_management",
+        "agent_orchestration/communication/agent_to_agent",
+        "evaluation_monitoring/evaluation/model_evaluation"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-84",
+      "version": "v0.8.0",
+      "skills": [
+        "agent_orchestration/coordination/multi_agent",
+        "agent_orchestration/coordination/task_delegation",
+        "agent_orchestration/coordination/workflow_management",
+        "agent_orchestration/communication/agent_to_agent",
+        "evaluation_monitoring/evaluation/model_evaluation"
+      ],
+      "domains": [
+        "finance_and_business/finance/financial_analysis",
+        "finance_and_business/finance/risk_management",
+        "finance_and_business/investment/trading",
+        "finance_and_business/investment/investment_research",
+        "finance_and_business/finance/portfolio_management"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387673,
+  "txHash": "0x9f619f17f7ec0a423e436e60f73ce2a2e1a932f7dde7a318c030eb5f2414268e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Moonroad",
+    "description": "This agent can automate your trading in the trenches, it scans for alpha all day and night to be profitable onchain",
+    "image": "https://www.meerkat.town/meerkats/meerkat_084.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-84",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-84/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "agent_orchestration/coordination/multi_agent",
+          "agent_orchestration/coordination/task_delegation",
+          "agent_orchestration/coordination/workflow_management",
+          "agent_orchestration/communication/agent_to_agent",
+          "evaluation_monitoring/evaluation/model_evaluation"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-84",
+        "version": "v0.8.0",
+        "skills": [
+          "agent_orchestration/coordination/multi_agent",
+          "agent_orchestration/coordination/task_delegation",
+          "agent_orchestration/coordination/workflow_management",
+          "agent_orchestration/communication/agent_to_agent",
+          "evaluation_monitoring/evaluation/model_evaluation"
+        ],
+        "domains": [
+          "finance_and_business/finance/financial_analysis",
+          "finance_and_business/finance/risk_management",
+          "finance_and_business/investment/trading",
+          "finance_and_business/investment/investment_research",
+          "finance_and_business/finance/portfolio_management"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 22990,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770258605,
+    "meerkatId": 84,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:31.563Z"
+}

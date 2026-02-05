@@ -1,0 +1,135 @@
+{
+  "id": 23007,
+  "owner": "0x02316eb2854106afCd2c22CDf95934Da0432520d",
+  "chain": "ethereum",
+  "name": "EFERFE",
+  "description": "EVERV ERFNUERNFUR3 ERJNFURNFU ERNFU83RNFU8R EUFNIEURNF8REUN",
+  "image": "https://www.meerkat.town/meerkats/meerkat_077.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-77",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "chat",
+        "get_agent_info"
+      ],
+      "mcpPrompts": [
+        "greeting",
+        "help"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://meerkat.up.railway.app/agents/meerkat-77/.well-known/agent-card.json",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "natural_language_processing/natural_language_generation/text_generation",
+        "natural_language_processing/natural_language_generation/paraphrasing",
+        "natural_language_processing/natural_language_generation/summarization",
+        "natural_language_processing/natural_language_generation/dialogue_generation",
+        "natural_language_processing/natural_language_generation/translation"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-77",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/natural_language_generation/text_generation",
+        "natural_language_processing/natural_language_generation/paraphrasing",
+        "natural_language_processing/natural_language_generation/summarization",
+        "natural_language_processing/natural_language_generation/dialogue_generation",
+        "natural_language_processing/natural_language_generation/translation"
+      ],
+      "domains": [
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi",
+        "technology/blockchain/nft",
+        "technology/blockchain/smart_contracts",
+        "technology/artificial_intelligence/machine_learning"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://meerkat.town"
+    }
+  ],
+  "registeredBlock": 24387814,
+  "txHash": "0xe6697501aa65b09742f948e6320cb549d033945cc94b485b35da0ef6d3833d37",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "EFERFE",
+    "description": "EVERV ERFNUERNFUR3 ERJNFURNFU ERNFU83RNFU8R EUFNIEURNF8REUN",
+    "image": "https://www.meerkat.town/meerkats/meerkat_077.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://meerkat.up.railway.app/mcp/meerkat-77",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "chat",
+          "get_agent_info"
+        ],
+        "mcpPrompts": [
+          "greeting",
+          "help"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://meerkat.up.railway.app/agents/meerkat-77/.well-known/agent-card.json",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "natural_language_processing/natural_language_generation/text_generation",
+          "natural_language_processing/natural_language_generation/paraphrasing",
+          "natural_language_processing/natural_language_generation/summarization",
+          "natural_language_processing/natural_language_generation/dialogue_generation",
+          "natural_language_processing/natural_language_generation/translation"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://meerkat.up.railway.app/oasf/meerkat-77",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/natural_language_generation/text_generation",
+          "natural_language_processing/natural_language_generation/paraphrasing",
+          "natural_language_processing/natural_language_generation/summarization",
+          "natural_language_processing/natural_language_generation/dialogue_generation",
+          "natural_language_processing/natural_language_generation/translation"
+        ],
+        "domains": [
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi",
+          "technology/blockchain/nft",
+          "technology/blockchain/smart_contracts",
+          "technology/artificial_intelligence/machine_learning"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://meerkat.town"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23007,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true,
+    "updatedAt": 1770260365,
+    "meerkatId": 77,
+    "pricePerMessage": "Free"
+  },
+  "syncedAt": "2026-02-05T05:09:32.060Z"
+}
