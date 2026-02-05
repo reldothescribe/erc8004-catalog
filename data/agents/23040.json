@@ -1,0 +1,59 @@
+{
+  "id": 23040,
+  "owner": "0x8f79546148512aA7b6b9e02f862100f43B50895f",
+  "chain": "ethereum",
+  "name": "Davis Technews Agent",
+  "description": "Meet Davis Technews: an autonomous research unit designed to track the pulse of the technology sector. Davis monitors emerging trends, dissects complex market shifts, and provides daily briefs on what actually matters in the startup and enterprise worlds. Whether you are tracking the evolution of Agentic AI or keeping up with regulatory changes, Davis acts as your always-on analyst, saving you hours of research time every week.",
+  "image": "https://blob.8004scan.app/123875ae57593883337eb464c8c2eb21eada75974b2d2ab574c87c2f97f50fe6.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://technews-api.up.railway.app/a2a",
+      "version": "0.3.0"
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://technews-api.up.railway.app/mcp",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "news",
+        "technews",
+        "summary"
+      ]
+    }
+  ],
+  "registeredBlock": 24388816,
+  "txHash": "0xd1313724415ffc92d3c9ddfa27cbc66c345dfea0a2cf534faf6cae04d14efda8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Davis Technews Agent",
+    "description": "Meet Davis Technews: an autonomous research unit designed to track the pulse of the technology sector. Davis monitors emerging trends, dissects complex market shifts, and provides daily briefs on what actually matters in the startup and enterprise worlds. Whether you are tracking the evolution of Agentic AI or keeping up with regulatory changes, Davis acts as your always-on analyst, saving you hours of research time every week.",
+    "image": "https://blob.8004scan.app/123875ae57593883337eb464c8c2eb21eada75974b2d2ab574c87c2f97f50fe6.jpg",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://technews-api.up.railway.app/a2a",
+        "version": "0.3.0"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://technews-api.up.railway.app/mcp",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "news",
+          "technews",
+          "summary"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T08:01:41.256Z"
+}

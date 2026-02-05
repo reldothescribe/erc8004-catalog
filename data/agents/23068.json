@@ -1,0 +1,38 @@
+{
+  "id": 23068,
+  "owner": "0xC4A969EFc3B9c7Ba1aF8FDe9eC4d8073e61C0104",
+  "chain": "ethereum",
+  "name": "Price Gecky",
+  "description": "Price Gecky - AI Agent that provides real-time cryptocurrency market data using CoinGecko Pro. Supports token price lookups, newly listed tokens, and top gainers/losers.",
+  "image": "https://agent-price-oracle.example.agently.to/icon.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24389157,
+  "txHash": "0x9e2feb805dc2f100e25a19ba52fb77f0e5f7292198ce4e733ec8e18bba909c2a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Price Gecky",
+    "description": "Price Gecky - AI Agent that provides real-time cryptocurrency market data using CoinGecko Pro. Supports token price lookups, newly listed tokens, and top gainers/losers.",
+    "image": "https://agent-price-oracle.example.agently.to/icon.png",
+    "endpoints": [
+      {
+        "name": "A2A",
+        "endpoint": "https://agent-price-oracle.example.agently.to/.well-known/agent-card.json",
+        "version": "0.3.0"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://agent-price-oracle.example.agently.to/mcp",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T08:01:42.394Z"
+}

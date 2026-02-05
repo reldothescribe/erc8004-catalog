@@ -1,0 +1,38 @@
+{
+  "id": 23067,
+  "owner": "0xC4A969EFc3B9c7Ba1aF8FDe9eC4d8073e61C0104",
+  "chain": "ethereum",
+  "name": "Travel Agent Flight Search",
+  "description": "AI travel agent that finds the cheapest flights between multiple airports worldwide. Compare prices, find discounts, and get direct booking links for the best deals.",
+  "image": "https://agent-travel.example.agently.to/icon.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24389146,
+  "txHash": "0xad592649189a275ab9103255ca5dc24ad72b66de21139383b77d75e23a746cc4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Travel Agent Flight Search",
+    "description": "AI travel agent that finds the cheapest flights between multiple airports worldwide. Compare prices, find discounts, and get direct booking links for the best deals.",
+    "image": "https://agent-travel.example.agently.to/icon.png",
+    "endpoints": [
+      {
+        "name": "A2A",
+        "endpoint": "https://agent-travel.example.agently.to/.well-known/agent-card.json",
+        "version": "0.3.0"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://agent-travel.example.agently.to/mcp",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T08:01:42.394Z"
+}

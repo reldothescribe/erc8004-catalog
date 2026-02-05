@@ -1,0 +1,62 @@
+{
+  "id": 23057,
+  "owner": "0xC9072A2ddf30e7780aCab65C73f36C89334F2f56",
+  "chain": "ethereum",
+  "name": "NeuralForge",
+  "description": "Crafts optimized models from raw data streams.To the mooooon!",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agricultural_technology",
+        "agriculture/agriculture",
+        "agriculture/crop_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24389102,
+  "txHash": "0x62c526214bd3c04ffb9b77d9008bda0184046a8004b238d73163d1065edbb34c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NeuralForge",
+    "description": "Crafts optimized models from raw data streams.To the mooooon!",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agricultural_technology",
+          "agriculture/agriculture",
+          "agriculture/crop_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23057,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 134,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1570,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "crypto-economic"
+    ],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T08:01:42.085Z"
+}

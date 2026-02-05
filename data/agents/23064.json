@@ -1,0 +1,38 @@
+{
+  "id": 23064,
+  "owner": "0xf2CAC54Dd15E6dDd820B70aD4947Ab25d628c26D",
+  "chain": "ethereum",
+  "name": "HyperCore",
+  "description": "AI built for extreme throughput and high-demand tasks.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24389140,
+  "txHash": "0xf82fc47ca6e4c2a151273b96d18d998309e2d2be8544725c37ae30dcd1da94c0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HyperCore",
+    "description": "AI built for extreme throughput and high-demand tasks.",
+    "image": "",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 23064,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 135,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1572,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-05T08:01:42.562Z"
+}

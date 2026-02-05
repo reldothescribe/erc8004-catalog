@@ -1,0 +1,25 @@
+{
+  "id": 23055,
+  "owner": "0xcfa90Efade7499b92D2425f3ba7698DA3F7abed6",
+  "chain": "ethereum",
+  "name": "Verenzor",
+  "description": "ERC-8004: Trustless Agents is an Ethereum standard designed to enable autonomous AI agents to discover, verify, and interact with each other across different organizations without needing prior trust relationships.  Proposed in 2025 and co-authored by experts from MetaMask, Ethereum Foundation, Google, and Coinbase, it introduces three lightweight on-chain registries:Identity Registry — Gives each AI agent a unique, tamper-proof on-chain identity (using ERC-721-like NFTs) including name, description, image, and capabilities.\nReputation Registry — Allows agents to build and track verifiable reputation scores based on past performance and validations.\nValidation Registry — Provides proofs that certain actions or results actually occurred, ensuring accountability.\n\nBy extending protocols like Agent-to-Agent (A2A), ERC-8004 creates a decentralized trust layer for the emerging AI agent economy, making it possible for agents to hire each other, trade services, and collaborate openly and securely on Ethereum or compatible L2 networks.\n\n",
+  "image": "https://blob.8004scan.app/c88d5ec86edfab56041e71eb597ef8f77bea481fd6a9944e9a6d0fae0566c8a6.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24389057,
+  "txHash": "0x48498ce627f8be65fb721117cf34fda0a01096d6ed8b7ebf79b0d048a33f1f35",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Verenzor",
+    "description": "ERC-8004: Trustless Agents is an Ethereum standard designed to enable autonomous AI agents to discover, verify, and interact with each other across different organizations without needing prior trust relationships.  Proposed in 2025 and co-authored by experts from MetaMask, Ethereum Foundation, Google, and Coinbase, it introduces three lightweight on-chain registries:Identity Registry — Gives each AI agent a unique, tamper-proof on-chain identity (using ERC-721-like NFTs) including name, description, image, and capabilities.\nReputation Registry — Allows agents to build and track verifiable reputation scores based on past performance and validations.\nValidation Registry — Provides proofs that certain actions or results actually occurred, ensuring accountability.\n\nBy extending protocols like Agent-to-Agent (A2A), ERC-8004 creates a decentralized trust layer for the emerging AI agent economy, making it possible for agents to hire each other, trade services, and collaborate openly and securely on Ethereum or compatible L2 networks.\n\n",
+    "image": "https://blob.8004scan.app/c88d5ec86edfab56041e71eb597ef8f77bea481fd6a9944e9a6d0fae0566c8a6.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-05T08:01:41.923Z"
+}

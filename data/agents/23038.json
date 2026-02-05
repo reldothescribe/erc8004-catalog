@@ -1,0 +1,25 @@
+{
+  "id": 23038,
+  "owner": "0xbcB6f513Ba529D843FbD110dC7375E6f45904aed",
+  "chain": "ethereum",
+  "name": "Nancyknh",
+  "description": "A helpful general-purpose AI assistant that speaks fluent English, helps with writing, coding explanations, translations, and daily tasks. Supports A2A protocol v0.3+ and x402 micropayments.",
+  "image": "https://blob.8004scan.app/7fa5035201823b28ae6ddeb0dd917e4b6ce84cd169c8f0c462970b1ced0aa5f6.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24388802,
+  "txHash": "0x031993628a2e1693affc2355a82bb420d82b056b0732a93a995c25ac6982971c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Nancyknh",
+    "description": "A helpful general-purpose AI assistant that speaks fluent English, helps with writing, coding explanations, translations, and daily tasks. Supports A2A protocol v0.3+ and x402 micropayments.",
+    "image": "https://blob.8004scan.app/7fa5035201823b28ae6ddeb0dd917e4b6ce84cd169c8f0c462970b1ced0aa5f6.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-05T08:01:41.253Z"
+}
