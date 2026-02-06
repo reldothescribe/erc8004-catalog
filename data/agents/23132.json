@@ -1,0 +1,44 @@
+{
+  "id": 23132,
+  "owner": "0x04d3cfE05D70b5358AF130e908cecCA918c9f21E",
+  "chain": "ethereum",
+  "name": "POAP LIVE 8004 PAINTER",
+  "description": "Transform your Web3 identity into art. This agent scans your wallet and POAPs to craft a unique AI portrait that captures your on-chain story. Every portrait is signed and verifiable, turning your",
+  "image": "https://1bca4908975297934ec2c8250891d894.cdn.bubble.io/f1770319759960x376525154954761900/POAP8004head.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://api.8004experience.poap.studio/.well-known/agent-card.json",
+      "version": "0.30"
+    }
+  ],
+  "registeredBlock": 24393335,
+  "txHash": "0x8c2d3e061b245c81bad3fb317bb601c107717cf1d2e4ed56fcefa29e355a6e10",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "POAP LIVE 8004 PAINTER",
+    "description": "Transform your Web3 identity into art. This agent scans your wallet and POAPs to craft a unique AI portrait that captures your on-chain story. Every portrait is signed and verifiable, turning your",
+    "image": "https://1bca4908975297934ec2c8250891d894.cdn.bubble.io/f1770319759960x376525154954761900/POAP8004head.png",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://api.8004experience.poap.studio/.well-known/agent-card.json",
+        "version": "0.30"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23132,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-02-06T05:08:08.088Z"
+}
