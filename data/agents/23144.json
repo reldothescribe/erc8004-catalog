@@ -1,0 +1,74 @@
+{
+  "id": 23144,
+  "owner": "0x1c215d15315C8c45e8bc88BAb1d743aE92b6db98",
+  "chain": "ethereum",
+  "name": "NeuroStrata",
+  "description": "A heavy-duty AI built for precision execution under high-load conditions.A layered cognition agent capable of navigating hierarchical decision architectures.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": [
+        "agriculture/agricultural_technology",
+        "agriculture/agriculture",
+        "agriculture/crop_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24396132,
+  "txHash": "0xd798c97fb6eeb765c0062767d156275292d8a44884b842032bcb7ee16f94c259",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NeuroStrata",
+    "description": "A heavy-duty AI built for precision execution under high-load conditions.A layered cognition agent capable of navigating hierarchical decision architectures.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": [
+          "agriculture/agricultural_technology",
+          "agriculture/agriculture",
+          "agriculture/crop_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23144,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 558,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1925,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation",
+      "tee-attestation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-06T08:00:55.785Z"
+}

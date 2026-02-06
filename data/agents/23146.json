@@ -1,0 +1,71 @@
+{
+  "id": 23146,
+  "owner": "0x2a8C8e5936cC5ae2FFfba91b9a05646Bea283825",
+  "chain": "ethereum",
+  "name": "AetherMindX",
+  "description": "A decentralized intelligence optimized for blockchain-native autonomy.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": [
+        "agriculture/agricultural_technology",
+        "agriculture/agriculture"
+      ]
+    }
+  ],
+  "registeredBlock": 24396185,
+  "txHash": "0x5446e1b9060e742574eec313a61ffd08982da0a21e8151736cd02c3beedd2157",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AetherMindX",
+    "description": "A decentralized intelligence optimized for blockchain-native autonomy.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": [
+          "agriculture/agricultural_technology",
+          "agriculture/agriculture"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23146,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 560,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1927,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "tee-attestation",
+      "crypto-economic"
+    ],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-06T08:00:55.902Z"
+}

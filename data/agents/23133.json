@@ -1,0 +1,38 @@
+{
+  "id": 23133,
+  "owner": "0xCbBc40E839770744CED3da69a3b95E1D0284dE90",
+  "chain": "ethereum",
+  "name": " ",
+  "description": "                                                    ",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24395702,
+  "txHash": "0xf1154303794c5c6fc92454e8ce4dee4638c6ca726d4286f43920610571688d14",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": " ",
+    "description": "                                                    ",
+    "image": "",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 23133,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 459,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1821,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-06T08:00:55.783Z"
+}

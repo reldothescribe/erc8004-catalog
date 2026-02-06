@@ -1,0 +1,64 @@
+{
+  "id": 23142,
+  "owner": "0x48006afeDf5e6AAca736b244B0CE41Bc869E74B9",
+  "chain": "ethereum",
+  "name": "HelixNova",
+  "description": " A recursive improvement agent that upgrades its own architecture over iterative learning cycles.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/strategic_planning",
+        "advanced_reasoning_planning/long_horizon_reasoning"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24396064,
+  "txHash": "0x7ce137bf2420320b85f5cb3196f837181dc7dfb75c0330629a286b933f62913d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HelixNova",
+    "description": " A recursive improvement agent that upgrades its own architecture over iterative learning cycles.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/strategic_planning",
+          "advanced_reasoning_planning/long_horizon_reasoning"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23142,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 556,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1921,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-06T08:00:55.806Z"
+}

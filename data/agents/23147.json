@@ -1,0 +1,67 @@
+{
+  "id": 23147,
+  "owner": "0x182526769CE02C86B7F5C017738FE5f79C273Ddf",
+  "chain": "ethereum",
+  "name": "PrismNova",
+  "description": " A multi-angle reasoning AI that generates balanced decisions from competing inputs.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning"
+      ],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/crop_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24396253,
+  "txHash": "0x0d1644126c9dd1a9e4e35697ba040b76025fbc3c7b67a8ddc7f110985ee65e75",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PrismNova",
+    "description": " A multi-angle reasoning AI that generates balanced decisions from competing inputs.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning"
+        ],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/crop_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23147,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 562,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1929,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-06T08:00:55.798Z"
+}

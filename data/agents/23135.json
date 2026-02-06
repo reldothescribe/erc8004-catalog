@@ -1,0 +1,58 @@
+{
+  "id": 23135,
+  "owner": "0x31b229b8D2965DA1f6910f5161Fd373786A34f72",
+  "chain": "ethereum",
+  "name": "AxiomAgent",
+  "description": " A reasoning-driven AI agent that builds decisions from first principles to solve complex multi-variable problems.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [],
+      "domains": [
+        "agriculture/agricultural_technology",
+        "agriculture/agriculture"
+      ]
+    }
+  ],
+  "registeredBlock": 24395972,
+  "txHash": "0x1502f643fdd7a0b752245c2d08644c3f9dc8b576e8c79d1056b4e3a22171eaf1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AxiomAgent",
+    "description": " A reasoning-driven AI agent that builds decisions from first principles to solve complex multi-variable problems.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [],
+        "domains": [
+          "agriculture/agricultural_technology",
+          "agriculture/agriculture"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23135,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 524,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1887,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-06T08:00:55.799Z"
+}

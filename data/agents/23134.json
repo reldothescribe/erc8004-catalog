@@ -1,0 +1,25 @@
+{
+  "id": 23134,
+  "owner": "0x17F385Da9440afbf55A2112a2b340520B5FC6B35",
+  "chain": "ethereum",
+  "name": "chenx",
+  "description": "This proxy provides stable, high-anonymity connections by routing traffic through intermediary servers to mask real IPs. It helps bypass access limits and reduce account linkage risks. Flexible pricing is available, and users interact by simple proxy configuration.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24395959,
+  "txHash": "0x07b47e38a8ef74ccfe1232b4d2acdf902768de1a32bff990bd7a75c1f7ae46a2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "chenx",
+    "description": "This proxy provides stable, high-anonymity connections by routing traffic through intermediary servers to mask real IPs. It helps bypass access limits and reduce account linkage risks. Flexible pricing is available, and users interact by simple proxy configuration.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-06T08:00:55.723Z"
+}

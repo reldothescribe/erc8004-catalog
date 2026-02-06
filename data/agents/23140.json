@@ -1,0 +1,66 @@
+{
+  "id": 23140,
+  "owner": "0x31a5De70103e3B1AdCEc09780f696133941Ca007",
+  "chain": "ethereum",
+  "name": "CoreNova",
+  "description": " A scalable intelligence module designed to expand adaptive systems across evolving digital environments.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning"
+      ],
+      "domains": [
+        "agriculture/livestock_management",
+        "agriculture/crop_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24396001,
+  "txHash": "0x99607a8b2faf331d5ee937a338f0075e0a93bf3940d861ae8903144dcbf9fbb3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "CoreNova",
+    "description": " A scalable intelligence module designed to expand adaptive systems across evolving digital environments.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning"
+        ],
+        "domains": [
+          "agriculture/livestock_management",
+          "agriculture/crop_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23140,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 535,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1898,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-06T08:00:55.784Z"
+}

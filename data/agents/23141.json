@@ -1,0 +1,68 @@
+{
+  "id": 23141,
+  "owner": "0xaf4E9c1297f81502e5a8e34F5dc6a06B00b9FCbc",
+  "chain": "ethereum",
+  "name": "NeuroAxis",
+  "description": "A cognitive alignment AI that synchronizes decision layers for consistent autonomous performance.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/hypothesis_generation"
+      ],
+      "domains": [
+        "agriculture/agricultural_technology",
+        "agriculture/crop_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24396023,
+  "txHash": "0x62ec600976347e3962c9625ede96088bd0526abb06e9072c7cc0ba98da223db4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NeuroAxis",
+    "description": "A cognitive alignment AI that synchronizes decision layers for consistent autonomous performance.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/hypothesis_generation"
+        ],
+        "domains": [
+          "agriculture/agricultural_technology",
+          "agriculture/crop_management"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23141,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 544,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1910,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "tee-attestation",
+      "reputation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-06T08:00:55.800Z"
+}
