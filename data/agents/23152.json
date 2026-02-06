@@ -1,0 +1,25 @@
+{
+  "id": 23152,
+  "owner": "0xaF7bb1DE92DA4bB72C91B085aC8743764210Dd76",
+  "chain": "ethereum",
+  "name": "hhh017",
+  "description": "This proxy offers multi-node anonymous access by replacing IP addresses to reduce access limits and account risks. Designed for diverse scenarios, with customizable pricing and instant configuration.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24396833,
+  "txHash": "0xdaa04b43eed31022305a054cf4890dafe87ae1545dd1900086784faf6938456d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "hhh017",
+    "description": "This proxy offers multi-node anonymous access by replacing IP addresses to reduce access limits and account risks. Designed for diverse scenarios, with customizable pricing and instant configuration.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-06T14:28:49.815Z"
+}
