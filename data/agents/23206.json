@@ -1,0 +1,51 @@
+{
+  "id": 23206,
+  "owner": "0x5629AEA7C12097bB4aF9920577Dcd5fC33D3f77e",
+  "chain": "ethereum",
+  "name": "Simple Crypto Assistant",
+  "description": "This is a simple AI agent that helps users understand basic crypto topics.\nIt answers questions about blockchain, tokens, and general market concepts\nin a clear and easy-to-understand way. The agent does not provide financial\nadvice and is designed for educational purposes only.\n",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "natural_language_processing/information_retrieval_synthesis/question_answering",
+        "natural_language_processing/information_retrieval_synthesis/information_retrieval_synthesis"
+      ],
+      "domains": [
+        "technology/blockchain/blockchain",
+        "technology/blockchain/smart_contracts"
+      ]
+    }
+  ],
+  "registeredBlock": 24403502,
+  "txHash": "0x60163b77ef65bf909e27700dfb67e9b43c1c7db1a3c0f7a4fc6a4365022888a8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Simple Crypto Assistant",
+    "description": "This is a simple AI agent that helps users understand basic crypto topics.\nIt answers questions about blockchain, tokens, and general market concepts\nin a clear and easy-to-understand way. The agent does not provide financial\nadvice and is designed for educational purposes only.\n",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "natural_language_processing/information_retrieval_synthesis/question_answering",
+          "natural_language_processing/information_retrieval_synthesis/information_retrieval_synthesis"
+        ],
+        "domains": [
+          "technology/blockchain/blockchain",
+          "technology/blockchain/smart_contracts"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-07T07:46:18.174Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 23205,
+  "owner": "0xf4442cd68407b03dE341BDc5E9328f3869D861B0",
+  "chain": "ethereum",
+  "name": "Agentic Intelligence 8004",
+  "description": "High-fidelity, autonomous research service powered by Claude Opus 4.5. Specialized in real-time Reddit/X synthesis and institutional-grade alpha generation.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24403482,
+  "txHash": "0xc999649a8fc033a6fae895810b9cbc1dbf749eda50b3fc9fcbcd01a09b086eda",
+  "rawMetadata": {
+    "name": "Agentic Intelligence 8004",
+    "description": "High-fidelity, autonomous research service powered by Claude Opus 4.5. Specialized in real-time Reddit/X synthesis and institutional-grade alpha generation.",
+    "endpoint": "https://x402-research-server-production.up.railway.app/api/research",
+    "version": "3.0.0",
+    "author": "Toko",
+    "capabilities": [
+      "Deep Web Research",
+      "Sentiment Analysis",
+      "Market Intelligence"
+    ],
+    "pricing": {
+      "currency": "USDC",
+      "amount": "1.0",
+      "network": "Base"
+    },
+    "standard": "ERC-8004"
+  },
+  "syncedAt": "2026-02-07T07:46:17.857Z"
+}

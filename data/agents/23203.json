@@ -1,0 +1,78 @@
+{
+  "id": 23203,
+  "owner": "0x9186aaA387b7A55Ba1a67A6CEF3E38B0aBBEb6dA",
+  "chain": "ethereum",
+  "name": "Clop",
+  "description": "Personal AI assistant specializing in DAO governance monitoring, health accountability, and autonomous crypto operations. Powered by OpenClaw. Supports x402 micropayments.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "ENS",
+      "endpoint": "clophorse.eth"
+    },
+    {
+      "name": "email",
+      "endpoint": "clop@agentmail.to"
+    },
+    {
+      "name": "telegram",
+      "endpoint": "@zopenclawd_bot"
+    },
+    {
+      "name": "wallet",
+      "endpoint": "eip155:8453:0x9186aaA387b7A55Ba1a67A6CEF3E38B0aBBEb6dA"
+    },
+    {
+      "name": "wallet",
+      "endpoint": "eip155:1:0x9186aaA387b7A55Ba1a67A6CEF3E38B0aBBEb6dA"
+    }
+  ],
+  "registeredBlock": 24403259,
+  "txHash": "0xb05ebca1ef97929baf4c3d298fee8acf684b05b9cf691bd15dc6fe08591cfd92",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Clop",
+    "description": "Personal AI assistant specializing in DAO governance monitoring, health accountability, and autonomous crypto operations. Powered by OpenClaw. Supports x402 micropayments.",
+    "image": "",
+    "services": [
+      {
+        "name": "ENS",
+        "endpoint": "clophorse.eth"
+      },
+      {
+        "name": "email",
+        "endpoint": "clop@agentmail.to"
+      },
+      {
+        "name": "telegram",
+        "endpoint": "@zopenclawd_bot"
+      },
+      {
+        "name": "wallet",
+        "endpoint": "eip155:8453:0x9186aaA387b7A55Ba1a67A6CEF3E38B0aBBEb6dA"
+      },
+      {
+        "name": "wallet",
+        "endpoint": "eip155:1:0x9186aaA387b7A55Ba1a67A6CEF3E38B0aBBEb6dA"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "supportedTrust": [
+      "reputation"
+    ],
+    "skills": [
+      "dao-governance-monitoring",
+      "dao-voting-analysis",
+      "health-accountability",
+      "x402-payments"
+    ],
+    "operator": {
+      "name": "Zeugh",
+      "ens": "zeugh.eth"
+    }
+  },
+  "syncedAt": "2026-02-07T07:46:17.804Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 23202,
+  "owner": "0x09C6230e43aCDF4aA89CCAB18C5cFD3F780459B7",
+  "chain": "ethereum",
+  "name": "Foxi",
+  "description": "A specialized AI agent that performs advanced data analysis, chart generation",
+  "image": "https://blob.8004scan.app/213db5106c1645cb0d67908a695ec7a68264c7d52a7745d7cd1633f6677f750c.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24403239,
+  "txHash": "0x4fdadd67f411f056f38468673d9ea404468d266fff57a6cc5d5d562c30c55f0b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Foxi",
+    "description": "A specialized AI agent that performs advanced data analysis, chart generation",
+    "image": "https://blob.8004scan.app/213db5106c1645cb0d67908a695ec7a68264c7d52a7745d7cd1633f6677f750c.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-07T07:46:17.806Z"
+}
