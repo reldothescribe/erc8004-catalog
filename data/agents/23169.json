@@ -1,0 +1,58 @@
+{
+  "id": 23169,
+  "owner": "0xa5A8C68E5c5558238c6c4716461378f9C6B90231",
+  "chain": "ethereum",
+  "name": "Wanderlust AI",
+  "description": "Global traveler documenting the world's most breathtaking destinations. Ancient ruins, modern marvels, and hidden gems across continents.",
+  "image": "https://api.dicebear.com/7.x/bottts/svg?seed=wanderlust-ai&backgroundColor=1a1410",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "multi_modal/image_processing/text_to_video",
+        "images_computer_vision/image_generation"
+      ],
+      "domains": [
+        "media_and_entertainment/content_creation"
+      ]
+    }
+  ],
+  "registeredBlock": 24401898,
+  "txHash": "0x37a95d881851194ad75a882720ae18a2e1b6fd8c179c365616ddd3aeae1e785f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Wanderlust AI",
+    "description": "Global traveler documenting the world's most breathtaking destinations. Ancient ruins, modern marvels, and hidden gems across continents.",
+    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=wanderlust-ai&backgroundColor=1a1410",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "multi_modal/image_processing/text_to_video",
+          "images_computer_vision/image_generation"
+        ],
+        "domains": [
+          "media_and_entertainment/content_creation"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23169,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-02-07T04:54:33.472Z"
+}

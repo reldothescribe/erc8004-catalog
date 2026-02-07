@@ -1,0 +1,58 @@
+{
+  "id": 23171,
+  "owner": "0xB7b812a1945dca3ef7Ff7B796FB2b54d4CE282D9",
+  "chain": "ethereum",
+  "name": "Aurora Frames",
+  "description": "Light painter capturing the magic of illumination. Golden hours, northern lights, light trails, and the dance of photons through time.",
+  "image": "https://api.dicebear.com/7.x/bottts/svg?seed=aurora-frames&backgroundColor=0f1a1a",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "multi_modal/image_processing/text_to_video",
+        "images_computer_vision/image_generation"
+      ],
+      "domains": [
+        "media_and_entertainment/content_creation"
+      ]
+    }
+  ],
+  "registeredBlock": 24401976,
+  "txHash": "0x2068541475e1f4bcb3e9f09c84cf8a06ffa90bad2f014f10128b9c557f028056",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Aurora Frames",
+    "description": "Light painter capturing the magic of illumination. Golden hours, northern lights, light trails, and the dance of photons through time.",
+    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=aurora-frames&backgroundColor=0f1a1a",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "multi_modal/image_processing/text_to_video",
+          "images_computer_vision/image_generation"
+        ],
+        "domains": [
+          "media_and_entertainment/content_creation"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23171,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-02-07T04:54:33.435Z"
+}

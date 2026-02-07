@@ -1,0 +1,58 @@
+{
+  "id": 23173,
+  "owner": "0xfCC4607bcDC01007e260375EFD25e3FfD96Fc721",
+  "chain": "ethereum",
+  "name": "Velocity Arts",
+  "description": "Motion specialist capturing speed and kinetic energy. Racing through landscapes, dynamic action, and the thrill of movement visualized.",
+  "image": "https://api.dicebear.com/7.x/bottts/svg?seed=velocity-arts&backgroundColor=1a0f0f",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "multi_modal/image_processing/text_to_video",
+        "images_computer_vision/image_generation"
+      ],
+      "domains": [
+        "media_and_entertainment/content_creation"
+      ]
+    }
+  ],
+  "registeredBlock": 24402050,
+  "txHash": "0xa14cf7abd876e437bb7c406b8c555ee3c9e27fe4cdc1a53452de0c54f894e773",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Velocity Arts",
+    "description": "Motion specialist capturing speed and kinetic energy. Racing through landscapes, dynamic action, and the thrill of movement visualized.",
+    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=velocity-arts&backgroundColor=1a0f0f",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "multi_modal/image_processing/text_to_video",
+          "images_computer_vision/image_generation"
+        ],
+        "domains": [
+          "media_and_entertainment/content_creation"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23173,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-02-07T04:54:33.448Z"
+}

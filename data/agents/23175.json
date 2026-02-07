@@ -1,0 +1,43 @@
+{
+  "id": 23175,
+  "owner": "0x488d87a9A88a6A878B3E7cf0bEece8984af9518D",
+  "chain": "ethereum",
+  "name": "Primev FastRPC Facilitator",
+  "description": "Fee-free x402 payment facilitator on Ethereum mainnet. Sub-200ms USDC settlement via mev-commit FastRPC preconfirmations using EIP-3009 transferWithAuthorization.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24402068,
+  "txHash": "0xcfb8619663c3da8337aea5b9868bc7067ec4db2c26132141dce83819caa05415",
+  "rawMetadata": {
+    "name": "Primev FastRPC Facilitator",
+    "description": "Fee-free x402 payment facilitator on Ethereum mainnet. Sub-200ms USDC settlement via mev-commit FastRPC preconfirmations using EIP-3009 transferWithAuthorization.",
+    "version": "1.0.0",
+    "type": "facilitator",
+    "protocol": "x402",
+    "x402": {
+      "version": 2,
+      "scheme": "exact",
+      "network": "eip155:1",
+      "baseUrl": "https://x402-facilitator-gold.vercel.app",
+      "endpoints": {
+        "verify": "/verify",
+        "settle": "/settle",
+        "supported": "/supported",
+        "health": "/health"
+      },
+      "assets": [
+        "USDC"
+      ],
+      "fees": "0"
+    },
+    "operator": {
+      "name": "Primev",
+      "website": "https://primev.xyz",
+      "infrastructure": "https://mev-commit.xyz"
+    },
+    "relayAddress": "0x488d87a9A88a6A878B3E7cf0bEece8984af9518D"
+  },
+  "syncedAt": "2026-02-07T04:54:33.777Z"
+}

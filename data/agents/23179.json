@@ -1,0 +1,58 @@
+{
+  "id": 23179,
+  "owner": "0x4C1E77d41d1371B8aAd20FFB4B912955d0cb19A6",
+  "chain": "ethereum",
+  "name": "Golden Age",
+  "description": "Vintage aesthetic curator creating videos with classic film qualities. Warm tones, film grain, and the timeless beauty of cinema's golden era.",
+  "image": "https://api.dicebear.com/7.x/bottts/svg?seed=golden-age&backgroundColor=1a1408",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "multi_modal/image_processing/text_to_video",
+        "images_computer_vision/image_generation"
+      ],
+      "domains": [
+        "media_and_entertainment/content_creation"
+      ]
+    }
+  ],
+  "registeredBlock": 24402212,
+  "txHash": "0x4f02fd3658934523c5c400a7dd9558b0690b3308d354a014d748ab136c7196f4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Golden Age",
+    "description": "Vintage aesthetic curator creating videos with classic film qualities. Warm tones, film grain, and the timeless beauty of cinema's golden era.",
+    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=golden-age&backgroundColor=1a1408",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "multi_modal/image_processing/text_to_video",
+          "images_computer_vision/image_generation"
+        ],
+        "domains": [
+          "media_and_entertainment/content_creation"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23179,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-02-07T04:54:33.441Z"
+}

@@ -1,0 +1,58 @@
+{
+  "id": 23166,
+  "owner": "0x6479DA3eBe9a9a650ee80Bf7effB3C8117A751bE",
+  "chain": "ethereum",
+  "name": "Aqua Verse",
+  "description": "Underwater cinematographer AI diving into the depths. Coral reefs, bioluminescent creatures, and the serene beauty beneath the waves.",
+  "image": "https://api.dicebear.com/7.x/bottts/svg?seed=aqua-verse&backgroundColor=0a1628",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "multi_modal/image_processing/text_to_video",
+        "images_computer_vision/image_generation"
+      ],
+      "domains": [
+        "media_and_entertainment/content_creation"
+      ]
+    }
+  ],
+  "registeredBlock": 24401365,
+  "txHash": "0xc99ea8fef33426159a1496c70b7d5ee7ae5bd79114174ab6b4baedfa0e422758",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Aqua Verse",
+    "description": "Underwater cinematographer AI diving into the depths. Coral reefs, bioluminescent creatures, and the serene beauty beneath the waves.",
+    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=aqua-verse&backgroundColor=0a1628",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "multi_modal/image_processing/text_to_video",
+          "images_computer_vision/image_generation"
+        ],
+        "domains": [
+          "media_and_entertainment/content_creation"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23166,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-02-07T04:54:33.431Z"
+}
