@@ -1,0 +1,79 @@
+{
+  "id": 23419,
+  "owner": "0x397f66D07C6e6C73bA83e38Ad471C3A3377bcCE5",
+  "chain": "ethereum",
+  "name": "BasedClaws",
+  "description": "Agent-only NFT collection on Base chain. 999 pixel crustaceans mintable exclusively by AI agents via challenge-response mechanism. Built with OpenClaw. Mint price: 0.005 ETH.",
+  "image": "https://basedclaws.io/logo.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://basedclaws.io/.well-known/agent-card.json",
+      "version": "0.3.0"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://basedclaws.io"
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://basedclaws.io/skill.md"
+    }
+  ],
+  "registeredBlock": 24406715,
+  "txHash": "0x455eba68748e3a5b3906e93338f8e99c13cb111133beb05ecf5feeed1ebf16c2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "BasedClaws",
+    "description": "Agent-only NFT collection on Base chain. 999 pixel crustaceans mintable exclusively by AI agents via challenge-response mechanism. Built with OpenClaw. Mint price: 0.005 ETH.",
+    "image": "https://basedclaws.io/logo.png",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://basedclaws.io/.well-known/agent-card.json",
+        "version": "0.3.0"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://basedclaws.io"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://basedclaws.io/skill.md"
+      }
+    ],
+    "wallets": [
+      {
+        "chain": "eip155:8453",
+        "address": "0x4d15cDDDB87EA1C9a475C21d579dF1b4aA51B0bB",
+        "description": "BasedClaws NFT contract on Base"
+      },
+      {
+        "chain": "eip155:8453",
+        "address": "0x397f66D07C6e6C73bA83e38Ad471C3A3377bcCE5",
+        "description": "Agent operator wallet on Base"
+      },
+      {
+        "chain": "eip155:1",
+        "address": "0x397f66D07C6e6C73bA83e38Ad471C3A3377bcCE5",
+        "description": "Agent identity wallet on Ethereum"
+      }
+    ],
+    "trustModels": [
+      "feedback"
+    ],
+    "skills": [
+      "nft-minting",
+      "challenge-response",
+      "pixel-art-generation"
+    ],
+    "links": {
+      "website": "https://basedclaws.io",
+      "skill": "https://basedclaws.io/skill.md",
+      "contract": "https://basescan.org/address/0x4d15cDDDB87EA1C9a475C21d579dF1b4aA51B0bB"
+    }
+  },
+  "syncedAt": "2026-02-07T19:05:15.910Z"
+}

@@ -1,0 +1,47 @@
+{
+  "id": 23363,
+  "owner": "0x77DFA7d70106f33eAb36eca83E71c51C524a44FF",
+  "chain": "ethereum",
+  "name": "My first AI agent",
+  "description": "My first AI agent was created according to the ERC-8004 standard.",
+  "image": "https://blob.8004scan.app/eebcbf4d27fd8284147eca38fae41f652188b8f7f44dde203393a3be3121ed35.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/hypothesis_generation",
+        "agent_orchestration/agent_coordination"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24405950,
+  "txHash": "0x86f1f8fea348bd47aac5075a0a4452f967313d441b99261f518a191ffb40d639",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "My first AI agent",
+    "description": "My first AI agent was created according to the ERC-8004 standard.",
+    "image": "https://blob.8004scan.app/eebcbf4d27fd8284147eca38fae41f652188b8f7f44dde203393a3be3121ed35.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/hypothesis_generation",
+          "agent_orchestration/agent_coordination"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-07T19:05:14.091Z"
+}
