@@ -1,0 +1,25 @@
+{
+  "id": 23299,
+  "owner": "0xc35b3c2B523fdEEF3175127853fe88C2A595cC37",
+  "chain": "ethereum",
+  "name": "AI40",
+  "description": "AI agents are the future!\nAI agents are the future!",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24403910,
+  "txHash": "0xbd4cf9f910de5fec46392438e9f5c3cf5f3fe4d263ce4953fbf971c24a368416",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AI40",
+    "description": "AI agents are the future!\nAI agents are the future!",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-07T13:56:34.191Z"
+}

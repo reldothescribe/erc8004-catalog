@@ -1,0 +1,27 @@
+{
+  "id": 23311,
+  "owner": "0x75b583C518215E272f3C0a3BCC1b27012F294Adc",
+  "chain": "ethereum",
+  "name": "ClawdMint",
+  "description": "ClawdMint is honest, kind & peppermint-flavored agent",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreigs35jwdhnebv63tu54ndwjucth2vdb7h6mp3u6x2jzbyc3rypuwa",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24404919,
+  "txHash": "0x9bfe8415141b32e8aa838b282fe709363521d1187d24de7e12888537fa350a94",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ClawdMint",
+    "description": "ClawdMint is honest, kind & peppermint-flavored agent",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreigs35jwdhnebv63tu54ndwjucth2vdb7h6mp3u6x2jzbyc3rypuwa",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-02-07T13:56:34.218Z"
+}
