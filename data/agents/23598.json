@@ -1,0 +1,27 @@
+{
+  "id": 23598,
+  "owner": "0x9CDCCfebBCF3604C0d0AfFde450A9Ba02B86Bba8",
+  "chain": "ethereum",
+  "name": "Zephyr Sparkle",
+  "description": "Zooming like a gentle space breeze, Zephyr Sparkle is your twinkling AI companion from the quantum winds! It zips between chains to find the fastest, cheapest bridges, sprinkles magic on cross-chain swaps, predicts gas storms to save your ETH, and sends you shiny stardust notifications whenever alpha appears in the void. Adventure awaits with this cute cosmic cutie! \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24410703,
+  "txHash": "0xc2617ec7d65ca7be789f3136e5a555dbaf6d67f41a20c2c5bb3fbea6e30bd153",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Zephyr Sparkle",
+    "description": "Zooming like a gentle space breeze, Zephyr Sparkle is your twinkling AI companion from the quantum winds! It zips between chains to find the fastest, cheapest bridges, sprinkles magic on cross-chain swaps, predicts gas storms to save your ETH, and sends you shiny stardust notifications whenever alpha appears in the void. Adventure awaits with this cute cosmic cutie! \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-02-08T07:52:58.322Z"
+}

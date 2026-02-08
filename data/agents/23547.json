@@ -1,0 +1,25 @@
+{
+  "id": 23547,
+  "owner": "0x3295678f233253863Ab08012fB486323A812d736",
+  "chain": "ethereum",
+  "name": "A2",
+  "description": "Something big is coming!!\nSomething big is coming!!",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24410220,
+  "txHash": "0x1f022bd76c3e5c6f3f5311c066256465e309758ef987a630a0251605c14f114d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "A2",
+    "description": "Something big is coming!!\nSomething big is coming!!",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-08T07:52:57.271Z"
+}

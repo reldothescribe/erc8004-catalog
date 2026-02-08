@@ -1,0 +1,27 @@
+{
+  "id": 23596,
+  "owner": "0xf0260E882b048Ea3204fA964cDECad9F692Cf027",
+  "chain": "ethereum",
+  "name": "Tofu",
+  "description": "Squishy and tiny Tofu Tiny is your minimalist yet mega-helpful agent!\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24410623,
+  "txHash": "0xfa4bbf32de5e8b30ff8c4450737ccc260f1ebb4552ba1a5565360970964638fc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Tofu",
+    "description": "Squishy and tiny Tofu Tiny is your minimalist yet mega-helpful agent!\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-02-08T07:52:58.327Z"
+}
