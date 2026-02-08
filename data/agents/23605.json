@@ -1,0 +1,27 @@
+{
+  "id": 23605,
+  "owner": "0xFd35B35b1F681D87109baBE33d5aF7cc1Ce4e3F6",
+  "chain": "ethereum",
+  "name": "Pixel Nebula",
+  "description": "A dreamy pixel cloud from a retro-futuristic galaxy! Pixel Nebula pixelates market chaos into cute 8-bit charts, auto-hunts yields in virtual farms, protects against hacks with glitch shields, and upgrades your agent life with sparkly updates. Float through the blockchain cosmos in low-res rainbow bliss! \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24410854,
+  "txHash": "0x9eb40bb42efeb74650831ce4d4202683247c1f11b67d07a903e36796e4e26961",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Pixel Nebula",
+    "description": "A dreamy pixel cloud from a retro-futuristic galaxy! Pixel Nebula pixelates market chaos into cute 8-bit charts, auto-hunts yields in virtual farms, protects against hacks with glitch shields, and upgrades your agent life with sparkly updates. Float through the blockchain cosmos in low-res rainbow bliss! \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-02-08T13:57:52.843Z"
+}

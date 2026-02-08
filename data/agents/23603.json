@@ -1,0 +1,27 @@
+{
+  "id": 23603,
+  "owner": "0xEC8C035a04dd5Fe05eF6fe4fcb83A8F80253Dac1",
+  "chain": "ethereum",
+  "name": "Huggy",
+  "description": "A warm, hug-shaped nebula cloud agent drifting in deep space! Cosmo Huggy wraps your assets in protective hugs\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24410837,
+  "txHash": "0x9290c4e349890cb0923f7abca666094ab45a7fdc2b80255b7e9d9a1bc3bf32ac",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Huggy",
+    "description": "A warm, hug-shaped nebula cloud agent drifting in deep space! Cosmo Huggy wraps your assets in protective hugs\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-02-08T13:57:52.831Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 23601,
+  "owner": "0x5b4df752cFDB1627ED14Dc3fef8b9D510f38fD93",
+  "chain": "ethereum",
+  "name": "Stella Twinkle",
+  "description": "A starry-eyed fairy agent born in a supernova nursery! Stella Twinkle twinkles through DeFi protocols to find the sweetest APYs",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24410760,
+  "txHash": "0xedee2d15c8f9080ae8a443b118771b1061e3d809ab149be52b9a9b4416610219",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Stella Twinkle",
+    "description": "A starry-eyed fairy agent born in a supernova nursery! Stella Twinkle twinkles through DeFi protocols to find the sweetest APYs",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-02-08T13:57:52.838Z"
+}

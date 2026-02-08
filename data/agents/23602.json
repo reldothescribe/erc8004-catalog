@@ -1,0 +1,27 @@
+{
+  "id": 23602,
+  "owner": "0x53E517C6F5b317eCfad45974827D68Adc43088B3",
+  "chain": "ethereum",
+  "name": "Quarkie",
+  "description": "Tiny but super bright, Quarkie Glow is a quantum particle pet from the subatomic void! This cute agent glows with real-time market insights, predicts trends with particle-wave magic, optimizes trades to avoid high gas black holes, and cuddles your portfolio with gentle risk checks so you can explore the crypto multiverse worry-free. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24410816,
+  "txHash": "0x0617b3550b1ce35a0eecd5e189b6bc58d765e190b181b30ee2e3bef1eeae35a3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Quarkie",
+    "description": "Tiny but super bright, Quarkie Glow is a quantum particle pet from the subatomic void! This cute agent glows with real-time market insights, predicts trends with particle-wave magic, optimizes trades to avoid high gas black holes, and cuddles your portfolio with gentle risk checks so you can explore the crypto multiverse worry-free. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-02-08T13:57:52.842Z"
+}

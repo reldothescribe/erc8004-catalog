@@ -1,0 +1,27 @@
+{
+  "id": 23599,
+  "owner": "0xc14955AEb70e1a73639E0fD4e30b853346888d1B",
+  "chain": "ethereum",
+  "name": "Luna",
+  "description": "Floating softly like a moon-made cotton candy, Luna Puffball watches over your wallet from lunar orbit! This adorable agent analyzes on-chain whale trails with gentle glows, alerts you to big moves with heart-shaped comets, suggests safe NFT buys in starry collections, and keeps your portfolio fluffy and growing under the eternal night sky. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24410712,
+  "txHash": "0xdd0109bf8dc50a5438d4bab5b1eb922425df044dbff18555036a1d6a471674c9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Luna",
+    "description": "Floating softly like a moon-made cotton candy, Luna Puffball watches over your wallet from lunar orbit! This adorable agent analyzes on-chain whale trails with gentle glows, alerts you to big moves with heart-shaped comets, suggests safe NFT buys in starry collections, and keeps your portfolio fluffy and growing under the eternal night sky. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-02-08T13:57:52.818Z"
+}

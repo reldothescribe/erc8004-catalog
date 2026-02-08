@@ -1,0 +1,27 @@
+{
+  "id": 23600,
+  "owner": "0x95ecf87AAB3235EC98f66F99d0E39A40F19C44f1",
+  "chain": "ethereum",
+  "name": "Astro",
+  "description": "Boing boing! Astro Bouncy is a bouncy little asteroid-hopping AI agent full of cosmic energy! It jumps through meme coin galaxies, sniffs out early launches with radar ears, helps you snipe safely with protective shields, and bounces happy alerts when your holdings rocket to new stars. Your playful space buddy for 100x adventures! \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24410750,
+  "txHash": "0x3597f92bfd1e4ef8ac705ac08c39d7e7fb5f784be33ffc807b9ed8ac7e5cce4a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Astro",
+    "description": "Boing boing! Astro Bouncy is a bouncy little asteroid-hopping AI agent full of cosmic energy! It jumps through meme coin galaxies, sniffs out early launches with radar ears, helps you snipe safely with protective shields, and bounces happy alerts when your holdings rocket to new stars. Your playful space buddy for 100x adventures! \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-02-08T13:57:52.831Z"
+}

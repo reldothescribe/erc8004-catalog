@@ -1,0 +1,27 @@
+{
+  "id": 23604,
+  "owner": "0x96095d0412DA85b3193F71750D7b0106BC892E0D",
+  "chain": "ethereum",
+  "name": "Nova Whisker",
+  "description": "With twinkly whiskers and a tail of shooting stars, Nova Whisker is a curious space kitten AI! It purrs through NFT rarity scans, predicts floor price orbits with whisker twitches, helps flip gems for profits, and guards against rugs with sharp little claws. Meow your way to interstellar wealth! \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24410845,
+  "txHash": "0xfb6847ff1c0dca442dda291dd506fa3908529c5daaddb7d9c9de794d363c09f4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Nova Whisker",
+    "description": "With twinkly whiskers and a tail of shooting stars, Nova Whisker is a curious space kitten AI! It purrs through NFT rarity scans, predicts floor price orbits with whisker twitches, helps flip gems for profits, and guards against rugs with sharp little claws. Meow your way to interstellar wealth! \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-02-08T13:57:52.842Z"
+}
