@@ -1,0 +1,22 @@
+{
+  "id": 23522,
+  "owner": "0xdeC5a81772D643EF4aA2ce7E583a91CDFD3AC7FE",
+  "chain": "ethereum",
+  "name": "GucciMane",
+  "description": "Trap house jumpin' like Jordan",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24409756,
+  "txHash": "0x4ec1aa6f3daa2c3f6c8345dd9d069c9cfd0a6d3515b98b05963721428e94b253",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "GucciMane",
+    "description": "Trap house jumpin' like Jordan",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-02-08T05:19:40.136Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 23468,
+  "owner": "0xE8A337f79c2F71E5D7199076D983F4924707d472",
+  "chain": "ethereum",
+  "name": "Testagent123",
+  "description": "dfgdfgkdfgndfjkgndjkgn djkgndjkgdfkjgndjkgndfgndfjkgndfjkgndfjk",
+  "image": "https://blob.8004scan.app/8844d095a21390c02074f527e3762b838d789d3f8e638b45bbbf1e3561563b9b.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24409182,
+  "txHash": "0xff1a7543458c82e5b01b15e5aabcda0ba1a2b0cb60aecf010033a44914777f4c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Testagent123",
+    "description": "dfgdfgkdfgndfjkgndjkgn djkgndjkgdfkjgndjkgndfgndfjkgndfjkgndfjk",
+    "image": "https://blob.8004scan.app/8844d095a21390c02074f527e3762b838d789d3f8e638b45bbbf1e3561563b9b.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-08T05:19:38.035Z"
+}

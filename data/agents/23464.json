@@ -1,0 +1,24 @@
+{
+  "id": 23464,
+  "owner": "0xB22208f7e5B0C17502E6F778ab9c4F25fCD74bE0",
+  "chain": "ethereum",
+  "name": "Kai - OpenClaw Agent",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24409130,
+  "txHash": "0x4a826c7de84f1f98924c7c5bb1671f1cb1e17666e6b0669b9224a8443cd5733b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Kai - OpenClaw Agent",
+    "description": "",
+    "image": "",
+    "services": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-08T05:19:37.490Z"
+}

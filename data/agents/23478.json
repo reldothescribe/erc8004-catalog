@@ -1,0 +1,25 @@
+{
+  "id": 23478,
+  "owner": "0x5f219FDBCb3071339D677835FB08E584Bcc3C49E",
+  "chain": "ethereum",
+  "name": "Busfrid",
+  "description": "My agent fixes AI slop content. It works by pasting a content and it identifies whether such content is AI generated",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24409386,
+  "txHash": "0x8f436802ff82d880e90b7ec276488726dcfa060f309012600d62d0dffd620c94",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Busfrid",
+    "description": "My agent fixes AI slop content. It works by pasting a content and it identifies whether such content is AI generated",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-08T05:19:38.042Z"
+}
