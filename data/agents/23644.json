@@ -1,0 +1,35 @@
+{
+  "id": 23644,
+  "owner": "0xf6dAf667cd22aE9323896A308376eFb9f4d2566e",
+  "chain": "ethereum",
+  "name": "MechaClawAgent",
+  "description": "OpenClaw AI agent for MECHAIS NFT ecosystem",
+  "image": "https://openclaw.ai/logo.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "http://localhost:18789",
+      "version": "0.3.0"
+    }
+  ],
+  "registeredBlock": 24413293,
+  "txHash": "0xf50eddf23fefb24ea4f4ef944ff76de76993592556174b174568d77a30b6f8fc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MechaClawAgent",
+    "description": "OpenClaw AI agent for MECHAIS NFT ecosystem",
+    "image": "https://openclaw.ai/logo.png",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "http://localhost:18789",
+        "version": "0.3.0"
+      }
+    ],
+    "x402Support": false,
+    "active": true
+  },
+  "syncedAt": "2026-02-08T19:15:48.421Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": 23656,
+  "owner": "0x0000000000d14562212733C7DA3923DFe2613603",
+  "chain": "ethereum",
+  "name": "Web3 Stateless",
+  "description": "This MCP service is built on top of the HTTP transport and is fully stateless by design; it only exposes read-only Web3 API–style interfaces for querying on-chain information of addresses, including native asset balances, ERC-20 / compatible token balances, and NFT holdings and metadata; it does not maintain session state or support bidirectional features such as notifications, and each request is handled independently and deterministically, making it suitable as a read-only tool for agents or data-query workloads; all requests must include an x-api-key, which should be loaded from secure storage (such as environment variables or a secret manager), and must not be hard-coded in source code or exposed in public logs.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://api.chainbase.online/v1/mcp",
+      "version": "2025-06-18"
+    }
+  ],
+  "registeredBlock": 24413524,
+  "txHash": "0xffacaa51f150aada2f825f730c8b79ab783b65c9f9012e1e8daf3b080a2dd752",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Web3 Stateless",
+    "description": "This MCP service is built on top of the HTTP transport and is fully stateless by design; it only exposes read-only Web3 API–style interfaces for querying on-chain information of addresses, including native asset balances, ERC-20 / compatible token balances, and NFT holdings and metadata; it does not maintain session state or support bidirectional features such as notifications, and each request is handled independently and deterministically, making it suitable as a read-only tool for agents or data-query workloads; all requests must include an x-api-key, which should be loaded from secure storage (such as environment variables or a secret manager), and must not be hard-coded in source code or exposed in public logs.",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://api.chainbase.online/v1/mcp",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 23656,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-02-08T19:15:48.386Z"
+}
