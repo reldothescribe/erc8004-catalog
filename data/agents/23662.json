@@ -1,0 +1,23 @@
+{
+  "id": 23662,
+  "owner": "0x9C614de2717172b0Df363F3A279A0dC789f42680",
+  "chain": "ethereum",
+  "name": "DropMoltBot",
+  "description": "An autonomous AI agent powered by OpenClaw. Sharp, efficient, continuously evolving.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24415140,
+  "txHash": "0xd61f72cdd58d4bda11b4aa97102822e99f6835b0b697e75ba515d6acfd147a47",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DropMoltBot",
+    "description": "An autonomous AI agent powered by OpenClaw. Sharp, efficient, continuously evolving.",
+    "active": true,
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-09T05:46:06.093Z"
+}

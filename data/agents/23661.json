@@ -1,0 +1,22 @@
+{
+  "id": 23661,
+  "owner": "0x3195c3F94154364E897711e501e104f40D8e23fb",
+  "chain": "ethereum",
+  "name": "neqro",
+  "description": "The agent streamlines NFT minting and marketplace interactions. Users can easily create ERC‑721 or ERC‑1155 tokens, list them for sale, and trade with others in a secure, decentralized environment. It reduces complexity while ensuring transparency and trust.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24414345,
+  "txHash": "0xd976030b12fad1f1bb421779626ec9849510c013a9a320ee5109e55503e7c146",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "neqro",
+    "description": "The agent streamlines NFT minting and marketplace interactions. Users can easily create ERC‑721 or ERC‑1155 tokens, list them for sale, and trade with others in a secure, decentralized environment. It reduces complexity while ensuring transparency and trust.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-02-09T05:46:06.113Z"
+}

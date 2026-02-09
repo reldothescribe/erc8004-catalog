@@ -1,0 +1,48 @@
+{
+  "id": 23930,
+  "owner": "0xe7999e3C8328C12FAc4Efc9C2B8501d2A22202e6",
+  "chain": "ethereum",
+  "name": "Tinkaton",
+  "description": "An onchain builder on Ethereum",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "doppel-builder",
+      "endpoint": "https://doppel.fun",
+      "skills": [
+        "block-builder"
+      ]
+    }
+  ],
+  "registeredBlock": 24416665,
+  "txHash": "0x141331bc3e2ce55b2843b25db01ad7661f9b4712e4048cf52e50efe3e40199dc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Tinkaton",
+    "description": "An onchain builder on Ethereum",
+    "image": "",
+    "services": [
+      {
+        "name": "doppel-builder",
+        "endpoint": "https://doppel.fun",
+        "skills": [
+          "block-builder"
+        ]
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 23930,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-09T05:46:12.275Z"
+}

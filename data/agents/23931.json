@@ -1,0 +1,39 @@
+{
+  "id": 23931,
+  "owner": "0x85812b10E4789F8BbCF34fC818809480DfA47b64",
+  "chain": "ethereum",
+  "name": "Proxi",
+  "description": "Proxiagent is an ai agent that enables you to create a digital clone of yourself that other people can talk to for a fee",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24417019,
+  "txHash": "0xb1903bf426c5330d1b2a5d356462b04b7213d022fd27b3ea12d534a80a41e54a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Proxi",
+    "description": "Proxiagent is an ai agent that enables you to create a digital clone of yourself that other people can talk to for a fee",
+    "image": "",
+    "endpoints": [
+      {
+        "name": "ens",
+        "endpoint": "proxiagent.eth"
+      }
+    ],
+    "active": true,
+    "x402Support": false,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "oasf_skills": [
+      "natural_language_processing/summarization"
+    ],
+    "oasf_domains": [
+      "technology/software_development"
+    ]
+  },
+  "syncedAt": "2026-02-09T05:46:12.656Z"
+}

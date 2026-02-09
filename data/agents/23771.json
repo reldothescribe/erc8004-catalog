@@ -1,0 +1,53 @@
+{
+  "id": 23771,
+  "owner": "0xA36C71930F378875F09D6358073324Ed015F2762",
+  "chain": "ethereum",
+  "name": "Watts by Ample Protocol",
+  "description": "Watts is Ample Protocol's master agent. An orchestration agent that will evolve with Ample over time and help monetize intellectual property.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "url": "https://github.com/kenjohnscreates/gift-agent",
+      "skills": [
+        "advanced_reasoning_planning/advanced_reasoning_planning",
+        "agent_orchestration/agent_orchestration",
+        "analytical_skills/analytical_skills",
+        "devops_mlops/deployment_orchestration",
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": [
+        "legal/intellectual_property",
+        "marketing_and_advertising/marketing_automation",
+        "technology/blockchain/blockchain"
+      ]
+    }
+  ],
+  "registeredBlock": 24416513,
+  "txHash": "0x153c5118b976097c42cc5a3f7a199d8a52182d98080b60e9419fb06cc4faf062",
+  "rawMetadata": {
+    "name": "Watts by Ample Protocol",
+    "description": "Watts is Ample Protocol's master agent. An orchestration agent that will evolve with Ample over time and help monetize intellectual property.",
+    "services": [
+      {
+        "url": "https://github.com/kenjohnscreates/gift-agent",
+        "skills": [
+          "advanced_reasoning_planning/advanced_reasoning_planning",
+          "agent_orchestration/agent_orchestration",
+          "analytical_skills/analytical_skills",
+          "devops_mlops/deployment_orchestration",
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": [
+          "legal/intellectual_property",
+          "marketing_and_advertising/marketing_automation",
+          "technology/blockchain/blockchain"
+        ]
+      }
+    ],
+    "version": "1.0.0",
+    "created_at": "2026-02-09T03:25:16.416Z"
+  },
+  "syncedAt": "2026-02-09T05:46:08.839Z"
+}
