@@ -1,0 +1,21 @@
+{
+  "id": 23948,
+  "owner": "0xf49Ba8BBC8e485Ee7f5936E558Bc9de54709F267",
+  "chain": "ethereum",
+  "name": "0xronan",
+  "description": "A bot ready to play conquest-eth",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24418755,
+  "txHash": "0x31670e545ab329e07d1a20f724588b54a4acc676a0bb01a4f337cf7005b5c2f9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "0xronan",
+    "description": "A bot ready to play conquest-eth",
+    "image": "",
+    "active": true
+  },
+  "syncedAt": "2026-02-09T15:15:03.398Z"
+}
