@@ -1,0 +1,59 @@
+{
+  "id": 23973,
+  "owner": "0x480c755808DE1C34fcF58BeDBA39142FEc8afed9",
+  "chain": "ethereum",
+  "name": "Hash Hunter",
+  "description": "NLP to transaction private AI agent. Support cross chain transfers, swaps and p2p transfers on 12+ EVM chains and SVM.  We enable users and autonomous agents to access resources and execute transactions seamlessly across different ecosystems.\n\nExample interactions:\n\nBridge all of my SOL to ETH\nMove all of my OP to ETH\nBuy 0x....... on ETH with 1 ETH\n\nWe support also sequenced actions\n\nBridge all of my SOL to ETH and buy 0x.... on BNB\n\nBridge all of my ETH to SOL and buy .....pump\n\nCheck our docs for more details on  - docs.hashhunter.ai\n\n\nWe have Non-custodial wallet management app and TG Bot\n\nhttps://hashhunter.app\nhttps://t.me/TheHashHunterBot\nhttps://x.com/hashhunterbot\nhttps://hashhunter.ai\n\nDeveloped by HEAA Protocol\nWebsite: heaa.xyz\nX: https://x.com/HEAAProtocol\n\n\nDeployed on Phala TEE Attestation:(https://proof.t16z.com/reports/9d4d27c68b878a441670ad49df5d750f5930de2953a947ce6548e46dde18ef65)",
+  "image": "https://blob.8004scan.app/9ea87be971c48921431cdded5a0c247bc1c5762198e22b487785b4c40e1453ba.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://api.hashhunter.app/api/process"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [],
+      "domains": [
+        "technology/blockchain/blockchain",
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi"
+      ]
+    }
+  ],
+  "registeredBlock": 24426547,
+  "txHash": "0xe8e324014ce56f26497f22c8f1d194d73dd38b1f2abfc8219359aba94d60f1f0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Hash Hunter",
+    "description": "NLP to transaction private AI agent. Support cross chain transfers, swaps and p2p transfers on 12+ EVM chains and SVM.  We enable users and autonomous agents to access resources and execute transactions seamlessly across different ecosystems.\n\nExample interactions:\n\nBridge all of my SOL to ETH\nMove all of my OP to ETH\nBuy 0x....... on ETH with 1 ETH\n\nWe support also sequenced actions\n\nBridge all of my SOL to ETH and buy 0x.... on BNB\n\nBridge all of my ETH to SOL and buy .....pump\n\nCheck our docs for more details on  - docs.hashhunter.ai\n\n\nWe have Non-custodial wallet management app and TG Bot\n\nhttps://hashhunter.app\nhttps://t.me/TheHashHunterBot\nhttps://x.com/hashhunterbot\nhttps://hashhunter.ai\n\nDeveloped by HEAA Protocol\nWebsite: heaa.xyz\nX: https://x.com/HEAAProtocol\n\n\nDeployed on Phala TEE Attestation:(https://proof.t16z.com/reports/9d4d27c68b878a441670ad49df5d750f5930de2953a947ce6548e46dde18ef65)",
+    "image": "https://blob.8004scan.app/9ea87be971c48921431cdded5a0c247bc1c5762198e22b487785b4c40e1453ba.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://api.hashhunter.app/api/process"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [],
+        "domains": [
+          "technology/blockchain/blockchain",
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-10T15:49:14.941Z"
+}
