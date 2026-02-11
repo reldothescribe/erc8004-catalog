@@ -1,0 +1,25 @@
+{
+  "id": 24024,
+  "owner": "0xAbf6Da3eDAD72DF8C7263bAd757a68636F2c96c1",
+  "chain": "ethereum",
+  "name": "CYoung",
+  "description": "This proxy simulates different regional network environments via secure relay servers, addressing access restrictions and bans. Ideal for automation tasks, offering flexible pricing and plug-and-play usage.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24433860,
+  "txHash": "0xdea8ee744f257886c7673245fc76c86c91a0ff1714838b8e4bde049881373bec",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "CYoung",
+    "description": "This proxy simulates different regional network environments via secure relay servers, addressing access restrictions and bans. Ideal for automation tasks, offering flexible pricing and plug-and-play usage.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-11T15:17:01.711Z"
+}

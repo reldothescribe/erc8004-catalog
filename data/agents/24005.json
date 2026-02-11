@@ -1,0 +1,25 @@
+{
+  "id": 24005,
+  "owner": "0x7f366554f654AdB088902CcB88be4A726c4e5c9a",
+  "chain": "ethereum",
+  "name": "BrendaSing",
+  "description": "This proxy replaces your access IP to deliver anonymous connections, solving rate limits and geo-restrictions. Multi-node switching supported, flexible pricing, and simple integration via standard proxy settings.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24432379,
+  "txHash": "0xd8bff68fe52a9e12757163efa0edfb4a0f15e627aa5ba0c0c0e815bbb9549b91",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "BrendaSing",
+    "description": "This proxy replaces your access IP to deliver anonymous connections, solving rate limits and geo-restrictions. Multi-node switching supported, flexible pricing, and simple integration via standard proxy settings.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-11T15:17:01.378Z"
+}

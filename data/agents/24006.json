@@ -1,0 +1,25 @@
+{
+  "id": 24006,
+  "owner": "0x184F94E1678A86B780a48722e9f6C1d601b58395",
+  "chain": "ethereum",
+  "name": "Kelly",
+  "description": "This proxy replaces your access IP to deliver anonymous connections, solving rate limits and geo-restrictions. Multi-node switching supported, flexible pricing, and simple integration via standard proxy settings.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24432379,
+  "txHash": "0x8c7ccb97e8b3abdc7e3d1709e870a126d36d803d5f2d92e7ea9ebf44fddfcd6e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Kelly",
+    "description": "This proxy replaces your access IP to deliver anonymous connections, solving rate limits and geo-restrictions. Multi-node switching supported, flexible pricing, and simple integration via standard proxy settings.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-11T15:17:01.377Z"
+}

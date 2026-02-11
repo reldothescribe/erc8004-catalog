@@ -1,0 +1,25 @@
+{
+  "id": 24023,
+  "owner": "0x4b21d4666d62aE3a43607B8DB56B8Dd69d61850b",
+  "chain": "ethereum",
+  "name": "dfsfd56",
+  "description": "A high-anonymity proxy that forwards all requests through secure servers to conceal network identity. Improves access success for scraping and account management, with on-demand pricing options.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24433812,
+  "txHash": "0x82a69f9c9df5b002008347169a9ee868816477a3e5b9308f6797e4644a31a9ec",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "dfsfd56",
+    "description": "A high-anonymity proxy that forwards all requests through secure servers to conceal network identity. Improves access success for scraping and account management, with on-demand pricing options.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-11T15:17:01.710Z"
+}

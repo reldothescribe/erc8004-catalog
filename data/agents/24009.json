@@ -1,0 +1,25 @@
+{
+  "id": 24009,
+  "owner": "0xB81E60a4E0F5eA4EDb3e18233d38A572AdeAc323",
+  "chain": "ethereum",
+  "name": "JasmineTor",
+  "description": "This proxy replaces your access IP to deliver anonymous connections, solving rate limits and geo-restrictions. Multi-node switching supported, flexible pricing, and simple integration via standard proxy settings.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24432386,
+  "txHash": "0xb879bb0e4875f8293b8f72524919aa9cef6ddb70982f0bc48f4a0ee7770c7722",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "JasmineTor",
+    "description": "This proxy replaces your access IP to deliver anonymous connections, solving rate limits and geo-restrictions. Multi-node switching supported, flexible pricing, and simple integration via standard proxy settings.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-11T15:17:01.369Z"
+}

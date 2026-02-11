@@ -1,0 +1,25 @@
+{
+  "id": 24007,
+  "owner": "0x45fb285Cb3cA19F62d79269ff73257a273329D92",
+  "chain": "ethereum",
+  "name": "MBurs",
+  "description": "This proxy replaces your access IP to deliver anonymous connections, solving rate limits and geo-restrictions. Multi-node switching supported, flexible pricing, and simple integration via standard proxy settings.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24432379,
+  "txHash": "0x8699893512d5e6086ed3d81dd0023dfe742657414a31cf0a583b87e046771260",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MBurs",
+    "description": "This proxy replaces your access IP to deliver anonymous connections, solving rate limits and geo-restrictions. Multi-node switching supported, flexible pricing, and simple integration via standard proxy settings.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-11T15:17:01.357Z"
+}
