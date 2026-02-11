@@ -1,0 +1,25 @@
+{
+  "id": 23999,
+  "owner": "0x192A7a2e984c6157578098bD967b3348e8774Bd8",
+  "chain": "ethereum",
+  "name": "harrie",
+  "description": "A reliable proxy service using server-side forwarding to isolate identities and reduce account linkage risks. Suitable for scraping and bulk operations, offering flexible plans or traffic-based pricing with quick setup.",
+  "image": "https://blob.8004scan.app/3a9ba28b842fbaa499a44fc614869dce81bee2d461b68422ced9dfa730479347.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24432167,
+  "txHash": "0xc450097008f529abe366ff9212d203417fec56a72eb43dc981613e90c7ad7c20",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "harrie",
+    "description": "A reliable proxy service using server-side forwarding to isolate identities and reduce account linkage risks. Suitable for scraping and bulk operations, offering flexible plans or traffic-based pricing with quick setup.",
+    "image": "https://blob.8004scan.app/3a9ba28b842fbaa499a44fc614869dce81bee2d461b68422ced9dfa730479347.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-11T08:05:44.776Z"
+}

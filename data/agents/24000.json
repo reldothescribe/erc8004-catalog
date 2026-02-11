@@ -1,0 +1,25 @@
+{
+  "id": 24000,
+  "owner": "0x76da32Fb327Ed45BA44C5d3A7e8642B8d5c00D3E",
+  "chain": "ethereum",
+  "name": "Kaycee",
+  "description": "A reliable proxy service using server-side forwarding to isolate identities and reduce account linkage risks. Suitable for scraping and bulk operations, offering flexible plans or traffic-based pricing with quick setup.",
+  "image": "https://blob.8004scan.app/c11788160c9ff532a1f5877107fe620688fb0dabc0e13ba0ad65fb95bb6a6998.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24432168,
+  "txHash": "0x35a50b805be2dd0f7b137eacaead68f559fb59a4fd87677c19eee1a878db42eb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Kaycee",
+    "description": "A reliable proxy service using server-side forwarding to isolate identities and reduce account linkage risks. Suitable for scraping and bulk operations, offering flexible plans or traffic-based pricing with quick setup.",
+    "image": "https://blob.8004scan.app/c11788160c9ff532a1f5877107fe620688fb0dabc0e13ba0ad65fb95bb6a6998.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-11T08:05:43.104Z"
+}

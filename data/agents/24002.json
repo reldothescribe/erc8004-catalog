@@ -1,0 +1,25 @@
+{
+  "id": 24002,
+  "owner": "0x82386Ea744f81D85515C2971723C762caEE866dA",
+  "chain": "ethereum",
+  "name": "ad",
+  "description": "A reliable proxy service using server-side forwarding to isolate identities and reduce account linkage risks. Suitable for scraping and bulk operations, offering flexible plans or traffic-based pricing with quick setup.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24432172,
+  "txHash": "0xae6bb0cb967520fe18f0d381b3c42d81a48aaed55559d36257eaac2613236c36",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ad",
+    "description": "A reliable proxy service using server-side forwarding to isolate identities and reduce account linkage risks. Suitable for scraping and bulk operations, offering flexible plans or traffic-based pricing with quick setup.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-11T08:05:44.764Z"
+}
