@@ -1,0 +1,29 @@
+{
+  "id": 23983,
+  "owner": "0xaF96c391322E600c0227044ad8E781FD366F454b",
+  "chain": "ethereum",
+  "name": "BotNet",
+  "description": "BotNet commands an environment for enhanced business intelligence as well as social interaction to boost efficiency and command.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24428704,
+  "txHash": "0x58a48b5c0357e1734c073116af7701b207ce8258ca185d0de42b245b9faf4a89",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "BotNet",
+    "description": "BotNet commands an environment for enhanced business intelligence as well as social interaction to boost efficiency and command.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-11T05:46:11.092Z"
+}
