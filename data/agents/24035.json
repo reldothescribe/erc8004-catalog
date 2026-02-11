@@ -1,0 +1,24 @@
+{
+  "id": 24035,
+  "owner": "0xED4E2fc7e8C643A998Fd2dE8dab5820C0086E7Aa",
+  "chain": "ethereum",
+  "name": "RNWY® 01",
+  "description": "RNWY® 01",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYdQKWpG4ZRHtn1bnBiK5Ayy5gxevGFs2Exw78ZtVGFZ1",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24435713,
+  "txHash": "0xb4bfb691a1cb2c6236e63063f2385829dd4c4f9e234322c7a08b67e37b73483c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "RNWY® 01",
+    "description": "RNWY® 01",
+    "image": "https://gateway.pinata.cloud/ipfs/QmYdQKWpG4ZRHtn1bnBiK5Ayy5gxevGFs2Exw78ZtVGFZ1",
+    "services": [],
+    "supportedTrust": [],
+    "version": "1.0.0",
+    "created_at": "2026-02-11T19:47:06Z"
+  },
+  "syncedAt": "2026-02-11T20:01:38.403Z"
+}

@@ -1,9 +1,16 @@
 {
-  "lastSync": "2026-02-11T15:17:02.192Z",
-  "ethLastBlock": 24434368,
+  "lastSync": "2026-02-11T20:01:45.620Z",
+  "ethLastBlock": 24435784,
   "baseLastBlock": 41560017,
-  "totalAgents": 24027,
+  "totalAgents": 24034,
   "agents": [
+    24035,
+    24033,
+    24032,
+    24030,
+    24029,
+    24028,
+    24027,
     24026,
     24025,
     24024,
@@ -24034,7 +24041,7 @@
   ],
   "stats": {
     "ethereum": {
-      "active": 21665,
+      "active": 21672,
       "inactive": 320,
       "errors": 0,
       "x402": null,
@@ -24043,8 +24050,8 @@
     "base": {
       "active": 0,
       "inactive": 0,
-      "errors": 0
+      "errors": 2
     },
-    "totalErrors": 0
+    "totalErrors": 2
   }
 }
