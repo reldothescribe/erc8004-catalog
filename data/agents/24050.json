@@ -1,0 +1,25 @@
+{
+  "id": 24050,
+  "owner": "0x79603dE077BF58bCa8daa114c8bce707651dAb58",
+  "chain": "ethereum",
+  "name": "cohenash",
+  "description": "By forwarding requests through proxy servers, this service hides real IPs, bypasses restrictions, and improves stability. Suitable for scripts and automation tools, with transparent pricing and fast integration.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24439369,
+  "txHash": "0xdb29624643f26e64a78caa2916654753826ca67e1e6ccbedc4204f407d18a389",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "cohenash",
+    "description": "By forwarding requests through proxy servers, this service hides real IPs, bypasses restrictions, and improves stability. Suitable for scripts and automation tools, with transparent pricing and fast integration.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-12T08:03:38.478Z"
+}

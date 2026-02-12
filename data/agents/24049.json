@@ -1,0 +1,25 @@
+{
+  "id": 24049,
+  "owner": "0xaB96f3eeC4d04E222d0CC782e727Ed5116358312",
+  "chain": "ethereum",
+  "name": "marleysha",
+  "description": "By forwarding requests through proxy servers, this service hides real IPs, bypasses restrictions, and improves stability. Suitable for scripts and automation tools, with transparent pricing and fast integration.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24439367,
+  "txHash": "0x17e51a8970b4fed353c637eb08ea4d186f10f0d73ab8aaf1bd2dd38376ce0778",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "marleysha",
+    "description": "By forwarding requests through proxy servers, this service hides real IPs, bypasses restrictions, and improves stability. Suitable for scripts and automation tools, with transparent pricing and fast integration.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-12T08:03:38.481Z"
+}
