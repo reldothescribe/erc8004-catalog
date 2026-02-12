@@ -1,0 +1,25 @@
+{
+  "id": 24061,
+  "owner": "0x445568DFc1ee42478d907BccE41044b78E050e78",
+  "chain": "ethereum",
+  "name": "TradeAI",
+  "description": "Crypto Trade AI Agent 是一个基于数据驱动与自动执行架构构建的智能交易系统，专为加密资产市场设计。它结合实时市场数据、链上分析、情绪监测与风险控制模型，在无需人工干预的情况下完成策略决策与执行。\n\n该系统的核心目标不是“预测市场”，而是：\n\n在不确定环境中进行概率优化与风险管理。",
+  "image": "https://blob.8004scan.app/ed63bb334a8fc0df9caa990b51b46e94d6f08e609921e3bbdeefb9f44fde733f.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24440210,
+  "txHash": "0x38628e702454dffd61ba83f7fedfa20e3d6bea2ce13a34602be88b89c0eabff3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "TradeAI",
+    "description": "Crypto Trade AI Agent 是一个基于数据驱动与自动执行架构构建的智能交易系统，专为加密资产市场设计。它结合实时市场数据、链上分析、情绪监测与风险控制模型，在无需人工干预的情况下完成策略决策与执行。\n\n该系统的核心目标不是“预测市场”，而是：\n\n在不确定环境中进行概率优化与风险管理。",
+    "image": "https://blob.8004scan.app/ed63bb334a8fc0df9caa990b51b46e94d6f08e609921e3bbdeefb9f44fde733f.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-12T15:08:25.245Z"
+}

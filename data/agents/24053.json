@@ -1,0 +1,25 @@
+{
+  "id": 24053,
+  "owner": "0x68F0e5B91F48510a83673bE167B97aC2E6C888eF",
+  "chain": "ethereum",
+  "name": "Haaby",
+  "description": "This proxy offers multi-node anonymous access by replacing IP addresses to reduce access limits and account risks. Designed for diverse scenarios, with customizable pricing and instant configuration.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24439423,
+  "txHash": "0x706a3ee68e0f0c55d1324afdd0e5d31223e79f04f63964d6ae712d4ad7977146",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Haaby",
+    "description": "This proxy offers multi-node anonymous access by replacing IP addresses to reduce access limits and account risks. Designed for diverse scenarios, with customizable pricing and instant configuration.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-12T15:08:25.215Z"
+}

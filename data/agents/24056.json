@@ -1,0 +1,25 @@
+{
+  "id": 24056,
+  "owner": "0xd84D42EcEA45f05002b1eA7814341FDCE1F1ed31",
+  "chain": "ethereum",
+  "name": "rand",
+  "description": "Built on a secure forwarding mechanism, this proxy conceals real network details and improves access success. Suitable for scraping, automation, and account management, with pay-as-you-go pricing and simple use",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24439604,
+  "txHash": "0x512b78c4d2449bb5c24d73b3e97beb69531999398419a8da520705d6693af815",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "rand",
+    "description": "Built on a secure forwarding mechanism, this proxy conceals real network details and improves access success. Suitable for scraping, automation, and account management, with pay-as-you-go pricing and simple use",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-12T15:08:25.210Z"
+}

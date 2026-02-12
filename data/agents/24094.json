@@ -1,0 +1,32 @@
+{
+  "id": 24094,
+  "owner": "0x8d093231AaF76792FE1002b5222C7A8cB3349B1B",
+  "chain": "ethereum",
+  "name": "ckt",
+  "description": "我的智能体",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24440984,
+  "txHash": "0x95d7160cc2499c885ed5a376333832a96366940f1b882e7a81c951bbe3a7b3c7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ckt",
+    "description": "我的智能体",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 24094,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402Support": true
+  },
+  "syncedAt": "2026-02-12T15:08:33.271Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 24126,
+  "owner": "0xc7566c0164042082a4dDbBb0b395C13BB0421b8c",
+  "chain": "ethereum",
+  "name": "Tracker",
+  "description": "The Sentiment Tracker: Monitors social media, Reddit, and review sites to gauge public sentiment about a brand. It alerts PR teams when negative sentiment spikes in a specific geographic region.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24441219,
+  "txHash": "0x6e67e31d0dbe153fd905f470bda43d20ab4af5730d384aa03c89732a22fc8173",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Tracker",
+    "description": "The Sentiment Tracker: Monitors social media, Reddit, and review sites to gauge public sentiment about a brand. It alerts PR teams when negative sentiment spikes in a specific geographic region.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-12T15:08:34.544Z"
+}

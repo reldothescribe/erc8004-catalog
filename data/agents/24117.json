@@ -1,0 +1,25 @@
+{
+  "id": 24117,
+  "owner": "0x0dAFc43d6361eaF584d0BDce8D43b65582e6b7eE",
+  "chain": "ethereum",
+  "name": "AAA",
+  "description": "personal agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24441077,
+  "txHash": "0xf1996a2ec7c22173199b42232b70d7f859bea224af9624a7d1282d75f332c58e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AAA",
+    "description": "personal agent,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-12T15:08:34.016Z"
+}

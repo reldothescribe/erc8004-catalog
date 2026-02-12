@@ -1,0 +1,25 @@
+{
+  "id": 24051,
+  "owner": "0x5C05B6850896f36eBD298Fc374385de1b15F59DA",
+  "chain": "ethereum",
+  "name": "LaurenSet",
+  "description": "This proxy offers multi-node anonymous access by replacing IP addresses to reduce access limits and account risks. Designed for diverse scenarios, with customizable pricing and instant configuration.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24439420,
+  "txHash": "0xa02a848c4b92ee6a9eb48e2c9071274f83aebe4a777acbc68964870fe7f067bb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LaurenSet",
+    "description": "This proxy offers multi-node anonymous access by replacing IP addresses to reduce access limits and account risks. Designed for diverse scenarios, with customizable pricing and instant configuration.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-12T15:08:25.210Z"
+}

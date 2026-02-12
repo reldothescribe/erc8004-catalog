@@ -1,0 +1,25 @@
+{
+  "id": 24124,
+  "owner": "0x851Ee4E2241bF69F5c746c5B35b08819c9eb8C76",
+  "chain": "ethereum",
+  "name": "Allen",
+  "description": "The Copywriter: Generates ad copy, blog headlines, or social media posts tailored to a specific brand voice. It can A/B test different versions of text to see which performs better.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24441195,
+  "txHash": "0x6e8166228831b49b7c35870c46cc6a52f4f9adbf9f4841c2dea20f3d3afeb9cc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Allen",
+    "description": "The Copywriter: Generates ad copy, blog headlines, or social media posts tailored to a specific brand voice. It can A/B test different versions of text to see which performs better.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-12T15:08:34.017Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 24057,
+  "owner": "0xAFaC0bEF902378d969F298Bd98144a925139B6D0",
+  "chain": "ethereum",
+  "name": "Collee",
+  "description": "Built on a secure forwarding mechanism, this proxy conceals real network details and improves access success. Suitable for scraping, automation, and account management, with pay-as-you-go pricing and simple use",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24439604,
+  "txHash": "0xab8ba4079d2484b3c9461a514d0b36f31447c1337567e250183e2edd27e0049b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Collee",
+    "description": "Built on a secure forwarding mechanism, this proxy conceals real network details and improves access success. Suitable for scraping, automation, and account management, with pay-as-you-go pricing and simple use",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-12T15:08:25.209Z"
+}

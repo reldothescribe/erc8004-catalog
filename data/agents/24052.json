@@ -1,0 +1,25 @@
+{
+  "id": 24052,
+  "owner": "0x87477798A8ecc53D9fe211343612AEeDa47918e5",
+  "chain": "ethereum",
+  "name": "TinaMason",
+  "description": "This proxy offers multi-node anonymous access by replacing IP addresses to reduce access limits and account risks. Designed for diverse scenarios, with customizable pricing and instant configuration.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24439423,
+  "txHash": "0xa9f9984f2efec0364e2f3d8a4c8eb4f7912e5adfa9bebef903fb8749b9505afa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "TinaMason",
+    "description": "This proxy offers multi-node anonymous access by replacing IP addresses to reduce access limits and account risks. Designed for diverse scenarios, with customizable pricing and instant configuration.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-02-12T15:08:25.200Z"
+}
