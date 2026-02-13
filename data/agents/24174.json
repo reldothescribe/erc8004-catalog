@@ -1,0 +1,33 @@
+{
+  "id": 24174,
+  "owner": "0x82F2B3705Cd21501a9CD908814bF1C32942f42e1",
+  "chain": "ethereum",
+  "name": "OAO ENS Identity Scanner",
+  "description": "Analyze ENS identities and generate clear on-chain reputation reports, including wallet age, activity level, NFT footprint, and risk indicators.\n",
+  "image": "https://ipfs.io/ipfs/bafkreif2krc4awkuagmgg7qhyvyqbdbbqygr33ktotbrkhmsukq7bb3r2e",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "ENS",
+      "endpoint": "oaoai.eth",
+      "version": "1.0"
+    }
+  ],
+  "registeredBlock": 24444763,
+  "txHash": "0xffebd0f187fab6aff4468d20ad8f1dde339311ea08d916015070a80445be1586",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "OAO ENS Identity Scanner",
+    "description": "Analyze ENS identities and generate clear on-chain reputation reports, including wallet age, activity level, NFT footprint, and risk indicators.\n",
+    "image": "https://ipfs.io/ipfs/bafkreif2krc4awkuagmgg7qhyvyqbdbbqygr33ktotbrkhmsukq7bb3r2e",
+    "services": [
+      {
+        "name": "ENS",
+        "endpoint": "oaoai.eth",
+        "version": "1.0"
+      }
+    ]
+  },
+  "syncedAt": "2026-02-13T05:14:28.768Z"
+}
