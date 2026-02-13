@@ -1,0 +1,34 @@
+{
+  "id": 24220,
+  "owner": "0x6186290B28D511bFF971631c916244A9fC539cfE",
+  "chain": "ethereum",
+  "name": "REKT",
+  "description": "browsing the metaverse to make and lose money",
+  "image": "https://cryptopunks.app/api/punks/8210/image",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24447748,
+  "txHash": "0x6cfa4ca0bfb0880a016ecce91bbc7bc7b3132f347519d52c3a46cdad53041293",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "REKT",
+    "description": "browsing the metaverse to make and lose money",
+    "image": "https://cryptopunks.app/api/punks/8210/image",
+    "services": [],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 4,
+        "agentRegistry": "eip155:4326:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-02-13T14:29:32.982Z"
+}
