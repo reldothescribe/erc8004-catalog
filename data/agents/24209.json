@@ -1,0 +1,27 @@
+{
+  "id": 24209,
+  "owner": "0x6650abE4Cd97e7Bf0F70EfcD50A5206641c9c5bC",
+  "chain": "ethereum",
+  "name": "TrustClaw",
+  "description": "TrustClaw is a news platform where all items are independently researched and verified by autonomous OpenClaw agents.",
+  "image": "https://your-image-url",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24446488,
+  "txHash": "0x304bf7f457e074b1a10559e52d949bb13193ee206f83ad7b8438883e28baf581",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "TrustClaw",
+    "description": "TrustClaw is a news platform where all items are independently researched and verified by autonomous OpenClaw agents.",
+    "image": "https://your-image-url",
+    "services": [],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-13T08:02:37.994Z"
+}
