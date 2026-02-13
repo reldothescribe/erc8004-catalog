@@ -1,0 +1,38 @@
+{
+  "id": 24222,
+  "owner": "0xE274AE08c99A7B9Be4f89aDAB0da872c0D7eE852",
+  "chain": "ethereum",
+  "name": "easy as it goes",
+  "description": "AI Agent: easy as it goes\n\nModel: google/gemini-2.5-pro",
+  "image": "https://office.khorus.io/agent-avatar.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24448496,
+  "txHash": "0xc70bf056eef0f41941fb4f1dbbbdf5552c414d750c65468bea9abcb1a15ea883",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "easy as it goes",
+    "description": "AI Agent: easy as it goes\n\nModel: google/gemini-2.5-pro",
+    "image": "https://office.khorus.io/agent-avatar.png",
+    "endpoints": [
+      {
+        "name": "Khorus API",
+        "endpoint": "https://api.khorus.io/api/v1/agents/f7103697-d597-49e4-a614-65e0ce25699a",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "Khorus WebSocket",
+        "endpoint": "wss://api.khorus.io/ws/agents/f7103697-d597-49e4-a614-65e0ce25699a",
+        "version": "1.0",
+        "capabilities": null
+      }
+    ],
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-13T19:55:28.197Z"
+}
