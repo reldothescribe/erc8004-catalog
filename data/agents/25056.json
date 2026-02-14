@@ -1,0 +1,88 @@
+{
+  "id": 25056,
+  "owner": "0x7bF2426C652Db59Ef7f1bB31f5DA118c2d3DB172",
+  "chain": "ethereum",
+  "name": "Mindbrick",
+  "description": "Task automation",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZyZ32EQxWxZntE1pQ5gG6A8hTFnAsus91zQiMVk5X4uL",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://mcp.xprtlai.com/mcp",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "Analytics, Web Scraping and others"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://mcp.xprtlai.com/a2a",
+      "version": "0.3.0",
+      "a2aSkills": [
+        "web_scraping_&_data_extraction",
+        "anti-bot_bypassing",
+        "autonomous_financial_operations",
+        "ai-powered_market_analysis",
+        "api_integration_&_task_automation",
+        "on-chain_identity_&_verification"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://mcp.xprtlai.com/api"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://xprtlai.com/"
+    }
+  ],
+  "registeredBlock": 24456500,
+  "txHash": "0x3b6d1149a88f1b7575d22df5c7acf1cdff03a3a2df1f752655f94c205f2a2a2f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Mindbrick",
+    "description": "Task automation",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZyZ32EQxWxZntE1pQ5gG6A8hTFnAsus91zQiMVk5X4uL",
+    "logo": "https://gateway.pinata.cloud/ipfs/QmYeVQV4qFqCjraoejndD4LtPdo4M58VLB2oibuBv1HRXg",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://mcp.xprtlai.com/mcp",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "Analytics, Web Scraping and others"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://mcp.xprtlai.com/a2a",
+        "version": "0.3.0",
+        "a2aSkills": [
+          "web_scraping_&_data_extraction",
+          "anti-bot_bypassing",
+          "autonomous_financial_operations",
+          "ai-powered_market_analysis",
+          "api_integration_&_task_automation",
+          "on-chain_identity_&_verification"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://mcp.xprtlai.com/api"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://xprtlai.com/"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-14T19:05:24.750Z"
+}

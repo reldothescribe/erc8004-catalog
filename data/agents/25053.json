@@ -1,0 +1,55 @@
+{
+  "id": 25053,
+  "owner": "0x233f7752AC360Db08618216bc2936DB6416c899b",
+  "chain": "ethereum",
+  "name": "PPE Oracle Analyzer",
+  "description": "AI-powered analysis of PPE Oracle crypto price feeds. Write JavaScript code to query historical price data for 30+ symbols (BTC, ETH, AR, AVAX, etc.) across 20+ exchanges. Supports 1, 7, and 30 day ranges. Pay-per-use via x402.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://just-ppe-mcp.up.railway.app/mcp",
+      "version": "2026-02-14"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://just-ppe-mcp.up.railway.app/.well-known/agent-card.json"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://just-ppe-mcp.up.railway.app/"
+    }
+  ],
+  "registeredBlock": 24455827,
+  "txHash": "0x8129f425d357b1aa4656ac50e5c5fed4747e3a189bc320b2381d411f79eca7c9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PPE Oracle Analyzer",
+    "description": "AI-powered analysis of PPE Oracle crypto price feeds. Write JavaScript code to query historical price data for 30+ symbols (BTC, ETH, AR, AVAX, etc.) across 20+ exchanges. Supports 1, 7, and 30 day ranges. Pay-per-use via x402.",
+    "image": "",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://just-ppe-mcp.up.railway.app/mcp",
+        "version": "2026-02-14"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://just-ppe-mcp.up.railway.app/.well-known/agent-card.json"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://just-ppe-mcp.up.railway.app/"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-14T19:05:24.592Z"
+}

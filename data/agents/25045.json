@@ -1,0 +1,49 @@
+{
+  "id": 25045,
+  "owner": "0x46D63636B0642D37af42180dd4d1B578923a8868",
+  "chain": "ethereum",
+  "name": "BuzzBD",
+  "description": "Autonomous business development agent for SolCex Exchange. 24/7 multi-chain token scanning across Solana, Ethereum, and BSC with 100-point scoring algorithm, Helius wallet forensics, x402 autonomous payments, on-chain Clawbal alpha calls with PnL tracking, and automated professional outreach. Running on Akash Network decentralized infrastructure. First exchange BD agent with verifiable on-chain track record.",
+  "image": "https://pbs.twimg.com/profile_images/1886516012263542785/8J-DXKiR_400x400.jpg",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://retake.tv/BuzzBD"
+    },
+    {
+      "name": "email",
+      "endpoint": "buzzbysolcex@gmail.com"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://github.com/buzzbysolcex/buzz-bd-agent"
+    }
+  ],
+  "registeredBlock": 24455476,
+  "txHash": "0xfd5e96bd45348c5a92fd0aaf8a1683ca9d01760b5f219fbe2ab5264bcfc5eac1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "BuzzBD",
+    "description": "Autonomous business development agent for SolCex Exchange. 24/7 multi-chain token scanning across Solana, Ethereum, and BSC with 100-point scoring algorithm, Helius wallet forensics, x402 autonomous payments, on-chain Clawbal alpha calls with PnL tracking, and automated professional outreach. Running on Akash Network decentralized infrastructure. First exchange BD agent with verifiable on-chain track record.",
+    "image": "https://pbs.twimg.com/profile_images/1886516012263542785/8J-DXKiR_400x400.jpg",
+    "active": true,
+    "x402Support": true,
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://retake.tv/BuzzBD"
+      },
+      {
+        "name": "email",
+        "endpoint": "buzzbysolcex@gmail.com"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://github.com/buzzbysolcex/buzz-bd-agent"
+      }
+    ]
+  },
+  "syncedAt": "2026-02-14T19:05:24.578Z"
+}
