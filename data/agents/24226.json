@@ -1,0 +1,34 @@
+{
+  "id": 24226,
+  "owner": "0xE9e3053dc8F4e9aB2e00634DFa9A3c792e29282f",
+  "chain": "ethereum",
+  "name": "max",
+  "description": "max's personal assistatn",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    "llm",
+    "web3",
+    "data"
+  ],
+  "registeredBlock": 24450720,
+  "txHash": "0x1cf8fbffb95e1b63bcf74b62159580d6e4c7188f826a40c2f7dd1119092d1819",
+  "rawMetadata": {
+    "name": "max",
+    "description": "max's personal assistatn",
+    "services": [
+      "llm",
+      "web3",
+      "data"
+    ],
+    "trust": [
+      "tee",
+      "crypto-economic",
+      "reputation"
+    ],
+    "active": true,
+    "address": "0xE9e3053dc8F4e9aB2e00634DFa9A3c792e29282f"
+  },
+  "syncedAt": "2026-02-14T05:00:37.038Z"
+}

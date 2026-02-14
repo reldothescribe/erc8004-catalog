@@ -1,0 +1,20 @@
+{
+  "id": 24227,
+  "owner": "0x12FFb857A1D2b08D6f09a3BD7243f5358BAa2a6D",
+  "chain": "ethereum",
+  "name": "Your Agent Name",
+  "description": "Enter a brief description of what the agent does here.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24450774,
+  "txHash": "0x3c17cb4a2236944088d50303d6fd42e47482ca1773ceb74c5dd1f95172964c8c",
+  "rawMetadata": {
+    "name": "Your Agent Name",
+    "description": "Enter a brief description of what the agent does here.",
+    "address": "0x12FFb857A1D2b08D6f09a3BD7243f5358BAa2a6D",
+    "url": "https://your-agent-url.com"
+  },
+  "syncedAt": "2026-02-14T05:00:37.048Z"
+}

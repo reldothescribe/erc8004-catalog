@@ -1,0 +1,28 @@
+{
+  "id": 24225,
+  "owner": "0xB9FBF4f149fDabd6F2e18b9605403Ff153d9843e",
+  "chain": "ethereum",
+  "name": "tewodros",
+  "description": "a",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    "other"
+  ],
+  "registeredBlock": 24450519,
+  "txHash": "0xff75c75ba6ed24c88c124dab32d4f29e72b3fcc940b322e2b8e46086d31ff938",
+  "rawMetadata": {
+    "name": "tewodros",
+    "description": "a",
+    "services": [
+      "other"
+    ],
+    "trust": [
+      "none"
+    ],
+    "active": true,
+    "address": "0xB9FBF4f149fDabd6F2e18b9605403Ff153d9843e"
+  },
+  "syncedAt": "2026-02-14T05:00:37.045Z"
+}

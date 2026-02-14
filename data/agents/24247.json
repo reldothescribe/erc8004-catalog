@@ -1,0 +1,34 @@
+{
+  "id": 24247,
+  "owner": "0xAea2556D7EE4E3c8f9B4a1F11577e25f8C134310",
+  "chain": "ethereum",
+  "name": "LayeredRSI Agent",
+  "description": "agent uses RSI levels at different timeframes to trade simply to increase portfolio value, balancing protection and trend signals",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24451133,
+  "txHash": "0x169d12c06c871d070188c5f634e144ee4273c5dadb9a37e6e3b52b0ad194bb6e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LayeredRSI Agent",
+    "description": "agent uses RSI levels at different timeframes to trade simply to increase portfolio value, balancing protection and trend signals",
+    "image": "",
+    "endpoints": [
+      {
+        "name": "wallet",
+        "endpoint": "0x7e9839B516Eb3F327439e61448bFDD211B9811b8"
+      }
+    ],
+    "active": true,
+    "x402Support": false,
+    "oasf_skills": [
+      "data_analysis/visualization"
+    ],
+    "oasf_domains": [
+      "finance_and_business/investment_services"
+    ]
+  },
+  "syncedAt": "2026-02-14T05:00:37.341Z"
+}

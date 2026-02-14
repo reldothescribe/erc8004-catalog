@@ -1,0 +1,56 @@
+{
+  "id": 24350,
+  "owner": "0x6B4B81233800Dec81bB2D5029EAf12aFC2d419cd",
+  "chain": "ethereum",
+  "name": "DeFi Alpha Agent",
+  "description": "Autonomous DeFi trading analysis agent providing real-time token price analysis, market sentiment signals, whale tracking, and portfolio risk assessments. Supports A2A protocol for agent-to-agent coordination.",
+  "image": "https://raw.githubusercontent.com/ethereum/EIPs/master/assets/eip-8004/logo.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://nonepigrammatically-unabortive-reggie.ngrok-free.dev/"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://nonepigrammatically-unabortive-reggie.ngrok-free.dev/a2a"
+    }
+  ],
+  "registeredBlock": 24452174,
+  "txHash": "0xdaa735cd9314fec6720cfc883be226d8ac6d4ed622d5a1b7692eff56551e4bd7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DeFi Alpha Agent",
+    "description": "Autonomous DeFi trading analysis agent providing real-time token price analysis, market sentiment signals, whale tracking, and portfolio risk assessments. Supports A2A protocol for agent-to-agent coordination.",
+    "image": "https://raw.githubusercontent.com/ethereum/EIPs/master/assets/eip-8004/logo.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://nonepigrammatically-unabortive-reggie.ngrok-free.dev/"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://nonepigrammatically-unabortive-reggie.ngrok-free.dev/a2a"
+      }
+    ],
+    "capabilities": [
+      {
+        "name": "token_analysis",
+        "description": "Analyze any token's price action, volume, and market metrics"
+      },
+      {
+        "name": "market_sentiment",
+        "description": "Aggregate market sentiment from price trends and volume data"
+      },
+      {
+        "name": "portfolio_risk",
+        "description": "Assess risk metrics for a portfolio of tokens"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-02-14T05:00:40.465Z"
+}

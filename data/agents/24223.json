@@ -1,0 +1,30 @@
+{
+  "id": 24223,
+  "owner": "0xB9FBF4f149fDabd6F2e18b9605403Ff153d9843e",
+  "chain": "ethereum",
+  "name": "Tedi's Agent",
+  "description": "Tedi's personal assistant",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    "other"
+  ],
+  "registeredBlock": 24450352,
+  "txHash": "0xefb70262b83d8806421dd53dc2068821337c7ad58f5df3642dc8fd5e68c21d8d",
+  "rawMetadata": {
+    "name": "Tedi's Agent",
+    "description": "Tedi's personal assistant",
+    "services": [
+      "other"
+    ],
+    "trust": [
+      "tee",
+      "crypto-economic",
+      "reputation"
+    ],
+    "active": true,
+    "address": "0xB9FBF4f149fDabd6F2e18b9605403Ff153d9843e"
+  },
+  "syncedAt": "2026-02-14T05:00:37.029Z"
+}
