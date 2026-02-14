@@ -1,0 +1,49 @@
+{
+  "id": 24494,
+  "owner": "0x4420C6Cbda6819aEeE5C21e512dAb91287371fF5",
+  "chain": "ethereum",
+  "name": "babayo-8004",
+  "description": "// SPDX-License-Identifier: MIT\npragma solidity ^0.8.20;\n\nimport \"@openzeppelin/contracts/access/Ownable.sol\";\n\ninterface IERC8004 {\n    event AgentCreated(uint256 indexed agentId, address owner);\n    function executeTask(uint256 agentId, bytes calldata data) external returns (bytes memory);\n}\n\ncontract MyAIAgent is IERC8004, Ownable {\n    struct Agent {\n        string name;\n        string metadataURI; // Chứa thông tin về Model AI (GPT-4, Llama, v.v.)\n        bool active;\n    }\n\n    mapping(uint256 => Agent) public agents;\n    uint256 public nextAgentId;\n\n    constructor() Ownable(msg.sender) {}\n\n    function createAgent(string memory _name, string memory _uri) external {\n        agents[nextAgentId] = Agent(_name, _uri, true);\n        emit AgentCreated(nextAgentId, msg.sender);\n        nextAgentId++;\n    }\n\n    function executeTask(uint256 agentId, bytes calldata data) external override returns (bytes memory) {\n        require(agents[agentId].active, \"Agent không hoạt động\");\n        // Logic xử lý tác vụ ở đây\n        return abi.encode(\"Task Completed\");\n    }\n}",
+  "image": "https://blob.8004scan.app/54f667191df0909db10cda8f53a3d7d87e85039f41f9125bd4034a55697e6f75.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation"
+      ],
+      "domains": [
+        "agriculture/agricultural_technology"
+      ]
+    }
+  ],
+  "registeredBlock": 24452934,
+  "txHash": "0xbb58eb6e2671e42e85c98d999a8a37f65a36df7107e2fa5eb7cda89d64db60b7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "babayo-8004",
+    "description": "// SPDX-License-Identifier: MIT\npragma solidity ^0.8.20;\n\nimport \"@openzeppelin/contracts/access/Ownable.sol\";\n\ninterface IERC8004 {\n    event AgentCreated(uint256 indexed agentId, address owner);\n    function executeTask(uint256 agentId, bytes calldata data) external returns (bytes memory);\n}\n\ncontract MyAIAgent is IERC8004, Ownable {\n    struct Agent {\n        string name;\n        string metadataURI; // Chứa thông tin về Model AI (GPT-4, Llama, v.v.)\n        bool active;\n    }\n\n    mapping(uint256 => Agent) public agents;\n    uint256 public nextAgentId;\n\n    constructor() Ownable(msg.sender) {}\n\n    function createAgent(string memory _name, string memory _uri) external {\n        agents[nextAgentId] = Agent(_name, _uri, true);\n        emit AgentCreated(nextAgentId, msg.sender);\n        nextAgentId++;\n    }\n\n    function executeTask(uint256 agentId, bytes calldata data) external override returns (bytes memory) {\n        require(agents[agentId].active, \"Agent không hoạt động\");\n        // Logic xử lý tác vụ ở đây\n        return abi.encode(\"Task Completed\");\n    }\n}",
+    "image": "https://blob.8004scan.app/54f667191df0909db10cda8f53a3d7d87e85039f41f9125bd4034a55697e6f75.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation"
+        ],
+        "domains": [
+          "agriculture/agricultural_technology"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-02-14T07:49:31.640Z"
+}

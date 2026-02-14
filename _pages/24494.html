@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head><title>babayo-8004</title></head>
+<body>
+<article data-pagefind-body>
+  <h1 data-pagefind-meta="name">babayo-8004</h1>
+  <p data-pagefind-meta="tokenId">24494</p>
+  <p data-pagefind-meta="address"></p>
+  <p data-pagefind-meta="chain">ethereum</p>
+  <p data-pagefind-meta="owner">0x4420C6Cbda6819aEeE5C21e512dAb91287371fF5</p>
+  <p>// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+import "@openzeppelin/contracts/access/Ownable.sol";
+
+interface IERC8004 {
+    event AgentCreated(uint256 indexed agentId, address owner);
+    function executeTask(uint256 agentId, bytes calldata data) external returns (bytes memory);
+}
+
+contract MyAIAgent is IERC8004, Ownable {
+    struct Agent {
+        string name;
+        string metadataURI; // Chứa thông tin về Model AI (GPT-4, Llama, v.v.)
+        bool active;
+    }
+
+    mapping(uint256 => Agent) public agents;
+    uint256 public nextAgentId;
+
+    constructor() Ownable(msg.sender) {}
+
+    function createAgent(string memory _name, string memory _uri) external {
+        agents[nextAgentId] = Agent(_name, _uri, true);
+        emit AgentCreated(nextAgentId, msg.sender);
+        nextAgentId++;
+    }
+
+    function executeTask(uint256 agentId, bytes calldata data) external override returns (bytes memory) {
+        require(agents[agentId].active, "Agent không hoạt động");
+        // Logic xử lý tác vụ ở đây
+        return abi.encode("Task Completed");
+    }
+}</p>
+  
+</article>
+</body>
+</html>
