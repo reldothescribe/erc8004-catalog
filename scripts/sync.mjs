@@ -44,6 +44,10 @@ const BASE_RPCS = [
 
 const PARALLEL_FETCHES = parseInt(process.env.PARALLEL_FETCHES || '10');
 
+// Exit gracefully after this many ms so the commit step can save progress.
+// Default: 5.5 hours (GitHub Actions max is 6h).
+const DEADLINE_MS = parseFloat(process.env.MAX_RUNTIME_HOURS || '5.5') * 60 * 60 * 1000;
+
 const REGISTRY_ABI = [
   {
     inputs: [{ name: 'tokenId', type: 'uint256' }],
@@ -126,12 +130,15 @@ async function parseAgentURI(uri) {
         `https://cloudflare-ipfs.com/ipfs/${cid}`,
         `https://gateway.pinata.cloud/ipfs/${cid}`
       ];
-      for (const gw of gateways) {
-        try {
-          const res = await fetch(gw, { signal: AbortSignal.timeout(15000) });
-          if (res.ok) return res.json();
-        } catch {}
-      }
+      // Race all gateways in parallel instead of trying them sequentially.
+      // This cuts worst-case IPFS wait from 45s (3×15s) down to 15s.
+      const result = await Promise.any(
+        gateways.map(gw =>
+          fetch(gw, { signal: AbortSignal.timeout(15000) })
+            .then(res => { if (!res.ok) throw new Error(res.status); return res.json(); })
+        )
+      ).catch(() => ({}));
+      return result || {};
     }
   } catch (e) {
     return {};
@@ -225,18 +232,12 @@ async function fetchAgent(client, id, mintInfo) {
 }
 
 async function syncAgents() {
+  const startTime = Date.now();
   console.log('🔄 Starting ERC-8004 sync (Ethereum + Base)...');
   console.log(`   Registry: ${REGISTRY}`);
+  console.log(`   Deadline: ${DEADLINE_MS / 3600000}h`);
   
   const forceRefresh = process.env.FORCE_REFRESH === 'true';
-  
-  const [ethBlock, baseBlock] = await Promise.all([
-    ethClient.getBlockNumber(),
-    baseClient.getBlockNumber()
-  ]);
-  
-  console.log(`   ETH block: ${ethBlock}`);
-  console.log(`   Base block: ${baseBlock}`);
 
   const existingIds = new Set();
   if (existsSync(AGENTS_DIR)) {
@@ -248,45 +249,91 @@ async function syncAgents() {
   }
   console.log(`   Existing: ${existingIds.size}`);
 
-  const ethFromBlock = forceRefresh || !index.ethLastBlock
-    ? ETH_START_BLOCK 
-    : BigInt(index.ethLastBlock + 1);
-  
-  const baseFromBlock = forceRefresh || !index.baseLastBlock
-    ? BASE_START_BLOCK 
-    : BigInt(index.baseLastBlock + 1);
-  
-  const [ethMints, baseMints] = await Promise.all([
-    getMintEvents(ethClient, ethFromBlock, ethBlock, 'Ethereum'),
-    getMintEvents(baseClient, baseFromBlock, baseBlock, 'Base')
-  ]);
-  
-  console.log(`\n   ETH mints: ${ethMints.size}`);
-  console.log(`   Base mints: ${baseMints.size}`);
-  console.log(`   Total new: ${ethMints.size + baseMints.size}`);
+  // --- Determine what to sync ---
+  // If there's a pending queue from a previous interrupted run, resume it.
+  // Otherwise, scan the blockchain for new mints.
+  let idsToSync = [];
+  let ethBlock, baseBlock;
 
-  const idsToSync = [];
-  for (const [tokenId, mintInfo] of [...ethMints, ...baseMints]) {
-    if (forceRefresh || !existingIds.has(tokenId)) {
-      const chain = mintInfo === ethMints.get(tokenId) ? 'ethereum' : 'base';
-      idsToSync.push({ id: tokenId, mintInfo, chain });
+  const hasPending = !forceRefresh && Array.isArray(index.pendingAgentIds) && index.pendingAgentIds.length > 0;
+
+  if (hasPending) {
+    console.log(`\n⏩ Resuming ${index.pendingAgentIds.length} pending agents from previous interrupted run...`);
+    idsToSync = index.pendingAgentIds;
+    // Use the block numbers already saved from the previous scan
+    ethBlock = BigInt(index.ethLastBlock);
+    baseBlock = BigInt(index.baseLastBlock);
+  } else {
+    [ethBlock, baseBlock] = await Promise.all([
+      ethClient.getBlockNumber(),
+      baseClient.getBlockNumber()
+    ]);
+
+    console.log(`   ETH block: ${ethBlock}`);
+    console.log(`   Base block: ${baseBlock}`);
+
+    const ethFromBlock = forceRefresh || !index.ethLastBlock
+      ? ETH_START_BLOCK
+      : BigInt(index.ethLastBlock + 1);
+
+    const baseFromBlock = forceRefresh || !index.baseLastBlock
+      ? BASE_START_BLOCK
+      : BigInt(index.baseLastBlock + 1);
+
+    const [ethMints, baseMints] = await Promise.all([
+      getMintEvents(ethClient, ethFromBlock, ethBlock, 'Ethereum'),
+      getMintEvents(baseClient, baseFromBlock, baseBlock, 'Base')
+    ]);
+
+    console.log(`\n   ETH mints: ${ethMints.size}`);
+    console.log(`   Base mints: ${baseMints.size}`);
+    console.log(`   Total new: ${ethMints.size + baseMints.size}`);
+
+    for (const [tokenId, mintInfo] of [...ethMints, ...baseMints]) {
+      if (forceRefresh || !existingIds.has(tokenId)) {
+        const chain = ethMints.has(tokenId) ? 'ethereum' : 'base';
+        idsToSync.push({ id: tokenId, mintInfo, chain });
+      }
+    }
+
+    console.log(`   Syncing: ${idsToSync.length}`);
+
+    // Save the pending queue + new block pointers NOW, before we start fetching.
+    // This means even if the job is cancelled mid-fetch, next run resumes from here.
+    if (idsToSync.length > 0) {
+      index.pendingAgentIds = idsToSync;
+      index.ethLastBlock = Number(ethBlock);
+      index.baseLastBlock = Number(baseBlock);
+      writeFileSync(INDEX_FILE, JSON.stringify(index, null, 2));
+      console.log(`   📌 Checkpointed ${idsToSync.length} pending agents to index.json`);
     }
   }
-  
-  console.log(`   Syncing: ${idsToSync.length}`);
 
-  const stats = { 
-    ethereum: { active: 0, inactive: 0, errors: 0 },
-    base: { active: 0, inactive: 0, errors: 0 }
+  // --- Fetch agent metadata ---
+  const stats = {
+    ethereum: { active: 0, inactive: 0, errors: 0, x402: 0, withServices: 0 },
+    base: { active: 0, inactive: 0, errors: 0, x402: 0, withServices: 0 }
   };
 
+  let timedOut = false;
+
   for (let i = 0; i < idsToSync.length; i += PARALLEL_FETCHES) {
+    // Check deadline before each batch
+    if (Date.now() - startTime > DEADLINE_MS) {
+      const remaining = idsToSync.length - i;
+      console.log(`\n⏱️  Deadline reached. ${i} processed, ${remaining} remaining. Saving checkpoint...`);
+      index.pendingAgentIds = idsToSync.slice(i);
+      writeFileSync(INDEX_FILE, JSON.stringify(index, null, 2));
+      timedOut = true;
+      break;
+    }
+
     const batch = idsToSync.slice(i, i + PARALLEL_FETCHES);
     const client = batch[0].chain === 'ethereum' ? ethClient : baseClient;
-    const results = await Promise.all(batch.map(({ id, mintInfo, chain }) => 
+    const results = await Promise.all(batch.map(({ id, mintInfo, chain }) =>
       fetchAgent(client, id, mintInfo)
     ));
-    
+
     for (const agent of results) {
       const chainStats = agent.chain === 'ethereum' ? stats.ethereum : stats.base;
       if (agent.error) {
@@ -294,20 +341,32 @@ async function syncAgents() {
       } else {
         if (agent.active) chainStats.active++;
         else chainStats.inactive++;
-        if (agent.x402Support) (agent.chain === 'ethereum' ? stats.ethereum : stats.base).x402++;
-        if (agent.services?.length > 0) (agent.chain === 'ethereum' ? stats.ethereum : stats.base).withServices++;
+        if (agent.x402Support) chainStats.x402++;
+        if (agent.services?.length > 0) chainStats.withServices++;
         existingIds.add(agent.id);
       }
-      
+
       const agentFile = join(AGENTS_DIR, `${agent.id}.json`);
       writeFileSync(agentFile, JSON.stringify(agent, null, 2));
     }
-    
-    const pct = Math.round((i + batch.length) / idsToSync.length * 100);
-    process.stdout.write(`\r   Syncing: ${i + batch.length}/${idsToSync.length} (${pct}%)`);
+
+    const processed = i + batch.length;
+    const pct = Math.round(processed / idsToSync.length * 100);
+    process.stdout.write(`\r   Syncing: ${processed}/${idsToSync.length} (${pct}%)`);
+
+    // Save incremental progress after each batch
+    index.pendingAgentIds = idsToSync.slice(processed);
+    writeFileSync(INDEX_FILE, JSON.stringify(index, null, 2));
+
     await new Promise(r => setTimeout(r, 150));
   }
 
+  if (timedOut) {
+    console.log('\n⚠️  Sync incomplete — will resume next run.');
+    return;
+  }
+
+  // --- Finalize: tally stats for already-existing agents ---
   for (const id of existingIds) {
     if (!idsToSync.find(x => x.id === id)) {
       try {
@@ -324,7 +383,7 @@ async function syncAgents() {
   }
 
   const allIds = Array.from(existingIds).sort((a, b) => b - a);
-  
+
   index = {
     lastSync: new Date().toISOString(),
     ethLastBlock: Number(ethBlock),
@@ -336,10 +395,11 @@ async function syncAgents() {
       base: { ...stats.base },
       totalErrors: stats.ethereum.errors + stats.base.errors
     }
+    // pendingAgentIds is intentionally omitted — queue is clear
   };
 
   writeFileSync(INDEX_FILE, JSON.stringify(index, null, 2));
-  
+
   console.log('\n✅ Sync complete!');
   console.log(`   Total: ${allIds.length}`);
   console.log(`   Ethereum: ${stats.ethereum.active}/${stats.ethereum.active + stats.ethereum.inactive} | x402: ${stats.ethereum.x402}`);
