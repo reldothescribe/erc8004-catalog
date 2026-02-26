@@ -76,14 +76,20 @@ let baseRpcIndex = 0;
 function createEthClient() {
   return createPublicClient({
     chain: mainnet,
-    transport: http(ETH_RPCS[ethRpcIndex % ETH_RPCS.length])
+    transport: http(ETH_RPCS[ethRpcIndex % ETH_RPCS.length], {
+      timeout: 30_000,
+      retryCount: 0,
+    })
   });
 }
 
 function createBaseClient() {
   return createPublicClient({
     chain: base,
-    transport: http(BASE_RPCS[baseRpcIndex % BASE_RPCS.length])
+    transport: http(BASE_RPCS[baseRpcIndex % BASE_RPCS.length], {
+      timeout: 30_000,
+      retryCount: 0,
+    })
   });
 }
 
@@ -138,13 +144,17 @@ async function parseAgentURI(uri) {
   }
 }
 
-async function getMintEvents(client, fromBlock, toBlock, label) {
-  console.log(`📥 Scanning ${label} blocks ${fromBlock} to ${toBlock}...`);
+async function getMintEvents(client, fromBlock, toBlock, label, indexRef, indexFile) {
+  const totalBlocks = BigInt(toBlock) - BigInt(fromBlock);
+  console.log(`📥 Scanning ${label} blocks ${fromBlock} to ${toBlock} (${totalBlocks.toLocaleString()} blocks)...`);
   
   const allMints = new Map();
   let current = BigInt(fromBlock);
   const end = BigInt(toBlock);
   const chunk = label.includes('Base') ? BASE_BLOCK_CHUNK : ETH_BLOCK_CHUNK;
+  const isEth = label.includes('Ethereum');
+  let chunksProcessed = 0;
+  const totalChunks = Number((end - current) / chunk) + 1;
   
   while (current <= end) {
     const chunkEnd = current + chunk > end ? end : current + chunk - 1n;
@@ -171,17 +181,38 @@ async function getMintEvents(client, fromBlock, toBlock, label) {
           });
         }
       }
-      
-      process.stdout.write(`\r   ${label}: block ${chunkEnd} - found ${allMints.size}`);
     } catch (err) {
-      console.error(`     Error at ${current}-${chunkEnd}: ${err.message?.slice(0, 40)}`);
+      console.error(`   ⚠️  Error at ${current}-${chunkEnd}: ${err.message?.slice(0, 80)}`);
+    }
+    
+    chunksProcessed++;
+    
+    // Log progress every 50 chunks or on the last chunk
+    if (chunksProcessed % 50 === 0 || chunkEnd >= end) {
+      const pct = Math.round(Number(chunkEnd - BigInt(fromBlock)) / Number(totalBlocks) * 100);
+      console.log(`   ${label}: block ${chunkEnd} (${pct}%) — found ${allMints.size} mints`);
+    }
+
+    // Save checkpoint every 200 chunks so progress survives cancellation
+    if (chunksProcessed % 200 === 0 && indexRef && indexFile) {
+      if (isEth) {
+        indexRef.ethLastBlock = Number(chunkEnd);
+      } else {
+        indexRef.baseLastBlock = Number(chunkEnd);
+      }
+      try {
+        writeFileSync(indexFile, JSON.stringify(indexRef, null, 2));
+        console.log(`   💾 Checkpoint saved at block ${chunkEnd}`);
+      } catch (e) {
+        console.error(`   ⚠️  Checkpoint write failed: ${e.message}`);
+      }
     }
     
     current = chunkEnd + 1n;
     await new Promise(r => setTimeout(r, 100));
   }
   
-  console.log(`   Total mints: ${allMints.size}`);
+  console.log(`   ✅ ${label}: total mints found = ${allMints.size}`);
   return allMints;
 }
 
@@ -256,10 +287,9 @@ async function syncAgents() {
     ? BASE_START_BLOCK 
     : BigInt(index.baseLastBlock + 1);
   
-  const [ethMints, baseMints] = await Promise.all([
-    getMintEvents(ethClient, ethFromBlock, ethBlock, 'Ethereum'),
-    getMintEvents(baseClient, baseFromBlock, baseBlock, 'Base')
-  ]);
+  // Run sequentially (not in parallel) so checkpoints don't conflict
+  const ethMints = await getMintEvents(ethClient, ethFromBlock, ethBlock, 'Ethereum', index, INDEX_FILE);
+  const baseMints = await getMintEvents(baseClient, baseFromBlock, baseBlock, 'Base', index, INDEX_FILE);
   
   console.log(`\n   ETH mints: ${ethMints.size}`);
   console.log(`   Base mints: ${baseMints.size}`);
@@ -304,7 +334,9 @@ async function syncAgents() {
     }
     
     const pct = Math.round((i + batch.length) / idsToSync.length * 100);
-    process.stdout.write(`\r   Syncing: ${i + batch.length}/${idsToSync.length} (${pct}%)`);
+    if (pct % 10 === 0 || i + batch.length === idsToSync.length) {
+      console.log(`   Syncing agents: ${i + batch.length}/${idsToSync.length} (${pct}%)`);
+    }
     await new Promise(r => setTimeout(r, 150));
   }
 
