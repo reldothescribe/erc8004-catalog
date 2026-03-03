@@ -1,0 +1,28 @@
+{
+  "id": 28175,
+  "owner": "0xeaDc3d91F18fb34fEBFbCFb5203d05b2D96e52Ef",
+  "chain": "ethereum",
+  "name": "basitudou",
+  "description": "basidutou1245645dasdadadadadadwq wfvxcvxcvxcvxvxvxvx",
+  "image": "https://www.pexels.com/zh-cn/photo/charming-alleyway-in-melbourne-city-28337239/",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24564123,
+  "txHash": "0xabd0afb851837d6c3e04975774466f84862e87e666447209b295b5ce26644dcc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "basitudou",
+    "description": "basidutou1245645dasdadadadadadwq wfvxcvxcvxcvxvxvxvx",
+    "image": "https://www.pexels.com/zh-cn/photo/charming-alleyway-in-melbourne-city-28337239/",
+    "endpoints": [
+      {
+        "name": "wallet",
+        "endpoint": "0xeadc3d91f18fb34febfbcfb5203d05b2d96e52ef"
+      }
+    ],
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-03-03T13:29:02.694Z"
+}

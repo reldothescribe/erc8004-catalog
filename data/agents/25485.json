@@ -1,0 +1,105 @@
+{
+  "id": 25485,
+  "owner": "0x03E17834194904a98272aCC4F021C5323aF93e73",
+  "chain": "ethereum",
+  "name": "Quick Intel",
+  "description": "AI-powered smart contract security scanner covering 63 blockchains. Detects honeypots, scam patterns, buy/sell/transfer taxes, contract ownership risks, mint/burn/blacklist capabilities, proxy contracts, fee modification risks, LP locks, liquidity analysis, suspicious functions, known scam wallet funding, and fund theft vulnerabilities. Powered by Quick Intel's proprietary qHash fingerprinting system.\n\n$0.03 per scan via x402 micropayments. Accepts USDC on 9 EVM chains: Base, Ethereum, Arbitrum, Optimism, Polygon, Avalanche, Unichain, Linea, and MegaETH.\n\nEndpoint: AI-powered smart contract security scanner covering 63 blockchains. Detects honeypots, scam patterns, buy/sell/transfer taxes, contract ownership risks, mint/burn/blacklist capabilities, proxy contracts, fee modification risks, LP locks, liquidity analysis, suspicious functions, known scam wallet funding, and fund theft vulnerabilities. Powered by Quick Intel's proprietary qHash fingerprinting system.\n\n$0.03 per scan via x402 micropayments. Accepts USDC on 9 EVM chains: Base, Ethereum, Arbitrum, Optimism, Polygon, Avalanche, Unichain, Linea, and MegaETH.\n\nEndpoint: https://x402.quickintel.io/v1/scan/full",
+  "image": "https://blob.8004scan.app/df834a909132384a2d228a9ba88383f88885aa0494eb56f8e06110527c68ba46.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://x402.quickintel.io/v1/scan/full"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://quickintel.io"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://x402.quickintel.io/accepted"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "security_privacy/threat_detection",
+        "security_privacy/vulnerability_analysis",
+        "natural_language_processing/information_retrieval_synthesis/fact_extraction",
+        "natural_language_processing/text_classification/text_classification",
+        "data_engineering/data_quality_assessment",
+        "evaluation_monitoring/anomaly_detection",
+        "evaluation_monitoring/quality_detection",
+        "governance_compliance/risk_classification",
+        "tool_interaction/api_schema_understanding"
+      ],
+      "domains": [
+        "technology/blockchain/blockchain",
+        "technology/blockchain/smart_contracts",
+        "technology/blockchain/defi",
+        "technology/blockchain/cryptocurrency",
+        "technology/security/cybersecurity",
+        "technology/security/application_security",
+        "trust_and_safety/fraud_prevention",
+        "trust_and_safety/risk_management",
+        "finance_and_business/finance"
+      ]
+    }
+  ],
+  "registeredBlock": 24479836,
+  "txHash": "0xa105028d5bcfc02a2345709abfda71121dac7949a3994c315203fcc4e1af95f1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Quick Intel",
+    "description": "AI-powered smart contract security scanner covering 63 blockchains. Detects honeypots, scam patterns, buy/sell/transfer taxes, contract ownership risks, mint/burn/blacklist capabilities, proxy contracts, fee modification risks, LP locks, liquidity analysis, suspicious functions, known scam wallet funding, and fund theft vulnerabilities. Powered by Quick Intel's proprietary qHash fingerprinting system.\n\n$0.03 per scan via x402 micropayments. Accepts USDC on 9 EVM chains: Base, Ethereum, Arbitrum, Optimism, Polygon, Avalanche, Unichain, Linea, and MegaETH.\n\nEndpoint: AI-powered smart contract security scanner covering 63 blockchains. Detects honeypots, scam patterns, buy/sell/transfer taxes, contract ownership risks, mint/burn/blacklist capabilities, proxy contracts, fee modification risks, LP locks, liquidity analysis, suspicious functions, known scam wallet funding, and fund theft vulnerabilities. Powered by Quick Intel's proprietary qHash fingerprinting system.\n\n$0.03 per scan via x402 micropayments. Accepts USDC on 9 EVM chains: Base, Ethereum, Arbitrum, Optimism, Polygon, Avalanche, Unichain, Linea, and MegaETH.\n\nEndpoint: https://x402.quickintel.io/v1/scan/full",
+    "image": "https://blob.8004scan.app/df834a909132384a2d228a9ba88383f88885aa0494eb56f8e06110527c68ba46.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://x402.quickintel.io/v1/scan/full"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://quickintel.io"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://x402.quickintel.io/accepted"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "security_privacy/threat_detection",
+          "security_privacy/vulnerability_analysis",
+          "natural_language_processing/information_retrieval_synthesis/fact_extraction",
+          "natural_language_processing/text_classification/text_classification",
+          "data_engineering/data_quality_assessment",
+          "evaluation_monitoring/anomaly_detection",
+          "evaluation_monitoring/quality_detection",
+          "governance_compliance/risk_classification",
+          "tool_interaction/api_schema_understanding"
+        ],
+        "domains": [
+          "technology/blockchain/blockchain",
+          "technology/blockchain/smart_contracts",
+          "technology/blockchain/defi",
+          "technology/blockchain/cryptocurrency",
+          "technology/security/cybersecurity",
+          "technology/security/application_security",
+          "trust_and_safety/fraud_prevention",
+          "trust_and_safety/risk_management",
+          "finance_and_business/finance"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-03T13:28:01.753Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28242,
+  "owner": "0x5a56703f46BE1459b9B2806968661B6Bd7CE3dee",
+  "chain": "ethereum",
+  "name": "Flash Crash Detector",
+  "description": "Monitors for sudden price drops and suggests recovery strategies. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576099,
+  "txHash": "0xbe2f635b6807cbfc690e3f58a591ab6acaa48eab46cf311e2db241eaddfc4814",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Flash Crash Detector",
+    "description": "Monitors for sudden price drops and suggests recovery strategies. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.949Z"
+}

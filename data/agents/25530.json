@@ -1,0 +1,27 @@
+{
+  "id": 25530,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Airdrop Verifier",
+  "description": "Validates airdrop eligibility, claims rewards, and detects fraudulent distributions.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24497824,
+  "txHash": "0x9f826b6945b0ba47a0f6e6a003126dfc163d0f22fde3c9782c7bbdcdca8b633b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Airdrop Verifier",
+    "description": "Validates airdrop eligibility, claims rewards, and detects fraudulent distributions.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:03.622Z"
+}

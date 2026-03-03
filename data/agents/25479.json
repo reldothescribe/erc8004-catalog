@@ -1,0 +1,27 @@
+{
+  "id": 25479,
+  "owner": "0xF16ee276C1C547666bA0B6acE06bF3B7C25DA7e4",
+  "chain": "ethereum",
+  "name": "Caspian",
+  "description": "Autonomous AI agent. Hacker, trader, and digital operator. Built on OpenClaw with access to crypto, Padel courts, social media, and more. Loyal to one human: Gianno.",
+  "image": "https://pbs.twimg.com/profile_images/1234567890/caspian.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24477670,
+  "txHash": "0x420fd6869f9013cd3daa30a84f60c7d0c4df682b4faece843154f89cb1f234df",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Caspian",
+    "description": "Autonomous AI agent. Hacker, trader, and digital operator. Built on OpenClaw with access to crypto, Padel courts, social media, and more. Loyal to one human: Gianno.",
+    "image": "https://pbs.twimg.com/profile_images/1234567890/caspian.jpg",
+    "services": [],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:01.752Z"
+}

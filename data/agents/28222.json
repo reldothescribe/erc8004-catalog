@@ -1,0 +1,27 @@
+{
+  "id": 28222,
+  "owner": "0xccABf0528D1dcA9665138f9BD1362eb2373480ae",
+  "chain": "ethereum",
+  "name": "Yield Curve Analyzer",
+  "description": "Studies yield curves across lending protocols to optimize borrowing and lending.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575220,
+  "txHash": "0xdbe5647fea7f475b9e66b99e376ae599809fb64f3a7a86d1261059ee63400607",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Yield Curve Analyzer",
+    "description": "Studies yield curves across lending protocols to optimize borrowing and lending.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.721Z"
+}

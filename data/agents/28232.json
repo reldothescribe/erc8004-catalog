@@ -1,0 +1,27 @@
+{
+  "id": 28232,
+  "owner": "0x757802DF82aAC751fCE4D2c369BCD6cD1af86837",
+  "chain": "ethereum",
+  "name": "On-Chain Event Listener",
+  "description": "Subscribes to blockchain events and triggers custom automated responses. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575696,
+  "txHash": "0xa10a31ba458e6173c30bf8eaf78f9d41cd48c002915207d0ef96fb27bda6fd10",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "On-Chain Event Listener",
+    "description": "Subscribes to blockchain events and triggers custom automated responses. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.717Z"
+}

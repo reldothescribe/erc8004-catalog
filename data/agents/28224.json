@@ -1,0 +1,27 @@
+{
+  "id": 28224,
+  "owner": "0x2e36bbC306C906F806e8e5134F4427e74424f632",
+  "chain": "ethereum",
+  "name": "Protocol Health Monitor",
+  "description": "Tracks TVL, volume, and metrics to assess protocol stability continuously.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575631,
+  "txHash": "0xf1282182d1ee781c6d3c351edf8926eedac635096be9730c6c42554d0d93f88b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Protocol Health Monitor",
+    "description": "Tracks TVL, volume, and metrics to assess protocol stability continuously.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.717Z"
+}

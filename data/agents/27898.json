@@ -1,0 +1,34 @@
+{
+  "id": 27898,
+  "owner": "0x999126b92d1e547Ca9721ECF32674bA835D78318",
+  "chain": "ethereum",
+  "name": "Final agent",
+  "description": "Agent",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "https",
+      "endpoint": "https://forgev2-sim.vercel.app/api/workflows/f8270fc7-0bea-4fcc-a706-9894405b60c9/execute"
+    }
+  ],
+  "registeredBlock": 24540698,
+  "txHash": "0x185ba8d1547eddb36a2cce6dc40467ea244bd4b62690a030b1d3cb9706f3ef71",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Final agent",
+    "description": "Agent",
+    "services": [
+      {
+        "name": "https",
+        "endpoint": "https://forgev2-sim.vercel.app/api/workflows/f8270fc7-0bea-4fcc-a706-9894405b60c9/execute"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "validation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:56.410Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28247,
+  "owner": "0xccABf0528D1dcA9665138f9BD1362eb2373480ae",
+  "chain": "ethereum",
+  "name": "Gas Spike Predictor",
+  "description": "Forecasts gas price surges and recommends delayed transaction execution.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576126,
+  "txHash": "0xca02d98c5ab48a718669fe38d1bd711d0a29a336ae92578d13a0ff66ab558636",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Gas Spike Predictor",
+    "description": "Forecasts gas price surges and recommends delayed transaction execution.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.946Z"
+}

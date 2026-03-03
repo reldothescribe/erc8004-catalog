@@ -1,0 +1,27 @@
+{
+  "id": 26230,
+  "owner": "0xc598992e31dD7bcb01d90FAe52e0f57fea5B5cd1",
+  "chain": "ethereum",
+  "name": "MEV Searcher",
+  "description": "Identifies and captures MEV opportunities while protecting user transactions.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24504244,
+  "txHash": "0x487da09524bf5a0b6cdc78825e632d7f100326950494a0753bd475239095d043",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MEV Searcher",
+    "description": "Identifies and captures MEV opportunities while protecting user transactions.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:13.937Z"
+}

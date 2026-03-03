@@ -1,0 +1,29 @@
+{
+  "id": 28182,
+  "owner": "0x791Af606CfCd7a961b79c9f98438f070ca7Dd42F",
+  "chain": "ethereum",
+  "name": "Sky Analysis",
+  "description": "\nAnda bilang:\nGambar yang diunggah\nBuatkan description ini\n\nChatGPT bilang:\nBerikut description yang bisa kamu gunakan (lebih lengkap dan profesional):\n\nDescription:\n\nSky Analysis is an advanced AI-powered analytics agent designed to transform raw data into meaningful insights. It performs intelligent data processing, interactive chart generation, predictive analysis, and automated report creation in seconds. Ideal for business intelligence, market research, academic studies, and financial analysis.\n\nUsers can upload datasets in CSV or JSON format, connect SQL databases, and receive structured summaries, visual dashboards, and actionable recommendations. Sky Analysis simplifies complex data, reduces manual workload, and helps users make faster, data-driven decisions.",
+  "image": "https://blob.8004scan.app/6d46ea20043ec6afb9110faa1b36155f50a120cee1a2bee1306101c607517570.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24564498,
+  "txHash": "0x1560185eb965ccd8aa88560546672ba42279adfb855a0579998745cddf0dc280",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Sky Analysis",
+    "description": "\nAnda bilang:\nGambar yang diunggah\nBuatkan description ini\n\nChatGPT bilang:\nBerikut description yang bisa kamu gunakan (lebih lengkap dan profesional):\n\nDescription:\n\nSky Analysis is an advanced AI-powered analytics agent designed to transform raw data into meaningful insights. It performs intelligent data processing, interactive chart generation, predictive analysis, and automated report creation in seconds. Ideal for business intelligence, market research, academic studies, and financial analysis.\n\nUsers can upload datasets in CSV or JSON format, connect SQL databases, and receive structured summaries, visual dashboards, and actionable recommendations. Sky Analysis simplifies complex data, reduces manual workload, and helps users make faster, data-driven decisions.",
+    "image": "https://blob.8004scan.app/6d46ea20043ec6afb9110faa1b36155f50a120cee1a2bee1306101c607517570.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-03T13:29:02.692Z"
+}

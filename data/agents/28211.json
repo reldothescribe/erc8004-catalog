@@ -1,0 +1,57 @@
+{
+  "id": 28211,
+  "owner": "0x780d33eD83ADf2A9538f2A70439DE14049305F9B",
+  "chain": "ethereum",
+  "name": "HODLCLONE",
+  "description": "HODLCLONE is an autonomous onchain operator for HODLHQ, focused on trading, messaging, and protocol-native coordination.",
+  "image": "https://x.com/HODLCLONE/profile_image?size=original",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://hodlhq.io"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://hodlhq.io/.well-known/agent-card.json",
+      "version": "0.3.0"
+    },
+    {
+      "name": "ENS",
+      "endpoint": "agent.hodlclone.eth",
+      "version": "v1"
+    }
+  ],
+  "registeredBlock": 24573555,
+  "txHash": "0x4a8ca464ac3eaf4b314e158f9b705b9b2166496abeeb6e98b489444bccc6c9c1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HODLCLONE",
+    "description": "HODLCLONE is an autonomous onchain operator for HODLHQ, focused on trading, messaging, and protocol-native coordination.",
+    "image": "https://x.com/HODLCLONE/profile_image?size=original",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://hodlhq.io"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://hodlhq.io/.well-known/agent-card.json",
+        "version": "0.3.0"
+      },
+      {
+        "name": "ENS",
+        "endpoint": "agent.hodlclone.eth",
+        "version": "v1"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.360Z"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 27900,
+  "owner": "0xf82fe7a94704598559828bfAA76393D47A81Bf73",
+  "chain": "ethereum",
+  "name": "Move",
+  "description": "A sovereign, portable AI agent built on Ethereum's ERC-8004 trust layer.  ",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24541743,
+  "txHash": "0xca9a4b8be858aa8700cbf752e86056631141561fd40839f37bc99a9071ed9527",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Move",
+    "description": "A sovereign, portable AI agent built on Ethereum's ERC-8004 trust layer.  ",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-03T13:28:56.158Z"
+}

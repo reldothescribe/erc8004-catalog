@@ -1,0 +1,27 @@
+{
+  "id": 28253,
+  "owner": "0x2e36bbC306C906F806e8e5134F4427e74424f632",
+  "chain": "ethereum",
+  "name": "NFT Royalty Enforcer",
+  "description": "Ensures royalty payments are honored in secondary NFT sales. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576228,
+  "txHash": "0x335085f1dc223fe54c183c3363cb1a8261dd9be441173ffb9c26c9f9f0c3eb28",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NFT Royalty Enforcer",
+    "description": "Ensures royalty payments are honored in secondary NFT sales. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.287Z"
+}

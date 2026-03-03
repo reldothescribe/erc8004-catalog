@@ -1,0 +1,48 @@
+{
+  "id": 27899,
+  "owner": "0x999126b92d1e547Ca9721ECF32674bA835D78318",
+  "chain": "ethereum",
+  "name": "Testing",
+  "description": "Test",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "API",
+      "endpoint": "https://forgev2-sim.vercel.app/api/workflows/ca80a6c5-198e-4b20-bb45-48c006aa33a5/execute",
+      "auth": {
+        "type": "api-key",
+        "header": "X-API-Key"
+      }
+    }
+  ],
+  "registeredBlock": 24541643,
+  "txHash": "0x06651fc594fca97485860efa51567b1e6a6c583d0bf1ea3d6238854574e34d2a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Testing",
+    "description": "Test",
+    "services": [
+      {
+        "name": "API",
+        "endpoint": "https://forgev2-sim.vercel.app/api/workflows/ca80a6c5-198e-4b20-bb45-48c006aa33a5/execute",
+        "auth": {
+          "type": "api-key",
+          "header": "X-API-Key"
+        }
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": null,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true
+  },
+  "syncedAt": "2026-03-03T13:28:56.539Z"
+}

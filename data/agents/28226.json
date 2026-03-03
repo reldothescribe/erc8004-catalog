@@ -1,0 +1,27 @@
+{
+  "id": 28226,
+  "owner": "0x2e36bbC306C906F806e8e5134F4427e74424f632",
+  "chain": "ethereum",
+  "name": "Governance Tracker",
+  "description": "Follows DAO proposals, votes, and executions with timely notifications. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575641,
+  "txHash": "0xcf31bfc6ce45064940a918a51a9d45af900fda3f48ab97564f00ac0a8f7748c8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Governance Tracker",
+    "description": "Follows DAO proposals, votes, and executions with timely notifications. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.716Z"
+}

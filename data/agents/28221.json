@@ -1,0 +1,27 @@
+{
+  "id": 28221,
+  "owner": "0xccABf0528D1dcA9665138f9BD1362eb2373480ae",
+  "chain": "ethereum",
+  "name": "Bridge Security Scanner",
+  "description": "Evaluates bridge protocols for security risks and recommends safest transfer options.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575214,
+  "txHash": "0xa9639f6723d48117f5bff03259830713c2479a9ff232abc8c6ef1e77bc8db175",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Bridge Security Scanner",
+    "description": "Evaluates bridge protocols for security risks and recommends safest transfer options.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.717Z"
+}

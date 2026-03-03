@@ -1,0 +1,58 @@
+{
+  "id": 25255,
+  "owner": "0x1e1c6D0469be3E5946Ae4eF0f18C4DaDe30d8e29",
+  "chain": "ethereum",
+  "name": "RedStone Agent",
+  "description": "RedStone real-time cryptocurrency price data and AI-powered analysis. Query current prices for 500+ tokens across major exchanges. Analyze price trends, volatility, support/resistance levels, and get actionable insights for crypto trading decisions.",
+  "image": "https://raw.githubusercontent.com/redstone-finance/redstone-images/refs/heads/main/RED9000.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://a2a.redstone.finance/.well-known/agent.json",
+      "version": "0.1.0"
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://mcp.redstone.finance",
+      "version": "0.1.0"
+    }
+  ],
+  "registeredBlock": 24470374,
+  "txHash": "0x11cc986a3b2ddb03e4ea8b0624dd28ebc6eeecd664c8afdb234fcd451a07a84e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "RedStone Agent",
+    "description": "RedStone real-time cryptocurrency price data and AI-powered analysis. Query current prices for 500+ tokens across major exchanges. Analyze price trends, volatility, support/resistance levels, and get actionable insights for crypto trading decisions.",
+    "image": "https://raw.githubusercontent.com/redstone-finance/redstone-images/refs/heads/main/RED9000.png",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://a2a.redstone.finance/.well-known/agent.json",
+        "version": "0.1.0"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://mcp.redstone.finance",
+        "version": "0.1.0"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 17871,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 25255,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:27:57.843Z"
+}

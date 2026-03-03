@@ -1,0 +1,49 @@
+{
+  "id": 26759,
+  "owner": "0xce9598d84F0b7Cc781d9C0a86D16B513A08f372A",
+  "chain": "ethereum",
+  "name": "test",
+  "description": "AI Agent: test\n\nModel: google/gemini-2.5-pro",
+  "image": "https://modus.builders/agent-avatar.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24530077,
+  "txHash": "0x0fd85a211e43c37f99779feea557f939256a9ff456a557a6420d0b27d5bbc2d6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "test",
+    "description": "AI Agent: test\n\nModel: google/gemini-2.5-pro",
+    "image": "https://modus.builders/agent-avatar.png",
+    "endpoints": [
+      {
+        "name": "modus API",
+        "endpoint": "https://api.modus.builders/api/v1/agents/67a0b741-0c96-4d97-b0e4-8d3e5d37e541",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "modus WebSocket",
+        "endpoint": "wss://api.modus.builders/ws/agents/67a0b741-0c96-4d97-b0e4-8d3e5d37e541",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "version": "v1",
+        "capabilities": null
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 26759,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:24.641Z"
+}

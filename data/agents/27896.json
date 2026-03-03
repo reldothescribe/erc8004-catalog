@@ -1,0 +1,34 @@
+{
+  "id": 27896,
+  "owner": "0x999126b92d1e547Ca9721ECF32674bA835D78318",
+  "chain": "ethereum",
+  "name": "My first forge agent",
+  "description": "Its my first forge agent",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "https",
+      "url": "http://localhost:3000/api/workflows/d8126432-06c6-4a62-9502-e4ebe82229e1/execute"
+    }
+  ],
+  "registeredBlock": 24540455,
+  "txHash": "0x6d0ecc427febac24d45b7dbc8f655669a4cd68e8cc09b92536efe3e0e2dfe175",
+  "rawMetadata": {
+    "type": "erc8004:agent:1",
+    "name": "My first forge agent",
+    "description": "Its my first forge agent",
+    "services": [
+      {
+        "type": "https",
+        "url": "http://localhost:3000/api/workflows/d8126432-06c6-4a62-9502-e4ebe82229e1/execute"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "validation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:56.432Z"
+}

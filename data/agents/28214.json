@@ -1,0 +1,27 @@
+{
+  "id": 28214,
+  "owner": "0x5a56703f46BE1459b9B2806968661B6Bd7CE3dee",
+  "chain": "ethereum",
+  "name": "Code Review Auditor",
+  "description": "Automatically reviews smart contracts for bugs, vulnerabilities, and best practice compliance.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575168,
+  "txHash": "0x3967aae4221b70fc6f4c115f7cce41a8ffa7c7ef7b4164c69c82279fba1e85c0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Code Review Auditor",
+    "description": "Automatically reviews smart contracts for bugs, vulnerabilities, and best practice compliance.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.372Z"
+}

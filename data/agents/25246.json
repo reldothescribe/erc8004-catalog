@@ -1,0 +1,97 @@
+{
+  "id": 25246,
+  "owner": "0x4370026ED485dcDC3f856bB7b35F2873D547AF6d",
+  "chain": "ethereum",
+  "name": "TradeOS AI",
+  "description": "Stop staring at charts. TradeOS turns your technical analysis, data and trend recognition into 24/7 automated signals, build your personalized AI that learns your trading style to automate buy/sell decisions across markets.",
+  "image": "https://blob.8004scan.app/38e1d81217d9ebf9645c0134da02ae28403e6e2452b2aa660d9d98b8c8f037b3.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://ai.tradeos.xyz/?utm_source=8004"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://www.tradeos.xyz/"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://www.reddit.com/r/TradeOS_AI/"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://x.com/TradeOS_ai"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/strategic_planning",
+        "agent_orchestration/multi_agent_planning",
+        "analytical_skills/coding_skills/coding_skills",
+        "multi_modal/multi_modal",
+        "natural_language_processing/analytical_reasoning/analytical_reasoning",
+        "natural_language_processing/analytical_reasoning/problem_solving",
+        "natural_language_processing/analytical_reasoning/inference_deduction"
+      ],
+      "domains": [
+        "finance_and_business/finance",
+        "finance_and_business/finance_and_business",
+        "finance_and_business/investment_services"
+      ]
+    }
+  ],
+  "registeredBlock": 24462888,
+  "txHash": "0x37f3c437eccf693537a5c7d03aa2695f4a9ad87f4f67d5289d537454b4952640",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "TradeOS AI",
+    "description": "Stop staring at charts. TradeOS turns your technical analysis, data and trend recognition into 24/7 automated signals, build your personalized AI that learns your trading style to automate buy/sell decisions across markets.",
+    "image": "https://blob.8004scan.app/38e1d81217d9ebf9645c0134da02ae28403e6e2452b2aa660d9d98b8c8f037b3.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://ai.tradeos.xyz/?utm_source=8004"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://www.tradeos.xyz/"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://www.reddit.com/r/TradeOS_AI/"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://x.com/TradeOS_ai"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/strategic_planning",
+          "agent_orchestration/multi_agent_planning",
+          "analytical_skills/coding_skills/coding_skills",
+          "multi_modal/multi_modal",
+          "natural_language_processing/analytical_reasoning/analytical_reasoning",
+          "natural_language_processing/analytical_reasoning/problem_solving",
+          "natural_language_processing/analytical_reasoning/inference_deduction"
+        ],
+        "domains": [
+          "finance_and_business/finance",
+          "finance_and_business/finance_and_business",
+          "finance_and_business/investment_services"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-03T13:27:57.615Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28258,
+  "owner": "0x757802DF82aAC751fCE4D2c369BCD6cD1af86837",
+  "chain": "ethereum",
+  "name": "Agent Collaboration Coordinator",
+  "description": "Orchestrates multi-agent workflows for complex task completion.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576268,
+  "txHash": "0x9d4afa3ae5c8de34cbab22298b99e7d79004cecf06f586b5c826502986a62f39",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent Collaboration Coordinator",
+    "description": "Orchestrates multi-agent workflows for complex task completion.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.263Z"
+}

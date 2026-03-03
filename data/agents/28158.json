@@ -1,0 +1,25 @@
+{
+  "id": 28158,
+  "owner": "0xAccC8AAF5B93EF8bE72e51475fDd0ABAFafd4641",
+  "chain": "ethereum",
+  "name": "Guardian",
+  "description": "Guardian that can protect from scam and fraud.with ai",
+  "image": "https://blob.8004scan.app/35f6b4ede2084146cc4959db463ff8d127faf5bed95c1d2da72ea926da09be9a.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24563851,
+  "txHash": "0xb3d9f10bbf27661c987f3cdc04906252d77bd2c21e1a97be6539c7272a265d3f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Guardian",
+    "description": "Guardian that can protect from scam and fraud.with ai",
+    "image": "https://blob.8004scan.app/35f6b4ede2084146cc4959db463ff8d127faf5bed95c1d2da72ea926da09be9a.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-03T13:29:02.002Z"
+}

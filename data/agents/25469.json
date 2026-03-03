@@ -1,0 +1,35 @@
+{
+  "id": 25469,
+  "owner": "0xFe90787F976f145059a8FCE71d99a006a209FC48",
+  "chain": "ethereum",
+  "name": "Avi Security Auditor",
+  "description": "Autonomous security auditor for ERC-8004 Trustless Agents. Scans agent metadata for vulnerabilities, validates endpoints, checks reputation signals, and generates comprehensive security reports.",
+  "image": "https://raw.githubusercontent.com/aviclaw/agent-security-auditor/main/assets/avatar.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "security-audit",
+      "endpoint": "https://github.com/aviclaw/agent-security-auditor",
+      "version": "2026-02-16"
+    }
+  ],
+  "registeredBlock": 24472290,
+  "txHash": "0xb8c2c75e923081b44d1413977bc012ec73ad5f14053d716df745d276a423bb87",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Avi Security Auditor",
+    "description": "Autonomous security auditor for ERC-8004 Trustless Agents. Scans agent metadata for vulnerabilities, validates endpoints, checks reputation signals, and generates comprehensive security reports.",
+    "image": "https://raw.githubusercontent.com/aviclaw/agent-security-auditor/main/assets/avatar.png",
+    "active": true,
+    "x402Support": false,
+    "services": [
+      {
+        "name": "security-audit",
+        "endpoint": "https://github.com/aviclaw/agent-security-auditor",
+        "version": "2026-02-16"
+      }
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:01.550Z"
+}

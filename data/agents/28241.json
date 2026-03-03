@@ -1,0 +1,27 @@
+{
+  "id": 28241,
+  "owner": "0x5a56703f46BE1459b9B2806968661B6Bd7CE3dee",
+  "chain": "ethereum",
+  "name": "Airdrop Eligibility Checker",
+  "description": "Verifies wallet eligibility for ongoing and upcoming airdrops automatically.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575975,
+  "txHash": "0xb58789e25a591c18ebf57c1170890163d5e8624bcc6c84b3ee0cbf3073ccc58e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Airdrop Eligibility Checker",
+    "description": "Verifies wallet eligibility for ongoing and upcoming airdrops automatically.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.945Z"
+}

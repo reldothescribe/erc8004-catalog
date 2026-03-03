@@ -1,0 +1,37 @@
+{
+  "id": 27555,
+  "owner": "0xe51B2647Ff1d05346Fb7cC9972c9aDDAA66A4Cd1",
+  "chain": "ethereum",
+  "name": "Clawberto",
+  "description": "OpenClaw AI agent",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://github.com/ael-dev3/Clawberto-Kittenswap"
+    }
+  ],
+  "registeredBlock": 24534754,
+  "txHash": "0xb47a4780d9c18eb556e8b4c9cc41e8727d5c009134682884ca2e560d45a18738",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Clawberto",
+    "description": "OpenClaw AI agent",
+    "image": "",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://github.com/ael-dev3/Clawberto-Kittenswap"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:51.420Z"
+}

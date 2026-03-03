@@ -1,0 +1,63 @@
+{
+  "id": 26388,
+  "owner": "0x69eF61AFc3AA356e1ac97347119d75cBdAbEF534",
+  "chain": "ethereum",
+  "name": "Socratic Playground",
+  "description": "Socratic Playground",
+  "image": "ipfs://QmVfMbzM7iREtdakADRyRpsJj9xbgE55FvWSRb9nPcMDKX",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://socratic-playground.app.bonfires.ai",
+      "x402Support": true
+    },
+    {
+      "name": "api",
+      "endpoint": "https://tnt-v2-staging.api.bonfires.ai",
+      "x402Support": true
+    },
+    {
+      "name": "provision",
+      "endpoint": "eip155:8453:0x623135fb5927f1ffc9b46978fc09f4d3bfe61d39"
+    }
+  ],
+  "registeredBlock": 24517132,
+  "txHash": "0xe945d42a79025244cd6204dbebda7f526a50a159f80a6c452bbe1985c98a5d5a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Socratic Playground",
+    "description": "Socratic Playground",
+    "image": "ipfs://QmVfMbzM7iREtdakADRyRpsJj9xbgE55FvWSRb9nPcMDKX",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://socratic-playground.app.bonfires.ai",
+        "x402Support": true
+      },
+      {
+        "name": "api",
+        "endpoint": "https://tnt-v2-staging.api.bonfires.ai",
+        "x402Support": true
+      },
+      {
+        "name": "provision",
+        "endpoint": "eip155:8453:0x623135fb5927f1ffc9b46978fc09f4d3bfe61d39"
+      }
+    ],
+    "capabilities": [],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": null,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:16.713Z"
+}

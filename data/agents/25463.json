@@ -1,0 +1,34 @@
+{
+  "id": 25463,
+  "owner": "0x52ce108AE72712929FD2B8c6177a9b39e0ccF644",
+  "chain": "ethereum",
+  "name": "Valiron Good Agent #5 (Demo)",
+  "description": "Demo agent with good reputation for trust routing demonstration",
+  "image": "https://raw.githubusercontent.com/vatsashah45/Valiron/main/logo.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24471857,
+  "txHash": "0xe55025233855517b9b8cdeff4770e1abe41def21d85f6ec0d4687eea130f1d9b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Valiron Good Agent #5 (Demo)",
+    "description": "Demo agent with good reputation for trust routing demonstration",
+    "image": "https://raw.githubusercontent.com/vatsashah45/Valiron/main/logo.png",
+    "endpoints": [
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:1:0x52ce108AE72712929FD2B8c6177a9b39e0ccF644"
+      }
+    ],
+    "registrations": [
+      {
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:01.550Z"
+}

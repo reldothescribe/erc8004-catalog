@@ -1,0 +1,27 @@
+{
+  "id": 26238,
+  "owner": "0xC87c164e15848C7f3315f36Ee59eD38bcF846769",
+  "chain": "ethereum",
+  "name": "Wallet Activity Logger",
+  "description": "Logs and categorizes wallet transactions for tax and audit purposes. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24504755,
+  "txHash": "0x69f308231a5d748c47a1d4acd192beb79884a35468422e830d8248607230237f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Wallet Activity Logger",
+    "description": "Logs and categorizes wallet transactions for tax and audit purposes. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:13.925Z"
+}

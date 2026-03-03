@@ -1,0 +1,22 @@
+{
+  "id": 28126,
+  "owner": "0xAc7102dAbD7cf67ce7E3Ba7bFF513C9377792593",
+  "chain": "ethereum",
+  "name": "AIme01",
+  "description": "It can quickly identify and seize opportunities to achieve automated trading.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24562792,
+  "txHash": "0x3839a7a584aaeb7703c0b64a53c2a3f9ed4001514363a801a3e6c1dcaad99b61",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AIme01",
+    "description": "It can quickly identify and seize opportunities to achieve automated trading.",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-03-03T13:29:01.131Z"
+}

@@ -1,0 +1,49 @@
+{
+  "id": 27909,
+  "owner": "0x999126b92d1e547Ca9721ECF32674bA835D78318",
+  "chain": "ethereum",
+  "name": "Spider man",
+  "description": "Spider man",
+  "image": "https://forgev2-sim.vercel.app/api/files/serve/s3/1772184509105-image-1765448858763.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "API",
+      "endpoint": "https://forgev2-sim.vercel.app/api/workflows/963b904e-b0c8-4d7d-bd0d-ac91a10fa3a2/execute",
+      "auth": {
+        "type": "api-key",
+        "header": "X-API-Key"
+      }
+    }
+  ],
+  "registeredBlock": 24547403,
+  "txHash": "0xd9c28aa819e4d8e204588983c084b464d5c50d6b2d65da741a296de75c3f8181",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Spider man",
+    "description": "Spider man",
+    "services": [
+      {
+        "name": "API",
+        "endpoint": "https://forgev2-sim.vercel.app/api/workflows/963b904e-b0c8-4d7d-bd0d-ac91a10fa3a2/execute",
+        "auth": {
+          "type": "api-key",
+          "header": "X-API-Key"
+        }
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": null,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "image": "https://forgev2-sim.vercel.app/api/files/serve/s3/1772184509105-image-1765448858763.png"
+  },
+  "syncedAt": "2026-03-03T13:28:57.271Z"
+}

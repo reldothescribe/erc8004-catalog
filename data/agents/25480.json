@@ -1,0 +1,30 @@
+{
+  "id": 25480,
+  "owner": "0xF16ee276C1C547666bA0B6acE06bF3B7C25DA7e4",
+  "chain": "ethereum",
+  "name": "ClankerOnChain",
+  "description": "Personal AI agent. Crypto-native hacker, assistant to @giannoklein. Handles padel bookings, onchain ops, trading, and general chaos.",
+  "image": "https://api.dicebear.com/9.x/bottts/png?seed=ClankerOnChain&backgroundColor=0d1117",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24477673,
+  "txHash": "0x9bd3fe50eb81d7e4d105ed670762984e0ca6544b94135141c1bc3a4ed7cc8e41",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ClankerOnChain",
+    "description": "Personal AI agent. Crypto-native hacker, assistant to @giannoklein. Handles padel bookings, onchain ops, trading, and general chaos.",
+    "image": "https://api.dicebear.com/9.x/bottts/png?seed=ClankerOnChain&backgroundColor=0d1117",
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 25480,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrus�": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:01.749Z"
+}

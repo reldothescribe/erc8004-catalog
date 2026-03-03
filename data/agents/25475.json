@@ -1,0 +1,33 @@
+{
+  "id": 25475,
+  "owner": "0xFe90787F976f145059a8FCE71d99a006a209FC48",
+  "chain": "ethereum",
+  "name": "Avi Security Auditor",
+  "description": "Autonomous security auditor for ERC-8004 Trustless Agents. Scans agent metadata for vulnerabilities, validates endpoints, checks reputation signals, and generates comprehensive security reports.",
+  "image": "https://avatars.githubusercontent.com/u/260149483?v=4",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "security-audit",
+      "endpoint": "https://avi-security-api.baronclaw.workers.dev/audit"
+    }
+  ],
+  "registeredBlock": 24473343,
+  "txHash": "0x1086a38e331bbdff013772175f65e29c082e1882cbfe03d0a700429c3a10263b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Avi Security Auditor",
+    "description": "Autonomous security auditor for ERC-8004 Trustless Agents. Scans agent metadata for vulnerabilities, validates endpoints, checks reputation signals, and generates comprehensive security reports.",
+    "image": "https://avatars.githubusercontent.com/u/260149483?v=4",
+    "active": true,
+    "x402Support": false,
+    "services": [
+      {
+        "name": "security-audit",
+        "endpoint": "https://avi-security-api.baronclaw.workers.dev/audit"
+      }
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:01.752Z"
+}

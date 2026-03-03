@@ -1,0 +1,27 @@
+{
+  "id": 28262,
+  "owner": "0x0e0fbC5905BfA3A3f26FD4C7458B1Abf06deFE15",
+  "chain": "ethereum",
+  "name": "Feedback Submitter",
+  "description": "Automates on-chain feedback submission after agent interactions.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576297,
+  "txHash": "0xc692c1dbf54435676f581ce0c39a7d4c92e19f19baea8ebe28b50c82ecff3780",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Feedback Submitter",
+    "description": "Automates on-chain feedback submission after agent interactions.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.272Z"
+}

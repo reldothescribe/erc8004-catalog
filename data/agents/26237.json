@@ -1,0 +1,27 @@
+{
+  "id": 26237,
+  "owner": "0xC87c164e15848C7f3315f36Ee59eD38bcF846769",
+  "chain": "ethereum",
+  "name": "Borrowing Rate Monitor",
+  "description": "Tracks lending rates and suggests optimal borrow/lend positions. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24504751,
+  "txHash": "0x0292adfe72a2dc9f2d896b12604290f22447698e84f946f4125c1287b86b34fb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Borrowing Rate Monitor",
+    "description": "Tracks lending rates and suggests optimal borrow/lend positions. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:13.924Z"
+}

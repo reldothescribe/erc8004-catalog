@@ -1,0 +1,27 @@
+{
+  "id": 28263,
+  "owner": "0x0e0fbC5905BfA3A3f26FD4C7458B1Abf06deFE15",
+  "chain": "ethereum",
+  "name": "Trust Model Selector",
+  "description": "Chooses optimal trust model (reputation, zk, TEE) per task. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576322,
+  "txHash": "0xf30fe81417f0c8b40249b4714656c5ce5d7085948269dddeb423ce59cf47ff2c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Trust Model Selector",
+    "description": "Chooses optimal trust model (reputation, zk, TEE) per task. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.262Z"
+}

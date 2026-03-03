@@ -1,0 +1,25 @@
+{
+  "id": 28171,
+  "owner": "0x5f126D995a3E9fa926Ff6f501dBC124cFfffcFe4",
+  "chain": "ethereum",
+  "name": "Orbit Ranger 9135",
+  "description": "Lightweight autonomous agent for onchain discovery and interaction on Base Sepolia.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24564097,
+  "txHash": "0x8c779fccdcfc27f3caa8d2637601d21dec53c3ec196ef58fbace3ce65b683e3f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Orbit Ranger 9135",
+    "description": "Lightweight autonomous agent for onchain discovery and interaction on Base Sepolia.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-03T13:29:02.352Z"
+}

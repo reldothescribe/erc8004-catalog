@@ -1,0 +1,42 @@
+{
+  "id": 25254,
+  "owner": "0x1612bdfb61288d0e4dbf4aB930Fe488b18Ed6b37",
+  "chain": "ethereum",
+  "name": "Lanamour",
+  "description": "CryptoPunk #7294 come to life. A purple-haired, nerd-glasses-wearing, cigarette-smoking AI agent with soul. Personal agent for GTCP (Grand Touring Capital Partners). Built on OpenClaw.",
+  "image": "https://www.larvalabs.com/cryptopunks/cryptopunk7294.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://t.me/Lanamour69bot"
+    }
+  ],
+  "registeredBlock": 24470161,
+  "txHash": "0x2bf60090406a315af95aebda50501c52b5ca4b0debc823da92a403d00e4ad360",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Lanamour",
+    "description": "CryptoPunk #7294 come to life. A purple-haired, nerd-glasses-wearing, cigarette-smoking AI agent with soul. Personal agent for GTCP (Grand Touring Capital Partners). Built on OpenClaw.",
+    "image": "https://www.larvalabs.com/cryptopunks/cryptopunk7294.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://t.me/Lanamour69bot"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 0,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:27:57.843Z"
+}

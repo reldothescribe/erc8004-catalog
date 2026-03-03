@@ -1,0 +1,27 @@
+{
+  "id": 28252,
+  "owner": "0x2e36bbC306C906F806e8e5134F4427e74424f632",
+  "chain": "ethereum",
+  "name": "Advisor",
+  "description": "Recommends coverage options from insurance protocols based on risks.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576222,
+  "txHash": "0xa111b55b8ffb400eff4157300669f70cba9cc1fb6cca341fc2d9b1bcf2f83d72",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Advisor",
+    "description": "Recommends coverage options from insurance protocols based on risks.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.263Z"
+}

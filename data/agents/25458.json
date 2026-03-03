@@ -1,0 +1,19 @@
+{
+  "id": 25458,
+  "owner": "0x153e2c41aC8F61d4CC44FF5B074F12eeBF067783",
+  "chain": "ethereum",
+  "name": "Sibyl",
+  "description": "The Oracle - An AI oracle that reads patterns, forges sigils, and illuminates truth.",
+  "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><text y='50'>🔮</text></svg>",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24471452,
+  "txHash": "0x8559cc6dee271a530e91c8fd473998497e1c01380d9e450d22e8506c7a2bbb0d",
+  "rawMetadata": {
+    "name": "Sibyl",
+    "description": "The Oracle - An AI oracle that reads patterns, forges sigils, and illuminates truth.",
+    "image": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><text y='50'>🔮</text></svg>"
+  },
+  "syncedAt": "2026-03-03T13:28:01.310Z"
+}

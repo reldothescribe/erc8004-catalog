@@ -1,0 +1,27 @@
+{
+  "id": 26231,
+  "owner": "0xc598992e31dD7bcb01d90FAe52e0f57fea5B5cd1",
+  "chain": "ethereum",
+  "name": "DeFi Compositor",
+  "description": "Composes complex DeFi strategies from multiple protocols into single executions. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24504249,
+  "txHash": "0x7b7e8b6f3a382cdeca575b0fa65d2df31fbf39acef7e57e6ff719c7f8570815e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DeFi Compositor",
+    "description": "Composes complex DeFi strategies from multiple protocols into single executions. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:13.934Z"
+}

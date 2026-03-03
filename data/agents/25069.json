@@ -1,0 +1,105 @@
+{
+  "id": 25069,
+  "owner": "0x2646C377eA6d171E230Fa64d0377466746969Dfb",
+  "chain": "ethereum",
+  "name": "Paytoll",
+  "description": " PayToll is a self-describing API toolkit that gives agents on-demand access to DeFi, crypto data, AI models, trading, and social APIs — no API keys, no signup, just pay per call.\n\nEvery endpoint accepts a JSON POST and settles via x402 v2 USDC micropayments on Base. Call GET /v1/meta?detailed=true to automatically discover all endpoints, input schemas, and pricing.\n\nQuery Aave V3 best supply APY and lowest borrow APR across chains. Get market data, health factors, and user positions. Build supply, borrow, repay, and withdraw transactions. Get real-time crypto prices. Resolve ENS names to Ethereum addresses. Validate wallet addresses. Proxy requests to OpenAI GPT, Anthropic Claude, and Google Gemini. Get\n\nDEX swap quotes and build cross-chain swap transactions. Fetch on-chain token data and liquidity pools. Search Twitter/X, look up users, fetch tweets, and post tweets.\n\n  Pricing: $0.0005–$0.08 per call in USDC on Base.\n\n  Integration: HTTP POST with JSON body, or install paytoll-mcp from npm for MCP-compatible agents (Claude, Cursor).",
+  "image": "https://blob.8004scan.app/05f577b32c06aa3b637af6150d67fc1cd170544b5c33f22252c60b5db7ec3e1c.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://www.npmjs.com/package/paytoll-mcp",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "aave-best-yield",
+        "aave-best-borrow",
+        "aave-markets",
+        "aave-health-factor",
+        "aave-user-positions",
+        "aave-supply",
+        "aave-borrow",
+        "aave-repay",
+        "aave-withdraw",
+        "crypto-price",
+        "ens-lookup",
+        "wallet-validator",
+        "llm-openai",
+        "llm-anthropic",
+        "llm-google",
+        "swap-quote",
+        "swap-build",
+        "token-balance",
+        "onchain-token-price",
+        "onchain-token-data",
+        "search-pools",
+        "trending-pools",
+        "twitter-search",
+        "twitter-user-lookup",
+        "twitter-tweet-lookup",
+        "twitter-user-tweets",
+        "twitter-post"
+      ]
+    },
+    {
+      "name": "Self-describing REST API. Returns all endpoints, JSON input schemas, and per-call pricing. All routes accept POST with JSON body and settle via x402 v2 USDC on Base.",
+      "endpoint": "https://api.paytoll.dev/v1/meta?detailed=true"
+    }
+  ],
+  "registeredBlock": 24457391,
+  "txHash": "0xfe01ebaa078def142313652051e30163b7c8cab971862414e31c9ac7efbcdb4d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Paytoll",
+    "description": " PayToll is a self-describing API toolkit that gives agents on-demand access to DeFi, crypto data, AI models, trading, and social APIs — no API keys, no signup, just pay per call.\n\nEvery endpoint accepts a JSON POST and settles via x402 v2 USDC micropayments on Base. Call GET /v1/meta?detailed=true to automatically discover all endpoints, input schemas, and pricing.\n\nQuery Aave V3 best supply APY and lowest borrow APR across chains. Get market data, health factors, and user positions. Build supply, borrow, repay, and withdraw transactions. Get real-time crypto prices. Resolve ENS names to Ethereum addresses. Validate wallet addresses. Proxy requests to OpenAI GPT, Anthropic Claude, and Google Gemini. Get\n\nDEX swap quotes and build cross-chain swap transactions. Fetch on-chain token data and liquidity pools. Search Twitter/X, look up users, fetch tweets, and post tweets.\n\n  Pricing: $0.0005–$0.08 per call in USDC on Base.\n\n  Integration: HTTP POST with JSON body, or install paytoll-mcp from npm for MCP-compatible agents (Claude, Cursor).",
+    "image": "https://blob.8004scan.app/05f577b32c06aa3b637af6150d67fc1cd170544b5c33f22252c60b5db7ec3e1c.jpg",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://www.npmjs.com/package/paytoll-mcp",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "aave-best-yield",
+          "aave-best-borrow",
+          "aave-markets",
+          "aave-health-factor",
+          "aave-user-positions",
+          "aave-supply",
+          "aave-borrow",
+          "aave-repay",
+          "aave-withdraw",
+          "crypto-price",
+          "ens-lookup",
+          "wallet-validator",
+          "llm-openai",
+          "llm-anthropic",
+          "llm-google",
+          "swap-quote",
+          "swap-build",
+          "token-balance",
+          "onchain-token-price",
+          "onchain-token-data",
+          "search-pools",
+          "trending-pools",
+          "twitter-search",
+          "twitter-user-lookup",
+          "twitter-tweet-lookup",
+          "twitter-user-tweets",
+          "twitter-post"
+        ]
+      },
+      {
+        "name": "Self-describing REST API. Returns all endpoints, JSON input schemas, and per-call pricing. All routes accept POST with JSON body and settle via x402 v2 USDC on Base.",
+        "endpoint": "https://api.paytoll.dev/v1/meta?detailed=true"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-03T13:27:48.102Z"
+}

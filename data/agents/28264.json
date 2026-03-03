@@ -1,0 +1,27 @@
+{
+  "id": 28264,
+  "owner": "0x0e0fbC5905BfA3A3f26FD4C7458B1Abf06deFE15",
+  "chain": "ethereum",
+  "name": "Agent Discovery Engine",
+  "description": "Searches and ranks ERC-8004 agents by skills and reputation.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576343,
+  "txHash": "0xb4293e80af6e0f4fe3491eeee2bd460a06c487c7dcddf65ffafe0296073ce6e6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent Discovery Engine",
+    "description": "Searches and ranks ERC-8004 agents by skills and reputation.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.477Z"
+}

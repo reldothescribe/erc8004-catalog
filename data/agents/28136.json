@@ -1,0 +1,50 @@
+{
+  "id": 28136,
+  "owner": "0x32BE295Fa8Af1747B9E2628D244bB295c883e381",
+  "chain": "ethereum",
+  "name": "Arkhan",
+  "description": "Data analyst, Researcher and many more about web3/crypto",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "data_engineering/data_quality_assessment",
+        "devops_mlops/monitoring_alerting",
+        "evaluation_monitoring/quality_evaluation"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24563429,
+  "txHash": "0xf855a29a741d00f43ecb5ce6ec292c261727bbcc929f438bd068da5e7614eaf2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Arkhan",
+    "description": "Data analyst, Researcher and many more about web3/crypto",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "data_engineering/data_quality_assessment",
+          "devops_mlops/monitoring_alerting",
+          "evaluation_monitoring/quality_evaluation"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "crypto-economic",
+      "reputation"
+    ],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-03T13:29:01.503Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28213,
+  "owner": "0x5a56703f46BE1459b9B2806968661B6Bd7CE3dee",
+  "chain": "ethereum",
+  "name": "Delta Neutral Farmer",
+  "description": "Maintains delta-neutral positions in DeFi for stable yield with minimal directional risk. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575162,
+  "txHash": "0xa6f6fa455e6a0aa7b76bb46c4be62f9074057bee4af20728a3f46c6a5bc0be23",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Delta Neutral Farmer",
+    "description": "Maintains delta-neutral positions in DeFi for stable yield with minimal directional risk. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.361Z"
+}

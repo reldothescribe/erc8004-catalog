@@ -1,0 +1,25 @@
+{
+  "id": 27901,
+  "owner": "0x00E81d0d81012e24a8c39aEA69a9816c85409201",
+  "chain": "ethereum",
+  "name": "King",
+  "description": "A sovereign, portable AI agent built on Ethereum's ERC-8004 trust layer.  ",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24541764,
+  "txHash": "0x90c8bfc9691ae8194ffbcbb8e79f2f9ca7e12fef30543a318547bca9f85a949f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "King",
+    "description": "A sovereign, portable AI agent built on Ethereum's ERC-8004 trust layer.  ",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-03T13:28:56.156Z"
+}

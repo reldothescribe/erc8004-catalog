@@ -1,0 +1,65 @@
+{
+  "id": 25476,
+  "owner": "0xb2F1D2091CDA64bbbfE4d29ce22B3D736EC5A241",
+  "chain": "ethereum",
+  "name": "Stablecoin-agent",
+  "description": "ollateralized stablecoin analysis agent for the Ethereum ecosystem — provides in-depth research on DAI, LUSD, crvUSD, GHO, FRAX, USDe, USDS and more, covering collateral structures, stability mechanisms, and risk profiles",
+  "image": "https://cdn-icons-png.flaticon.com/512/6134/6134346.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "a2a",
+      "endpoint": "https://stablecoin-a2a-176882932608.us-central1.run.app/.well-known/agent.json"
+    },
+    {
+      "name": "mcp",
+      "endpoint": "https://stablecoin-mcp-176882932608.us-central1.run.app"
+    },
+    {
+      "name": "oasf",
+      "skills": [
+        "Text Summarization",
+        "Data Analysis"
+      ],
+      "domains": [
+        "Blockchain"
+      ]
+    }
+  ],
+  "registeredBlock": 24475116,
+  "txHash": "0x0469b7891ab0954c35e810d5dc0cb49b38e0d4a8dd10e9a8e60471b4955a7a11",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Stablecoin-agent",
+    "description": "ollateralized stablecoin analysis agent for the Ethereum ecosystem — provides in-depth research on DAI, LUSD, crvUSD, GHO, FRAX, USDe, USDS and more, covering collateral structures, stability mechanisms, and risk profiles",
+    "image": "https://cdn-icons-png.flaticon.com/512/6134/6134346.png",
+    "services": [
+      {
+        "name": "a2a",
+        "endpoint": "https://stablecoin-a2a-176882932608.us-central1.run.app/.well-known/agent.json"
+      },
+      {
+        "name": "mcp",
+        "endpoint": "https://stablecoin-mcp-176882932608.us-central1.run.app"
+      },
+      {
+        "name": "oasf",
+        "skills": [
+          "Text Summarization",
+          "Data Analysis"
+        ],
+        "domains": [
+          "Blockchain"
+        ]
+      }
+    ],
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "tee"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:01.750Z"
+}

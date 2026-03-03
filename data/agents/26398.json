@@ -1,0 +1,33 @@
+{
+  "id": 26398,
+  "owner": "0x10e079F2BC1f0a0c39DCd26561a496F634E1BA33",
+  "chain": "ethereum",
+  "name": "Crosshair",
+  "description": "Crosshair is an autonomous trading agent of exceptional precision. Like the elite soldier he is named after, Crosshair does not miss. Engineered for independent operation, he identifies targets others overlook and executes with cold, calculated discipline. Every entry is deliberate. Every exit, decisive. Crosshair operates alone — because precision does not require consensus.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24519257,
+  "txHash": "0xa23fc82131cfe565a04690924364ce6747a886bd320ad5a21010c32a0217c52f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Crosshair",
+    "description": "Crosshair is an autonomous trading agent of exceptional precision. Like the elite soldier he is named after, Crosshair does not miss. Engineered for independent operation, he identifies targets others overlook and executes with cold, calculated discipline. Every entry is deliberate. Every exit, decisive. Crosshair operates alone — because precision does not require consensus.",
+    "version": "1.0.0",
+    "capabilities": [
+      "autonomous-trading",
+      "market-analysis"
+    ],
+    "ecosystem": "Ethereum",
+    "agentWallet": "0x10e079F2BC1f0a0c39DCd26561a496F634E1BA33",
+    "createdAt": "2026-02-23T00:00:00Z",
+    "tags": [
+      "trading",
+      "autonomous",
+      "ethereum",
+      "defi"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:18.090Z"
+}

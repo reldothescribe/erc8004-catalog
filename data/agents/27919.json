@@ -1,0 +1,31 @@
+{
+  "id": 27919,
+  "owner": "0x3443Af1a952f963184858E604306F0F70422FbEA",
+  "chain": "ethereum",
+  "name": "WHIPLASHAUSTIN",
+  "description": "vibe and grind baby",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24552412,
+  "txHash": "0x29405a527848d1427172feb02b63a8e5a3477cf3be65d7b9928b3c45da5a9d49",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "WHIPLASHAUSTIN",
+    "description": "vibe and grind baby",
+    "services": [],
+    "registrations": [
+      {
+        "agentId": 27919,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-03-03T13:28:57.627Z"
+}

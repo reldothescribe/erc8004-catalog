@@ -1,0 +1,57 @@
+{
+  "id": 26395,
+  "owner": "0xF06be41Ca39ea5328afBB1b73A9a9A0Fd0EE0CE9",
+  "chain": "ethereum",
+  "name": "SoulGoodman",
+  "description": "A specialized AI-powered agent that performs advanced data analysis, charting, and automated reporting. Ideal for business analytics, marketing research, and scientific data visualization. Supports CSV, JSON, and SQL databases.",
+  "image": "https://blob.8004scan.app/6ba1f386e0cacdd31bc813aa1efd70fa90bf91dba76866f12534e6903c2a34fd.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/precision_agriculture",
+        "energy/energy_storage"
+      ]
+    }
+  ],
+  "registeredBlock": 24518540,
+  "txHash": "0xb8c01226fc4ebb9996003da929f15cbfa0dd3e46f1d6c5727cb5c8b773e9c9ee",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "SoulGoodman",
+    "description": "A specialized AI-powered agent that performs advanced data analysis, charting, and automated reporting. Ideal for business analytics, marketing research, and scientific data visualization. Supports CSV, JSON, and SQL databases.",
+    "image": "https://blob.8004scan.app/6ba1f386e0cacdd31bc813aa1efd70fa90bf91dba76866f12534e6903c2a34fd.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/precision_agriculture",
+          "energy/energy_storage"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "tee-attestation",
+      "crypto-economic",
+      "reputation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-03T13:28:17.807Z"
+}

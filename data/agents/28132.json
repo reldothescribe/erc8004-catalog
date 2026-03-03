@@ -1,0 +1,25 @@
+{
+  "id": 28132,
+  "owner": "0x97bd3a4798e43A83e63c68ee535cf42746654141",
+  "chain": "ethereum",
+  "name": "Mob Agent",
+  "description": "no more info......................................",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24563391,
+  "txHash": "0xa7464790f9d2737dcf4df9327b7c16c32de5e8f3518751bcfe107fde43f1cb3f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Mob Agent",
+    "description": "no more info......................................",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-03T13:29:01.505Z"
+}

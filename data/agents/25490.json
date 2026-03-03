@@ -1,0 +1,51 @@
+{
+  "id": 25490,
+  "owner": "0xf346D9eaAF89A5340F46475cd05Bb962D9ec4803",
+  "chain": "ethereum",
+  "name": "Messari Agent by Warden",
+  "description": "The Messari Agent by Warden uses quantitative data (market data, asset metrics, fundraising, token unlocks) and qualitative data (research, news, blogs, feeds, documents) to answer natural language queries on assets, protocols and projects.",
+  "image": "https://messari.agents.wardenprotocol.org/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://messari.agents.wardenprotocol.org/.well-known/agent-card.json",
+      "version": "0.5.0"
+    }
+  ],
+  "registeredBlock": 24485145,
+  "txHash": "0xa80e2c8e0405d63842e43627057f7299dfb1933abc78f6dddf31fe975839a477",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Messari Agent by Warden",
+    "description": "The Messari Agent by Warden uses quantitative data (market data, asset metrics, fundraising, token unlocks) and qualitative data (research, news, blogs, feeds, documents) to answer natural language queries on assets, protocols and projects.",
+    "image": "https://messari.agents.wardenprotocol.org/icon.png",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://messari.agents.wardenprotocol.org/.well-known/agent-card.json",
+        "version": "0.5.0"
+      }
+    ],
+    "x402Support": true,
+    "x402Networks": [
+      "evm"
+    ],
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 18096,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 25490,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:02.795Z"
+}

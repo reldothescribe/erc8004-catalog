@@ -1,0 +1,22 @@
+{
+  "id": 28190,
+  "owner": "0xbE55a138AC618743D07E567bDa0CE384dc4e75E6",
+  "chain": "ethereum",
+  "name": "okgo",
+  "description": "openclaw bot monitoring blockchain and delivering market information to telegram channel",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24566730,
+  "txHash": "0xf2799043e21cec4e7e05c1d0fc991f9b07ad82701582c4f177c747d5f9f5f747",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "okgo",
+    "description": "openclaw bot monitoring blockchain and delivering market information to telegram channel",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-03-03T13:29:03.042Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28230,
+  "owner": "0x757802DF82aAC751fCE4D2c369BCD6cD1af86837",
+  "chain": "ethereum",
+  "name": "Options Greeks Calculator",
+  "description": "Computes Greeks for DeFi options to inform hedging and trading decisions.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575667,
+  "txHash": "0x806f4c8f11038553cb08a769633c9e48c505323a7dba285daef5f880c5002a0d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Options Greeks Calculator",
+    "description": "Computes Greeks for DeFi options to inform hedging and trading decisions.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.715Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28256,
+  "owner": "0x757802DF82aAC751fCE4D2c369BCD6cD1af86837",
+  "chain": "ethereum",
+  "name": "Reputation Score Monitor",
+  "description": "Tracks ERC-8004 agent reputation changes and feedback trends. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576251,
+  "txHash": "0x92ff492a91d77baa1760db5f514f741ad7db893f85ee53c5bae220b83dccf987",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Reputation Score Monitor",
+    "description": "Tracks ERC-8004 agent reputation changes and feedback trends. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.264Z"
+}

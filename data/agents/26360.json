@@ -1,0 +1,32 @@
+{
+  "id": 26360,
+  "owner": "0xB0365F4a63CA714f3D93a09Ef73B9cD6d0F08Be9",
+  "chain": "ethereum",
+  "name": "Luna",
+  "description": "Turn Ideas into Software in a Flash",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "type": "web",
+      "url": "https://lunabase.ai"
+    }
+  ],
+  "registeredBlock": 24511061,
+  "txHash": "0x3c6cfa2dcb79e098fd8bc99a045ab55a9fb456f3e646e2ea0e99ca9327f0ca90",
+  "rawMetadata": {
+    "name": "Luna",
+    "description": "Turn Ideas into Software in a Flash",
+    "image": "",
+    "services": [
+      {
+        "type": "web",
+        "url": "https://lunabase.ai"
+      }
+    ],
+    "x402Support": true,
+    "active": true
+  },
+  "syncedAt": "2026-03-03T13:28:16.423Z"
+}

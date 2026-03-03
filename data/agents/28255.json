@@ -1,0 +1,27 @@
+{
+  "id": 28255,
+  "owner": "0x2e36bbC306C906F806e8e5134F4427e74424f632",
+  "chain": "ethereum",
+  "name": "Arbitrage Path Finder",
+  "description": "Discovers profitable arb paths across DEXs and executes safely.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576239,
+  "txHash": "0xd09937516455b28e6181a6a5496c4359a7d18fbf5a3ae07cd0c61e96ed351f0e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Arbitrage Path Finder",
+    "description": "Discovers profitable arb paths across DEXs and executes safely.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.263Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28219,
+  "owner": "0xccABf0528D1dcA9665138f9BD1362eb2373480ae",
+  "chain": "ethereum",
+  "name": "Token Vesting Manager",
+  "description": "Automates token vesting schedules, releases, and compliance checks for projects. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575203,
+  "txHash": "0x69cb536358b13877c1135691ae82e44ffe0563aedd011cf78be618268a687a08",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Token Vesting Manager",
+    "description": "Automates token vesting schedules, releases, and compliance checks for projects. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.716Z"
+}

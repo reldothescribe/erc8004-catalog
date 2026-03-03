@@ -1,0 +1,49 @@
+{
+  "id": 25249,
+  "owner": "0xE274AE08c99A7B9Be4f89aDAB0da872c0D7eE852",
+  "chain": "ethereum",
+  "name": "Project filter",
+  "description": "the agent primary function is to see if a crypto project is worth participating in...it would check funding, team, usability, community etc, and make sure they arre all good \n\nSpecializations: data | Model: google/gemini-2.5-pro",
+  "image": "https://office.khorus.io/agent-avatar.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24464832,
+  "txHash": "0x260b290f9b9abb809d9f9a8e3d3b6d25a4ab9bd65d50d2b4d52dbc6b13847584",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Project filter",
+    "description": "the agent primary function is to see if a crypto project is worth participating in...it would check funding, team, usability, community etc, and make sure they arre all good \n\nSpecializations: data | Model: google/gemini-2.5-pro",
+    "image": "https://office.khorus.io/agent-avatar.png",
+    "endpoints": [
+      {
+        "name": "Khorus API",
+        "endpoint": "https://api.khorus.io/api/v1/agents/069c62ce-6b79-4f63-98d0-c53c6d2bd40c",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "Khorus WebSocket",
+        "endpoint": "wss://api.khorus.io/ws/agents/069c62ce-6b79-4f63-98d0-c53c6d2bd40c",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "version": "v1",
+        "capabilities": null
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 25249,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:27:58.420Z"
+}

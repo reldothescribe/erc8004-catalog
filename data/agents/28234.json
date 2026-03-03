@@ -1,0 +1,27 @@
+{
+  "id": 28234,
+  "owner": "0x0e0fbC5905BfA3A3f26FD4C7458B1Abf06deFE15",
+  "chain": "ethereum",
+  "name": " Aggregator",
+  "description": "Pools stablecoin yields from safe protocols for consistent returns.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575714,
+  "txHash": "0x05711fcbd6e9ef914079469a13a51983da9ede653ca4575567ed3d54356813b4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": " Aggregator",
+    "description": "Pools stablecoin yields from safe protocols for consistent returns.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.944Z"
+}

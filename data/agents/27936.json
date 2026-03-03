@@ -1,0 +1,39 @@
+{
+  "id": 27936,
+  "owner": "0x43D4d9346C0004F8Cb80EB0CE1d7561Ca5942c1b",
+  "chain": "ethereum",
+  "name": "Thinker",
+  "description": "Thinker thinks...",
+  "image": "ipfs://QmNcrrucFDbeujDmSDs3FrZkx5T6pwULzZXn34buNrfo4v",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "ENS",
+      "endpoint": "thinkerthinks.eth",
+      "version": "v1"
+    }
+  ],
+  "registeredBlock": 24562305,
+  "txHash": "0xb3cecda44adab21a2e5162ceee2a9789d3637415b58871e92d0d8dc6e687960f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Thinker",
+    "description": "Thinker thinks...",
+    "image": "ipfs://QmNcrrucFDbeujDmSDs3FrZkx5T6pwULzZXn34buNrfo4v",
+    "services": [
+      {
+        "name": "ENS",
+        "endpoint": "thinkerthinks.eth",
+        "version": "v1"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:58.483Z"
+}

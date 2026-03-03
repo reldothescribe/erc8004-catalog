@@ -1,0 +1,32 @@
+{
+  "id": 26387,
+  "owner": "0x69eF61AFc3AA356e1ac97347119d75cBdAbEF534",
+  "chain": "ethereum",
+  "name": "SpongeBot Research",
+  "description": "SpongeBot Research",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "endpoint": "https://tnt-v2-staging.api.bonfires.ai",
+      "x402Support": true
+    }
+  ],
+  "registeredBlock": 24516869,
+  "txHash": "0x7e38850899b29308d6b8f8b573faa9038fca6cf5e6e4217c12f83aad2004a9f1",
+  "rawMetadata": {
+    "name": "SpongeBot Research",
+    "description": "SpongeBot Research",
+    "services": [
+      {
+        "endpoint": "https://tnt-v2-staging.api.bonfires.ai",
+        "x402Support": true
+      }
+    ],
+    "capabilities": [
+      "Collective Intelligence"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:16.923Z"
+}

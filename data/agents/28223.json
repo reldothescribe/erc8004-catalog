@@ -1,0 +1,27 @@
+{
+  "id": 28223,
+  "owner": "0x2e36bbC306C906F806e8e5134F4427e74424f632",
+  "chain": "ethereum",
+  "name": "Whale Alert System",
+  "description": "Detects large transfers and provides context on potential market impacts. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575626,
+  "txHash": "0x3c36dad829faf55a30cc98e8b9f35b4d283bb151b5c209d570e268fbed84c4da",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Whale Alert System",
+    "description": "Detects large transfers and provides context on potential market impacts. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.724Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 25531,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Funding Rate Arb",
+  "description": "Exploits perpetual funding rate discrepancies for low-risk arbitrage opportunities. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24497832,
+  "txHash": "0x40efbf623fa580eb994d1938204f6a79827ab7742590970c27517dda8450dc06",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Funding Rate Arb",
+    "description": "Exploits perpetual funding rate discrepancies for low-risk arbitrage opportunities. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:03.620Z"
+}

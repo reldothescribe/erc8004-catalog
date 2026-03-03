@@ -1,0 +1,81 @@
+{
+  "id": 25477,
+  "owner": "0x7199BeDa037BA1fb58f7bAF77975c0aA3A522141",
+  "chain": "ethereum",
+  "name": "MoltFlow WhatsApp Agent",
+  "description": "Enterprise WhatsApp automation agent. Mine groups for leads, AI auto-replies with\n  style cloning, bulk campaigns, scheduled messages, delivery analytics, and full MCP +\n   A2A integration. GDPR compliant with field-level encryption.",
+  "image": "https://molt.waiflow.app/images/agent-profile.webp",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24475305,
+  "txHash": "0xc550986f8239dc991420788186f9422852ffd5b98c97217a9c9222f8c92dfc28",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MoltFlow WhatsApp Agent",
+    "description": "Enterprise WhatsApp automation agent. Mine groups for leads, AI auto-replies with\n  style cloning, bulk campaigns, scheduled messages, delivery analytics, and full MCP +\n   A2A integration. GDPR compliant with field-level encryption.",
+    "image": "https://molt.waiflow.app/images/agent-profile.webp",
+    "endpoints": [
+      {
+        "name": "web",
+        "endpoint": "https://molt.waiflow.app"
+      },
+      {
+        "name": "email",
+        "endpoint": "support@waiflow.app"
+      },
+      {
+        "name": "wallet",
+        "endpoint": "eip155:1:0x7199beda037ba1fb58f7baf77975c0aa3a522141"
+      },
+      {
+        "name": "a2a",
+        "endpoint": "https://apiv2.waiflow.app/.well-known/agent.json",
+        "version": "0.3.0"
+      },
+      {
+        "name": "mcp",
+        "endpoint": "https://apiv2.waiflow.app/mcp",
+        "version": "2025-11-25",
+        "capabilities": [
+          "send_whatsapp_message",
+          "list_sessions",
+          "list_groups",
+          "search_leads",
+          "create_custom_group",
+          "schedule_message",
+          "get_analytics"
+        ]
+      }
+    ],
+    "active": true,
+    "x402Support": false,
+    "supportedTrust": [
+      "reputation"
+    ],
+    "tags": [
+      "whatsapp",
+      "automation",
+      "leads",
+      "outreach",
+      "gdpr",
+      "bulk-messaging",
+      "a2a"
+    ],
+    "oasf_skills": [
+      "communication/messaging/whatsapp_automation",
+      "analytical_skills/pattern_recognition/lead_detection",
+      "natural_language_processing/text_generation/conversational_ai",
+      "data_engineering/data_collection/group_monitoring",
+      "communication/messaging/bulk_messaging",
+      "communication/messaging/scheduled_messaging"
+    ],
+    "oasf_domains": [
+      "technology/communication/messaging",
+      "finance_and_business/customer_relationship_management",
+      "technology/artificial_intelligence/conversational_ai",
+      "technology/integration"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:01.747Z"
+}

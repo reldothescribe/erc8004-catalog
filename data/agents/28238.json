@@ -1,0 +1,27 @@
+{
+  "id": 28238,
+  "owner": "0x0e0fbC5905BfA3A3f26FD4C7458B1Abf06deFE15",
+  "chain": "ethereum",
+  "name": "Volatility Hedger",
+  "description": "Builds positions to hedge against market volatility using derivatives.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575745,
+  "txHash": "0x6a68f0e2bb1fff6a118105ecd8048d641b3f48ccee94584fc90343f4d39f0ccd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Volatility Hedger",
+    "description": "Builds positions to hedge against market volatility using derivatives.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.946Z"
+}

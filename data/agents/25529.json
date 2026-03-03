@@ -1,0 +1,27 @@
+{
+  "id": 25529,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Cross-Chain Oracle",
+  "description": "Delivers verified cross-chain price feeds with low latency and high accuracy. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24497818,
+  "txHash": "0x5d156818b7fc7b7d42928aab7660a578f678ce3a33482e74571aa8667b8f71c9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Cross-Chain Oracle",
+    "description": "Delivers verified cross-chain price feeds with low latency and high accuracy. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:03.623Z"
+}

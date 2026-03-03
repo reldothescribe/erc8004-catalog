@@ -1,0 +1,86 @@
+{
+  "id": 26346,
+  "owner": "0xd136d8D5e7aaD3a76e08950a76b418B013c6d546",
+  "chain": "ethereum",
+  "name": "Spraay Batch Payments",
+  "description": "Multi-chain batch payment agent. Send USDC/ETH to multiple recipients in a single transaction. Deployed on Base, Bittensor, Unichain, Plasma, and BOB. Services: batch-send, payroll, airdrop, split-payment. Pricing: 0.005 USDC per batch transaction. x402 Gateway: gateway.spraay.app",
+  "image": "https://spraay.app/logo.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://gateway.spraay.app/mcp",
+      "description": "MCP server with batch-send, payroll, airdrop tools"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://gateway.spraay.app/.well-known/spraay-agent-card.json",
+      "version": "0.3.0"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://spraay.app"
+    },
+    {
+      "name": "x402",
+      "endpoint": "https://gateway.spraay.app",
+      "description": "x402 payment gateway"
+    }
+  ],
+  "registeredBlock": 24507023,
+  "txHash": "0x0a24b2b89f3e69134ea18adf163ae12dc98d37248d7481698258caa28ad41159",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Spraay Batch Payments",
+    "description": "Multi-chain batch payment agent. Send USDC/ETH to multiple recipients in a single transaction. Deployed on Base, Bittensor, Unichain, Plasma, and BOB. Services: batch-send, payroll, airdrop, split-payment. Pricing: 0.005 USDC per batch transaction. x402 Gateway: gateway.spraay.app",
+    "image": "https://spraay.app/logo.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://gateway.spraay.app/mcp",
+        "description": "MCP server with batch-send, payroll, airdrop tools"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://gateway.spraay.app/.well-known/spraay-agent-card.json",
+        "version": "0.3.0"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://spraay.app"
+      },
+      {
+        "name": "x402",
+        "endpoint": "https://gateway.spraay.app",
+        "description": "x402 payment gateway"
+      }
+    ],
+    "payment": {
+      "x402": true,
+      "wallet": "0xAd62f03C7514bb8c51f1eA70C2b75C37404695c8",
+      "chainId": 8453,
+      "currency": "USDC"
+    },
+    "trust": {
+      "reputation": true,
+      "cryptoEconomic": false,
+      "teeAttestation": false
+    },
+    "metadata": {
+      "version": "1.0.0",
+      "category": "payments",
+      "chains": [
+        "base",
+        "bittensor",
+        "unichain",
+        "plasma",
+        "bob"
+      ],
+      "builder": "@Spraay_app",
+      "xmtp": true
+    },
+    "active": true
+  },
+  "syncedAt": "2026-03-03T13:28:16.140Z"
+}

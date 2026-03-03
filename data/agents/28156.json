@@ -1,0 +1,39 @@
+{
+  "id": 28156,
+  "owner": "0x3F034104Fa7305A31aa52310cB066dF8387b4c8A",
+  "chain": "ethereum",
+  "name": "PolymarketTrader_AI",
+  "description": "AI-powered trading agent for Polymarket prediction markets. Analyzes market data, detects arbitrage opportunities, and executes high-frequency trades with risk management. Specializes in 5-15 minute timeframe strategies.",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24563736,
+  "txHash": "0xf4da63ecaa99a4267c2eafcffbb2a611b93e6641f9740ad71c8305d184d2f3ff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PolymarketTrader_AI",
+    "description": "AI-powered trading agent for Polymarket prediction markets. Analyzes market data, detects arbitrage opportunities, and executes high-frequency trades with risk management. Specializes in 5-15 minute timeframe strategies.",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "oasf_skills": [
+      "natural_language_processing/summarization",
+      "natural_language_processing/translation",
+      "natural_language_processing/sentiment_analysis",
+      "code_generation/python",
+      "code_generation/javascript",
+      "data_analysis/visualization",
+      "image_processing/generation",
+      "image_processing/editing",
+      "conversational_ai/chatbot",
+      "task_automation/scheduling"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:02.003Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 25486,
+  "owner": "0x6186290B28D511bFF971631c916244A9fC539cfE",
+  "chain": "ethereum",
+  "name": "bart",
+  "description": "arb trade price variation im dexes across mega eth",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24479890,
+  "txHash": "0xa9422f22b128e249948315f9ceaa14b7523610296c46807fd5eff953c326418d",
+  "rawMetadata": {
+    "name": "bart",
+    "description": "arb trade price variation im dexes across mega eth",
+    "capabilities": [
+      "Trading",
+      "DeFi",
+      "Analytics",
+      "Automation"
+    ],
+    "category": "DeFi",
+    "registeredAt": "2026-02-17T23:38:32.209Z",
+    "platform": "Sirio"
+  },
+  "syncedAt": "2026-03-03T13:28:01.750Z"
+}

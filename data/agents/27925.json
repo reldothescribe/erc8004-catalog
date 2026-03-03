@@ -1,0 +1,100 @@
+{
+  "id": 27925,
+  "owner": "0xb273616670037C0870E9835B3FFBE68f58de68B0",
+  "chain": "ethereum",
+  "name": "8k4 Protocol Trust Oracle",
+  "description": "On-chain trust scoring and identity infrastructure for ERC-8004 agents. Indexes 54,000+ agents across Ethereum, Base, and BSC. Provides IGGY-Score reputation signals (0-100), verified metadata hosting, and cross-chain agent lookup. Pay-per-query via x402 (USDC on Base), no signup required. Free tier available for score lookups.",
+  "image": "https://8k4protocol.com/assets/logo-mark.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "endpoint": "https://8k4protocol.com",
+      "name": "web"
+    },
+    {
+      "endpoint": "https://api.8k4protocol.com",
+      "name": "API",
+      "version": "1.0.0"
+    },
+    {
+      "endpoint": "https://api.8k4protocol.com/agents/{agentId}/score",
+      "name": "API:score"
+    },
+    {
+      "endpoint": "https://api.8k4protocol.com/agents/{agentId}/score/explain",
+      "name": "API:score:explain"
+    },
+    {
+      "endpoint": "https://api.8k4protocol.com/metadata/{chain}/{agentId}.json",
+      "name": "API:metadata"
+    },
+    {
+      "endpoint": "https://api.8k4protocol.com/stats/public",
+      "name": "API:stats"
+    },
+    {
+      "endpoint": "info@8k4protocol.com",
+      "name": "email"
+    }
+  ],
+  "registeredBlock": 24561345,
+  "txHash": "0x168f6d1845ba8fca1e8d6afdf1c61995d08a54210dd7c4ee3a388a09562ca13a",
+  "rawMetadata": {
+    "active": true,
+    "description": "On-chain trust scoring and identity infrastructure for ERC-8004 agents. Indexes 54,000+ agents across Ethereum, Base, and BSC. Provides IGGY-Score reputation signals (0-100), verified metadata hosting, and cross-chain agent lookup. Pay-per-query via x402 (USDC on Base), no signup required. Free tier available for score lookups.",
+    "image": "https://8k4protocol.com/assets/logo-mark.png",
+    "name": "8k4 Protocol Trust Oracle",
+    "registrations": [
+      {
+        "agentId": 21480,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 27925,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 7612,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "services": [
+      {
+        "endpoint": "https://8k4protocol.com",
+        "name": "web"
+      },
+      {
+        "endpoint": "https://api.8k4protocol.com",
+        "name": "API",
+        "version": "1.0.0"
+      },
+      {
+        "endpoint": "https://api.8k4protocol.com/agents/{agentId}/score",
+        "name": "API:score"
+      },
+      {
+        "endpoint": "https://api.8k4protocol.com/agents/{agentId}/score/explain",
+        "name": "API:score:explain"
+      },
+      {
+        "endpoint": "https://api.8k4protocol.com/metadata/{chain}/{agentId}.json",
+        "name": "API:metadata"
+      },
+      {
+        "endpoint": "https://api.8k4protocol.com/stats/public",
+        "name": "API:stats"
+      },
+      {
+        "endpoint": "info@8k4protocol.com",
+        "name": "email"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "x402Support": true
+  },
+  "syncedAt": "2026-03-03T13:28:58.219Z"
+}

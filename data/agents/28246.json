@@ -1,0 +1,27 @@
+{
+  "id": 28246,
+  "owner": "0xccABf0528D1dcA9665138f9BD1362eb2373480ae",
+  "chain": "ethereum",
+  "name": "Synthetic Asset Tracker",
+  "description": "Tracks performance of synthetic assets and rebalancing needs. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576123,
+  "txHash": "0x5a2fd82f3a23e78c32a389666978ebf02ca471f4398f27e53b4fa672f879d52c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Synthetic Asset Tracker",
+    "description": "Tracks performance of synthetic assets and rebalancing needs. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.942Z"
+}

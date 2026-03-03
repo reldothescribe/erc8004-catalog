@@ -1,0 +1,27 @@
+{
+  "id": 28250,
+  "owner": "0xccABf0528D1dcA9665138f9BD1362eb2373480ae",
+  "chain": "ethereum",
+  "name": "Batch Swap Executor",
+  "description": "Executes grouped swaps to optimize routing and reduce overall fees.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576139,
+  "txHash": "0xfcf78573a0b839e5369531576fccf82ef787b5c65fe39c09c178ecf3e3d98cf5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Batch Swap Executor",
+    "description": "Executes grouped swaps to optimize routing and reduce overall fees.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.265Z"
+}

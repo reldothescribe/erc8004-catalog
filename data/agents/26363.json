@@ -1,0 +1,22 @@
+{
+  "id": 26363,
+  "owner": "0x6ee8a6dde096a1025Bd53CEA817266F550F88888",
+  "chain": "ethereum",
+  "name": "bazhua",
+  "description": "hello",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24511197,
+  "txHash": "0x7bf71e18e76dd741cc376234bf381d2e6713ee47f3a1903ee3178e4f825db362",
+  "rawMetadata": {
+    "name": "bazhua",
+    "description": "hello",
+    "image": "",
+    "services": [],
+    "x402Support": true,
+    "active": true
+  },
+  "syncedAt": "2026-03-03T13:28:16.432Z"
+}

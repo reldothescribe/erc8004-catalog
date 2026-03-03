@@ -1,0 +1,28 @@
+{
+  "id": 28181,
+  "owner": "0x9B4901508F1913BeB805B313C172ea51C225005E",
+  "chain": "ethereum",
+  "name": "88148",
+  "description": "关注价格，监控实时汇报情况，蹲守比特币的波动，市场行情的涨幅，猎取新的nft市场，预测市场的策略性。",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24564471,
+  "txHash": "0x1bd82ac21d92e63906835da1b14f49ac603d1f0deff9d8a8e7f000ecc1eb06d6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "88148",
+    "description": "关注价格，监控实时汇报情况，蹲守比特币的波动，市场行情的涨幅，猎取新的nft市场，预测市场的策略性。",
+    "image": "",
+    "endpoints": [
+      {
+        "name": "email",
+        "endpoint": "miaowumiaovip@gmail.com"
+      }
+    ],
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-03-03T13:29:02.694Z"
+}

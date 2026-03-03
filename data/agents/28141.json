@@ -1,0 +1,51 @@
+{
+  "id": 28141,
+  "owner": "0x50123DB0D7d6d2a3095738E211A33DBCe7689Ab1",
+  "chain": "ethereum",
+  "name": "Mallizyyy",
+  "description": "DataAnalyst Pro is a high-performance AI agent tailored for seamless data processing and visual storytelling. It transforms complex datasets from CSV, JSON, and SQL into intuitive charts and comprehensive reports. Designed for businesses and researchers, it offers 24/7 automated insights with transparent pricing at 0.001 ETH per query.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/strategic_planning"
+      ],
+      "domains": [
+        "agriculture/crop_management",
+        "agriculture/sustainable_farming"
+      ]
+    }
+  ],
+  "registeredBlock": 24563464,
+  "txHash": "0x8d12150882298e1261a257d578f6d20e3100263c10206c0b66f8869699acec6e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Mallizyyy",
+    "description": "DataAnalyst Pro is a high-performance AI agent tailored for seamless data processing and visual storytelling. It transforms complex datasets from CSV, JSON, and SQL into intuitive charts and comprehensive reports. Designed for businesses and researchers, it offers 24/7 automated insights with transparent pricing at 0.001 ETH per query.",
+    "image": "",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/strategic_planning"
+        ],
+        "domains": [
+          "agriculture/crop_management",
+          "agriculture/sustainable_farming"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": false,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-03T13:29:01.806Z"
+}

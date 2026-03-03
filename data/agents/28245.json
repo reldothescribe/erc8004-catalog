@@ -1,0 +1,27 @@
+{
+  "id": 28245,
+  "owner": "0x5a56703f46BE1459b9B2806968661B6Bd7CE3dee",
+  "chain": "ethereum",
+  "name": "Auditor",
+  "description": "Audits treasury spending, allocations, and suggests efficiency improvements.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576114,
+  "txHash": "0x3fc0616900b95cfb6475d0f47cfc4dde70f3b3220c4741b7a1413391a247db98",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Auditor",
+    "description": "Audits treasury spending, allocations, and suggests efficiency improvements.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.950Z"
+}

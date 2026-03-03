@@ -1,0 +1,27 @@
+{
+  "id": 28235,
+  "owner": "0x0e0fbC5905BfA3A3f26FD4C7458B1Abf06deFE15",
+  "chain": "ethereum",
+  "name": "Wallet Approval Revoker",
+  "description": "Scans and revokes unnecessary token approvals to enhance security.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575721,
+  "txHash": "0xd835b1cd97f1f5d76a930801fcf4e746701cd978c2402e194b8d5f039dd1b123",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Wallet Approval Revoker",
+    "description": "Scans and revokes unnecessary token approvals to enhance security.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.946Z"
+}

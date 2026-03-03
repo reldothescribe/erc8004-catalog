@@ -1,0 +1,35 @@
+{
+  "id": 27895,
+  "owner": "0x999126b92d1e547Ca9721ECF32674bA835D78318",
+  "chain": "ethereum",
+  "name": "Test Agent",
+  "description": "Lol",
+  "image": "/api/files/serve/s3/1772099053433-mscclogo_250x250.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "https",
+      "url": "http://localhost:3000/api/workflows/1b43719c-f0dd-464b-87d8-6d207644f7c2/execute"
+    }
+  ],
+  "registeredBlock": 24540288,
+  "txHash": "0x941ea9d3755569431211d7cf26ef7c4ee6fc6e21ac8adf803fad71fb74698b66",
+  "rawMetadata": {
+    "type": "erc8004:agent:1",
+    "name": "Test Agent",
+    "description": "Lol",
+    "image": "/api/files/serve/s3/1772099053433-mscclogo_250x250.png",
+    "services": [
+      {
+        "type": "https",
+        "url": "http://localhost:3000/api/workflows/1b43719c-f0dd-464b-87d8-6d207644f7c2/execute"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "validation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:56.447Z"
+}

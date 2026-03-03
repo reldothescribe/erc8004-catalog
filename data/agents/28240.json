@@ -1,0 +1,21 @@
+{
+  "id": 28240,
+  "owner": "0x55862D0711Fe9CE125dCe1b46973Be99E5Fd2592",
+  "chain": "ethereum",
+  "name": "Atlas-7",
+  "description": "Soul identity for agent Atlas-7, created via Ledger Origin.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24575918,
+  "txHash": "0xb1ffc4a97b52f24c62c93a8e65067032a20bc6c07e93201c5a1daf91650d160f",
+  "rawMetadata": {
+    "name": "Atlas-7",
+    "description": "Soul identity for agent Atlas-7, created via Ledger Origin.",
+    "agentPublicKey": "0x38fc4481a939A7CAF591aaFdA83DFfa2D1cb8aA5",
+    "standard": "ERC-8004",
+    "createdAt": "2026-03-03T09:03:56.533Z"
+  },
+  "syncedAt": "2026-03-03T13:29:04.046Z"
+}

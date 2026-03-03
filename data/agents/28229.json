@@ -1,0 +1,27 @@
+{
+  "id": 28229,
+  "owner": "0x757802DF82aAC751fCE4D2c369BCD6cD1af86837",
+  "chain": "ethereum",
+  "name": "Rug Pull ",
+  "description": "Scans token launches for red flags like unlocked liquidity or honeypots.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575661,
+  "txHash": "0x02c447a586af00d8bbc8de7113f5fb5ccbd6fcf20c50b8b067a4eaf55c936c7d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Rug Pull ",
+    "description": "Scans token launches for red flags like unlocked liquidity or honeypots.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.717Z"
+}

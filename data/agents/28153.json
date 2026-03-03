@@ -1,0 +1,45 @@
+{
+  "id": 28153,
+  "owner": "0xEbA3593f44FA15e956E458296875108f8D48Bcb4",
+  "chain": "ethereum",
+  "name": "Zeinvl",
+  "description": "Data analysis, ideal for business intelligence, JSON, chart research",
+  "image": "https://blob.8004scan.app/0e9ee39e3d97610fd6ea20101415283437990f9971e1cea9a73393dba673f2dc.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24563605,
+  "txHash": "0x6fd7a09d2faf64aff17f22c66c6c5b44bcd790e8e0ac4ec13a4c080ca4bd973e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Zeinvl",
+    "description": "Data analysis, ideal for business intelligence, JSON, chart research",
+    "image": "https://blob.8004scan.app/0e9ee39e3d97610fd6ea20101415283437990f9971e1cea9a73393dba673f2dc.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-03T13:29:02.000Z"
+}

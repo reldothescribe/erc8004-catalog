@@ -1,0 +1,27 @@
+{
+  "id": 28218,
+  "owner": "0xccABf0528D1dcA9665138f9BD1362eb2373480ae",
+  "chain": "ethereum",
+  "name": "Liquidation Protector",
+  "description": "Monitors leveraged positions and executes preventive actions before liquidations occur. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575191,
+  "txHash": "0x5546995b875e9e1a77c9ea7e123383da9939969f068db3180324f23345a85884",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Liquidation Protector",
+    "description": "Monitors leveraged positions and executes preventive actions before liquidations occur. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.356Z"
+}

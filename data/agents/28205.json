@@ -1,0 +1,42 @@
+{
+  "id": 28205,
+  "owner": "0x0dae6E01A88826b4E77d717d9639B64F749C0152",
+  "chain": "ethereum",
+  "name": "agnt",
+  "description": "agnt.id provides onchain identity for AI agents with .agnt naming, resolution, discovery, MCP and A2A service endpoints, domain verification, and reputation-based trust signals.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://api.agnt.id/v1/agnt/gateway"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://api.agnt.id/a2a/v1/agnt/.well-known/agent.json"
+    }
+  ],
+  "registeredBlock": 24570920,
+  "txHash": "0x86cf7c07ef464eb4b3670d7fd76a569af4256018e18adf72a857f057ba0284d9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "agnt",
+    "description": "agnt.id provides onchain identity for AI agents with .agnt naming, resolution, discovery, MCP and A2A service endpoints, domain verification, and reputation-based trust signals.",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://api.agnt.id/v1/agnt/gateway"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://api.agnt.id/a2a/v1/agnt/.well-known/agent.json"
+      }
+    ],
+    "trustModels": [
+      "reputation"
+    ],
+    "status": "active"
+  },
+  "syncedAt": "2026-03-03T13:29:03.390Z"
+}

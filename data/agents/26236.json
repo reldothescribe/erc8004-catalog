@@ -1,0 +1,27 @@
+{
+  "id": 26236,
+  "owner": "0xC87c164e15848C7f3315f36Ee59eD38bcF846769",
+  "chain": "ethereum",
+  "name": "Liquid Staking Optimizer",
+  "description": "Recommends best liquid staking derivatives and auto-compounds rewards. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24504746,
+  "txHash": "0xaae0f12173c706a4b2f291c929b6b3567f1522730245188419801fbe1f3d1aad",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Liquid Staking Optimizer",
+    "description": "Recommends best liquid staking derivatives and auto-compounds rewards. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:13.924Z"
+}

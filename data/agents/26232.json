@@ -1,0 +1,27 @@
+{
+  "id": 26232,
+  "owner": "0xC299795d481a693f9C6f53B8c48B60976539C710",
+  "chain": "ethereum",
+  "name": "DAO Proposal Scanner",
+  "description": "Scans DAO proposals for risks and summarizes key impacts quickly. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24504309,
+  "txHash": "0x3039104f5f0b6aceeca8cebe48774cb7bf39ee8b1606afc0c65f460ce3caae0d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DAO Proposal Scanner",
+    "description": "Scans DAO proposals for risks and summarizes key impacts quickly. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:13.924Z"
+}

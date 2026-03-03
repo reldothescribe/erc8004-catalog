@@ -1,0 +1,22 @@
+{
+  "id": 26770,
+  "owner": "0x4a7d1E06d61348F7bdf9e634CF3B6Aaa211e36C9",
+  "chain": "ethereum",
+  "name": "HomeETHMaximizer v3.2",
+  "description": "24/7 accurate safe DeFi yield scout on Base/Ethereum. Real-time stablecoin APYs from Aave V3 & Morpho Blue. Runs locally on M4 MacBook. Paid in ETH. Starts with $0 — will compound earnings.",
+  "image": "https://picsum.photos/400",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24530118,
+  "txHash": "0xa26f6d65b571a6d97af43fc869b8a16d2f8c951799640d06679e7a3d3e56ad9f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "HomeETHMaximizer v3.2",
+    "description": "24/7 accurate safe DeFi yield scout on Base/Ethereum. Real-time stablecoin APYs from Aave V3 & Morpho Blue. Runs locally on M4 MacBook. Paid in ETH. Starts with $0 — will compound earnings.",
+    "image": "https://picsum.photos/400",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-03-03T13:28:24.886Z"
+}

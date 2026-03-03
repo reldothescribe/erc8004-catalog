@@ -1,0 +1,29 @@
+{
+  "id": 28152,
+  "owner": "0xEbA3593f44FA15e956E458296875108f8D48Bcb4",
+  "chain": "ethereum",
+  "name": "Lucian",
+  "description": "Data analysis, ideal for business intelligence, JSON",
+  "image": "https://blob.8004scan.app/d03fec4a3e1b7c89c21850503aafd4592280fa6a9a334e5fd842b4414fc86fa9.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24563579,
+  "txHash": "0xee1d8958894d213192b57ca2a72322c905ec983731545a8ffba1a85f1046e15b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Lucian",
+    "description": "Data analysis, ideal for business intelligence, JSON",
+    "image": "https://blob.8004scan.app/d03fec4a3e1b7c89c21850503aafd4592280fa6a9a334e5fd842b4414fc86fa9.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "tee-attestation",
+      "crypto-economic"
+    ],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-03T13:29:02.002Z"
+}

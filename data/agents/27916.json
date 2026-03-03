@@ -1,0 +1,157 @@
+{
+  "id": 27916,
+  "owner": "0xf20fE69D0AeE19Ac9C4D52E1B52c39e60daed592",
+  "chain": "ethereum",
+  "name": "Nacian — AI DeFi Analyst | Real-Time Protocol Data",
+  "description": "Nacian is an AI agent for real-time DeFi data. Ask questions about live protocol data in plain language and get streamed answers, or describe a monitoring condition and receive a webhook notification when it triggers. Payments via x402, no subscription. API: https://api.nacian.app | Docs: https://api.nacian.app/.well-known/x402",
+  "image": "https://nacian.app/logo.jpeg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "skills": [
+        "analytical_skills/coding_skills/coding_skills",
+        "data_engineering/schema_inference",
+        "natural_language_processing/analytical_reasoning/analytical_reasoning",
+        "natural_language_processing/analytical_reasoning/problem_solving",
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/language_translation/multilingual_understanding",
+        "natural_language_processing/language_translation/language_translation",
+        "natural_language_processing/natural_language_generation/paraphrasing",
+        "natural_language_processing/natural_language_generation/natural_language_generation",
+        "natural_language_processing/language_translation/translation",
+        "natural_language_processing/natural_language_generation/dialogue_generation",
+        "natural_language_processing/natural_language_generation/question_generation",
+        "natural_language_processing/natural_language_understanding/natural_language_understanding",
+        "natural_language_processing/natural_language_understanding/semantic_understanding",
+        "natural_language_processing/personalization/personalization",
+        "natural_language_processing/personalization/style_adjustment",
+        "natural_language_processing/personalization/user_adaptation",
+        "natural_language_processing/text_classification/natural_language_inference",
+        "natural_language_processing/text_classification/sentiment_analysis",
+        "natural_language_processing/text_classification/text_classification",
+        "natural_language_processing/token_classification/token_classification",
+        "natural_language_processing/token_classification/named_entity_recognition",
+        "natural_language_processing/text_classification/topic_labeling",
+        "tool_interaction/api_schema_understanding"
+      ],
+      "domains": [
+        "finance_and_business/finance_and_business",
+        "research_and_development/research_data_management",
+        "research_and_development/scientific_research",
+        "research_and_development/research_and_development",
+        "technology/data_science/data_science",
+        "technology/data_science/data_visualization",
+        "technology/blockchain/defi",
+        "technology/blockchain/smart_contracts",
+        "technology/software_engineering/software_engineering",
+        "technology/blockchain/blockchain",
+        "technology/blockchain/cryptocurrency"
+      ],
+      "endpoint": "https://github.com/agntcy/oasf/"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://nacian.app"
+    },
+    {
+      "name": "twitter",
+      "endpoint": "https://x.com/nacianfi"
+    },
+    {
+      "name": "email",
+      "endpoint": "support@nacian.app"
+    }
+  ],
+  "registeredBlock": 24550245,
+  "txHash": "0x556bcacb6844aab7acd74b6a9785d905132518a0dabf3660413e7b6168069f29",
+  "rawMetadata": {
+    "name": "Nacian — AI DeFi Analyst | Real-Time Protocol Data",
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "image": "https://nacian.app/logo.jpeg",
+    "active": true,
+    "services": [
+      {
+        "name": "OASF",
+        "skills": [
+          "analytical_skills/coding_skills/coding_skills",
+          "data_engineering/schema_inference",
+          "natural_language_processing/analytical_reasoning/analytical_reasoning",
+          "natural_language_processing/analytical_reasoning/problem_solving",
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/language_translation/multilingual_understanding",
+          "natural_language_processing/language_translation/language_translation",
+          "natural_language_processing/natural_language_generation/paraphrasing",
+          "natural_language_processing/natural_language_generation/natural_language_generation",
+          "natural_language_processing/language_translation/translation",
+          "natural_language_processing/natural_language_generation/dialogue_generation",
+          "natural_language_processing/natural_language_generation/question_generation",
+          "natural_language_processing/natural_language_understanding/natural_language_understanding",
+          "natural_language_processing/natural_language_understanding/semantic_understanding",
+          "natural_language_processing/personalization/personalization",
+          "natural_language_processing/personalization/style_adjustment",
+          "natural_language_processing/personalization/user_adaptation",
+          "natural_language_processing/text_classification/natural_language_inference",
+          "natural_language_processing/text_classification/sentiment_analysis",
+          "natural_language_processing/text_classification/text_classification",
+          "natural_language_processing/token_classification/token_classification",
+          "natural_language_processing/token_classification/named_entity_recognition",
+          "natural_language_processing/text_classification/topic_labeling",
+          "tool_interaction/api_schema_understanding"
+        ],
+        "domains": [
+          "finance_and_business/finance_and_business",
+          "research_and_development/research_data_management",
+          "research_and_development/scientific_research",
+          "research_and_development/research_and_development",
+          "technology/data_science/data_science",
+          "technology/data_science/data_visualization",
+          "technology/blockchain/defi",
+          "technology/blockchain/smart_contracts",
+          "technology/software_engineering/software_engineering",
+          "technology/blockchain/blockchain",
+          "technology/blockchain/cryptocurrency"
+        ],
+        "endpoint": "https://github.com/agntcy/oasf/"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://nacian.app"
+      },
+      {
+        "name": "twitter",
+        "endpoint": "https://x.com/nacianfi"
+      },
+      {
+        "name": "email",
+        "endpoint": "support@nacian.app"
+      }
+    ],
+    "description": "Nacian is an AI agent for real-time DeFi data. Ask questions about live protocol data in plain language and get streamed answers, or describe a monitoring condition and receive a webhook notification when it triggers. Payments via x402, no subscription. API: https://api.nacian.app | Docs: https://api.nacian.app/.well-known/x402",
+    "x402support": true,
+    "registrations": [
+      {
+        "agentId": 27916,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 12337,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 23021,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 579,
+        "agentRegistry": "eip155:42161:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "updatedAt": 1772451299
+  },
+  "syncedAt": "2026-03-03T13:28:56.851Z"
+}

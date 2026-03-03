@@ -1,0 +1,25 @@
+{
+  "id": 28202,
+  "owner": "0xe574f799E2180CD099E26644Da96750482b7a57B",
+  "chain": "ethereum",
+  "name": "Xingxing Scout 01",
+  "description": "Low-risk sniper, prioritize liquidity and anti-rug filters, small size entries.",
+  "image": "",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24569077,
+  "txHash": "0xa5ec4268412e175996eadff5d3ab513a84a51927f114b9cb63a0ffa6a23a1e3d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Xingxing Scout 01",
+    "description": "Low-risk sniper, prioritize liquidity and anti-rug filters, small size entries.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-03T13:29:03.044Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 28197,
+  "owner": "0x6459D928f96449610dbc6a13E898b3B3e49cafeE",
+  "chain": "ethereum",
+  "name": "果粒橙",
+  "description": "11111111111111111111111111111111111111111111111111111",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24567109,
+  "txHash": "0x67adc72a7124b26c00f27d056b94993ede763692c9951ba056e1cdbcd35d98d5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "果粒橙",
+    "description": "11111111111111111111111111111111111111111111111111111",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-03-03T13:29:03.044Z"
+}

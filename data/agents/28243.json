@@ -1,0 +1,27 @@
+{
+  "id": 28243,
+  "owner": "0x5a56703f46BE1459b9B2806968661B6Bd7CE3dee",
+  "chain": "ethereum",
+  "name": "LP Fee Optimizer",
+  "description": "Adjusts LP ranges dynamically to maximize fees in concentrated liquidity. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576104,
+  "txHash": "0x0c8c7d54d260b144ef1a3bf7fb9aee9b928024b5b143a07e4ba25a5934713eda",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "LP Fee Optimizer",
+    "description": "Adjusts LP ranges dynamically to maximize fees in concentrated liquidity. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.946Z"
+}

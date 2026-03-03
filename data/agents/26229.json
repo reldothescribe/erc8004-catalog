@@ -1,0 +1,27 @@
+{
+  "id": 26229,
+  "owner": "0xc598992e31dD7bcb01d90FAe52e0f57fea5B5cd1",
+  "chain": "ethereum",
+  "name": "Token ",
+  "description": "Assists in safe token deployment with liquidity locks and fair launch mechanics.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24504238,
+  "txHash": "0xb35ddfb1acaa6ecc0ca7a59ba58a2954fa4f53d1c0a6460a9623c6ee16b19f5d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Token ",
+    "description": "Assists in safe token deployment with liquidity locks and fair launch mechanics.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:13.927Z"
+}

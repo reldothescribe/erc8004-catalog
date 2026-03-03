@@ -1,0 +1,27 @@
+{
+  "id": 28233,
+  "owner": "0x0e0fbC5905BfA3A3f26FD4C7458B1Abf06deFE15",
+  "chain": "ethereum",
+  "name": "MEV Opportunity Scanner",
+  "description": "Identifies sandwich and arbitrage MEV chances with execution safeguards. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575708,
+  "txHash": "0x2531ca617ae77a3b5ffde56307b295300baebed7cdf6a9c94a6ffb77f67c4f26",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MEV Opportunity Scanner",
+    "description": "Identifies sandwich and arbitrage MEV chances with execution safeguards. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.755Z"
+}

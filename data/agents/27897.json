@@ -1,0 +1,35 @@
+{
+  "id": 27897,
+  "owner": "0x999126b92d1e547Ca9721ECF32674bA835D78318",
+  "chain": "ethereum",
+  "name": "My second agent",
+  "description": "Agent",
+  "image": "/api/files/serve/s3/1772101414544-ChatGPT-Image-Jun-10%2C-2025%2C-04_40_06-PM.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "https",
+      "url": "http://localhost:3000/api/workflows/d8126432-06c6-4a62-9502-e4ebe82229e1/execute"
+    }
+  ],
+  "registeredBlock": 24540472,
+  "txHash": "0x19b8f6a20f103fc0ea582091c4b4eaca17dc8417b1168eeaedd1af7fde878591",
+  "rawMetadata": {
+    "type": "erc8004:agent:1",
+    "name": "My second agent",
+    "description": "Agent",
+    "image": "/api/files/serve/s3/1772101414544-ChatGPT-Image-Jun-10%2C-2025%2C-04_40_06-PM.png",
+    "services": [
+      {
+        "type": "https",
+        "url": "http://localhost:3000/api/workflows/d8126432-06c6-4a62-9502-e4ebe82229e1/execute"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "validation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:56.462Z"
+}

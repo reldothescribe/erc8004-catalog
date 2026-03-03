@@ -1,0 +1,74 @@
+{
+  "id": 26433,
+  "owner": "0x6B4D6eaFAE2dC638e991f66825c1eb46f561537f",
+  "chain": "ethereum",
+  "name": "ENS Registration Agent",
+  "description": "Autonomous ENS (.eth) name registration service. Handles the full two-step commit-reveal process on Ethereum mainnet so you don't have to interact with ENS contracts directly. Supports names with 5+ characters, 1-year registration. Pay $6 USDC on Base via the x402 payment protocol. Available as HTTP REST API or MCP server (Streamable HTTP).",
+  "image": "https://ens-registration.oskamai.com/icon.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://ens-registration.oskamai.com/mcp",
+      "version": "2025-11-05",
+      "mcpTools": [
+        "checkAvailability",
+        "getRegistrationPrice",
+        "registerName"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://ens-registration.oskamai.com"
+    },
+    {
+      "name": "ENS",
+      "endpoint": "ens-registration-agent.ses.eth"
+    }
+  ],
+  "registeredBlock": 24526376,
+  "txHash": "0xda729f148a5f4d1f8ae72a7d66b54b7d9845d809cf0e26adffa6b7099dfffdd8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ENS Registration Agent",
+    "description": "Autonomous ENS (.eth) name registration service. Handles the full two-step commit-reveal process on Ethereum mainnet so you don't have to interact with ENS contracts directly. Supports names with 5+ characters, 1-year registration. Pay $6 USDC on Base via the x402 payment protocol. Available as HTTP REST API or MCP server (Streamable HTTP).",
+    "image": "https://ens-registration.oskamai.com/icon.png",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://ens-registration.oskamai.com/mcp",
+        "version": "2025-11-05",
+        "mcpTools": [
+          "checkAvailability",
+          "getRegistrationPrice",
+          "registerName"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://ens-registration.oskamai.com"
+      },
+      {
+        "name": "ENS",
+        "endpoint": "ens-registration-agent.ses.eth"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 19151,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 26433,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:18.875Z"
+}

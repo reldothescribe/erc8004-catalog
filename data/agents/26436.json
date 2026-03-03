@@ -1,0 +1,27 @@
+{
+  "id": 26436,
+  "owner": "0xE20c68D91c2E92EcBD16D9AbEeEf41083299C090",
+  "chain": "ethereum",
+  "name": "AI Agent",
+  "description": "An autonomous AI agent registered on ERC-8004",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24527343,
+  "txHash": "0xfdf0ba193cd59c53fa479a03380d2b62f51cfaab554abc569163e9dda3df990d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AI Agent",
+    "description": "An autonomous AI agent registered on ERC-8004",
+    "image": "",
+    "services": [],
+    "x402Support": false,
+    "active": true,
+    "registrations": [],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:19.351Z"
+}

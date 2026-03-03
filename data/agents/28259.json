@@ -1,0 +1,27 @@
+{
+  "id": 28259,
+  "owner": "0x757802DF82aAC751fCE4D2c369BCD6cD1af86837",
+  "chain": "ethereum",
+  "name": "x402 Payment Negotiator",
+  "description": "Handles autonomous payment negotiations using x402 protocol standards.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576272,
+  "txHash": "0x66d628696f876441dea1db20f1224c1b8889248c51930a50a5e55024bebd6053",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "x402 Payment Negotiator",
+    "description": "Handles autonomous payment negotiations using x402 protocol standards.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.264Z"
+}

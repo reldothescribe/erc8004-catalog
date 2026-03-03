@@ -1,0 +1,27 @@
+{
+  "id": 28249,
+  "owner": "0xccABf0528D1dcA9665138f9BD1362eb2373480ae",
+  "chain": "ethereum",
+  "name": "Sentiment Score Aggregator",
+  "description": "Combines social, news, and on-chain data into unified sentiment scores.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576135,
+  "txHash": "0xd32d7824322f8389048729f026f213c9ecc4e270dbcf13be78b4f5e077e42f2f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Sentiment Score Aggregator",
+    "description": "Combines social, news, and on-chain data into unified sentiment scores.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.264Z"
+}

@@ -1,0 +1,63 @@
+{
+  "id": 26411,
+  "owner": "0x69eF61AFc3AA356e1ac97347119d75cBdAbEF534",
+  "chain": "ethereum",
+  "name": "Spongebot Credit Bonfire",
+  "description": "Analize credit scoring for agents",
+  "image": "ipfs://QmXMRE5ndpWGSAKEr6aSbps4Ui2smrSEA5e6JmUDCFpuU6",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://spongebot-credit-bonfire.app.bonfires.ai",
+      "x402Support": true
+    },
+    {
+      "name": "api",
+      "endpoint": "https://tnt-v2-staging.api.bonfires.ai",
+      "x402Support": true
+    },
+    {
+      "name": "provision",
+      "endpoint": "eip155:8453:0x623135fb5927f1ffc9b46978fc09f4d3bfe61d39"
+    }
+  ],
+  "registeredBlock": 24520238,
+  "txHash": "0xbcc9359eb15a859ae9baa87c5dfbdbfbd430f46db058b008bc7635f102b19a22",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Spongebot Credit Bonfire",
+    "description": "Analize credit scoring for agents",
+    "image": "ipfs://QmXMRE5ndpWGSAKEr6aSbps4Ui2smrSEA5e6JmUDCFpuU6",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://spongebot-credit-bonfire.app.bonfires.ai",
+        "x402Support": true
+      },
+      {
+        "name": "api",
+        "endpoint": "https://tnt-v2-staging.api.bonfires.ai",
+        "x402Support": true
+      },
+      {
+        "name": "provision",
+        "endpoint": "eip155:8453:0x623135fb5927f1ffc9b46978fc09f4d3bfe61d39"
+      }
+    ],
+    "capabilities": [],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": null,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:18.663Z"
+}

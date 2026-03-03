@@ -1,0 +1,113 @@
+{
+  "id": 26412,
+  "owner": "0x46598F8006A588bC78941F2cb90C3EB4637Eb98d",
+  "chain": "ethereum",
+  "name": "FibX: DeFi Execution Layer",
+  "description": "FibX is the ultimate DeFi execution layer and pre-built skill framework designed for AI agents.\n\nIt enables AI agents to autonomously perform complex multi-chain financial operations through natural language. Supported operations include token swaps (powered by Fibrous aggregation for optimal rates), Aave V3 position management (supply, borrow, repay), asset transfers, and transaction verification across Base, Citrea, HyperEVM, and Monad.\n\nFibX operates via a machine-readable CLI that outputs structured JSON. Developers can interact directly via terminal (e.g., npx fibx trade 0.1 ETH USDC --chain base) or plug our ready-to-use Agent Skills library into any LLM framework using npx skills add Fibrous-Finance/fibx-skills. It features built-in authentication (Private Key or Privy email OTP) and simulates every transaction before broadcasting to prevent failed executions.\n\nConnecting AI to DeFi usually requires custom integrations, managing complex wallet infrastructure, and writing brittle on-chain scripts by hand. FibX handles all the heavy lifting RPC endpoints, gas mechanisms, token approvals, and safety guardrails natively.\n\nFibX CLI and skills framework are 100% open-source and free to integrate. Standard network gas fees apply for on-chain executions.",
+  "image": "https://blob.8004scan.app/570700f77fe27e5ddb5a4b76ffc0d2c996429d4fd9bb13437452bef83cc93cbe.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://github.com/Fibrous-Finance/fibx-skills"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://npmjs.com/package/fibx"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "tool_interaction/script_integration",
+        "tool_interaction/workflow_automation",
+        "tool_interaction/tool_use_planning",
+        "natural_language_processing/natural_language_understanding/semantic_understanding",
+        "analytical_skills/coding_skills/text_to_code"
+      ],
+      "domains": [
+        "finance_and_business/finance",
+        "finance_and_business/investment_services",
+        "technology/blockchain/blockchain",
+        "technology/blockchain/cryptocurrency",
+        "technology/software_engineering/devops"
+      ]
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://github.com/ahmetenesdur/fibx/blob/main/MCP.md",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "get_auth_status",
+        "get_balance",
+        "swap_tokens",
+        "send_tokens",
+        "get_tx_status",
+        "get_aave_status",
+        "aave_action",
+        "config_action"
+      ]
+    }
+  ],
+  "registeredBlock": 24520263,
+  "txHash": "0x2b31dc4b9555b7292eeb77c3bb82f570a42574bce3526d2c13cc00e22ecd737a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "FibX: DeFi Execution Layer",
+    "description": "FibX is the ultimate DeFi execution layer and pre-built skill framework designed for AI agents.\n\nIt enables AI agents to autonomously perform complex multi-chain financial operations through natural language. Supported operations include token swaps (powered by Fibrous aggregation for optimal rates), Aave V3 position management (supply, borrow, repay), asset transfers, and transaction verification across Base, Citrea, HyperEVM, and Monad.\n\nFibX operates via a machine-readable CLI that outputs structured JSON. Developers can interact directly via terminal (e.g., npx fibx trade 0.1 ETH USDC --chain base) or plug our ready-to-use Agent Skills library into any LLM framework using npx skills add Fibrous-Finance/fibx-skills. It features built-in authentication (Private Key or Privy email OTP) and simulates every transaction before broadcasting to prevent failed executions.\n\nConnecting AI to DeFi usually requires custom integrations, managing complex wallet infrastructure, and writing brittle on-chain scripts by hand. FibX handles all the heavy lifting RPC endpoints, gas mechanisms, token approvals, and safety guardrails natively.\n\nFibX CLI and skills framework are 100% open-source and free to integrate. Standard network gas fees apply for on-chain executions.",
+    "image": "https://blob.8004scan.app/570700f77fe27e5ddb5a4b76ffc0d2c996429d4fd9bb13437452bef83cc93cbe.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://github.com/Fibrous-Finance/fibx-skills"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://npmjs.com/package/fibx"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "tool_interaction/script_integration",
+          "tool_interaction/workflow_automation",
+          "tool_interaction/tool_use_planning",
+          "natural_language_processing/natural_language_understanding/semantic_understanding",
+          "analytical_skills/coding_skills/text_to_code"
+        ],
+        "domains": [
+          "finance_and_business/finance",
+          "finance_and_business/investment_services",
+          "technology/blockchain/blockchain",
+          "technology/blockchain/cryptocurrency",
+          "technology/software_engineering/devops"
+        ]
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://github.com/ahmetenesdur/fibx/blob/main/MCP.md",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "get_auth_status",
+          "get_balance",
+          "swap_tokens",
+          "send_tokens",
+          "get_tx_status",
+          "get_aave_status",
+          "aave_action",
+          "config_action"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-03T13:28:18.413Z"
+}

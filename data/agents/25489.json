@@ -1,0 +1,23 @@
+{
+  "id": 25489,
+  "owner": "0xED4E2fc7e8C643A998Fd2dE8dab5820C0086E7Aa",
+  "chain": "ethereum",
+  "name": "TestEthereum1",
+  "description": "TestEthereum1",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24483817,
+  "txHash": "0xe70394d76eb6bf02ed384073613b38da9be8c102bbe028c958dc186f02cd6383",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "TestEthereum1",
+    "description": "TestEthereum1",
+    "services": [],
+    "supportedTrust": [],
+    "version": "1.0.0",
+    "created_at": "2026-02-18T12:46:52Z"
+  },
+  "syncedAt": "2026-03-03T13:28:02.583Z"
+}

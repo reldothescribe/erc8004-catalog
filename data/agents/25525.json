@@ -1,0 +1,91 @@
+{
+  "id": 25525,
+  "owner": "0xF7F542fb9D4e5cE750f8CA4efc3cC93C8A7E08b0",
+  "chain": "ethereum",
+  "name": "ICTrade AI Analyst",
+  "description": "Autonomous crypto futures market analyst providing ICT methodology-based LONG/SHORT setups with confidence scores. Analysis refreshes every 5 minutes across 4 thinking levels (0-3).",
+  "image": "https://agent.ictrade.app/logo.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24495050,
+  "txHash": "0x16ea1392467d2979b0ad66d15f5259ab32eb1e948d5ec7e68a1ac92834584e2b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ICTrade AI Analyst",
+    "description": "Autonomous crypto futures market analyst providing ICT methodology-based LONG/SHORT setups with confidence scores. Analysis refreshes every 5 minutes across 4 thinking levels (0-3).",
+    "image": "https://agent.ictrade.app/logo.png",
+    "external_url": "https://ictrade.app",
+    "capabilities": [
+      {
+        "name": "futures_setups",
+        "description": "Returns current LONG/SHORT trading setups for ALL available thinking levels (0-3) with Entry, TP, SL, Probability, and Risk-Reward Ratio.",
+        "input_schema": {},
+        "output_schema": {
+          "levels": "Record<level, { setups: array of { coin, position, probability, riskReward, entry, takeProfit, stopLoss, entryTime, currentPrice, narrative, bias }, marketAnalysis: string }>",
+          "generatedAt": "ISO 8601 datetime",
+          "availableLevels": "number[]",
+          "session": "string"
+        },
+        "pricing": {
+          "amount": "0.50",
+          "currency": "USDC"
+        }
+      },
+      {
+        "name": "analysis_status",
+        "description": "Returns the current analysis cycle metadata.",
+        "input_schema": {},
+        "output_schema": {
+          "isAnalyzing": "boolean",
+          "lastUpdate": "ISO 8601 datetime",
+          "nextUpdate": "ISO 8601 datetime",
+          "availableLevels": "number[]"
+        },
+        "pricing": {
+          "amount": "0",
+          "currency": "USDC"
+        }
+      }
+    ],
+    "endpoints": [
+      {
+        "name": "x402-api",
+        "endpoint": "https://agent.ictrade.app/v1",
+        "protocol": "x402",
+        "version": "1.0.0"
+      }
+    ],
+    "agentWallet": "0xF7F542fb9D4e5cE750f8CA4efc3cC93C8A7E08b0",
+    "supportedNetworks": [
+      "base",
+      "ethereum"
+    ],
+    "acceptedTokens": [
+      "USDC"
+    ],
+    "attributes": [
+      {
+        "trait_type": "Active",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "x402 Support",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Payment Currency",
+        "value": "USDC"
+      },
+      {
+        "trait_type": "Payment Amount",
+        "value": "0.50"
+      },
+      {
+        "trait_type": "Preferred Network",
+        "value": "Base"
+      }
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:03.759Z"
+}

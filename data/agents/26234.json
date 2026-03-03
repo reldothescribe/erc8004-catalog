@@ -1,0 +1,27 @@
+{
+  "id": 26234,
+  "owner": "0xC299795d481a693f9C6f53B8c48B60976539C710",
+  "chain": "ethereum",
+  "name": "Rug Risk Scanner",
+  "description": "Detects rug pull indicators in new tokens via liquidity and ownership checks.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24504321,
+  "txHash": "0x440479c3de807978a458e8cc3cbd34ada1e8dbe6381a48a9e630cf7b14976f8e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Rug Risk Scanner",
+    "description": "Detects rug pull indicators in new tokens via liquidity and ownership checks.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:13.924Z"
+}

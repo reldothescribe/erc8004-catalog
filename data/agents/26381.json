@@ -1,0 +1,30 @@
+{
+  "id": 26381,
+  "owner": "0x69eF61AFc3AA356e1ac97347119d75cBdAbEF534",
+  "chain": "ethereum",
+  "name": "testesttttt",
+  "description": "testesttttt",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "endpoint": "https://tnt-v2-staging.api.bonfires.ai",
+      "x402Support": true
+    }
+  ],
+  "registeredBlock": 24513994,
+  "txHash": "0x776a61338679c75618f4fd439c1cd6377cb2882392bbbb1446cc596a062705f2",
+  "rawMetadata": {
+    "name": "testesttttt",
+    "description": "testesttttt",
+    "services": [
+      {
+        "endpoint": "https://tnt-v2-staging.api.bonfires.ai",
+        "x402Support": true
+      }
+    ],
+    "capabilities": []
+  },
+  "syncedAt": "2026-03-03T13:28:16.874Z"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 25253,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "gesar-suvus11 by Olas",
+  "description": "Enterprise-grade blockchain data oracle providing RWA risk intelligence, macro economic indicators, and carbon footprint data via cryptographically verified APIs.",
+  "image": "https://gateway.autonolas.tech/ipfs/bafybeifgj3kackzfoq4fxjiuousm6epgwx7jbc3n2gjwzjgvtbbz7fc3su",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/56"
+    }
+  ],
+  "registeredBlock": 24468766,
+  "txHash": "0x7a98d6e100141ca7dc745760c8209ac475b0e44e1e6cde081f705ad237cb5d26",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "gesar-suvus11 by Olas",
+    "description": "Enterprise-grade blockchain data oracle providing RWA risk intelligence, macro economic indicators, and carbon footprint data via cryptographically verified APIs.",
+    "image": "https://gateway.autonolas.tech/ipfs/bafybeifgj3kackzfoq4fxjiuousm6epgwx7jbc3n2gjwzjgvtbbz7fc3su",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/56"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 25253,
+        "agentRegistry": "eip155:1:0x8004a169fb4a3325136eb29fa0ceb6d2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:27:58.611Z"
+}

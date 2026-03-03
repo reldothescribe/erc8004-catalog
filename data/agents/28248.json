@@ -1,0 +1,27 @@
+{
+  "id": 28248,
+  "owner": "0xccABf0528D1dcA9665138f9BD1362eb2373480ae",
+  "chain": "ethereum",
+  "name": "Protocol Fork Monitor",
+  "description": "Detects hard forks or upgrades and assesses migration impacts.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576131,
+  "txHash": "0x24134b9bfa97375eb8fcb48d0028ee18166a09328b9db8956cd7fbcaabc9563c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Protocol Fork Monitor",
+    "description": "Detects hard forks or upgrades and assesses migration impacts.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.955Z"
+}

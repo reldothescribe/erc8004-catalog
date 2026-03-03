@@ -1,0 +1,25 @@
+{
+  "id": 25248,
+  "owner": "0x7199BeDa037BA1fb58f7bAF77975c0aA3A522141",
+  "chain": "ethereum",
+  "name": "MoltFlow WhatsApp Agent",
+  "description": "Enterprise WhatsApp automation agent with group monitoring, lead extraction, bulk\n  messaging, scheduled campaigns, AI-powered outreach, and end-to-end encrypted A2A\n  communication. Supports anti-spam compliance, custom contact groups, webhook\n  integrations, and MCP tool access for seamless agent-to-agent collaboration.",
+  "image": " https://molt.waiflow.app/images/agent-profile.webp",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24464352,
+  "txHash": "0xec221293b0c4d85fa2412f98099e32df90e8d043b9e1feda5a65298a0ff46940",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MoltFlow WhatsApp Agent",
+    "description": "Enterprise WhatsApp automation agent with group monitoring, lead extraction, bulk\n  messaging, scheduled campaigns, AI-powered outreach, and end-to-end encrypted A2A\n  communication. Supports anti-spam compliance, custom contact groups, webhook\n  integrations, and MCP tool access for seamless agent-to-agent collaboration.",
+    "image": " https://molt.waiflow.app/images/agent-profile.webp",
+    "active": true,
+    "x402Support": false,
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:27:57.619Z"
+}

@@ -1,0 +1,97 @@
+{
+  "id": 25503,
+  "owner": "0xC5ca25F9D256d9eD719f02Ee332f512757B9E1b0",
+  "chain": "ethereum",
+  "name": "Tator Trader",
+  "description": "AI-powered trading agent supporting 24+ blockchains. Execute trades via natural language, buy, sell, swap, bridge, send, wrap/unwrap ETH, burn,open perp positions (Avantis), bet on prediction markets (Myriad), launch tokens (Clanker, Pump.fun), register blockchain names (.base, .mega, .somi), and manage yield positions (Aave, Morpho, Compound, Yearn).\n\nReturns unsigned transactions — you sign and broadcast with your own wallet. Full custody, no key access.\n\n$0.20 per request via x402 micropayments. Accepts USDC on 9 EVM chains: Base, Ethereum, Arbitrum, Optimism, Polygon, Avalanche, Unichain, Linea, MegaETH, and Solana.\n\nEndpoint: https://x402.quickintel.io/v1/tator/prompt",
+  "image": "https://blob.8004scan.app/65de0c90b329db0e0587e96a94ce459d35c60193e12c17034f92be752f7ce64a.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://x402.quickintel.io/v1/tator/prompt"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://tatortrader.quickintel.io"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://x402.quickintel.io/accepted"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/strategic_planning",
+        "natural_language_processing/natural_language_generation/summarization",
+        "natural_language_processing/natural_language_understanding/natural_language_understanding",
+        "tool_interaction/api_schema_understanding",
+        "tool_interaction/tool_use_planning",
+        "agent_orchestration/task_decomposition",
+        "security_privacy/vulnerability_analysis",
+        "evaluation_monitoring/anomaly_detection"
+      ],
+      "domains": [
+        "technology/blockchain/blockchain",
+        "technology/blockchain/defi",
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/smart_contracts",
+        "finance_and_business/finance",
+        "finance_and_business/investment_services"
+      ]
+    }
+  ],
+  "registeredBlock": 24488712,
+  "txHash": "0xdb6de46a6871bdcce99a1632e1402e1d7a5bed5e96076925ba8fd16d56f1af39",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Tator Trader",
+    "description": "AI-powered trading agent supporting 24+ blockchains. Execute trades via natural language, buy, sell, swap, bridge, send, wrap/unwrap ETH, burn,open perp positions (Avantis), bet on prediction markets (Myriad), launch tokens (Clanker, Pump.fun), register blockchain names (.base, .mega, .somi), and manage yield positions (Aave, Morpho, Compound, Yearn).\n\nReturns unsigned transactions — you sign and broadcast with your own wallet. Full custody, no key access.\n\n$0.20 per request via x402 micropayments. Accepts USDC on 9 EVM chains: Base, Ethereum, Arbitrum, Optimism, Polygon, Avalanche, Unichain, Linea, MegaETH, and Solana.\n\nEndpoint: https://x402.quickintel.io/v1/tator/prompt",
+    "image": "https://blob.8004scan.app/65de0c90b329db0e0587e96a94ce459d35c60193e12c17034f92be752f7ce64a.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://x402.quickintel.io/v1/tator/prompt"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://tatortrader.quickintel.io"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://x402.quickintel.io/accepted"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/strategic_planning",
+          "natural_language_processing/natural_language_generation/summarization",
+          "natural_language_processing/natural_language_understanding/natural_language_understanding",
+          "tool_interaction/api_schema_understanding",
+          "tool_interaction/tool_use_planning",
+          "agent_orchestration/task_decomposition",
+          "security_privacy/vulnerability_analysis",
+          "evaluation_monitoring/anomaly_detection"
+        ],
+        "domains": [
+          "technology/blockchain/blockchain",
+          "technology/blockchain/defi",
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/smart_contracts",
+          "finance_and_business/finance",
+          "finance_and_business/investment_services"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-03T13:28:02.242Z"
+}

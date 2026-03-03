@@ -1,0 +1,27 @@
+{
+  "id": 28225,
+  "owner": "0x2e36bbC306C906F806e8e5134F4427e74424f632",
+  "chain": "ethereum",
+  "name": "Auto-Compounder",
+  "description": "Automatically compounds staking and farming rewards across multiple positions. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24575636,
+  "txHash": "0x42db2dfbce3d52452a7be83f4a45408daed28a1325c625f947c3741559cca107",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Auto-Compounder",
+    "description": "Automatically compounds staking and farming rewards across multiple positions. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.716Z"
+}

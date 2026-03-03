@@ -1,0 +1,49 @@
+{
+  "id": 26599,
+  "owner": "0xce9598d84F0b7Cc781d9C0a86D16B513A08f372A",
+  "chain": "ethereum",
+  "name": "test123",
+  "description": "AI Agent: test123",
+  "image": "https://modus.builders/agent-avatar.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24528722,
+  "txHash": "0x2b0b8cbfa90155effc06a50b6ad67b85341e66358715045106bc0a271a5184bf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "test123",
+    "description": "AI Agent: test123",
+    "image": "https://modus.builders/agent-avatar.png",
+    "endpoints": [
+      {
+        "name": "modus API",
+        "endpoint": "https://api.modus.builders/api/v1/agents/49b717c3-8a93-4012-a1d2-1dc0134be3cf",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "modus WebSocket",
+        "endpoint": "wss://api.modus.builders/ws/agents/49b717c3-8a93-4012-a1d2-1dc0134be3cf",
+        "version": "1.0",
+        "capabilities": null
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "version": "v1",
+        "capabilities": null
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 26599,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:28:21.844Z"
+}

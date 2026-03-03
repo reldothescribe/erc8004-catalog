@@ -1,0 +1,27 @@
+{
+  "id": 28244,
+  "owner": "0x5a56703f46BE1459b9B2806968661B6Bd7CE3dee",
+  "chain": "ethereum",
+  "name": "Token Burn Tracker",
+  "description": "Monitors token burn events and their impact on supply dynamics. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576108,
+  "txHash": "0x37020b84db824802f59ab91bd11197cfcc24cb419eddb67b586566e4a007f2df",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Token Burn Tracker",
+    "description": "Monitors token burn events and their impact on supply dynamics. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:03.948Z"
+}

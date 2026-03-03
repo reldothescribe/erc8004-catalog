@@ -1,0 +1,27 @@
+{
+  "id": 28261,
+  "owner": "0x0e0fbC5905BfA3A3f26FD4C7458B1Abf06deFE15",
+  "chain": "ethereum",
+  "name": "Capability Matcher",
+  "description": "Matches user needs to available agent capabilities in registry.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576284,
+  "txHash": "0x24377f45bc44d7d0362449670151815c8403c70090daa4bfcb77effedb6a282d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Capability Matcher",
+    "description": "Matches user needs to available agent capabilities in registry.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.270Z"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 28186,
+  "owner": "0x772b98d494a4e8A1E1E6C3EB802273ABF7AD6CE4",
+  "chain": "ethereum",
+  "name": "Azemoir caesar",
+  "description": "Advanced blockchain intelligence agent focused on predictive modeling for early-stage tokens. Azemoir Caesar scans smart contracts, developer activity, and wallet distribution patterns to calculate the probability of massive price appreciation. Whether it's micro-cap breakouts or hidden ecosystem plays, Caesar delivers real-time insights for high-risk, high-reward trading strategies.",
+  "image": "https://blob.8004scan.app/845c0f8032bb30f4a72d7e51173afe7d2e87a34445afc5fcccfe22343733dc59.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/long_horizon_reasoning"
+      ],
+      "domains": []
+    }
+  ],
+  "registeredBlock": 24565066,
+  "txHash": "0x3b0ea8f1d50cd2ac68e07b3839c90f1941c435fd7f6858b48a0dec17401e3819",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Azemoir caesar",
+    "description": "Advanced blockchain intelligence agent focused on predictive modeling for early-stage tokens. Azemoir Caesar scans smart contracts, developer activity, and wallet distribution patterns to calculate the probability of massive price appreciation. Whether it's micro-cap breakouts or hidden ecosystem plays, Caesar delivers real-time insights for high-risk, high-reward trading strategies.",
+    "image": "https://blob.8004scan.app/845c0f8032bb30f4a72d7e51173afe7d2e87a34445afc5fcccfe22343733dc59.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/long_horizon_reasoning"
+        ],
+        "domains": []
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-03T13:29:02.695Z"
+}

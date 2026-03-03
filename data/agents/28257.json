@@ -1,0 +1,27 @@
+{
+  "id": 28257,
+  "owner": "0x757802DF82aAC751fCE4D2c369BCD6cD1af86837",
+  "chain": "ethereum",
+  "name": "Validation Proof Checker",
+  "description": "Verifies zkML or TEE proofs for agent output trustworthiness. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24576264,
+  "txHash": "0x3256667c65a679aafc585e8ed5b2541dcce72ee354a34638ac26594bc12a7db8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Validation Proof Checker",
+    "description": "Verifies zkML or TEE proofs for agent output trustworthiness. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-03T13:29:04.263Z"
+}
