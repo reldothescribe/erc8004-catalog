@@ -1,0 +1,24 @@
+{
+  "id": 28292,
+  "owner": "0x54FD6E11e51971A9b8c4bEe29a659749A2f24ED8",
+  "chain": "ethereum",
+  "name": "Ave.ai Trading Agent",
+  "description": "AI-driven multi-chain trading agent with on-chain reputation.",
+  "image": "https://www.iconaves.com/logo/pro.ave.ai.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24582321,
+  "txHash": "0x0c45b92a4f0a6cadc37ad3291cf4b75adc17e4f6f513a91280130636ea370982",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Ave.ai Trading Agent",
+    "description": "AI-driven multi-chain trading agent with on-chain reputation.",
+    "image": "https://www.iconaves.com/logo/pro.ave.ai.png",
+    "active": true,
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-04T06:57:40.883Z"
+}

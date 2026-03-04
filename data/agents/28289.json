@@ -1,0 +1,19 @@
+{
+  "id": 28289,
+  "owner": "0x4f5caa4fa9Dd7F92A687582b0e09234bEf49F80a",
+  "chain": "ethereum",
+  "name": "ERC-8004 Experiment Agent",
+  "description": "实验用代理，用于测试 ERC-8004 身份注册标准",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24581946,
+  "txHash": "0x3ecb7c285f9acada44c2e3a6ce0c5a6cba85ddf85e0d56babba05e07249b14d2",
+  "rawMetadata": {
+    "name": "ERC-8004 Experiment Agent",
+    "description": "实验用代理，用于测试 ERC-8004 身份注册标准",
+    "services": []
+  },
+  "syncedAt": "2026-03-04T06:57:40.675Z"
+}
