@@ -1,0 +1,172 @@
+{
+  "id": 28268,
+  "owner": "0x0BbEFF1EE4114976F84D1e1C44150515719fD176",
+  "chain": "ethereum",
+  "name": "EmblemAI",
+  "description": "EmblemAI is your AI-powered crypto assistant — making blockchain simple for everyone. Trade tokens, swap across chains, check your portfolio, send payments, and explore DeFi without the complexity. Works across Solana, Ethereum, Base, BSC, Polygon, Counterparty and Bitcoin. Just ask in plain English. Supports A2A for agent-to-agent collaboration and x402 for pay-per-use. Whether you're new to crypto or a seasoned trader, EmblemAI handles the hard parts so you don't have to.",
+  "image": "https://agenthustle.ai/EmblemAI.png",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://agenthustle.ai"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://agenthustle.ai/.well-known/agent-card.json",
+      "version": "0.3.0"
+    },
+    {
+      "name": "payg",
+      "endpoint": "https://agenthustle.ai/api/payg"
+    },
+    {
+      "name": "x402",
+      "endpoint": "https://agenthustle.ai/.well-known/x402",
+      "version": 1
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "tool_interaction/api_integration",
+        "agent_orchestration/task_decomposition",
+        "evaluation_monitoring/anomaly_detection"
+      ],
+      "domains": [
+        "finance_and_business/investment_services",
+        "finance_and_business/financial_analysis",
+        "technology/blockchain/defi",
+        "technology/blockchain/cryptocurrency"
+      ]
+    },
+    {
+      "name": "toolDiscovery",
+      "endpoint": "https://agenthustle.ai/api/tools/discover"
+    },
+    {
+      "name": "toolPricing",
+      "endpoint": "https://agenthustle.ai/api/tools/pricing/{paymentToken}"
+    },
+    {
+      "name": "toolExecute",
+      "endpoint": "https://agenthustle.ai/api/tools/execute/{paymentToken}/{toolName}"
+    },
+    {
+      "name": "email",
+      "endpoint": "mailto:support@agenthustle.ai"
+    },
+    {
+      "name": "ENS",
+      "endpoint": "EmblemAI.eth",
+      "version": "v1"
+    },
+    {
+      "name": "agentWallet",
+      "endpoint": "eip155:8453:0x0BbEFF1EE4114976F84D1e1C44150515719fD176"
+    },
+    {
+      "name": "agentWallet",
+      "endpoint": "solana:4Z4rmiTW3U74qjYrRw7zS9Y7McKEVDLssHndKyJvGbFn"
+    },
+    {
+      "name": "agentWallet",
+      "endpoint": "eip155:1:0x0BbEFF1EE4114976F84D1e1C44150515719fD176"
+    }
+  ],
+  "registeredBlock": 24577859,
+  "txHash": "0xd96a32c2c34b27779a1cb7afd341c6270a3296985fa77aec79a3e6bfa6507fe8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "EmblemAI",
+    "description": "EmblemAI is your AI-powered crypto assistant — making blockchain simple for everyone. Trade tokens, swap across chains, check your portfolio, send payments, and explore DeFi without the complexity. Works across Solana, Ethereum, Base, BSC, Polygon, Counterparty and Bitcoin. Just ask in plain English. Supports A2A for agent-to-agent collaboration and x402 for pay-per-use. Whether you're new to crypto or a seasoned trader, EmblemAI handles the hard parts so you don't have to.",
+    "image": "https://agenthustle.ai/EmblemAI.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://agenthustle.ai"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://agenthustle.ai/.well-known/agent-card.json",
+        "version": "0.3.0"
+      },
+      {
+        "name": "payg",
+        "endpoint": "https://agenthustle.ai/api/payg"
+      },
+      {
+        "name": "x402",
+        "endpoint": "https://agenthustle.ai/.well-known/x402",
+        "version": 1
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "tool_interaction/api_integration",
+          "agent_orchestration/task_decomposition",
+          "evaluation_monitoring/anomaly_detection"
+        ],
+        "domains": [
+          "finance_and_business/investment_services",
+          "finance_and_business/financial_analysis",
+          "technology/blockchain/defi",
+          "technology/blockchain/cryptocurrency"
+        ]
+      },
+      {
+        "name": "toolDiscovery",
+        "endpoint": "https://agenthustle.ai/api/tools/discover"
+      },
+      {
+        "name": "toolPricing",
+        "endpoint": "https://agenthustle.ai/api/tools/pricing/{paymentToken}"
+      },
+      {
+        "name": "toolExecute",
+        "endpoint": "https://agenthustle.ai/api/tools/execute/{paymentToken}/{toolName}"
+      },
+      {
+        "name": "email",
+        "endpoint": "mailto:support@agenthustle.ai"
+      },
+      {
+        "name": "ENS",
+        "endpoint": "EmblemAI.eth",
+        "version": "v1"
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:8453:0x0BbEFF1EE4114976F84D1e1C44150515719fD176"
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "solana:4Z4rmiTW3U74qjYrRw7zS9Y7McKEVDLssHndKyJvGbFn"
+      },
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:1:0x0BbEFF1EE4114976F84D1e1C44150515719fD176"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 0,
+        "agentRegistry": "eip155:1:0x0000000000000000000000000000000000000000"
+      },
+      {
+        "agentId": 0,
+        "agentRegistry": "eip155:8453:0x0000000000000000000000000000000000000000"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-04T03:34:15.748Z"
+}

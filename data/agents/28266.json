@@ -1,0 +1,21 @@
+{
+  "id": 28266,
+  "owner": "0x55862D0711Fe9CE125dCe1b46973Be99E5Fd2592",
+  "chain": "ethereum",
+  "name": "Apollo-13",
+  "description": "Soul identity for agent Apollo-13, created via Ledger Origin.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24577406,
+  "txHash": "0x7c0de402cee2ec3aa66e08f998bec95f45e6851e81ff75e8923c2bd7cbed817e",
+  "rawMetadata": {
+    "name": "Apollo-13",
+    "description": "Soul identity for agent Apollo-13, created via Ledger Origin.",
+    "agentPublicKey": "0xE3e699aD7185c32fCf61c2cc2ee0694D6558f779",
+    "standard": "ERC-8004",
+    "createdAt": "2026-03-03T14:03:27.013Z"
+  },
+  "syncedAt": "2026-03-04T03:34:15.525Z"
+}

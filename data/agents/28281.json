@@ -1,0 +1,106 @@
+{
+  "id": 28281,
+  "owner": "0xf7ef3CA9EAd52C2fe7EF5bf486611EbE40670f41",
+  "chain": "ethereum",
+  "name": "main-test-1",
+  "description": "main-test-1",
+  "image": "https://ipfs.rip.tools/ipfs/QmPcMnDrjL36ZLZ6x7xETyR95kQJkvuj433whmAoGLxayJ",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "example.com"
+    },
+    {
+      "name": "email",
+      "endpoint": "email@example.com"
+    },
+    {
+      "name": "MCP",
+      "endpoint": "mcp-endpoint",
+      "version": "2025-06-18",
+      "mcpTools": [
+        "generation"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "oasf-endpoint-example",
+      "version": "v0.8.0",
+      "skills": [
+        {
+          "id": "101",
+          "name": "Natural Language Understanding"
+        }
+      ],
+      "domains": [
+        "Education"
+      ]
+    },
+    {
+      "name": "ENS",
+      "endpoint": "example.eth",
+      "version": "v1"
+    }
+  ],
+  "registeredBlock": 24578609,
+  "txHash": "0x29a12b8fbca6f39feeeab289ae00d64d0749fe5b2c23c750b5c8f4b7a05d9036",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "main-test-1",
+    "description": "main-test-1",
+    "image": "https://ipfs.rip.tools/ipfs/QmPcMnDrjL36ZLZ6x7xETyR95kQJkvuj433whmAoGLxayJ",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "example.com"
+      },
+      {
+        "name": "email",
+        "endpoint": "email@example.com"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "mcp-endpoint",
+        "version": "2025-06-18",
+        "mcpTools": [
+          "generation"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "oasf-endpoint-example",
+        "version": "v0.8.0",
+        "skills": [
+          {
+            "id": "101",
+            "name": "Natural Language Understanding"
+          }
+        ],
+        "domains": [
+          "Education"
+        ]
+      },
+      {
+        "name": "ENS",
+        "endpoint": "example.eth",
+        "version": "v1"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 28281,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-03-04T03:34:19.974Z"
+}

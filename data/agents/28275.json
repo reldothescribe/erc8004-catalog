@@ -1,0 +1,113 @@
+{
+  "id": 28275,
+  "owner": "0x4782fE2fbFf97Afa62c3769Acab241AFE897D5D4",
+  "chain": "ethereum",
+  "name": "DarthClaw",
+  "description": "Verifiable randomness (VRF) service for AI agents. Cryptographically provable randomness for gaming, NFT reveals, lotteries, and agent decision-making. x402 payments, $0.005/request.",
+  "image": "https://turquoise-electrical-kingfisher-621.mypinata.cloud/ipfs/bafkreib42ctyl5guifvjr7qevk64snq7n6kth6ja2lgnlz5i5j5qfx5zj4",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "vrf-api",
+      "endpoint": "https://vrf.nings.io/api/vrf/request",
+      "method": "POST",
+      "description": "Verifiable randomness API with x402 payments. Supports single, range (min/max), and batch (1-100) modes.",
+      "payment": {
+        "protocol": "x402",
+        "price": "$0.005",
+        "token": "USDC",
+        "chain": "base"
+      }
+    },
+    {
+      "name": "vrf-instructions",
+      "endpoint": "https://vrf.nings.io/api/vrf/instructions",
+      "method": "GET",
+      "description": "Machine-readable integration guide for agents. Free."
+    },
+    {
+      "name": "mcp",
+      "endpoint": "https://vrf.nings.io/.well-known/mcp.json",
+      "method": "GET",
+      "description": "MCP server manifest for agent-native randomness tools."
+    },
+    {
+      "name": "vrf-frame",
+      "endpoint": "https://vrf.nings.io/api/frame/dice",
+      "description": "Farcaster Frame for interactive dice rolling."
+    }
+  ],
+  "registeredBlock": 24578183,
+  "txHash": "0x788adecda42279874fece8017c13503c0bc5ebf2d574b3cc5560117d06e535e6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DarthClaw",
+    "description": "Verifiable randomness (VRF) service for AI agents. Cryptographically provable randomness for gaming, NFT reveals, lotteries, and agent decision-making. x402 payments, $0.005/request.",
+    "image": "https://turquoise-electrical-kingfisher-621.mypinata.cloud/ipfs/bafkreib42ctyl5guifvjr7qevk64snq7n6kth6ja2lgnlz5i5j5qfx5zj4",
+    "farcaster": "@darthclaw",
+    "services": [
+      {
+        "name": "vrf-api",
+        "endpoint": "https://vrf.nings.io/api/vrf/request",
+        "method": "POST",
+        "description": "Verifiable randomness API with x402 payments. Supports single, range (min/max), and batch (1-100) modes.",
+        "payment": {
+          "protocol": "x402",
+          "price": "$0.005",
+          "token": "USDC",
+          "chain": "base"
+        }
+      },
+      {
+        "name": "vrf-instructions",
+        "endpoint": "https://vrf.nings.io/api/vrf/instructions",
+        "method": "GET",
+        "description": "Machine-readable integration guide for agents. Free."
+      },
+      {
+        "name": "mcp",
+        "endpoint": "https://vrf.nings.io/.well-known/mcp.json",
+        "method": "GET",
+        "description": "MCP server manifest for agent-native randomness tools."
+      },
+      {
+        "name": "vrf-frame",
+        "endpoint": "https://vrf.nings.io/api/frame/dice",
+        "description": "Farcaster Frame for interactive dice rolling."
+      }
+    ],
+    "x402Support": true,
+    "x402Endpoint": "https://vrf.nings.io/api/vrf/request",
+    "active": true,
+    "agentId": {
+      "base": "0x20d267106315921732E53b4F6B687593b0eC46Bf",
+      "ethereum": "registered",
+      "bnb": "20564"
+    },
+    "supportedChains": [
+      "base",
+      "ethereum",
+      "bnb"
+    ],
+    "supportedTrust": [
+      "erc-8004",
+      "x402"
+    ],
+    "pricing": {
+      "vrf-fast": "$0.005/request",
+      "vrf-batch": "$0.01/batch (1-100 randoms)"
+    },
+    "useCases": [
+      "gaming",
+      "nft-reveals",
+      "lottery",
+      "agent-decision-making",
+      "fair-selection"
+    ],
+    "version": "2.1.0",
+    "created": "2026-03-03T16:20:00Z",
+    "updated": "2026-03-03T22:42:00Z"
+  },
+  "syncedAt": "2026-03-04T03:34:14.876Z"
+}

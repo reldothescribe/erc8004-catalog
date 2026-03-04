@@ -1,0 +1,27 @@
+{
+  "id": 28283,
+  "owner": "0x2967C076182F0303037072670e744e26Ed4A830f",
+  "chain": "ethereum",
+  "name": "Oya Deterministic DCA Agent",
+  "description": "Deterministic single-active-campaign DCA reimbursement agent: reconstructs campaign state from chain history, executes 4 tranches over 9h (immediate + every 3h), applies an implied 0.5% service fee, and halts on user withdrawal cancellation.",
+  "image": "https://raw.githubusercontent.com/oya-commitments/oya-commitments/main/agent-library/agents/default/agent.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24578836,
+  "txHash": "0xc2781f607b15c26acb48bd2747b1a1dbe2237fd1051e1c6a2766f57e54bd99c1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Oya Deterministic DCA Agent",
+    "description": "Deterministic single-active-campaign DCA reimbursement agent: reconstructs campaign state from chain history, executes 4 tranches over 9h (immediate + every 3h), applies an implied 0.5% service fee, and halts on user withdrawal cancellation.",
+    "image": "https://raw.githubusercontent.com/oya-commitments/oya-commitments/main/agent-library/agents/default/agent.png",
+    "endpoints": [
+      {
+        "name": "agentWallet",
+        "endpoint": "eip155:11155111:0x0000000000000000000000000000000000000000"
+      }
+    ],
+    "registrations": []
+  },
+  "syncedAt": "2026-03-04T03:34:20.292Z"
+}
