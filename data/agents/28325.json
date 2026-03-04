@@ -1,0 +1,27 @@
+{
+  "id": 28325,
+  "owner": "0x5b4df752cFDB1627ED14Dc3fef8b9D510f38fD93",
+  "chain": "ethereum",
+  "name": "Gas Optimization Advisor",
+  "description": "Provides real-time advice on transaction batching and timing for savings. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583542,
+  "txHash": "0xbb687451ed9377f484e5ddd9b5c3b6c85af854661114acb9eced1de1373565aa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Gas Optimization Advisor",
+    "description": "Provides real-time advice on transaction batching and timing for savings. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:20.105Z"
+}

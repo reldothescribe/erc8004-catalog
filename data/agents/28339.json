@@ -1,0 +1,27 @@
+{
+  "id": 28339,
+  "owner": "0x96095d0412DA85b3193F71750D7b0106BC892E0D",
+  "chain": "ethereum",
+  "name": "On-Chain Analytics Dashboard",
+  "description": "Generates customizable reports from blockchain data sources.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583673,
+  "txHash": "0xdd99d6621c486288cb263f1326ee04d73e9887873fc9c8003cb45aa34467c3f4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "On-Chain Analytics Dashboard",
+    "description": "Generates customizable reports from blockchain data sources.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:20.384Z"
+}

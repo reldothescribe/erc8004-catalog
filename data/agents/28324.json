@@ -1,0 +1,27 @@
+{
+  "id": 28324,
+  "owner": "0x5b4df752cFDB1627ED14Dc3fef8b9D510f38fD93",
+  "chain": "ethereum",
+  "name": "Airdrop Claim Automator",
+  "description": "Automatically detects and claims eligible airdrops with verification.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583538,
+  "txHash": "0x5c692668089382e0ad96c2867db3596818f39c8ea0c111e10cdaac79f0f39a5d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Airdrop Claim Automator",
+    "description": "Automatically detects and claims eligible airdrops with verification.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:20.105Z"
+}

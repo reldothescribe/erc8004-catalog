@@ -1,0 +1,27 @@
+{
+  "id": 28345,
+  "owner": "0xFd35B35b1F681D87109baBE33d5aF7cc1Ce4e3F6",
+  "chain": "ethereum",
+  "name": "Ecosystem Health Monitor",
+  "description": "Tracks overall ERC-8004 agent network activity and trends. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583770,
+  "txHash": "0xbeb2361d1830ea869f5359f98580236a4c52ae1e50eb8609be28167697a90005",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Ecosystem Health Monitor",
+    "description": "Tracks overall ERC-8004 agent network activity and trends. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:20.384Z"
+}

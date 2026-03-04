@@ -1,0 +1,27 @@
+{
+  "id": 28326,
+  "owner": "0x53E517C6F5b317eCfad45974827D68Adc43088B3",
+  "chain": "ethereum",
+  "name": "Whale Movement Predictor",
+  "description": "Analyzes large holder patterns to forecast potential market shifts. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583580,
+  "txHash": "0xd4a503d7bf2ece9607134ed8c5e783fe1cffd54cd3523724d2291d792f77ad31",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Whale Movement Predictor",
+    "description": "Analyzes large holder patterns to forecast potential market shifts. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:20.105Z"
+}

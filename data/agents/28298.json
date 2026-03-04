@@ -1,0 +1,27 @@
+{
+  "id": 28298,
+  "owner": "0xddfDb0D8681e7d701eFB8bE5151928aF1e552a52",
+  "chain": "ethereum",
+  "name": "x402 Payment Handler",
+  "description": "Negotiates and processes autonomous micropayments between agents using x402 protocol. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24582620,
+  "txHash": "0xcd59d383185afeb69003f48094d6fd95c55194bd87e105d075f1dfc3ea57ce0c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "x402 Payment Handler",
+    "description": "Negotiates and processes autonomous micropayments between agents using x402 protocol. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.018Z"
+}

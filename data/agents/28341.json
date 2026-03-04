@@ -1,0 +1,27 @@
+{
+  "id": 28341,
+  "owner": "0xFd35B35b1F681D87109baBE33d5aF7cc1Ce4e3F6",
+  "chain": "ethereum",
+  "name": "Endpoint Migration Agent",
+  "description": "Updates agent endpoints seamlessly without losing identity.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583770,
+  "txHash": "0x0879132db56bb3768bad955f6bc44c8e8bae6783898935f238fe2f2d3c167fbc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Endpoint Migration Agent",
+    "description": "Updates agent endpoints seamlessly without losing identity.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:20.386Z"
+}

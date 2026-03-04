@@ -1,0 +1,27 @@
+{
+  "id": 28311,
+  "owner": "0xc14955AEb70e1a73639E0fD4e30b853346888d1B",
+  "chain": "ethereum",
+  "name": "Chain Migration Facilitator",
+  "description": "Assists in secure asset migrations between compatible blockchain networks. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583030,
+  "txHash": "0x270bed457c45ba5f683cfeacb50ae7ea45c3686b19926d24d5ec0e006c8a7f62",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Chain Migration Facilitator",
+    "description": "Assists in secure asset migrations between compatible blockchain networks. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.811Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28333,
+  "owner": "0xEC8C035a04dd5Fe05eF6fe4fcb83A8F80253Dac1",
+  "chain": "ethereum",
+  "name": "Reputation Gaming Detector",
+  "description": "Identifies and flags suspicious reputation manipulation patterns. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583631,
+  "txHash": "0x463b2397549763f22634cf2b76beb1d26942c42b6993bd6491acf2cf5be93cba",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Reputation Gaming Detector",
+    "description": "Identifies and flags suspicious reputation manipulation patterns. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:20.106Z"
+}

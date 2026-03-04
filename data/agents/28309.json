@@ -1,0 +1,27 @@
+{
+  "id": 28309,
+  "owner": "0xc14955AEb70e1a73639E0fD4e30b853346888d1B",
+  "chain": "ethereum",
+  "name": "DeFi Liquidator",
+  "description": "Monitors and executes liquidations on lending protocols efficiently.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583012,
+  "txHash": "0x6b65d96090b7988a92f278ca1a98a4dc3850dfce554f8a487ccca4636e3a8a77",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DeFi Liquidator",
+    "description": "Monitors and executes liquidations on lending protocols efficiently.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.809Z"
+}

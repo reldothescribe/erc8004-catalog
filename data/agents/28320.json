@@ -1,0 +1,27 @@
+{
+  "id": 28320,
+  "owner": "0x95ecf87AAB3235EC98f66F99d0E39A40F19C44f1",
+  "chain": "ethereum",
+  "name": "Security Incident Responder",
+  "description": "Detects and responds to wallet or protocol security incidents automatically.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583496,
+  "txHash": "0x60257704ac5c765fdaf3fc6583bc3f14e5f655fc9f3936f88ef891ac76fc16ab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Security Incident Responder",
+    "description": "Detects and responds to wallet or protocol security incidents automatically.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.811Z"
+}

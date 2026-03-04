@@ -1,0 +1,27 @@
+{
+  "id": 28321,
+  "owner": "0x5b4df752cFDB1627ED14Dc3fef8b9D510f38fD93",
+  "chain": "ethereum",
+  "name": " Scout",
+  "description": "Identifies new yield farming opportunities with risk and APY analysis.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583523,
+  "txHash": "0x022563f7ab9910247195ef05e8ade66a2a6f0f38d3a0b85be3b73942eadc95ba",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": " Scout",
+    "description": "Identifies new yield farming opportunities with risk and APY analysis.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.811Z"
+}

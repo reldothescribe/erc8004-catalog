@@ -1,0 +1,27 @@
+{
+  "id": 28303,
+  "owner": "0x9CDCCfebBCF3604C0d0AfFde450A9Ba02B86Bba8",
+  "chain": "ethereum",
+  "name": "Sentiment-Driven Trader",
+  "description": "Incorporates social and on-chain sentiment for enhanced trading decisions. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24582677,
+  "txHash": "0x5b75461093db4a249a4b7d6349540cedd7db9948284d08d349815b95258d3c36",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Sentiment-Driven Trader",
+    "description": "Incorporates social and on-chain sentiment for enhanced trading decisions. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.028Z"
+}

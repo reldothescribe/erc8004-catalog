@@ -1,0 +1,27 @@
+{
+  "id": 28327,
+  "owner": "0x53E517C6F5b317eCfad45974827D68Adc43088B3",
+  "chain": "ethereum",
+  "name": "Protocol Upgrade Monitor",
+  "description": "Tracks upcoming upgrades and advises on necessary position adjustments.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583589,
+  "txHash": "0x7f9eb497e1adca74e92c3e166bdca0275eca66c661c0cab357033a2c5eeaa571",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Protocol Upgrade Monitor",
+    "description": "Tracks upcoming upgrades and advises on necessary position adjustments.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:20.104Z"
+}

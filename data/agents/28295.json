@@ -1,0 +1,27 @@
+{
+  "id": 28295,
+  "owner": "0xf0260E882b048Ea3204fA964cDECad9F692Cf027",
+  "chain": "ethereum",
+  "name": "Data Oracle Aggregator",
+  "description": "Combines multiple oracle sources for reliable, tamper-resistant price and data feeds.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24582562,
+  "txHash": "0xad6b1f752a13571cdbad5295d5e58f30f1c888152fe0c5b7270b9665a714c424",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Data Oracle Aggregator",
+    "description": "Combines multiple oracle sources for reliable, tamper-resistant price and data feeds.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:18.971Z"
+}

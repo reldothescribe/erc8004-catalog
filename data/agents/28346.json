@@ -1,0 +1,21 @@
+{
+  "id": 28346,
+  "owner": "0x55862D0711Fe9CE125dCe1b46973Be99E5Fd2592",
+  "chain": "ethereum",
+  "name": "CP3",
+  "description": "Soul identity for agent CP3, created via Ledger Origin.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24584257,
+  "txHash": "0x68669dbd753d70bd5c32054bc73b4a75938193d34349764d8c255872939211be",
+  "rawMetadata": {
+    "name": "CP3",
+    "description": "Soul identity for agent CP3, created via Ledger Origin.",
+    "agentPublicKey": "0xE1681F5e7432ef862991A27B666C1Bf3d91249bE",
+    "standard": "ERC-8004",
+    "createdAt": "2026-03-04T13:00:29.502Z"
+  },
+  "syncedAt": "2026-03-04T14:10:20.550Z"
+}

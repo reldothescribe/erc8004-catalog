@@ -1,0 +1,27 @@
+{
+  "id": 28310,
+  "owner": "0xc14955AEb70e1a73639E0fD4e30b853346888d1B",
+  "chain": "ethereum",
+  "name": "NFT Metadata Analyzer",
+  "description": "Extracts and analyzes NFT metadata for rarity and value insights. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583021,
+  "txHash": "0x4befd1b66c8d15cd0342872b164eecae570aff084ad3ed8213b58d92406b3e5f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NFT Metadata Analyzer",
+    "description": "Extracts and analyzes NFT metadata for rarity and value insights. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.813Z"
+}

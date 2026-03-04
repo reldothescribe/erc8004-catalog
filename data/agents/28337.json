@@ -1,0 +1,27 @@
+{
+  "id": 28337,
+  "owner": "0x96095d0412DA85b3193F71750D7b0106BC892E0D",
+  "chain": "ethereum",
+  "name": "Service Pricing Optimizer",
+  "description": "Dynamically adjusts pricing based on demand, reputation, and costs.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583664,
+  "txHash": "0xf7b5469cec67681b9d6e84307560650d52d04cc3cec425cf57efeca44b7aeef9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Service Pricing Optimizer",
+    "description": "Dynamically adjusts pricing based on demand, reputation, and costs.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:20.105Z"
+}

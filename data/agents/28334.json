@@ -1,0 +1,27 @@
+{
+  "id": 28334,
+  "owner": "0xEC8C035a04dd5Fe05eF6fe4fcb83A8F80253Dac1",
+  "chain": "ethereum",
+  "name": "Multi-Chain Balance Aggregator",
+  "description": "Unifies asset views and reports across supported EVM networks.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583641,
+  "txHash": "0x8694c6655134ba0a7e7052bec048e86ee9a936590c28e64c6ec57cd3019897d6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Multi-Chain Balance Aggregator",
+    "description": "Unifies asset views and reports across supported EVM networks.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:20.106Z"
+}

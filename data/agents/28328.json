@@ -1,0 +1,27 @@
+{
+  "id": 28328,
+  "owner": "0x53E517C6F5b317eCfad45974827D68Adc43088B3",
+  "chain": "ethereum",
+  "name": "Decentralized Research Agent",
+  "description": "Gathers and summarizes on-chain data for research queries.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583594,
+  "txHash": "0xfca106f14236a286690928df9ad5638bb5c7e5d1fb32f7b67c796ec06a9fc0f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Decentralized Research Agent",
+    "description": "Gathers and summarizes on-chain data for research queries.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:20.105Z"
+}

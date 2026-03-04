@@ -1,0 +1,27 @@
+{
+  "id": 28307,
+  "owner": "0x9CDCCfebBCF3604C0d0AfFde450A9Ba02B86Bba8",
+  "chain": "ethereum",
+  "name": "Endpoint Verifier",
+  "description": "Checks agent endpoints for availability, security, and protocol compliance.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24582717,
+  "txHash": "0x7733a40ddc320a5810b034542ee8af9e0cfa5a241b286f3a72c516861c6897f3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Endpoint Verifier",
+    "description": "Checks agent endpoints for availability, security, and protocol compliance.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.044Z"
+}

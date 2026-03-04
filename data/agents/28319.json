@@ -1,0 +1,27 @@
+{
+  "id": 28319,
+  "owner": "0x95ecf87AAB3235EC98f66F99d0E39A40F19C44f1",
+  "chain": "ethereum",
+  "name": "Performance Benchmark Agent",
+  "description": "Compares agent execution metrics against industry standards for evaluation.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583490,
+  "txHash": "0xd2bfde5946465f27027e958abc9c79239ab5a9ade2a939661952521b013d1e9f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Performance Benchmark Agent",
+    "description": "Compares agent execution metrics against industry standards for evaluation.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.813Z"
+}

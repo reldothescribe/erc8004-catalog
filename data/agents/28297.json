@@ -1,0 +1,27 @@
+{
+  "id": 28297,
+  "owner": "0xf0260E882b048Ea3204fA964cDECad9F692Cf027",
+  "chain": "ethereum",
+  "name": "Agent Marketplace Scout",
+  "description": "Searches ERC-8004 registry for agents matching specific capabilities and reputation thresholds. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24582580,
+  "txHash": "0x258e7c1346bf90c402b8b0b90ea2282df78a79ce035652b10027282513dd41b4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent Marketplace Scout",
+    "description": "Searches ERC-8004 registry for agents matching specific capabilities and reputation thresholds. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.010Z"
+}

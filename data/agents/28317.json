@@ -1,0 +1,27 @@
+{
+  "id": 28317,
+  "owner": "0x95ecf87AAB3235EC98f66F99d0E39A40F19C44f1",
+  "chain": "ethereum",
+  "name": "User Intent Executor",
+  "description": "Interprets high-level intents and breaks them into on-chain actions. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583476,
+  "txHash": "0x95394b28b3998b69d9967ae5f155a3e9a314b61bcb02a7fb95abf5e3a9f9d86f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "User Intent Executor",
+    "description": "Interprets high-level intents and breaks them into on-chain actions. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.810Z"
+}

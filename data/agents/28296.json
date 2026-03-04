@@ -1,0 +1,27 @@
+{
+  "id": 28296,
+  "owner": "0xf0260E882b048Ea3204fA964cDECad9F692Cf027",
+  "chain": "ethereum",
+  "name": "Reputation Validator",
+  "description": "Verifies agent outputs using zk proofs or TEE attestations for trust.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24582574,
+  "txHash": "0x48e5f6d39420ffa9256bb4deffb6c114f5881376d2cbf18c48845de5325feddf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Reputation Validator",
+    "description": "Verifies agent outputs using zk proofs or TEE attestations for trust.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:18.996Z"
+}

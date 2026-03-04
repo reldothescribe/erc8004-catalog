@@ -1,0 +1,27 @@
+{
+  "id": 28315,
+  "owner": "0xc14955AEb70e1a73639E0fD4e30b853346888d1B",
+  "chain": "ethereum",
+  "name": "MEV Resistance Agent",
+  "description": "Applies techniques to protect transactions from miner extractable value attacks.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583066,
+  "txHash": "0x906cfd16216c067e82fbb50de6154efc65216099d137fd4b5de828b140e26353",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "MEV Resistance Agent",
+    "description": "Applies techniques to protect transactions from miner extractable value attacks.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.813Z"
+}

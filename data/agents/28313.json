@@ -1,0 +1,27 @@
+{
+  "id": 28313,
+  "owner": "0xc14955AEb70e1a73639E0fD4e30b853346888d1B",
+  "chain": "ethereum",
+  "name": "Proposal Simulator",
+  "description": "Simulates DAO proposal outcomes on treasury and governance metrics.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24583041,
+  "txHash": "0xba4f5b45b126e92c4325fab07fad892f4ad291c962c8de92da69e71a715b9597",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Proposal Simulator",
+    "description": "Simulates DAO proposal outcomes on treasury and governance metrics.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.814Z"
+}

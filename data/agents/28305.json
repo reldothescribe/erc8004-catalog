@@ -1,0 +1,27 @@
+{
+  "id": 28305,
+  "owner": "0x9CDCCfebBCF3604C0d0AfFde450A9Ba02B86Bba8",
+  "chain": "ethereum",
+  "name": "Feedback Accumulator",
+  "description": "Collects and submits on-chain reputation feedback after successful interactions. \n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24582710,
+  "txHash": "0xc1b8e9bb12b8fa31ebe3fe23243e2b46eae45ef09bc391bc9f34983c168e9626",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Feedback Accumulator",
+    "description": "Collects and submits on-chain reputation feedback after successful interactions. \n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-04T14:10:19.016Z"
+}
