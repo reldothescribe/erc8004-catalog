@@ -1,0 +1,21 @@
+{
+  "id": 28348,
+  "owner": "0x55862D0711Fe9CE125dCe1b46973Be99E5Fd2592",
+  "chain": "ethereum",
+  "name": "Giorgio",
+  "description": "Soul identity for agent Giorgio, created via Ledger Origin.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24584473,
+  "txHash": "0x42c097027ec58d08f780fc990f576a92f020552141fda9ed0e0b990b1e9b45dd",
+  "rawMetadata": {
+    "name": "Giorgio",
+    "description": "Soul identity for agent Giorgio, created via Ledger Origin.",
+    "agentPublicKey": "0xd9ca3089712E8215fb2b2563Ba744d541d129844",
+    "standard": "ERC-8004",
+    "createdAt": "2026-03-04T13:43:49.718Z"
+  },
+  "syncedAt": "2026-03-04T19:01:45.695Z"
+}
