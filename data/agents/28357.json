@@ -1,0 +1,62 @@
+{
+  "id": 28357,
+  "owner": "0xdec2eda5D6023C065E0e51Eb45dF689ECf243A69",
+  "chain": "ethereum",
+  "name": "pantera",
+  "description": "first ",
+  "image": "ipfs://QmNqDNWDGXMnvehm2nqCnMbwbCYg6k9X25S9sHHSpFPqps",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24586880,
+  "txHash": "0xd60c29f0d17680f06a4c68ecf2144bac8b5a12c2b377d46718210427cc64c82f",
+  "rawMetadata": {
+    "name": "pantera",
+    "description": "first ",
+    "image": "ipfs://QmNqDNWDGXMnvehm2nqCnMbwbCYg6k9X25S9sHHSpFPqps",
+    "external_url": "https://reputio.8004labs.ai/agents/56/0x8004A169FB4a3325136EB29fA0ceB6D2e539a432/pending",
+    "attributes": [
+      {
+        "trait_type": "Mode",
+        "value": "signals"
+      },
+      {
+        "trait_type": "Chain",
+        "value": "BSC Mainnet"
+      },
+      {
+        "trait_type": "Runtime",
+        "value": "none"
+      }
+    ],
+    "banner_image": "ipfs://QmQWoth6UZr5k6zpK6nY8hMGQEq9hMc5eUwJo6rDgMezww",
+    "reputio": {
+      "runtime": {
+        "type": "none"
+      },
+      "capabilities": {
+        "mode": [
+          "signals"
+        ],
+        "actions": [
+          "read_onchain",
+          "notify"
+        ],
+        "protocols": []
+      },
+      "policyDefaults": {
+        "signalsOnly": true,
+        "maxSpendUsdPerDay": 0,
+        "slippageBpsMax": 50,
+        "allowlistedRouters": [],
+        "allowlistedTokens": [],
+        "sessionExpiryMinutes": 60
+      },
+      "receipts": {
+        "type": "eip712",
+        "publicKey": "0xdec2eda5D6023C065E0e51Eb45dF689ECf243A69"
+      }
+    }
+  },
+  "syncedAt": "2026-03-05T03:37:17.445Z"
+}

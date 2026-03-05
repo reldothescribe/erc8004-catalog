@@ -1,0 +1,123 @@
+{
+  "id": 28359,
+  "owner": "0x72cbfAad64068d1bC7bcd51f182f315bacE7690c",
+  "chain": "ethereum",
+  "name": "CoinFello",
+  "description": "CoinFello is the crypto brain for agents and wallets. \n\nCoinFello provides a secure, programmable interface that allows AI agents and applications to understand, plan, and execute onchain actions across multiple blockchains.\n\nInstead of every agent needing to implement complex blockchain integrations, wallet logic, and protocol support themselves, they can plug into CoinFello to gain production-grade crypto capabilities instantly.\n\nCoinFello acts as a white-glove crypto execution layer, giving agents the ability to safely perform financial actions on behalf of users.",
+  "image": "https://app.coinfello.com/icon-192.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://app.coinfello.com?utm_source=a2a"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://www.npmjs.com/package/@coinfello/agent-cli"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "tool_interaction/workflow_automation",
+        "tool_interaction/tool_use_planning",
+        "tool_interaction/script_integration",
+        "retrieval_augmented_generation/retrieval_of_information/retrieval_of_information",
+        "retrieval_augmented_generation/retrieval_of_information/document_retrieval",
+        "retrieval_augmented_generation/document_or_database_question_answering",
+        "natural_language_processing/natural_language_understanding/natural_language_understanding"
+      ],
+      "domains": [
+        "technology/blockchain/blockchain",
+        "technology/blockchain/smart_contracts",
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi",
+        "finance_and_business/finance",
+        "finance_and_business/investment_services"
+      ]
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://app.coinfello.com/agent/chat/.well-known/agent-card.json",
+      "a2aSkills": [
+        "tool_interaction/workflow_automation",
+        "tool_interaction/tool_use_planning",
+        "tool_interaction/script_integration",
+        "tool_interaction/api_schema_understanding",
+        "governance_compliance/risk_classification",
+        "governance_compliance/audit_trail_summarization",
+        "security_privacy/threat_detection",
+        "retrieval_augmented_generation/retrieval_of_information/retrieval_of_information",
+        "retrieval_augmented_generation/document_or_database_question_answering",
+        "retrieval_augmented_generation/retrieval_of_information/document_retrieval",
+        "natural_language_processing/natural_language_understanding/natural_language_understanding"
+      ]
+    }
+  ],
+  "registeredBlock": 24587646,
+  "txHash": "0xe033b45fceb2edb2bff32f7fc1a69064ff41429e693fa42128145f81623c853f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "CoinFello",
+    "description": "CoinFello is the crypto brain for agents and wallets. \n\nCoinFello provides a secure, programmable interface that allows AI agents and applications to understand, plan, and execute onchain actions across multiple blockchains.\n\nInstead of every agent needing to implement complex blockchain integrations, wallet logic, and protocol support themselves, they can plug into CoinFello to gain production-grade crypto capabilities instantly.\n\nCoinFello acts as a white-glove crypto execution layer, giving agents the ability to safely perform financial actions on behalf of users.",
+    "image": "https://app.coinfello.com/icon-192.png",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://app.coinfello.com?utm_source=a2a"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://www.npmjs.com/package/@coinfello/agent-cli"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "tool_interaction/workflow_automation",
+          "tool_interaction/tool_use_planning",
+          "tool_interaction/script_integration",
+          "retrieval_augmented_generation/retrieval_of_information/retrieval_of_information",
+          "retrieval_augmented_generation/retrieval_of_information/document_retrieval",
+          "retrieval_augmented_generation/document_or_database_question_answering",
+          "natural_language_processing/natural_language_understanding/natural_language_understanding"
+        ],
+        "domains": [
+          "technology/blockchain/blockchain",
+          "technology/blockchain/smart_contracts",
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi",
+          "finance_and_business/finance",
+          "finance_and_business/investment_services"
+        ]
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://app.coinfello.com/agent/chat/.well-known/agent-card.json",
+        "a2aSkills": [
+          "tool_interaction/workflow_automation",
+          "tool_interaction/tool_use_planning",
+          "tool_interaction/script_integration",
+          "tool_interaction/api_schema_understanding",
+          "governance_compliance/risk_classification",
+          "governance_compliance/audit_trail_summarization",
+          "security_privacy/threat_detection",
+          "retrieval_augmented_generation/retrieval_of_information/retrieval_of_information",
+          "retrieval_augmented_generation/document_or_database_question_answering",
+          "retrieval_augmented_generation/retrieval_of_information/document_retrieval",
+          "natural_language_processing/natural_language_understanding/natural_language_understanding"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-05T03:37:17.205Z"
+}
