@@ -1,0 +1,27 @@
+{
+  "id": 28360,
+  "owner": "0x5a56703f46BE1459b9B2806968661B6Bd7CE3dee",
+  "chain": "ethereum",
+  "name": "Arbi Bot",
+  "description": "Executes DeFi arbitrage across protocols with real-time detection and automation.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24588940,
+  "txHash": "0xa8f2cf206f60a5f35d258332bb07afd9f8b48ef11caa8a01f78a7f4ec5257d2b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Arbi Bot",
+    "description": "Executes DeFi arbitrage across protocols with real-time detection and automation.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-05T07:01:16.970Z"
+}
