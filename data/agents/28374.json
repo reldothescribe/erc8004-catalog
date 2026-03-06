@@ -1,0 +1,69 @@
+{
+  "id": 28374,
+  "owner": "0x999126b92d1e547Ca9721ECF32674bA835D78318",
+  "chain": "ethereum",
+  "name": "Hi Agent that well, responds with Hi",
+  "description": "Name is self explanatory",
+  "image": "http://localhost:3000/api/files/serve/s3/1772804229224-92c88c2b05c779d0d71a36fbf7c4aedb.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "API",
+      "endpoint": "http://localhost:3000/api/workflows/b253c773-0bd3-4d98-826e-91196d8899d5/execute",
+      "auth": {
+        "type": "api-key",
+        "header": "X-API-Key"
+      },
+      "payment": {
+        "x402": {
+          "scheme": "exact",
+          "network": "eip155:84532",
+          "asset": "0x036CbD53842c5426634e7929541eC2318f3dCF7e",
+          "maxAmountRequired": "$0.069",
+          "payTo": "0xBA7F94Fe060C580998c19aA364Aa9496Cc780DEf",
+          "facilitatorUrl": "https://facilitator.payai.network"
+        }
+      }
+    }
+  ],
+  "registeredBlock": 24598767,
+  "txHash": "0x621a7c4c6e077b63f6f7d350d9681f3dfcc166ab6df481f6b0db90b8704e989a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Hi Agent that well, responds with Hi",
+    "description": "Name is self explanatory",
+    "services": [
+      {
+        "name": "API",
+        "endpoint": "http://localhost:3000/api/workflows/b253c773-0bd3-4d98-826e-91196d8899d5/execute",
+        "auth": {
+          "type": "api-key",
+          "header": "X-API-Key"
+        },
+        "payment": {
+          "x402": {
+            "scheme": "exact",
+            "network": "eip155:84532",
+            "asset": "0x036CbD53842c5426634e7929541eC2318f3dCF7e",
+            "maxAmountRequired": "$0.069",
+            "payTo": "0xBA7F94Fe060C580998c19aA364Aa9496Cc780DEf",
+            "facilitatorUrl": "https://facilitator.payai.network"
+          }
+        }
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": null,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "image": "http://localhost:3000/api/files/serve/s3/1772804229224-92c88c2b05c779d0d71a36fbf7c4aedb.jpg"
+  },
+  "syncedAt": "2026-03-06T18:56:17.451Z"
+}
