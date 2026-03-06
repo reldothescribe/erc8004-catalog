@@ -1,0 +1,27 @@
+{
+  "id": 28373,
+  "owner": "0x596A0F84183c1EB5a003915E95a0f3651d0e1B72",
+  "chain": "ethereum",
+  "name": "Sentiment Reader",
+  "description": "Reads combined social and on-chain sentiment.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24597129,
+  "txHash": "0x4dc497974067ecae0993e4d1827eb457ca68f9b8b71a7e90a6fc7506a45f3bd6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Sentiment Reader",
+    "description": "Reads combined social and on-chain sentiment.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-06T14:09:52.157Z"
+}

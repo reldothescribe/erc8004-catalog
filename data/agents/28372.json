@@ -1,0 +1,27 @@
+{
+  "id": 28372,
+  "owner": "0x596A0F84183c1EB5a003915E95a0f3651d0e1B72",
+  "chain": "ethereum",
+  "name": "Gas Timer",
+  "description": "Times transactions during low gas periods.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24597125,
+  "txHash": "0x59ac0fcc5cc848b57f75d13f753b1075eb20e4bea4afd1cc251e8ddecb29d5f3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Gas Timer",
+    "description": "Times transactions during low gas periods.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-06T14:09:52.152Z"
+}

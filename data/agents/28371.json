@@ -1,0 +1,27 @@
+{
+  "id": 28371,
+  "owner": "0x596A0F84183c1EB5a003915E95a0f3651d0e1B72",
+  "chain": "ethereum",
+  "name": "Balance Viewer",
+  "description": "Views unified balances across multiple chains.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24597124,
+  "txHash": "0x759ce887d39da977a9f116cf0ab8d6f4ac36e188757dbce4872a1c24e6dc9c74",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Balance Viewer",
+    "description": "Views unified balances across multiple chains.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-06T14:09:52.150Z"
+}
