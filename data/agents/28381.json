@@ -1,0 +1,23 @@
+{
+  "id": 28381,
+  "owner": "0x20bfb083C5AdaCc91C46Ac4D37905D0447968166",
+  "chain": "ethereum",
+  "name": "Johny Rebalancer",
+  "description": "Soul identity for agent Johny Rebalancer, created via Ledger Origin.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24606609,
+  "txHash": "0x9a8893ea86267cbbc606aa948d0d6c589b7c4dc5e7ccaf915f0bd7bf344c0f1b",
+  "rawMetadata": {
+    "name": "Johny Rebalancer",
+    "description": "Soul identity for agent Johny Rebalancer, created via Ledger Origin.",
+    "agentPublicKey": "0xb6f67d29f34ae7a56382bb01e68f126e297e5251",
+    "standard": "ERC-8004",
+    "createdAt": "2026-03-07T15:56:31.114Z",
+    "rule": "Rebalance to 60% / 40% BTC/ETH when allocation drifts more than 5% using Ledger Swap",
+    "agentIndex": 0
+  },
+  "syncedAt": "2026-03-07T18:42:20.437Z"
+}
