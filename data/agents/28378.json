@@ -1,0 +1,21 @@
+{
+  "id": 28378,
+  "owner": "0x20bfb083C5AdaCc91C46Ac4D37905D0447968166",
+  "chain": "ethereum",
+  "name": "Johny",
+  "description": "Soul identity for agent Johny, created via Ledger Origin.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24605012,
+  "txHash": "0x14d8235eadffcc45bb362509f8712a5404cec15e15f33af37cf30fa7b2571f2e",
+  "rawMetadata": {
+    "name": "Johny",
+    "description": "Soul identity for agent Johny, created via Ledger Origin.",
+    "agentPublicKey": "0x22da2e9f91e32611f342321a5f8440ba8f58b10d",
+    "standard": "ERC-8004",
+    "createdAt": "2026-03-07T10:35:13.793Z"
+  },
+  "syncedAt": "2026-03-07T13:59:55.790Z"
+}
