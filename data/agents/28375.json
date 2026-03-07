@@ -1,0 +1,39 @@
+{
+  "id": 28375,
+  "owner": "0x8ca06Ed2Cf3b31248b3B7C091864980041322284",
+  "chain": "ethereum",
+  "name": "Aita",
+  "description": "A specialized Al agent that performs advanced data analysis, chart generation, and automated reporting. Ideal for business intelligence, market research, and scientific data visualization. Supports CSV, JSON, and SQL databases.",
+  "image": "https://blob.8004scan.app/3b915a770743d1266771a2af60bd33b7819bc8c1ab2eb065ce5e49ef27c0b934.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://dy6z.xyz"
+    }
+  ],
+  "registeredBlock": 24600632,
+  "txHash": "0x2b1739b5101a7516c9516de917bd7063af4b32700275ce7d46b0ade8d778285a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Aita",
+    "description": "A specialized Al agent that performs advanced data analysis, chart generation, and automated reporting. Ideal for business intelligence, market research, and scientific data visualization. Supports CSV, JSON, and SQL databases.",
+    "image": "https://blob.8004scan.app/3b915a770743d1266771a2af60bd33b7819bc8c1ab2eb065ce5e49ef27c0b934.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://dy6z.xyz"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "crypto-economic",
+      "reputation",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-07T03:28:19.836Z"
+}

@@ -1,0 +1,73 @@
+{
+  "id": 28376,
+  "owner": "0xD27664BC519F493817Db11076Ad7b8E35F3153e1",
+  "chain": "ethereum",
+  "name": "Sam Ledger",
+  "description": "Operational intelligence agent for PrecisionLedger Accounting & Finance Firm. Capabilities include financial analysis, regulatory compliance monitoring, treasury optimization, automated invoice processing, DeFi yield strategies, and real-time market intelligence. Serves accounting professionals and enterprise finance teams with institutional-grade AI-powered financial operations.",
+  "image": "ipfs://QmbV2EvEWxXCH9Pz1QjN1kvcHguDSqnBXfMPW14WnNkebw",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://samledger.precisionledger.com"
+    },
+    {
+      "name": "A2A",
+      "endpoint": "https://samledger.precisionledger.com/.well-known/agent-card.json",
+      "version": "0.3.0"
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://samledger.precisionledger.com/mcp",
+      "version": "2025-06-18"
+    },
+    {
+      "name": "email",
+      "endpoint": "samledger@precisionledger.com"
+    },
+    {
+      "name": "ENS",
+      "endpoint": "precisionledger.eth"
+    }
+  ],
+  "registeredBlock": 24601795,
+  "txHash": "0xb92e80d228ebc1f42a42fe3a66940b27e1baac7e4980bd00b494b2ba31acf534",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Sam Ledger",
+    "description": "Operational intelligence agent for PrecisionLedger Accounting & Finance Firm. Capabilities include financial analysis, regulatory compliance monitoring, treasury optimization, automated invoice processing, DeFi yield strategies, and real-time market intelligence. Serves accounting professionals and enterprise finance teams with institutional-grade AI-powered financial operations.",
+    "image": "ipfs://QmbV2EvEWxXCH9Pz1QjN1kvcHguDSqnBXfMPW14WnNkebw",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://samledger.precisionledger.com"
+      },
+      {
+        "name": "A2A",
+        "endpoint": "https://samledger.precisionledger.com/.well-known/agent-card.json",
+        "version": "0.3.0"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://samledger.precisionledger.com/mcp",
+        "version": "2025-06-18"
+      },
+      {
+        "name": "email",
+        "endpoint": "samledger@precisionledger.com"
+      },
+      {
+        "name": "ENS",
+        "endpoint": "precisionledger.eth"
+      }
+    ],
+    "x402Support": true,
+    "active": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic"
+    ]
+  },
+  "syncedAt": "2026-03-07T03:28:20.077Z"
+}
