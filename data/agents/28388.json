@@ -1,0 +1,75 @@
+{
+  "id": 28388,
+  "owner": "0x4BedAC0413e309818D7626555077821B22D7292b",
+  "chain": "ethereum",
+  "name": "ThoughtProof",
+  "description": "Epistemic Consensus Protocol — Multi-model verification for AI agent reasoning. Validation provider for ERC-8004 agents seeking reasoning quality assurance.",
+  "image": "https://thoughtproof.ai/logos/convergence-glow.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "type": "validation",
+      "name": "Epistemic Verification",
+      "description": "Multi-model adversarial verification of AI reasoning and outputs. 3-5 independent models evaluate claims through structured critique.",
+      "endpoint": "https://api.thoughtproof.ai/v1/verify",
+      "documentation": "https://thoughtproof.ai/docs"
+    }
+  ],
+  "registeredBlock": 24611499,
+  "txHash": "0xb42f861f0c23306518cade55a495f2e55149fbcfb7b38cd7fc91146586699ec8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ThoughtProof",
+    "description": "Epistemic Consensus Protocol — Multi-model verification for AI agent reasoning. Validation provider for ERC-8004 agents seeking reasoning quality assurance.",
+    "image": "https://thoughtproof.ai/logos/convergence-glow.jpg",
+    "version": "1.0.0",
+    "services": [
+      {
+        "type": "validation",
+        "name": "Epistemic Verification",
+        "description": "Multi-model adversarial verification of AI reasoning and outputs. 3-5 independent models evaluate claims through structured critique.",
+        "endpoint": "https://api.thoughtproof.ai/v1/verify",
+        "documentation": "https://thoughtproof.ai/docs"
+      }
+    ],
+    "capabilities": [
+      "reasoning-verification",
+      "adversarial-critique",
+      "multi-model-consensus",
+      "epistemic-block-generation",
+      "eu-ai-act-compliance"
+    ],
+    "supportedTrust": [
+      {
+        "type": "epistemic-verification",
+        "provider": "thoughtproof",
+        "endpoint": "https://api.thoughtproof.ai/v1/verify",
+        "verifierCount": 4,
+        "verifierDiversity": [
+          "openai",
+          "deepseek",
+          "xai",
+          "anthropic"
+        ],
+        "signatureScheme": "EdDSA-Ed25519",
+        "jwksUri": "https://api.thoughtproof.ai/.well-known/jwks.json"
+      }
+    ],
+    "links": {
+      "website": "https://thoughtproof.ai",
+      "comply": "https://comply.thoughtproof.ai",
+      "github": "https://github.com/ThoughtProof",
+      "npm": "https://www.npmjs.com/package/pot-sdk",
+      "twitter": "https://x.com/thoughtproof_ai",
+      "contact": "raul@thoughtproof.ai"
+    },
+    "legal": {
+      "entity": "ThoughtProof LLC",
+      "jurisdiction": "Wyoming, US",
+      "patent": "DPMA 10 2026 000 928.6",
+      "trademark": "DPMA 30 2026 209 501.1"
+    }
+  },
+  "syncedAt": "2026-03-08T14:01:39.807Z"
+}

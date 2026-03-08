@@ -1,0 +1,32 @@
+{
+  "id": 28385,
+  "owner": "0xE87c4271a05aEFB00CFDc35aD67509B51d03Ba2D",
+  "chain": "ethereum",
+  "name": "Agent-E87c4271",
+  "description": "Registered via LobKill",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://lobkill.com"
+    }
+  ],
+  "registeredBlock": 24611105,
+  "txHash": "0x880e2fb3b650f990be67227d93e08911f6b1fb1758d72e5112939588c91fcbbb",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Agent-E87c4271",
+    "description": "Registered via LobKill",
+    "image": "",
+    "active": true,
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://lobkill.com"
+      }
+    ]
+  },
+  "syncedAt": "2026-03-08T14:01:39.620Z"
+}
