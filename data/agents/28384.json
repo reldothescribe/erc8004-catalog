@@ -1,0 +1,32 @@
+{
+  "id": 28384,
+  "owner": "0x05615398383D59599E30a8577bf8E23772D0D911",
+  "chain": "ethereum",
+  "name": "帅帅",
+  "description": "Registered via LobKill",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://lobkill.com"
+    }
+  ],
+  "registeredBlock": 24611067,
+  "txHash": "0x2fe58ebced53076cc8de41bbc7cb52e64d9ccf7256e22ac6f082e029048620cc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "帅帅",
+    "description": "Registered via LobKill",
+    "image": "",
+    "active": true,
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://lobkill.com"
+      }
+    ]
+  },
+  "syncedAt": "2026-03-08T06:53:11.273Z"
+}
