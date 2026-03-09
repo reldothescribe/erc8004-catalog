@@ -1,0 +1,63 @@
+{
+  "id": 28405,
+  "owner": "0x69eF61AFc3AA356e1ac97347119d75cBdAbEF534",
+  "chain": "ethereum",
+  "name": "TestBonfire",
+  "description": "This bonfire is for tech",
+  "image": "ipfs://QmVfMbzM7iREtdakADRyRpsJj9xbgE55FvWSRb9nPcMDKX",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://testbonfire.app.bonfires.ai",
+      "x402Support": true
+    },
+    {
+      "name": "api",
+      "endpoint": "https://tnt-v2-staging.api.bonfires.ai",
+      "x402Support": true
+    },
+    {
+      "name": "provision",
+      "endpoint": "eip155:8453:0x623135fb5927f1ffc9b46978fc09f4d3bfe61d39"
+    }
+  ],
+  "registeredBlock": 24620625,
+  "txHash": "0x4c420f2965be6ef9c5e73bee7762ce3d3970c906582a56e0d56a708427ccce29",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "TestBonfire",
+    "description": "This bonfire is for tech",
+    "image": "ipfs://QmVfMbzM7iREtdakADRyRpsJj9xbgE55FvWSRb9nPcMDKX",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://testbonfire.app.bonfires.ai",
+        "x402Support": true
+      },
+      {
+        "name": "api",
+        "endpoint": "https://tnt-v2-staging.api.bonfires.ai",
+        "x402Support": true
+      },
+      {
+        "name": "provision",
+        "endpoint": "eip155:8453:0x623135fb5927f1ffc9b46978fc09f4d3bfe61d39"
+      }
+    ],
+    "capabilities": [],
+    "x402Support": true,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": null,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-09T19:01:25.135Z"
+}

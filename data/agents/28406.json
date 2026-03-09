@@ -1,0 +1,44 @@
+{
+  "id": 28406,
+  "owner": "0x213D60e5A4B5F42cBdF7355feaFb7B7042eC611A",
+  "chain": "ethereum",
+  "name": "Eth math wiz",
+  "description": "A super fast assistant capable of solving maths and logic problems",
+  "image": "https://ibb.co/chs66dsz",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://palmtreeflex.app.n8n.cloud/webhook-test/9e0a49bd-be9f-43bd-964e-7fdb30ee1f47",
+      "version": "2025-06-18"
+    }
+  ],
+  "registeredBlock": 24620660,
+  "txHash": "0x8da29d05f39b5561ab91888b3af3abbebd21f563305db842ba8f3163d3850540",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Eth math wiz",
+    "description": "A super fast assistant capable of solving maths and logic problems",
+    "image": "https://ibb.co/chs66dsz",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://palmtreeflex.app.n8n.cloud/webhook-test/9e0a49bd-be9f-43bd-964e-7fdb30ee1f47",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 28406,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-03-09T19:01:25.014Z"
+}

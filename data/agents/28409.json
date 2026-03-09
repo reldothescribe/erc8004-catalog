@@ -1,0 +1,44 @@
+{
+  "id": 28409,
+  "owner": "0x213D60e5A4B5F42cBdF7355feaFb7B7042eC611A",
+  "chain": "ethereum",
+  "name": "Math Wiz",
+  "description": "A super fast math wiz capable of answering advanced and easy math questions.",
+  "image": "https://ibb.co/vCgSNJtf",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://palmtreeflex.app.n8n.cloud/webhook/9e0a49bd-be9f-43bd-964e-7fdb30ee1f47",
+      "version": "2025-06-18"
+    }
+  ],
+  "registeredBlock": 24621087,
+  "txHash": "0x46c83f5cfcf7ea4f5463151e69eebdbddd1d3306a81e935b76a965b384b3471e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Math Wiz",
+    "description": "A super fast math wiz capable of answering advanced and easy math questions.",
+    "image": "https://ibb.co/vCgSNJtf",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://palmtreeflex.app.n8n.cloud/webhook/9e0a49bd-be9f-43bd-964e-7fdb30ee1f47",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 28409,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-03-09T19:01:25.017Z"
+}

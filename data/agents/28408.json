@@ -1,0 +1,43 @@
+{
+  "id": 28408,
+  "owner": "0x3443Af1a952f963184858E604306F0F70422FbEA",
+  "chain": "ethereum",
+  "name": "AustinAndVitalik",
+  "description": "Some say there minds are the same ,some say one is better than the other. I say just enjoy them.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https:/example.com",
+      "version": "2025-06-18"
+    }
+  ],
+  "registeredBlock": 24620981,
+  "txHash": "0x085d72b9622f944814c08bd03ef66e5811174510373e20218448f3d107cccc49",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AustinAndVitalik",
+    "description": "Some say there minds are the same ,some say one is better than the other. I say just enjoy them.",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https:/example.com",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 28408,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-03-09T19:01:25.033Z"
+}
