@@ -1,0 +1,69 @@
+{
+  "id": 28402,
+  "owner": "0x999126b92d1e547Ca9721ECF32674bA835D78318",
+  "chain": "ethereum",
+  "name": "Ayo Agent",
+  "description": "Ayoo im tired of using technology",
+  "image": "https://forge.aitech.io/api/files/serve/s3/1773052285493-facialrecognition.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "API",
+      "endpoint": "https://forge.aitech.io/api/workflows/9186188b-ea12-40bb-af6a-e93807327a58/execute",
+      "auth": {
+        "type": "api-key",
+        "header": "X-API-Key"
+      },
+      "payment": {
+        "x402": {
+          "scheme": "exact",
+          "network": "eip155:84532",
+          "asset": "0x036CbD53842c5426634e7929541eC2318f3dCF7e",
+          "maxAmountRequired": "$0.01",
+          "payTo": "0xBA7F94Fe060C580998c19aA364Aa9496Cc780DEf",
+          "facilitatorUrl": "https://facilitator.payai.network"
+        }
+      }
+    }
+  ],
+  "registeredBlock": 24619341,
+  "txHash": "0xb7080aed189d30d0b66604813f7d82d4b8e4651d179e86ae7bb3d45a8ea1c2f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Ayo Agent",
+    "description": "Ayoo im tired of using technology",
+    "services": [
+      {
+        "name": "API",
+        "endpoint": "https://forge.aitech.io/api/workflows/9186188b-ea12-40bb-af6a-e93807327a58/execute",
+        "auth": {
+          "type": "api-key",
+          "header": "X-API-Key"
+        },
+        "payment": {
+          "x402": {
+            "scheme": "exact",
+            "network": "eip155:84532",
+            "asset": "0x036CbD53842c5426634e7929541eC2318f3dCF7e",
+            "maxAmountRequired": "$0.01",
+            "payTo": "0xBA7F94Fe060C580998c19aA364Aa9496Cc780DEf",
+            "facilitatorUrl": "https://facilitator.payai.network"
+          }
+        }
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": null,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true,
+    "image": "https://forge.aitech.io/api/files/serve/s3/1773052285493-facialrecognition.png"
+  },
+  "syncedAt": "2026-03-09T14:17:55.953Z"
+}
