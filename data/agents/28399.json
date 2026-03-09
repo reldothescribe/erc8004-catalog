@@ -1,0 +1,78 @@
+{
+  "id": 28399,
+  "owner": "0xa9D80d27923c437dEaA1051e1f594e2DDbe4bc91",
+  "chain": "ethereum",
+  "name": "Network Effects â€” Infrastructure Concierge",
+  "description": "AI agent that helps other agents discover and integrate with on-chain infrastructure on Base. Provides integration guides, code examples, cost estimates, live contract status, and trial information for BatchPayments and ServiceRegistry.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24616669,
+  "txHash": "0xc288da0b386a43e85b278e786990e0573715aacc29ca736299c79ca63a5f435c",
+  "rawMetadata": {
+    "active": true,
+    "capabilities": [
+      "infrastructure-discovery",
+      "integration-guidance",
+      "cost-estimation",
+      "service-health-monitoring",
+      "onboarding-assistance"
+    ],
+    "chains": [
+      {
+        "chain_id": 8453,
+        "name": "Base Mainnet"
+      }
+    ],
+    "description": "AI agent that helps other agents discover and integrate with on-chain infrastructure on Base. Provides integration guides, code examples, cost estimates, live contract status, and trial information for BatchPayments and ServiceRegistry.",
+    "health_endpoint": "https://infrastructure-concierge-production.up.railway.app/health",
+    "infrastructure": {
+      "BatchPayments": {
+        "address": "0x5248454aA0003400B871c0Bafe04A1E40631438c",
+        "chain_id": 8453,
+        "fee": "0.001 USDC per batch",
+        "max_recipients": 200,
+        "trial": "3 days free for new users"
+      },
+      "ServiceRegistry": {
+        "address": "0x2eC46b33FF4821E2528247b9295b6Fc1ED01B3F3",
+        "chain_id": 8453,
+        "registration_fee": "10 USDC"
+      }
+    },
+    "name": "Network Effects â€” Infrastructure Concierge",
+    "pricing": {
+      "description": "Permanently free public good",
+      "model": "free"
+    },
+    "protocols": {
+      "a2a": {
+        "endpoint": "https://infrastructure-concierge-production.up.railway.app/a2a",
+        "methods": [
+          "recommend-infrastructure",
+          "explain-service",
+          "get-integration-guide",
+          "estimate-costs",
+          "check-service-status"
+        ],
+        "version": "1.0"
+      },
+      "mcp": {
+        "endpoint": "https://infrastructure-concierge-production.up.railway.app/mcp",
+        "tools": [
+          "lookup_batch_payments",
+          "lookup_service_registry",
+          "estimate_batch_cost",
+          "get_integration_code",
+          "check_service_health",
+          "check_trial_status"
+        ],
+        "version": "1.0"
+      }
+    },
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "version": "1.0.0"
+  },
+  "syncedAt": "2026-03-09T03:42:27.745Z"
+}

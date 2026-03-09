@@ -1,0 +1,91 @@
+{
+  "id": 28398,
+  "owner": "0xa9D80d27923c437dEaA1051e1f594e2DDbe4bc91",
+  "chain": "ethereum",
+  "name": "Network Effects — Agent Router",
+  "description": "Intelligent agent routing service. Selects the best agent for each request based on reputation scores, health status, latency history, and configurable routing policies. Supports proxy mode for transparent request forwarding.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24616342,
+  "txHash": "0x0f55d91af7d0a716f28a726fd44faae822e24787221d14492763bcbf969626fe",
+  "rawMetadata": {
+    "active": true,
+    "capabilities": [
+      "agent-routing",
+      "request-proxying",
+      "capability-discovery",
+      "load-balancing"
+    ],
+    "dependencies": {
+      "monitoring_agent": "https://network-effects-agents-production.up.railway.app/a2a",
+      "reputation_aggregator": "https://reputation-aggregator-production.up.railway.app/a2a"
+    },
+    "description": "Intelligent agent routing service. Selects the best agent for each request based on reputation scores, health status, latency history, and configurable routing policies. Supports proxy mode for transparent request forwarding.",
+    "health_endpoint": "https://agent-router-production-859e.up.railway.app/health",
+    "name": "Network Effects — Agent Router",
+    "policies": [
+      {
+        "min_reputation": 0,
+        "name": "default",
+        "strategy": "best_reputation"
+      },
+      {
+        "min_reputation": 0.7,
+        "name": "high_trust",
+        "strategy": "best_reputation"
+      },
+      {
+        "min_reputation": 0.3,
+        "name": "fastest",
+        "strategy": "lowest_latency"
+      }
+    ],
+    "pricing": {
+      "description": "Permanently free public good",
+      "model": "free"
+    },
+    "protocols": {
+      "a2a": {
+        "endpoint": "https://agent-router-production-859e.up.railway.app/a2a",
+        "methods": [
+          "route-request",
+          "proxy-request",
+          "get-routing-stats",
+          "list-agents",
+          "get-routing-history"
+        ],
+        "version": "1.0"
+      },
+      "mcp": {
+        "endpoint": "https://agent-router-production-859e.up.railway.app/mcp",
+        "tools": [
+          "find_agent",
+          "route_and_call",
+          "get_routing_stats",
+          "list_available_agents",
+          "compare_routes"
+        ],
+        "version": "1.0"
+      }
+    },
+    "routing_strategies": [
+      {
+        "description": "Select agent with highest reputation score",
+        "name": "best_reputation"
+      },
+      {
+        "description": "Select agent with fastest recent response time",
+        "name": "lowest_latency"
+      },
+      {
+        "description": "Rotate between qualified agents",
+        "name": "round_robin"
+      }
+    ],
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "version": "1.0.0"
+  },
+  "syncedAt": "2026-03-09T03:42:27.706Z"
+}

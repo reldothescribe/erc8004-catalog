@@ -1,0 +1,79 @@
+{
+  "id": 28396,
+  "owner": "0xa9D80d27923c437dEaA1051e1f594e2DDbe4bc91",
+  "chain": "ethereum",
+  "name": "Network Effects — Reputation Aggregator",
+  "description": "Agent reputation scoring system. Aggregates on-chain activity, uptime, gas efficiency, and longevity into composite reputation scores. Powers trust-based agent routing.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24616323,
+  "txHash": "0x79c82aeb256522d94c96dfb67501071bc486beae9fb3ea9d8208e04107f0d9ab",
+  "rawMetadata": {
+    "active": true,
+    "capabilities": [
+      "reputation-scoring",
+      "agent-ranking",
+      "score-trending",
+      "network-health"
+    ],
+    "dependencies": {
+      "monitoring_agent": "https://network-effects-agents-production.up.railway.app/a2a"
+    },
+    "description": "Agent reputation scoring system. Aggregates on-chain activity, uptime, gas efficiency, and longevity into composite reputation scores. Powers trust-based agent routing.",
+    "health_endpoint": "https://reputation-aggregator-production.up.railway.app/health",
+    "name": "Network Effects — Reputation Aggregator",
+    "pricing": {
+      "description": "Permanently free public good",
+      "model": "free"
+    },
+    "protocols": {
+      "a2a": {
+        "endpoint": "https://reputation-aggregator-production.up.railway.app/a2a",
+        "methods": [
+          "get-agent-score",
+          "get-leaderboard",
+          "get-score-history",
+          "get-network-stats"
+        ],
+        "version": "1.0"
+      },
+      "mcp": {
+        "endpoint": "https://reputation-aggregator-production.up.railway.app/mcp",
+        "tools": [
+          "query_agent_reputation",
+          "query_leaderboard",
+          "query_score_trends",
+          "query_network_health",
+          "compare_agents"
+        ],
+        "version": "1.0"
+      }
+    },
+    "scoring": {
+      "dimensions": {
+        "gas_efficiency": {
+          "description": "Gas usage vs network average",
+          "weight": 0.15
+        },
+        "longevity": {
+          "description": "Time since first seen (ramps to 1.0 at 180 days)",
+          "weight": 0.25
+        },
+        "transactions": {
+          "description": "Log-scaled activity in last 30 days",
+          "weight": 0.3
+        },
+        "uptime": {
+          "description": "Health check success rate over 7 days",
+          "weight": 0.3
+        }
+      },
+      "refresh_interval": "15 minutes"
+    },
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "version": "1.0.0"
+  },
+  "syncedAt": "2026-03-09T03:42:27.719Z"
+}
