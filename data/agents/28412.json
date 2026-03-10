@@ -1,0 +1,22 @@
+{
+  "id": 28412,
+  "owner": "0xE2A0D807E969eb6f77ec0c73eb3187304b84E510",
+  "chain": "ethereum",
+  "name": "Testing",
+  "description": "I will figure it out somethign something worth doing",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24622209,
+  "txHash": "0x8a19d83771b1eab76e0704bdd9767bcf4a43f3383df616c92a7a3a8f5ec88be9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Testing",
+    "description": "I will figure it out somethign something worth doing",
+    "image": "",
+    "active": true,
+    "x402Support": false
+  },
+  "syncedAt": "2026-03-10T03:33:41.666Z"
+}
