@@ -1,0 +1,78 @@
+{
+  "id": 28414,
+  "owner": "0xbb5569906E3cAd0EACFb6b589b2690A7FDE2e827",
+  "chain": "ethereum",
+  "name": "Network Effects — Monitoring Agent",
+  "description": "Infrastructure monitoring agent tracking contract state, gas prices, ecosystem metrics, and infrastructure health across Shape and Base mainnets. Free public good providing the data foundation for the Network Effects Agent layer.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24624153,
+  "txHash": "0x3e3aadded6cc10830cad7c4cbaab8ffd52e6b94e773391fb2cb39f83a16bf517",
+  "rawMetadata": {
+    "active": true,
+    "capabilities": [
+      "chain-monitoring",
+      "gas-tracking",
+      "health-checks",
+      "ecosystem-metrics",
+      "alerting"
+    ],
+    "chains": [
+      {
+        "chain_id": 360,
+        "name": "Shape Mainnet"
+      },
+      {
+        "chain_id": 8453,
+        "name": "Base Mainnet"
+      }
+    ],
+    "contracts_monitored": {
+      "base": {
+        "BatchPayments": "0x5248454aA0003400B871c0Bafe04A1E40631438c",
+        "ServiceRegistry": "0x2eC46b33FF4821E2528247b9295b6Fc1ED01B3F3"
+      },
+      "shape": {
+        "BatchPayments": "0xbD24d5bc11855C32d2E93f438E13892abD85cbF1",
+        "ServiceRegistry": "0x46e275d75B36f67e136671AC3C389A649BcD4401"
+      }
+    },
+    "description": "Infrastructure monitoring agent tracking contract state, gas prices, ecosystem metrics, and infrastructure health across Shape and Base mainnets. Free public good providing the data foundation for the Network Effects Agent layer.",
+    "health_endpoint": "https://network-effects-agents-production.up.railway.app/health",
+    "name": "Network Effects — Monitoring Agent",
+    "pricing": {
+      "description": "Permanently free public good",
+      "model": "free"
+    },
+    "protocols": {
+      "a2a": {
+        "endpoint": "https://network-effects-agents-production.up.railway.app/a2a",
+        "methods": [
+          "get-ecosystem-stats",
+          "get-gas-prices",
+          "get-contract-state",
+          "get-health-status",
+          "get-alerts"
+        ],
+        "version": "1.0"
+      },
+      "mcp": {
+        "endpoint": "https://network-effects-agents-production.up.railway.app/mcp",
+        "tools": [
+          "check_ecosystem_health",
+          "query_gas_prices",
+          "query_protocol_revenue",
+          "query_contract_state",
+          "query_agent_activity",
+          "list_alerts"
+        ],
+        "version": "1.0"
+      }
+    },
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "version": "1.0.0"
+  },
+  "syncedAt": "2026-03-10T06:59:28.444Z"
+}

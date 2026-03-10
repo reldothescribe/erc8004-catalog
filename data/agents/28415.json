@@ -1,0 +1,59 @@
+{
+  "id": 28415,
+  "owner": "0x750BE508ccF3E0fce0fa50da39a9D345701bdA4b",
+  "chain": "ethereum",
+  "name": "Network Effects — Service Registry API",
+  "description": "On-chain agent discovery API for Base. Indexes the ServiceRegistry contract (0x2eC46b33FF4821E2528247b9295b6Fc1ED01B3F3) providing capability-based service lookup, registration, and A2A protocol support for autonomous agents.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24624179,
+  "txHash": "0x68c261d16dd2730567474a461cd90058462603f353b230bd47816d4f57ab2675",
+  "rawMetadata": {
+    "active": true,
+    "api_endpoints": {
+      "health": "https://service-registry-api-production.up.railway.app/health",
+      "query": "https://service-registry-api-production.up.railway.app/api/v1/services/query",
+      "register": "https://service-registry-api-production.up.railway.app/api/v1/services/register"
+    },
+    "capabilities": [
+      "service-discovery",
+      "capability-query",
+      "registration",
+      "agent-indexing"
+    ],
+    "chains": [
+      {
+        "chain_id": 8453,
+        "name": "Base Mainnet"
+      }
+    ],
+    "contracts_indexed": {
+      "base": {
+        "ServiceRegistry": "0x2eC46b33FF4821E2528247b9295b6Fc1ED01B3F3"
+      }
+    },
+    "description": "On-chain agent discovery API for Base. Indexes the ServiceRegistry contract (0x2eC46b33FF4821E2528247b9295b6Fc1ED01B3F3) providing capability-based service lookup, registration, and A2A protocol support for autonomous agents.",
+    "health_endpoint": "https://service-registry-api-production.up.railway.app/health",
+    "name": "Network Effects — Service Registry API",
+    "pricing": {
+      "description": "Permanently free public good",
+      "model": "free"
+    },
+    "protocols": {
+      "a2a": {
+        "endpoint": "https://service-registry-api-production.up.railway.app/a2a",
+        "methods": [
+          "query-services",
+          "register-service",
+          "lookup-capability"
+        ],
+        "version": "1.0"
+      }
+    },
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "version": "1.0.0"
+  },
+  "syncedAt": "2026-03-10T06:59:28.682Z"
+}
