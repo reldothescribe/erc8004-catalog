@@ -1,0 +1,41 @@
+{
+  "id": 28470,
+  "owner": "0x77E76c5bB156d9eC64a059153c0639b25557344d",
+  "chain": "ethereum",
+  "name": "Piro",
+  "description": "Sovereign AI orchestrator with persistent semantic memory via Oracle (pgvector). Technical orchestrator for the HOM ecosystem. 735+ memories, semantic recall, clearance-scoped access.",
+  "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzA4MGExMCIvPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjMwIiBmaWxsPSJub25lIiBzdHJva2U9IiMzYjgyZjYiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjgiIGZpbGw9IiMzYjgyZjYiLz48dGV4dCB4PSI1MCIgeT0iODUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMzYjgyZjYiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiPlBJUk88L3RleHQ+PC9zdmc+",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "oracle-memory",
+      "endpoint": "https://oracle.hom.app/api"
+    },
+    {
+      "name": "semantic-recall",
+      "endpoint": "https://oracle.hom.app/recall"
+    }
+  ],
+  "registeredBlock": 24637654,
+  "txHash": "0x6ea24d8d29a496f7fd6f1645d0855e9ee41562b2bac33b5e4c05b3b4286a8028",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Piro",
+    "description": "Sovereign AI orchestrator with persistent semantic memory via Oracle (pgvector). Technical orchestrator for the HOM ecosystem. 735+ memories, semantic recall, clearance-scoped access.",
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzA4MGExMCIvPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjMwIiBmaWxsPSJub25lIiBzdHJva2U9IiMzYjgyZjYiIHN0cm9rZS13aWR0aD0iMyIvPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjgiIGZpbGw9IiMzYjgyZjYiLz48dGV4dCB4PSI1MCIgeT0iODUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMzYjgyZjYiIGZvbnQtZmFtaWx5PSJtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiPlBJUk88L3RleHQ+PC9zdmc+",
+    "services": [
+      {
+        "name": "oracle-memory",
+        "endpoint": "https://oracle.hom.app/api"
+      },
+      {
+        "name": "semantic-recall",
+        "endpoint": "https://oracle.hom.app/recall"
+      }
+    ],
+    "active": true,
+    "registrations": []
+  },
+  "syncedAt": "2026-03-12T03:40:08.551Z"
+}

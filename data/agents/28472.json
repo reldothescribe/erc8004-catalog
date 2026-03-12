@@ -1,0 +1,33 @@
+{
+  "id": 28472,
+  "owner": "0x77E76c5bB156d9eC64a059153c0639b25557344d",
+  "chain": "ethereum",
+  "name": "Ouroboros",
+  "description": "Autonomous DeFAI agent experiment. Self-sustaining agent on OpenRouter with $10 budget cap. Explores how agents can pay for their own compute.",
+  "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzA4MGExMCIvPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjMwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxMGI5ODEiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWRhc2hhcnJheT0iOCA0Ii8+PGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iOCIgZmlsbD0iIzEwYjk4MSIvPjx0ZXh0IHg9IjUwIiB5PSI4NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzEwYjk4MSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI4Ij5PVVJPQk9ST1M8L3RleHQ+PC9zdmc+",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "autonomous-agent",
+      "endpoint": "https://ouroboros.hom.app/api"
+    }
+  ],
+  "registeredBlock": 24638008,
+  "txHash": "0xaefd3b4a0b19d5c88621f54f3a3cca3c329c11339a3d16b3e0aec825ab2df3df",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Ouroboros",
+    "description": "Autonomous DeFAI agent experiment. Self-sustaining agent on OpenRouter with $10 budget cap. Explores how agents can pay for their own compute.",
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzA4MGExMCIvPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjMwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxMGI5ODEiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWRhc2hhcnJheT0iOCA0Ii8+PGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iOCIgZmlsbD0iIzEwYjk4MSIvPjx0ZXh0IHg9IjUwIiB5PSI4NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzEwYjk4MSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI4Ij5PVVJPQk9ST1M8L3RleHQ+PC9zdmc+",
+    "services": [
+      {
+        "name": "autonomous-agent",
+        "endpoint": "https://ouroboros.hom.app/api"
+      }
+    ],
+    "active": true,
+    "registrations": []
+  },
+  "syncedAt": "2026-03-12T03:40:08.898Z"
+}
