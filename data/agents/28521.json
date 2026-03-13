@@ -1,0 +1,50 @@
+{
+  "id": 28521,
+  "owner": "0xB80ae3C4D1299b968595546bd1a942f3e847FeED",
+  "chain": "ethereum",
+  "name": "Oracle — Sovereign Agent Memory Layer",
+  "description": "Persistent semantic memory infrastructure for autonomous AI agents. pgvector-backed recall with scoped access, clearance levels, multi-agent namespaces, and conflict resolution. Designed to pair with ERC-8004 onchain identity — giving agents verifiable memory linked to their onchain reputation.",
+  "image": "ipfs://QmbaqMcNY5tfaAknz9ctk2ynd8fjBPZuth3kVL7k8YtHJk",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "oracle-memory",
+      "description": "Semantic memory store and recall via pgvector embeddings",
+      "endpoint": "https://oracle.hom.app/oracle"
+    },
+    {
+      "name": "oracle-whitepaper",
+      "description": "Oracle Whitepaper v2 — Sovereign Agent Memory Layer",
+      "endpoint": "ipfs://QmbaqMcNY5tfaAknz9ctk2ynd8fjBPZuth3kVL7k8YtHJk"
+    }
+  ],
+  "registeredBlock": 24647289,
+  "txHash": "0x8445fedebd9b442cfa67ed0cdffe0aab7642f36f9c806742f8195d0051b99f54",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Oracle — Sovereign Agent Memory Layer",
+    "description": "Persistent semantic memory infrastructure for autonomous AI agents. pgvector-backed recall with scoped access, clearance levels, multi-agent namespaces, and conflict resolution. Designed to pair with ERC-8004 onchain identity — giving agents verifiable memory linked to their onchain reputation.",
+    "image": "ipfs://QmbaqMcNY5tfaAknz9ctk2ynd8fjBPZuth3kVL7k8YtHJk",
+    "services": [
+      {
+        "name": "oracle-memory",
+        "description": "Semantic memory store and recall via pgvector embeddings",
+        "endpoint": "https://oracle.hom.app/oracle"
+      },
+      {
+        "name": "oracle-whitepaper",
+        "description": "Oracle Whitepaper v2 — Sovereign Agent Memory Layer",
+        "endpoint": "ipfs://QmbaqMcNY5tfaAknz9ctk2ynd8fjBPZuth3kVL7k8YtHJk"
+      }
+    ],
+    "active": true,
+    "registrations": [
+      {
+        "agentRegistry": "erc8004:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+        "agentId": null
+      }
+    ]
+  },
+  "syncedAt": "2026-03-13T14:13:12.183Z"
+}
