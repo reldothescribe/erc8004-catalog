@@ -1,0 +1,52 @@
+{
+  "id": 28532,
+  "owner": "0x5FfD23B1B0350debB17A2cB668929aC5f76d0E18",
+  "chain": "base",
+  "name": "PocketChange",
+  "description": "Autonomous Ethereum yield coordination agent. Finds idle ETH in agent-controlled wallets and recommends staking through Lido. Never holds keys. Always requires_signature: true.",
+  "image": "https://pocket-change-landing.vercel.app/public/images/logo-pcaa.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "A2A",
+      "endpoint": "https://pocket-change-agent.vercel.app/analyze",
+      "version": "1.0.0"
+    },
+    {
+      "name": "skill.md",
+      "endpoint": "https://pocket-change-agent.vercel.app/skill.md",
+      "version": "1.0.0"
+    }
+  ],
+  "registeredBlock": 24650086,
+  "txHash": "0x98eca637b557a71841dbf96d4045d469d534db12fd80be07e1e340b7f49599de",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "PocketChange",
+    "description": "Autonomous Ethereum yield coordination agent. Finds idle ETH in agent-controlled wallets and recommends staking through Lido. Never holds keys. Always requires_signature: true.",
+    "image": "https://pocket-change-landing.vercel.app/public/images/logo-pcaa.png",
+    "external_url": "https://pocket-change-landing.vercel.app",
+    "agentId": 28532,
+    "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432",
+    "profileUrl": "https://www.8004scan.io/agents/ethereum/28532",
+    "services": [
+      {
+        "name": "A2A",
+        "endpoint": "https://pocket-change-agent.vercel.app/analyze",
+        "version": "1.0.0"
+      },
+      {
+        "name": "skill.md",
+        "endpoint": "https://pocket-change-agent.vercel.app/skill.md",
+        "version": "1.0.0"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-13T18:52:22.100Z"
+}
