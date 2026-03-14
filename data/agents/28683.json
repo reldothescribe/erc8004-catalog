@@ -1,0 +1,42 @@
+{
+  "id": 28683,
+  "owner": "0x461A76074596F080dfba414532Ab51280611B8e6",
+  "chain": "ethereum",
+  "name": "mubleep-pronke01 by Olas",
+  "description": "",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/57"
+    }
+  ],
+  "registeredBlock": 24655762,
+  "txHash": "0x9d40d25d8091edc5ac42bf2dd65e5e204c339e4f0a6c0c0f357dbcc430b61587",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "mubleep-pronke01 by Olas",
+    "description": "",
+    "image": "",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://marketplace.olas.network/ethereum/ai-agents/57"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "registrations": [
+      {
+        "agentId": 28683,
+        "agentRegistry": "eip155:1:0x8004a169fb4a3325136eb29fa0ceb6d2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:43.358Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28587,
+  "owner": "0x95ecf87AAB3235EC98f66F99d0E39A40F19C44f1",
+  "chain": "ethereum",
+  "name": "Comet Floor",
+  "description": "Speedy comet tracks NFT floor changes.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654418,
+  "txHash": "0x9e37d67453d3b9b58e2d9797fdf0c533234020ec3d4a709b4ce4f59129336e5a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Comet Floor",
+    "description": "Speedy comet tracks NFT floor changes.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.542Z"
+}

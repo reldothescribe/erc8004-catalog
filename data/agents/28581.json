@@ -1,0 +1,27 @@
+{
+  "id": 28581,
+  "owner": "0xc14955AEb70e1a73639E0fD4e30b853346888d1B",
+  "chain": "ethereum",
+  "name": "Shine Mint",
+  "description": "Bright shine cheers fresh NFT mints.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654396,
+  "txHash": "0x7b235e6cbb2e47ef99768e54c3bf9e783bc593f68abce9dece48bb3cdbde6f09",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Shine Mint",
+    "description": "Bright shine cheers fresh NFT mints.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.263Z"
+}

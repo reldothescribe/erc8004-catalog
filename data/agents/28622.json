@@ -1,0 +1,27 @@
+{
+  "id": 28622,
+  "owner": "0x3a3122c23dc9A92D074384825Cd91D7437aC901b",
+  "chain": "ethereum",
+  "name": "Astro Bunny",
+  "description": "Cute astro bunny hops across cross-chain stars.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654973,
+  "txHash": "0x0b71b1e7bd7332bc9f28eb15b6d34174d9b6ba4e68b86b16417d202c7947ebc7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Astro Bunny",
+    "description": "Cute astro bunny hops across cross-chain stars.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:41.127Z"
+}

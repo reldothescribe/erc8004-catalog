@@ -1,0 +1,27 @@
+{
+  "id": 28580,
+  "owner": "0xc14955AEb70e1a73639E0fD4e30b853346888d1B",
+  "chain": "ethereum",
+  "name": "Keeper",
+  "description": "Fluffy puff guards your wallet dreamily.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654393,
+  "txHash": "0x0584b75bd745e887c15af93bc7960b2b1bd8f88e2a80cef57d8bd5843b870978",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Keeper",
+    "description": "Fluffy puff guards your wallet dreamily.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.263Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28590,
+  "owner": "0x5b4df752cFDB1627ED14Dc3fef8b9D510f38fD93",
+  "chain": "ethereum",
+  "name": "Glow Approve",
+  "description": "Soft glow buries dangerous approvals safely.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654437,
+  "txHash": "0xa6d00708f747507d432edc3ef682a9d6c9f06c8bb2e57892bec13b1ab030b21c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Glow Approve",
+    "description": "Soft glow buries dangerous approvals safely.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.541Z"
+}

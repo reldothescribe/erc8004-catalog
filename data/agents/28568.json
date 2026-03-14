@@ -1,0 +1,27 @@
+{
+  "id": 28568,
+  "owner": "0xf0260E882b048Ea3204fA964cDECad9F692Cf027",
+  "chain": "ethereum",
+  "name": "Glitter Proof",
+  "description": "Shiny glitter sparkles zk proofs beautifully.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654314,
+  "txHash": "0xdfde8cdd85dc7f5abda5916b54feb0ae26f1d25b936d3673b3a97247809627bc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Glitter Proof",
+    "description": "Shiny glitter sparkles zk proofs beautifully.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:39.961Z"
+}

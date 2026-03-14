@@ -1,0 +1,27 @@
+{
+  "id": 28643,
+  "owner": "0x6B83Ea549712786351Ae6718a4799CB382906553",
+  "chain": "ethereum",
+  "name": "Galaxy Gum",
+  "description": "Galaxy gum checks protocol health sweetly.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655071,
+  "txHash": "0xb935d95249c4129202e753b3140ff98eec1635fe0612f83fef25652a5d2d99b5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Galaxy Gum",
+    "description": "Galaxy gum checks protocol health sweetly.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.175Z"
+}

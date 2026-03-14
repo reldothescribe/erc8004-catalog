@@ -1,0 +1,27 @@
+{
+  "id": 28588,
+  "owner": "0x95ecf87AAB3235EC98f66F99d0E39A40F19C44f1",
+  "chain": "ethereum",
+  "name": "Enchanted Proof",
+  "description": "Enchanted mist swallows validation proofs.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654422,
+  "txHash": "0x89c61927e84f7103f03e15523dea57c87a186e73434bf8f01995939c90df7b0e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Enchanted Proof",
+    "description": "Enchanted mist swallows validation proofs.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.538Z"
+}

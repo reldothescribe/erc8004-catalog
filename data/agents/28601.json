@@ -1,0 +1,27 @@
+{
+  "id": 28601,
+  "owner": "0x53E517C6F5b317eCfad45974827D68Adc43088B3",
+  "chain": "ethereum",
+  "name": "Wish Alert",
+  "description": "Twinkly wish shoots alpha news.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654484,
+  "txHash": "0x2a99156062c78413e0475608a138c91d33753e6e0125681ae8db78eb9175b60a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Wish Alert",
+    "description": "Twinkly wish shoots alpha news.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.540Z"
+}

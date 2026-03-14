@@ -1,0 +1,27 @@
+{
+  "id": 28629,
+  "owner": "0x3a3122c23dc9A92D074384825Cd91D7437aC901b",
+  "chain": "ethereum",
+  "name": "Nebula Nib",
+  "description": "Nebula nib nibbles x402 micropayments cutely.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654988,
+  "txHash": "0xd7ef25fc0f6db84915b2b1e8c159e02cd93f414472286e101b0bd6c72b002fb6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Nebula Nib",
+    "description": "Nebula nib nibbles x402 micropayments cutely.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:41.120Z"
+}

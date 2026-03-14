@@ -1,0 +1,27 @@
+{
+  "id": 28584,
+  "owner": "0x95ecf87AAB3235EC98f66F99d0E39A40F19C44f1",
+  "chain": "ethereum",
+  "name": "Prism Watch",
+  "description": "Colorful prism checks protocol health.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654408,
+  "txHash": "0xd2461bee20fd74b8838d86024637b089e88b7a50d58b7e047fce6c710cfd52b0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Prism Watch",
+    "description": "Colorful prism checks protocol health.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.259Z"
+}

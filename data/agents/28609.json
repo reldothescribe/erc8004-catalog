@@ -1,0 +1,27 @@
+{
+  "id": 28609,
+  "owner": "0xFd35B35b1F681D87109baBE33d5aF7cc1Ce4e3F6",
+  "chain": "ethereum",
+  "name": "Beam Mint",
+  "description": "Bright beam cheers new mints.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654544,
+  "txHash": "0xdb580e3ece6d33d3ecd2ca99ddec5341cdcd513a7c829e9df7ba20e128e52511",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Beam Mint",
+    "description": "Bright beam cheers new mints.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.813Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28595,
+  "owner": "0xEC8C035a04dd5Fe05eF6fe4fcb83A8F80253Dac1",
+  "chain": "ethereum",
+  "name": "Luster Oracle",
+  "description": "Luster glow delivers price data dreamily.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654466,
+  "txHash": "0xeb33ad3e7c591119d781d6a609c156ba9b12b72fc165de9716a18d857369ace3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Luster Oracle",
+    "description": "Luster glow delivers price data dreamily.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.541Z"
+}

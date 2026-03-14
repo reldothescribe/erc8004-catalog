@@ -1,0 +1,27 @@
+{
+  "id": 28673,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Galaxy Giggles",
+  "description": "Galaxy giggles directs agent teams breezily.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655188,
+  "txHash": "0x43497d3512e11fbd2fc70947230e49a8fc4d508091f1526595f51ce412b564de",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Galaxy Giggles",
+    "description": "Galaxy giggles directs agent teams breezily.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.854Z"
+}

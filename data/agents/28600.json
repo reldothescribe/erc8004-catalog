@@ -1,0 +1,27 @@
+{
+  "id": 28600,
+  "owner": "0x53E517C6F5b317eCfad45974827D68Adc43088B3",
+  "chain": "ethereum",
+  "name": "Pay",
+  "description": "Bubbly fizzy chats micropayments.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654481,
+  "txHash": "0x3a32585e38791e509f469ff489c86634ff586058eff9b4e3299ea754b3a149a7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Pay",
+    "description": "Bubbly fizzy chats micropayments.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.540Z"
+}

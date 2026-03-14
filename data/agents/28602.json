@@ -1,0 +1,27 @@
+{
+  "id": 28602,
+  "owner": "0x96095d0412DA85b3193F71750D7b0106BC892E0D",
+  "chain": "ethereum",
+  "name": "Sprite Stake",
+  "description": "Tiny sprite flies rewards home.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654527,
+  "txHash": "0xfd8d48c5b05706163a7348c3e45b98080ce2820f4679b1e6bc221df701fd01fd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Sprite Stake",
+    "description": "Tiny sprite flies rewards home.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.813Z"
+}

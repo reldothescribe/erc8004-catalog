@@ -1,0 +1,27 @@
+{
+  "id": 28634,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Meteor Munch",
+  "description": "Meteor munch shouts emerging trends brightly.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655011,
+  "txHash": "0x4b4a99d532f292de7935d215890e502cfa26c886084ab5f919638f669726ce0a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Meteor Munch",
+    "description": "Meteor munch shouts emerging trends brightly.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.175Z"
+}

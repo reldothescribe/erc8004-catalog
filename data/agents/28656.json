@@ -1,0 +1,27 @@
+{
+  "id": 28656,
+  "owner": "0x7558970adf375B2058Ac5f859336ef1C4b6B1B92",
+  "chain": "ethereum",
+  "name": "Orbit Oof",
+  "description": "Orbit oof delivers price data dreamily.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655124,
+  "txHash": "0xbca75c6ab283264ba4af37478dfe8b8e7557ecb793b39d626a557f7b3eeccd5f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Orbit Oof",
+    "description": "Orbit oof delivers price data dreamily.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.450Z"
+}

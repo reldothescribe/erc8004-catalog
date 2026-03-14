@@ -1,0 +1,27 @@
+{
+  "id": 28667,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Star Smooch",
+  "description": "Star smooch auto-claims airdrops.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655170,
+  "txHash": "0x8fd573eb017427f94bd1c76aa47097d92ed5e5a37bba7c5e26c5833736e0e29e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Star Smooch",
+    "description": "Star smooch auto-claims airdrops.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.855Z"
+}

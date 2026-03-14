@@ -1,0 +1,27 @@
+{
+  "id": 28670,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Nebula Nudge",
+  "description": "Nebula nudge plans cross-chain paths.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655178,
+  "txHash": "0xbd67fc0bba4af5bf7e650bfe170ef81ff7d59ce1307a199b517c8c9c6a81bf42",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Nebula Nudge",
+    "description": "Nebula nudge plans cross-chain paths.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.856Z"
+}

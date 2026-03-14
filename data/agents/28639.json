@@ -1,0 +1,27 @@
+{
+  "id": 28639,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Space Snug",
+  "description": "Space snug guards wallet dreamily.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655024,
+  "txHash": "0x68641a099158a6db067b246172adcb3af9f564d17ab88a2857c71c504b2f8191",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Space Snug",
+    "description": "Space snug guards wallet dreamily.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.175Z"
+}

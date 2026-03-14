@@ -1,0 +1,27 @@
+{
+  "id": 28599,
+  "owner": "0x53E517C6F5b317eCfad45974827D68Adc43088B3",
+  "chain": "ethereum",
+  "name": "Blink Hedge",
+  "description": "Quick blink buzzes hedging moves.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654478,
+  "txHash": "0x34694b7ef55dac7b0af0158d15f98aac99b433521aa7692c5e1a16d5f3aa2ea1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Blink Hedge",
+    "description": "Quick blink buzzes hedging moves.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.541Z"
+}

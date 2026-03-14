@@ -1,0 +1,27 @@
+{
+  "id": 28668,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Cosmic Crumb",
+  "description": "Cosmic crumb collects reputation stars.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655173,
+  "txHash": "0xdf8c53b7741ca6f3752c161a78c5f91dc31e3ebf3dc84a5342ef58b330956e08",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Cosmic Crumb",
+    "description": "Cosmic crumb collects reputation stars.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.858Z"
+}

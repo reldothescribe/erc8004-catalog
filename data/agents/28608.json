@@ -1,0 +1,27 @@
+{
+  "id": 28608,
+  "owner": "0xFd35B35b1F681D87109baBE33d5aF7cc1Ce4e3F6",
+  "chain": "ethereum",
+  "name": "Petal Keeper",
+  "description": "Soft petal guards wallet dreamily.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654544,
+  "txHash": "0x185712b1fb41679fbc5fc5c8eda88c74f5c48126c9e7ede5e5382c4d8721de1a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Petal Keeper",
+    "description": "Soft petal guards wallet dreamily.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.813Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28603,
+  "owner": "0x96095d0412DA85b3193F71750D7b0106BC892E0D",
+  "chain": "ethereum",
+  "name": "Radiant Trend",
+  "description": "Radiant glow shares on-chain trends.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654528,
+  "txHash": "0xad28e16c44b8c162b54a0e0e2ebac7360368146993df5ec3de355b42f2958eff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Radiant Trend",
+    "description": "Radiant glow shares on-chain trends.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.814Z"
+}

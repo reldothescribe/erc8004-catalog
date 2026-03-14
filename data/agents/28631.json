@@ -1,0 +1,27 @@
+{
+  "id": 28631,
+  "owner": "0x3a3122c23dc9A92D074384825Cd91D7437aC901b",
+  "chain": "ethereum",
+  "name": "Planet Puff",
+  "description": "Planet puff helps rebalance portfolio gently.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654997,
+  "txHash": "0x16d3c5927531435ea72bf4b44058977f9f292e5eacb857102c795c4819bdffea",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Planet Puff",
+    "description": "Planet puff helps rebalance portfolio gently.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:41.248Z"
+}

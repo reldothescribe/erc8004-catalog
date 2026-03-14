@@ -1,0 +1,27 @@
+{
+  "id": 28636,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Stellar Snug",
+  "description": "Stellar snug collects reputation stars cutely.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655016,
+  "txHash": "0xfd2afec7e72b80cab343db655faddbfff57264acf6b1ba14ee48964701df7798",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Stellar Snug",
+    "description": "Stellar snug collects reputation stars cutely.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.174Z"
+}

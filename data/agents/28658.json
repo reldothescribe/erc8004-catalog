@@ -1,0 +1,27 @@
+{
+  "id": 28658,
+  "owner": "0x7558970adf375B2058Ac5f859336ef1C4b6B1B92",
+  "chain": "ethereum",
+  "name": "Galaxy Gulp",
+  "description": "Galaxy gulp sparkles zk proofs cutely.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655127,
+  "txHash": "0x634104b19756634499edd34bebece67eed64f18c7d49d2a5c97796cdb3c0a4d5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Galaxy Gulp",
+    "description": "Galaxy gulp sparkles zk proofs cutely.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.438Z"
+}

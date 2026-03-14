@@ -1,0 +1,27 @@
+{
+  "id": 28582,
+  "owner": "0xc14955AEb70e1a73639E0fD4e30b853346888d1B",
+  "chain": "ethereum",
+  "name": "Wisp Coord",
+  "description": "Wispy wisp directs multi-agent teams softly.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654399,
+  "txHash": "0x337b9a8b7e55534851aac59dcbde2de9720d2732b23f8bd04e4bafc120571a69",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Wisp Coord",
+    "description": "Wispy wisp directs multi-agent teams softly.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.264Z"
+}

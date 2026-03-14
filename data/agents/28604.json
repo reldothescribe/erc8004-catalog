@@ -1,0 +1,27 @@
+{
+  "id": 28604,
+  "owner": "0x96095d0412DA85b3193F71750D7b0106BC892E0D",
+  "chain": "ethereum",
+  "name": "Pearl Claim",
+  "description": "Shiny pearl auto-claims airdrops.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654532,
+  "txHash": "0x3a5f35e1f172c1ee85ca4feeeecacbb2d00a20e01f1d050e0da923719e5f56a7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Pearl Claim",
+    "description": "Shiny pearl auto-claims airdrops.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.813Z"
+}

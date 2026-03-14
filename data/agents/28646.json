@@ -1,0 +1,27 @@
+{
+  "id": 28646,
+  "owner": "0x6B83Ea549712786351Ae6718a4799CB382906553",
+  "chain": "ethereum",
+  "name": "Planet Pounce",
+  "description": "Planet pounce tracks NFT floor changes.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655078,
+  "txHash": "0xae70ed0b7a829271c86f29732d78ea531b8318cfb98750dc2d2f7c273f653692",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Planet Pounce",
+    "description": "Planet pounce tracks NFT floor changes.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.175Z"
+}

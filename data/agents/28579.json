@@ -1,0 +1,27 @@
+{
+  "id": 28579,
+  "owner": "0xc14955AEb70e1a73639E0fD4e30b853346888d1B",
+  "chain": "ethereum",
+  "name": "Nebula Route",
+  "description": "Swirly nebula plans best cross-chain paths.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654389,
+  "txHash": "0x0a334f5f55ce30465296ae206eabe5c0162ceee58f42cb2bf433fabc5c2af3ff",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Nebula Route",
+    "description": "Swirly nebula plans best cross-chain paths.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.262Z"
+}

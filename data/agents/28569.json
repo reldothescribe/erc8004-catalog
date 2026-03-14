@@ -1,0 +1,27 @@
+{
+  "id": 28569,
+  "owner": "0xf0260E882b048Ea3204fA964cDECad9F692Cf027",
+  "chain": "ethereum",
+  "name": "Rainbow Floor",
+  "description": "Rainbow arches over NFT floor price alerts cutely.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654318,
+  "txHash": "0x09af097f8faf6217340cb9e95e344eb991fc937185a877e37ccbab74431dda5b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Rainbow Floor",
+    "description": "Rainbow arches over NFT floor price alerts cutely.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:39.959Z"
+}

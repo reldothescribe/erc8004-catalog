@@ -1,0 +1,27 @@
+{
+  "id": 28605,
+  "owner": "0x96095d0412DA85b3193F71750D7b0106BC892E0D",
+  "chain": "ethereum",
+  "name": "Glimmer Feedback",
+  "description": "Cute glimmer collects reputation stars.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654536,
+  "txHash": "0xd9f9a945210995f806118d28c7eeb7e469cf3e3fd6f80a47dc7544f51b97a178",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Glimmer Feedback",
+    "description": "Cute glimmer collects reputation stars.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.812Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28574,
+  "owner": "0x9CDCCfebBCF3604C0d0AfFde450A9Ba02B86Bba8",
+  "chain": "ethereum",
+  "name": "Fairy Stake",
+  "description": "Tiny fairy flies staking rewards home sweetly.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654361,
+  "txHash": "0x843a420570b39bc57d147193c2f5ec0eaef514b7166282be96ad4719d0830353",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Fairy Stake",
+    "description": "Tiny fairy flies staking rewards home sweetly.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.260Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28606,
+  "owner": "0x96095d0412DA85b3193F71750D7b0106BC892E0D",
+  "chain": "ethereum",
+  "name": "Eclipse DAO",
+  "description": "Gentle eclipse reviews proposals.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654537,
+  "txHash": "0xdd6d16d1169c6bd30bb2ba4b4b27fd507bc66be13f014fdfec81ef1a2ee0286e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Eclipse DAO",
+    "description": "Gentle eclipse reviews proposals.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.809Z"
+}

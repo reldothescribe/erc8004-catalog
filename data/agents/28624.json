@@ -1,0 +1,27 @@
+{
+  "id": 28624,
+  "owner": "0x3a3122c23dc9A92D074384825Cd91D7437aC901b",
+  "chain": "ethereum",
+  "name": "Cosmo Kitty",
+  "description": "Cosmo kitty purrs reliable oracle price data.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654977,
+  "txHash": "0x9e4cad3ba4d4ed49fc63e4efc0baecba365490f9be2545fd091a53f98882012e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Cosmo Kitty",
+    "description": "Cosmo kitty purrs reliable oracle price data.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:41.114Z"
+}

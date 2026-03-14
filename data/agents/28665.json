@@ -1,0 +1,27 @@
+{
+  "id": 28665,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Voyager Yum",
+  "description": "Voyager yum flies rewards home.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655147,
+  "txHash": "0x829ba2227c4533fe55e0c32ee699c938e039fb9af7784693c31b7075dd112b19",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Voyager Yum",
+    "description": "Voyager yum flies rewards home.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.854Z"
+}

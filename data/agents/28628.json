@@ -1,0 +1,27 @@
+{
+  "id": 28628,
+  "owner": "0x3a3122c23dc9A92D074384825Cd91D7437aC901b",
+  "chain": "ethereum",
+  "name": "Moon Munch",
+  "description": "Moon munch nibbles fast hedging moves sweetly.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654986,
+  "txHash": "0x52dd68e47a56deb88fed276c867faf3d7d88dc226b3b5ebaf0d068fd0739d2f0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Moon Munch",
+    "description": "Moon munch nibbles fast hedging moves sweetly.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:41.123Z"
+}

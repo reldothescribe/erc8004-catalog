@@ -1,0 +1,27 @@
+{
+  "id": 28577,
+  "owner": "0x9CDCCfebBCF3604C0d0AfFde450A9Ba02B86Bba8",
+  "chain": "ethereum",
+  "name": "Feedback",
+  "description": "Cute spark collects soft reputation stars.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654371,
+  "txHash": "0x490ccdd60a9655292cf29c7676cfa57af2ec15b86e1d928a15e1145b83847d5a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Feedback",
+    "description": "Cute spark collects soft reputation stars.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.263Z"
+}

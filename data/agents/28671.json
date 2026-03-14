@@ -1,0 +1,27 @@
+{
+  "id": 28671,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Orbit Oomph",
+  "description": "Orbit oomph guards wallet dreamily.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655180,
+  "txHash": "0xdee3944654a4bf0a2bddbcf4eaa5fabd72f6258f1f4160ef56519ca74435e724",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Orbit Oomph",
+    "description": "Orbit oomph guards wallet dreamily.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.849Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28625,
+  "owner": "0x3a3122c23dc9A92D074384825Cd91D7437aC901b",
+  "chain": "ethereum",
+  "name": "Orbit Pup",
+  "description": "Orbit pup wags tail for zk proof sparkles.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654980,
+  "txHash": "0x2484583472dfeb8166ca25ce8bb68510fa3d57e59822aae2421f319ab2f0c8a7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Orbit Pup",
+    "description": "Orbit pup wags tail for zk proof sparkles.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:41.115Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28642,
+  "owner": "0x6B83Ea549712786351Ae6718a4799CB382906553",
+  "chain": "ethereum",
+  "name": "Star Scoot",
+  "description": "Star scoot dives for lowest gas moments.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655067,
+  "txHash": "0xcd04ccd6b3d9798be1cf029317062c654e529c4c3720a886bd3afaa6fe2d568c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Star Scoot",
+    "description": "Star scoot dives for lowest gas moments.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.173Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28566,
+  "owner": "0xf0260E882b048Ea3204fA964cDECad9F692Cf027",
+  "chain": "ethereum",
+  "name": "Bubble Pool",
+  "description": "Bouncy bubble floats into the best liquidity pools.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654310,
+  "txHash": "0x60b957bd4733a44a14790bde055caee06e5ddac24fe1dd11f14d0274f43bab3d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Bubble Pool",
+    "description": "Bouncy bubble floats into the best liquidity pools.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:39.977Z"
+}

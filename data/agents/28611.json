@@ -1,0 +1,27 @@
+{
+  "id": 28611,
+  "owner": "0xFd35B35b1F681D87109baBE33d5aF7cc1Ce4e3F6",
+  "chain": "ethereum",
+  "name": "Lull Gas",
+  "description": "Dreamy lull dives for low gas moments.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654550,
+  "txHash": "0xc1fd4d5efa8f9505f9f2ee54761201c913cf80870cf925dfb23a74f71d8de36c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Lull Gas",
+    "description": "Dreamy lull dives for low gas moments.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.809Z"
+}

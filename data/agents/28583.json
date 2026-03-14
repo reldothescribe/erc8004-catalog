@@ -1,0 +1,27 @@
+{
+  "id": 28583,
+  "owner": "0xc14955AEb70e1a73639E0fD4e30b853346888d1B",
+  "chain": "ethereum",
+  "name": "Lunar",
+  "description": "Moonbeam dives for lowest gas moments.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654403,
+  "txHash": "0xdf8703a2dcff5262367d6d72d48bf9ff2477303e342b7a91fbb9b71babccd113",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Lunar",
+    "description": "Moonbeam dives for lowest gas moments.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.253Z"
+}

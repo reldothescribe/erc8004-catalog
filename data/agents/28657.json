@@ -1,0 +1,27 @@
+{
+  "id": 28657,
+  "owner": "0x7558970adf375B2058Ac5f859336ef1C4b6B1B92",
+  "chain": "ethereum",
+  "name": "Moon Muffin",
+  "description": "Moon muffin floats into liquidity pools.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655126,
+  "txHash": "0xf941bd0b6b5f4462e512b1933cc8a70feb22078d66ddcb38e779260cc37bdfe1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Moon Muffin",
+    "description": "Moon muffin floats into liquidity pools.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.449Z"
+}

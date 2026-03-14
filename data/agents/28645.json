@@ -1,0 +1,27 @@
+{
+  "id": 28645,
+  "owner": "0x6B83Ea549712786351Ae6718a4799CB382906553",
+  "chain": "ethereum",
+  "name": "Meteor Mlem",
+  "description": "Meteor mlem sings reward claim reminders.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655077,
+  "txHash": "0xdcd300066afd0d77e4698cbb5bbb2106b6b8a1526dd44b6e71c5c826ee12a8b8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Meteor Mlem",
+    "description": "Meteor mlem sings reward claim reminders.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.169Z"
+}

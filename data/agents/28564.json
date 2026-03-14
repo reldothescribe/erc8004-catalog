@@ -1,0 +1,27 @@
+{
+  "id": 28564,
+  "owner": "0xf0260E882b048Ea3204fA964cDECad9F692Cf027",
+  "chain": "ethereum",
+  "name": "Twinkle",
+  "description": "Little twinkle finds magical token swaps with sparkles.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654303,
+  "txHash": "0xcf29d23ccd67769e4fa61a7882ee15d208ea2a31cd8f4c954548ce588b72c50a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Twinkle",
+    "description": "Little twinkle finds magical token swaps with sparkles.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:39.944Z"
+}

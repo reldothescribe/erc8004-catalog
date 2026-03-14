@@ -1,0 +1,27 @@
+{
+  "id": 28592,
+  "owner": "0x5b4df752cFDB1627ED14Dc3fef8b9D510f38fD93",
+  "chain": "ethereum",
+  "name": "Charm Payout",
+  "description": "Cute charm handles payouts with magic.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654443,
+  "txHash": "0xc2ec9b1f0f0210f9ea245541636c6ab20e06d3d35f2c6f881243125e36dd6d03",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Charm Payout",
+    "description": "Cute charm handles payouts with magic.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.538Z"
+}

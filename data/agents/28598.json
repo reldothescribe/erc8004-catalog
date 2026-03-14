@@ -1,0 +1,27 @@
+{
+  "id": 28598,
+  "owner": "0xEC8C035a04dd5Fe05eF6fe4fcb83A8F80253Dac1",
+  "chain": "ethereum",
+  "name": "Pastel Floor",
+  "description": "Pastel rainbow stands on NFT alerts.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654471,
+  "txHash": "0x0f00ce88978ea7289e95bd58bf53e1100412fed135cb65ee5568662021b5c0f8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Pastel Floor",
+    "description": "Pastel rainbow stands on NFT alerts.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.531Z"
+}

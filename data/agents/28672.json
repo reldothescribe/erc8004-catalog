@@ -1,0 +1,27 @@
+{
+  "id": 28672,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Moon Mwah",
+  "description": "Moon mwah cheers new mints.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655184,
+  "txHash": "0x752b737759c0f09b0aa59d9c012e4fe8406a401a907d3a3db0fe7058cc4a7064",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Moon Mwah",
+    "description": "Moon mwah cheers new mints.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.854Z"
+}

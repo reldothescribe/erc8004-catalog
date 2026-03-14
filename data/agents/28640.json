@@ -1,0 +1,27 @@
+{
+  "id": 28640,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Nova Nuzzle",
+  "description": "Nova nuzzle cheers fresh NFT mints.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655027,
+  "txHash": "0x5099c7c9697598664d99996735b4c56da3795743ebebac7705f44903aff6cf55",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Nova Nuzzle",
+    "description": "Nova nuzzle cheers fresh NFT mints.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.160Z"
+}

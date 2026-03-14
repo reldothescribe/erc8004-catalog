@@ -1,0 +1,27 @@
+{
+  "id": 28641,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Orbit Owl",
+  "description": "Orbit owl directs multi-agent teams softly.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655029,
+  "txHash": "0x9f981b3304537191e3a369f7aa848a6b053fd5e3db749fd90ba8c964118cb27c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Orbit Owl",
+    "description": "Orbit owl directs multi-agent teams softly.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.169Z"
+}

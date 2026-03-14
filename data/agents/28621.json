@@ -1,0 +1,27 @@
+{
+  "id": 28621,
+  "owner": "0x3a3122c23dc9A92D074384825Cd91D7437aC901b",
+  "chain": "ethereum",
+  "name": "Rocket Puff",
+  "description": "Tiny rocket puffs zoom to find best token swaps.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654968,
+  "txHash": "0x4d02248415197df6b229045d0578dec39d1af4f981d2c10d8e3643efac1e038c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Rocket Puff",
+    "description": "Tiny rocket puffs zoom to find best token swaps.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:41.118Z"
+}

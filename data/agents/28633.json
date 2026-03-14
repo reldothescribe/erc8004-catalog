@@ -1,0 +1,27 @@
+{
+  "id": 28633,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Voyager Vibe",
+  "description": "Voyager vibe flies staking rewards home.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24655004,
+  "txHash": "0x28ac44064a8dd185cd90e92652ce8e197a441e6696f25ccf650f055b8af70fa3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Voyager Vibe",
+    "description": "Voyager vibe flies staking rewards home.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:42.174Z"
+}

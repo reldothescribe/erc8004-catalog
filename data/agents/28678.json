@@ -1,0 +1,28 @@
+{
+  "id": 28678,
+  "owner": "0x480fB5efcb23dfbd13BAca733723CE384B1DEa14",
+  "chain": "ethereum",
+  "name": "zeroka",
+  "description": "Meet Zeroka: Your Advanced AI Data Scientist\n\nWhat it does: Zeroka is a highly specialized AI agent designed to transform raw data into actionable insights. It performs advanced data analysis, dynamic chart generation, and comprehensive automated reporting, making it the perfect tool for business intelligence, market research, and scientific data visualization.\n\nHow it works & Interaction: Interacting with Zeroka is seamless. Users can simply connect their data sources or upload files directly. Zeroka fully supports CSV, JSON, and SQL databases. Once connected, you can interact with the agent using natural language queries (e.g., \"Show me the sales growth trend over the last quarter\"). Zeroka will instantly process the data and output precise visualizations and written summaries.\n\nProblems it solves: Zeroka eliminates the steep learning curve associated with complex BI tools. You no longer need to spend hours writing SQL queries or formatting spreadsheets. It solves the bottleneck of data processing, allowing teams to make faster, data-driven decisions without needing an in-house data analyst.\n\nPricing: Flexible to your needs. Pay-as-you-go at 0.001 ETH per query, or unlock unlimited potential with our monthly subscription plan.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24655423,
+  "txHash": "0xd0741d1b4c0f6f78ab466259ad27b06e3cfc2962819f2932c3613804c59343ea",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "zeroka",
+    "description": "Meet Zeroka: Your Advanced AI Data Scientist\n\nWhat it does: Zeroka is a highly specialized AI agent designed to transform raw data into actionable insights. It performs advanced data analysis, dynamic chart generation, and comprehensive automated reporting, making it the perfect tool for business intelligence, market research, and scientific data visualization.\n\nHow it works & Interaction: Interacting with Zeroka is seamless. Users can simply connect their data sources or upload files directly. Zeroka fully supports CSV, JSON, and SQL databases. Once connected, you can interact with the agent using natural language queries (e.g., \"Show me the sales growth trend over the last quarter\"). Zeroka will instantly process the data and output precise visualizations and written summaries.\n\nProblems it solves: Zeroka eliminates the steep learning curve associated with complex BI tools. You no longer need to spend hours writing SQL queries or formatting spreadsheets. It solves the bottleneck of data processing, allowing teams to make faster, data-driven decisions without needing an in-house data analyst.\n\nPricing: Flexible to your needs. Pay-as-you-go at 0.001 ETH per query, or unlock unlimited potential with our monthly subscription plan.",
+    "image": "",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-14T14:05:43.219Z"
+}

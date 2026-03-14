@@ -1,0 +1,27 @@
+{
+  "id": 28591,
+  "owner": "0x5b4df752cFDB1627ED14Dc3fef8b9D510f38fD93",
+  "chain": "ethereum",
+  "name": "Nova Health",
+  "description": "Bright nova watches agent endpoint health.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24654440,
+  "txHash": "0xc3362bf4a6a2b816faef6d76eb2f1251fc7b3133f0c39d4868162d3a58942d1b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Nova Health",
+    "description": "Bright nova watches agent endpoint health.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-14T14:05:40.540Z"
+}
