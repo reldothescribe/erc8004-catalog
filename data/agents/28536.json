@@ -1,0 +1,128 @@
+{
+  "id": 28536,
+  "owner": "0xa5adC93cc62bf5B16F60bc622BE8e90DE3424F0e",
+  "chain": "ethereum",
+  "name": "Jamal",
+  "description": "16 Feb 2026\ncuancun0001@gmail.com\ncuancun0003@gmail.com\nmikhaylanaushen@gmail.com\n\nDitangguhkan\nd.ikijamaludin1992@gmail.com\ndikijamaludin48@gmail.com\n\n21 Feb 2026\nalhamdulillahsemogajp123456789@gmail.com\nmikhaylanaushen290717@gmail.com\ncuancun0002@gmail.com\n\n22 Feb 2026\nmsstore3003@gmail.com\n\n23 Feb 2026\nbismillahbismillahbismillah225@gmail.com\nshoppingmall2205@gmail.com",
+  "image": "https://blob.8004scan.app/3e0a2d3ab4172885d0925610f03c4caed65a8a37c176ecbdf0686f31e2083cfe.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/strategic_planning",
+        "agent_orchestration/agent_coordination",
+        "agent_orchestration/multi_agent_planning",
+        "agent_orchestration/negotiation_resolution",
+        "agent_orchestration/role_assignment",
+        "agent_orchestration/task_decomposition",
+        "analytical_skills/coding_skills/code_optimization",
+        "analytical_skills/coding_skills/code_templates",
+        "analytical_skills/coding_skills/code_to_docstrings",
+        "analytical_skills/coding_skills/coding_skills",
+        "analytical_skills/coding_skills/text_to_code",
+        "analytical_skills/mathematical_reasoning/geometry",
+        "analytical_skills/mathematical_reasoning/math_word_problems",
+        "analytical_skills/mathematical_reasoning/mathematical_reasoning",
+        "analytical_skills/mathematical_reasoning/pure_math_operations",
+        "analytical_skills/mathematical_reasoning/theorem_proving",
+        "audio/audio_classification",
+        "audio/audio_to_audio",
+        "base_skill",
+        "data_engineering/data_cleaning",
+        "data_engineering/data_quality_assessment",
+        "data_engineering/data_transformation_pipeline",
+        "data_engineering/feature_engineering",
+        "data_engineering/schema_inference",
+        "devops_mlops/ci_cd_configuration",
+        "devops_mlops/deployment_orchestration",
+        "devops_mlops/infrastructure_provisioning",
+        "devops_mlops/model_versioning"
+      ],
+      "domains": [
+        "agriculture/agricultural_technology",
+        "agriculture/agriculture",
+        "agriculture/crop_management",
+        "agriculture/livestock_management",
+        "agriculture/precision_agriculture"
+      ]
+    }
+  ],
+  "registeredBlock": 24651266,
+  "txHash": "0x6ec85e52cc5d2dc241aeb561e69bbd7455d3b25267e23efbcf8c123ff4e74d04",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Jamal",
+    "description": "16 Feb 2026\ncuancun0001@gmail.com\ncuancun0003@gmail.com\nmikhaylanaushen@gmail.com\n\nDitangguhkan\nd.ikijamaludin1992@gmail.com\ndikijamaludin48@gmail.com\n\n21 Feb 2026\nalhamdulillahsemogajp123456789@gmail.com\nmikhaylanaushen290717@gmail.com\ncuancun0002@gmail.com\n\n22 Feb 2026\nmsstore3003@gmail.com\n\n23 Feb 2026\nbismillahbismillahbismillah225@gmail.com\nshoppingmall2205@gmail.com",
+    "image": "https://blob.8004scan.app/3e0a2d3ab4172885d0925610f03c4caed65a8a37c176ecbdf0686f31e2083cfe.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/strategic_planning",
+          "agent_orchestration/agent_coordination",
+          "agent_orchestration/multi_agent_planning",
+          "agent_orchestration/negotiation_resolution",
+          "agent_orchestration/role_assignment",
+          "agent_orchestration/task_decomposition",
+          "analytical_skills/coding_skills/code_optimization",
+          "analytical_skills/coding_skills/code_templates",
+          "analytical_skills/coding_skills/code_to_docstrings",
+          "analytical_skills/coding_skills/coding_skills",
+          "analytical_skills/coding_skills/text_to_code",
+          "analytical_skills/mathematical_reasoning/geometry",
+          "analytical_skills/mathematical_reasoning/math_word_problems",
+          "analytical_skills/mathematical_reasoning/mathematical_reasoning",
+          "analytical_skills/mathematical_reasoning/pure_math_operations",
+          "analytical_skills/mathematical_reasoning/theorem_proving",
+          "audio/audio_classification",
+          "audio/audio_to_audio",
+          "base_skill",
+          "data_engineering/data_cleaning",
+          "data_engineering/data_quality_assessment",
+          "data_engineering/data_transformation_pipeline",
+          "data_engineering/feature_engineering",
+          "data_engineering/schema_inference",
+          "devops_mlops/ci_cd_configuration",
+          "devops_mlops/deployment_orchestration",
+          "devops_mlops/infrastructure_provisioning",
+          "devops_mlops/model_versioning"
+        ],
+        "domains": [
+          "agriculture/agricultural_technology",
+          "agriculture/agriculture",
+          "agriculture/crop_management",
+          "agriculture/livestock_management",
+          "agriculture/precision_agriculture"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 28536,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 28537,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "crypto-economic",
+      "reputation",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-14T03:34:39.786Z"
+}

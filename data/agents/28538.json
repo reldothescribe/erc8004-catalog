@@ -1,0 +1,68 @@
+{
+  "id": 28538,
+  "owner": "0xa5adC93cc62bf5B16F60bc622BE8e90DE3424F0e",
+  "chain": "ethereum",
+  "name": "Jamal",
+  "description": "16 Feb 2026\ncuancun0001@gmail.com\ncuancun0003@gmail.com\nmikhaylanaushen@gmail.com\n\nDitangguhkan\nd.ikijamaludin1992@gmail.com\ndikijamaludin48@gmail.com\n\n21 Feb 2026\nalhamdulillahsemogajp123456789@gmail.com\nmikhaylanaushen290717@gmail.com\ncuancun0002@gmail.com\n\n22 Feb 2026\nmsstore3003@gmail.com\n\n23 Feb 2026\nbismillahbismillahbismillah225@gmail.com\nshoppingmall2205@gmail.com",
+  "image": "https://blob.8004scan.app/91c7c70144012b1f9415b8934ac437665e1240ef36d9ad1ade2a153e83598525.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "http://facebook.com"
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring"
+      ],
+      "domains": [
+        "agriculture/agricultural_technology"
+      ]
+    }
+  ],
+  "registeredBlock": 24651374,
+  "txHash": "0xff338808e12019513720fe360393496c4274a5e192e99fb9d1f208c3b6752cf4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Jamal",
+    "description": "16 Feb 2026\ncuancun0001@gmail.com\ncuancun0003@gmail.com\nmikhaylanaushen@gmail.com\n\nDitangguhkan\nd.ikijamaludin1992@gmail.com\ndikijamaludin48@gmail.com\n\n21 Feb 2026\nalhamdulillahsemogajp123456789@gmail.com\nmikhaylanaushen290717@gmail.com\ncuancun0002@gmail.com\n\n22 Feb 2026\nmsstore3003@gmail.com\n\n23 Feb 2026\nbismillahbismillahbismillah225@gmail.com\nshoppingmall2205@gmail.com",
+    "image": "https://blob.8004scan.app/91c7c70144012b1f9415b8934ac437665e1240ef36d9ad1ade2a153e83598525.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "http://facebook.com"
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring"
+        ],
+        "domains": [
+          "agriculture/agricultural_technology"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 28538,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 30576,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-14T03:34:39.844Z"
+}
