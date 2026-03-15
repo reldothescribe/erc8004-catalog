@@ -1,8 +1,8 @@
 {
-  "lastSync": "2026-03-15T03:55:39.366Z",
-  "ethLastBlock": 24660034,
-  "baseLastBlock": 43376987,
-  "totalAgents": 28726,
+  "lastSync": "2026-03-15T07:07:33.840Z",
+  "ethLastBlock": 24661288,
+  "baseLastBlock": 43384530,
+  "totalAgents": 28731,
   "agents": [
     31215,
     31214,
@@ -30,10 +30,15 @@
     28707,
     28706,
     28705,
+    28704,
+    28703,
+    28702,
+    28701,
     28700,
     28699,
     28698,
     28697,
+    28696,
     28695,
     28694,
     28693,
@@ -28736,15 +28741,15 @@
       "active": 23942,
       "inactive": 358,
       "errors": 0,
-      "withServices": null,
-      "x402": null
+      "x402": null,
+      "withServices": null
     },
     "base": {
       "active": 7,
       "inactive": 1,
-      "errors": 5,
+      "errors": 96,
       "withServices": null
     },
-    "totalErrors": 5
+    "totalErrors": 96
   }
 }
