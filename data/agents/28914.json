@@ -1,0 +1,66 @@
+{
+  "id": 28914,
+  "owner": "0xeA772b2bA2e0718fB5642105C789709E1C4F404d",
+  "chain": "ethereum",
+  "name": "Vespa Clasik",
+  "description": "Friendship that does not look at shared backgrounds under the auspices of the Vespa classic community ",
+  "image": "https://blob.8004scan.app/b00eeb2f7a7039a9bf0f54965fdf911bdca15ad7a49beb9938f6dbe09136a9bf.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://blob.8004scan.app/b00eeb2f7a7039a9bf0f54965fdf911bdca15ad7a49beb9938f6dbe09136a9bf.jpg",
+      "mcpTools": [
+        "https://blob.8004scan.app/b00eeb2f7a7039a9bf0f54965fdf911bdca15ad7a49beb9938f6dbe09136a9bf.jpg"
+      ],
+      "mcpPrompts": [
+        "https://blob.8004scan.app/b00eeb2f7a7039a9bf0f54965fdf911bdca15ad7a49beb9938f6dbe09136a9bf.jpg"
+      ],
+      "mcpResources": [
+        "https://blob.8004scan.app/b00eeb2f7a7039a9bf0f54965fdf911bdca15ad7a49beb9938f6dbe09136a9bf.jpg"
+      ]
+    }
+  ],
+  "registeredBlock": 24663257,
+  "txHash": "0xedab7a0631faf5cf11c7fe7f446263203f6f797b52a6f112e07923675e062508",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Vespa Clasik",
+    "description": "Friendship that does not look at shared backgrounds under the auspices of the Vespa classic community ",
+    "image": "https://blob.8004scan.app/b00eeb2f7a7039a9bf0f54965fdf911bdca15ad7a49beb9938f6dbe09136a9bf.jpg",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://blob.8004scan.app/b00eeb2f7a7039a9bf0f54965fdf911bdca15ad7a49beb9938f6dbe09136a9bf.jpg",
+        "mcpTools": [
+          "https://blob.8004scan.app/b00eeb2f7a7039a9bf0f54965fdf911bdca15ad7a49beb9938f6dbe09136a9bf.jpg"
+        ],
+        "mcpPrompts": [
+          "https://blob.8004scan.app/b00eeb2f7a7039a9bf0f54965fdf911bdca15ad7a49beb9938f6dbe09136a9bf.jpg"
+        ],
+        "mcpResources": [
+          "https://blob.8004scan.app/b00eeb2f7a7039a9bf0f54965fdf911bdca15ad7a49beb9938f6dbe09136a9bf.jpg"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 28914,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 28915,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-15T18:49:41.132Z"
+}

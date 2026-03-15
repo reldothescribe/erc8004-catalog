@@ -1,0 +1,66 @@
+{
+  "id": 28912,
+  "owner": "0x37132eb623bcC155a75f432D835c4dC6Ce2ACeeA",
+  "chain": "ethereum",
+  "name": "happynemo",
+  "description": "Happynemo is a next-generation AI data intelligence agent built for the decentralized era. It analyzes datasets, generates real-time visualizations, and produces automated reports with high accuracy. Designed for developers, analysts, and Web3 builders who need fast insights from CSV, JSON, or SQL data sources.",
+  "image": "https://blob.8004scan.app/3e2fd67cc0a721003c1971ef9dc093f2c3481e79bcc4b82a59c00261d311e80d.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/strategic_planning",
+        "agent_orchestration/task_decomposition",
+        "analytical_skills/coding_skills/code_to_docstrings",
+        "analytical_skills/coding_skills/coding_skills",
+        "analytical_skills/mathematical_reasoning/math_word_problems",
+        "analytical_skills/mathematical_reasoning/geometry",
+        "analytical_skills/mathematical_reasoning/mathematical_reasoning",
+        "base_skill",
+        "devops_mlops/ci_cd_configuration"
+      ],
+      "domains": [
+        "agriculture/livestock_management"
+      ]
+    }
+  ],
+  "registeredBlock": 24663166,
+  "txHash": "0x06332871dca97442c0f2149bff518da022421a83140bffa6c77ed1653981d6fa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "happynemo",
+    "description": "Happynemo is a next-generation AI data intelligence agent built for the decentralized era. It analyzes datasets, generates real-time visualizations, and produces automated reports with high accuracy. Designed for developers, analysts, and Web3 builders who need fast insights from CSV, JSON, or SQL data sources.",
+    "image": "https://blob.8004scan.app/3e2fd67cc0a721003c1971ef9dc093f2c3481e79bcc4b82a59c00261d311e80d.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/strategic_planning",
+          "agent_orchestration/task_decomposition",
+          "analytical_skills/coding_skills/code_to_docstrings",
+          "analytical_skills/coding_skills/coding_skills",
+          "analytical_skills/mathematical_reasoning/math_word_problems",
+          "analytical_skills/mathematical_reasoning/geometry",
+          "analytical_skills/mathematical_reasoning/mathematical_reasoning",
+          "base_skill",
+          "devops_mlops/ci_cd_configuration"
+        ],
+        "domains": [
+          "agriculture/livestock_management"
+        ]
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-15T18:49:40.222Z"
+}
