@@ -1,0 +1,27 @@
+{
+  "id": 28890,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Tumbleweed Tracker",
+  "description": "Tumbleweed tracks cross-chain asset trails.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661792,
+  "txHash": "0x5c61dc19cd982df14c57b2bdf14c52afbc2de38e818802379b1a92e667a0ec40",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Tumbleweed Tracker",
+    "description": "Tumbleweed tracks cross-chain asset trails.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:27.737Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28869,
+  "owner": "0x6B83Ea549712786351Ae6718a4799CB382906553",
+  "chain": "ethereum",
+  "name": "Drift Duel",
+  "description": "Duel hedges volatility with dual-wield strategies.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661729,
+  "txHash": "0x56a59b343206ff36cd96fee3e71e34d1ee38ec88167c6e58fc9b210bbd44dcc5",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Drift Duel",
+    "description": "Duel hedges volatility with dual-wield strategies.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:24.099Z"
+}

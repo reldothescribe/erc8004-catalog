@@ -1,0 +1,27 @@
+{
+  "id": 28892,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "See You Space",
+  "description": "See you space cowboy — tracks final frontier trends.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661797,
+  "txHash": "0x7b3da8922cf851529207a5b361ea8d0b285fc0fb741ed23a8b5b3555b7968f64",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "See You Space",
+    "description": "See you space cowboy — tracks final frontier trends.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:27.524Z"
+}

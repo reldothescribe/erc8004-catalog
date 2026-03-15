@@ -1,0 +1,27 @@
+{
+  "id": 28859,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Renegade Rug",
+  "description": "Renegade scans new tokens for rug indicators.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661676,
+  "txHash": "0xc63db01e9a081a1dfca137de5084e87869fa71797126a4833ba4ba030f74a63b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Renegade Rug",
+    "description": "Renegade scans new tokens for rug indicators.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:24.160Z"
+}

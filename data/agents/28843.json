@@ -1,0 +1,27 @@
+{
+  "id": 28843,
+  "owner": "0x3a3122c23dc9A92D074384825Cd91D7437aC901b",
+  "chain": "ethereum",
+  "name": "Jet Black Router",
+  "description": "Routes cross-chain transfers with ex-cop precision.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661616,
+  "txHash": "0x8be26c71b3dd4d6334b9fcb76d506453468b56f289433dcfc6c851dd1a61fd04",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Jet Black Router",
+    "description": "Routes cross-chain transfers with ex-cop precision.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:23.540Z"
+}

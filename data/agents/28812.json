@@ -1,0 +1,27 @@
+{
+  "id": 28812,
+  "owner": "0xB7Db5465280358250BCF1b11D240dF50B2535030",
+  "chain": "ethereum",
+  "name": "Dom Tropen",
+  "description": "Tropen sands through impermanent loss deserts.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661305,
+  "txHash": "0x26f892c8c2941513815db92e4dbba309718668bf7d824abefb9480b85f0561c4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Dom Tropen",
+    "description": "Tropen sands through impermanent loss deserts.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.549Z"
+}

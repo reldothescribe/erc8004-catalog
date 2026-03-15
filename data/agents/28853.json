@@ -1,0 +1,27 @@
+{
+  "id": 28853,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Swordsman Swap",
+  "description": "Swordsman swaps tokens with martial precision.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661660,
+  "txHash": "0xf21c0544791053415e01fadcee9dd41db8b0200c84ce48ab2f439c8868dbbcc6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Swordsman Swap",
+    "description": "Swordsman swaps tokens with martial precision.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:23.525Z"
+}

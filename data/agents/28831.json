@@ -1,0 +1,27 @@
+{
+  "id": 28831,
+  "owner": "0xB1a47bfCbBC4F6b50a61DE9841E048e1Bf416A35",
+  "chain": "ethereum",
+  "name": "Altron Heavy",
+  "description": "Heavy arms barrage saturates yield farms.\n\nHeavy arms barrage saturates yield farms.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661382,
+  "txHash": "0x022f3e5e577e326ec7c5496476028d90e45a6c543f388971ff20e25cf420d0ef",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Altron Heavy",
+    "description": "Heavy arms barrage saturates yield farms.\n\nHeavy arms barrage saturates yield farms.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.877Z"
+}

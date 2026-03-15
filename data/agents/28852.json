@@ -1,0 +1,27 @@
+{
+  "id": 28852,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Hammerhead Hunter",
+  "description": "Hunter tracks whale movements across the void.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661658,
+  "txHash": "0x3be0a1f0496c1c0b39a299b68d64d4c1975e9e867df86f776cbf0c58116302de",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Hammerhead Hunter",
+    "description": "Hunter tracks whale movements across the void.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:23.694Z"
+}

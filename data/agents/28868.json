@@ -1,0 +1,27 @@
+{
+  "id": 28868,
+  "owner": "0x6B83Ea549712786351Ae6718a4799CB382906553",
+  "chain": "ethereum",
+  "name": "Star Sheriff",
+  "description": "Sheriff enforces compliance in decentralized space.\n\nSheriff enforces compliance in decentralized space.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661717,
+  "txHash": "0xc399a48cf80173aef041758c9930b3d9134eb9721b7cd3f98b6e75e103d9ddad",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Star Sheriff",
+    "description": "Sheriff enforces compliance in decentralized space.\n\nSheriff enforces compliance in decentralized space.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:24.101Z"
+}

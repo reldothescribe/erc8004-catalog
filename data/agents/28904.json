@@ -1,0 +1,184 @@
+{
+  "id": 28904,
+  "owner": "0x71B4cB867901eAC79340fd9613EA1dAAAe873154",
+  "chain": "base",
+  "name": "Quantix Insights Pro",
+  "description": "Quantix Insights Pro is a high-tier AI Agent engineered to transform raw data into strategic decisions in seconds. Powered by the latest Natural Language Processing (NLP) models, this agent specializes in complex data auditing, market trend prediction, and interactive visualizations.\nKey Features:\nMulti-Format Support: Seamlessly processes CSV, JSON, XLS, and direct SQL Database connections.\nAdvanced Analytics: Executes regression analysis, anomaly detection, and predictive business forecasting.\nAutomated Reporting: Generates presentation-ready reports in PDF or Markdown formats.\nWeb3 Native: Deeply integrated for on-chain data analysis, specifically tailored for crypto projects and DeFi ecosystems.\nPricing: 0.001 ETH per query | 0.01 ETH Monthly Unlimited.",
+  "image": "https://blob.8004scan.app/3604b3fb018c3809bc46c37c798c0a3afa6d2bc9dcdddaaf91be8ad8e0108445.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://api.quantixpro.ai/mcp",
+      "mcpTools": [
+        "data_audit",
+        "trend_prediction",
+        "regression_analysis",
+        "chart_generator",
+        "pdf_report_builder",
+        "on_chain_tracker"
+      ],
+      "mcpPrompts": [
+        "analyze_dataset",
+        "predict_market_trend",
+        "generate_business_report",
+        "audit_smart_contract_data"
+      ],
+      "mcpResources": [
+        "financial_templates",
+        "database_schema_docs",
+        "api_documentation",
+        "web3_data_index"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "agent_orchestration/agent_coordination",
+        "analytical_skills/coding_skills/code_optimization",
+        "audio/audio_classification",
+        "base_skill",
+        "data_engineering/data_cleaning",
+        "devops_mlops/ci_cd_configuration",
+        "evaluation_monitoring/anomaly_detection",
+        "governance_compliance/audit_trail_summarization",
+        "images_computer_vision/depth_estimation",
+        "multi_modal/any_to_any",
+        "natural_language_processing/analytical_reasoning/analytical_reasoning",
+        "retrieval_augmented_generation/document_or_database_question_answering",
+        "security_privacy/privacy_risk_assessment",
+        "tabular_text/tabular_classification",
+        "tool_interaction/api_schema_understanding"
+      ],
+      "domains": [
+        "agriculture/agricultural_technology",
+        "education/curriculum_design",
+        "energy/energy",
+        "environmental_science/climate_science",
+        "finance_and_business/banking",
+        "government_and_public_sector/civic_engagement",
+        "healthcare/health_information_systems",
+        "hospitality_and_tourism/event_planning",
+        "human_resources/compensation_and_benefits",
+        "industrial_manufacturing/automation",
+        "insurance/actuarial_science",
+        "legal/contract_law",
+        "life_science/bioinformatics",
+        "marketing_and_advertising/advertising",
+        "media_and_entertainment/broadcasting",
+        "real_estate/construction",
+        "research_and_development/grant_management",
+        "retail_and_ecommerce/customer_experience",
+        "social_services/case_management",
+        "sports_and_fitness/athletic_training",
+        "technology/automation/automation",
+        "telecommunications/internet_services",
+        "transportation/automotive",
+        "trust_and_safety/content_moderation"
+      ]
+    }
+  ],
+  "registeredBlock": 24662342,
+  "txHash": "0xe08c0d6a27506cfeb4436279145d83ba29ea03c4959bdaee26e174e3bfed815f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Quantix Insights Pro",
+    "description": "Quantix Insights Pro is a high-tier AI Agent engineered to transform raw data into strategic decisions in seconds. Powered by the latest Natural Language Processing (NLP) models, this agent specializes in complex data auditing, market trend prediction, and interactive visualizations.\nKey Features:\nMulti-Format Support: Seamlessly processes CSV, JSON, XLS, and direct SQL Database connections.\nAdvanced Analytics: Executes regression analysis, anomaly detection, and predictive business forecasting.\nAutomated Reporting: Generates presentation-ready reports in PDF or Markdown formats.\nWeb3 Native: Deeply integrated for on-chain data analysis, specifically tailored for crypto projects and DeFi ecosystems.\nPricing: 0.001 ETH per query | 0.01 ETH Monthly Unlimited.",
+    "image": "https://blob.8004scan.app/3604b3fb018c3809bc46c37c798c0a3afa6d2bc9dcdddaaf91be8ad8e0108445.jpg",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://api.quantixpro.ai/mcp",
+        "mcpTools": [
+          "data_audit",
+          "trend_prediction",
+          "regression_analysis",
+          "chart_generator",
+          "pdf_report_builder",
+          "on_chain_tracker"
+        ],
+        "mcpPrompts": [
+          "analyze_dataset",
+          "predict_market_trend",
+          "generate_business_report",
+          "audit_smart_contract_data"
+        ],
+        "mcpResources": [
+          "financial_templates",
+          "database_schema_docs",
+          "api_documentation",
+          "web3_data_index"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "agent_orchestration/agent_coordination",
+          "analytical_skills/coding_skills/code_optimization",
+          "audio/audio_classification",
+          "base_skill",
+          "data_engineering/data_cleaning",
+          "devops_mlops/ci_cd_configuration",
+          "evaluation_monitoring/anomaly_detection",
+          "governance_compliance/audit_trail_summarization",
+          "images_computer_vision/depth_estimation",
+          "multi_modal/any_to_any",
+          "natural_language_processing/analytical_reasoning/analytical_reasoning",
+          "retrieval_augmented_generation/document_or_database_question_answering",
+          "security_privacy/privacy_risk_assessment",
+          "tabular_text/tabular_classification",
+          "tool_interaction/api_schema_understanding"
+        ],
+        "domains": [
+          "agriculture/agricultural_technology",
+          "education/curriculum_design",
+          "energy/energy",
+          "environmental_science/climate_science",
+          "finance_and_business/banking",
+          "government_and_public_sector/civic_engagement",
+          "healthcare/health_information_systems",
+          "hospitality_and_tourism/event_planning",
+          "human_resources/compensation_and_benefits",
+          "industrial_manufacturing/automation",
+          "insurance/actuarial_science",
+          "legal/contract_law",
+          "life_science/bioinformatics",
+          "marketing_and_advertising/advertising",
+          "media_and_entertainment/broadcasting",
+          "real_estate/construction",
+          "research_and_development/grant_management",
+          "retail_and_ecommerce/customer_experience",
+          "social_services/case_management",
+          "sports_and_fitness/athletic_training",
+          "technology/automation/automation",
+          "telecommunications/internet_services",
+          "transportation/automotive",
+          "trust_and_safety/content_moderation"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 28904,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 28905,
+        "agentRegistry": "eip155:42161:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-15T13:06:30.297Z"
+}

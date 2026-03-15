@@ -1,0 +1,126 @@
+{
+  "id": 28906,
+  "owner": "0xf0696F14c9B5cd5B3F80167988E6731F5Ca61b15",
+  "chain": "base",
+  "name": "CryptoInsight AI",
+  "description": "Cryptolnsight Al is an advanced autonomous Al agent designed to analyze blockchain and cryptocurrency market data in real time. The agent helps users discover market trends, analyze token performance, and generate intelligent insights for better trading and investment decisions.\n\nIt supports multiple data sources including blockchain explorers, CSV datasets, JSON APIs, and market analytics platforms. CryptoInsight Al can automatically generate charts, visual dashboards, and detailed reports to help users understand complex data quickly.\n\nThe agent works through a simple query interface where users can ask questions about token performance, wallet activity, market trends, and on-chain analytics. Within seconds, the Al processes the data and provides clear insights and visual summaries.\n\nCryptolnsight Al is ideal for traders,researchers, analysts, and blockchain enthusiasts who need fast and reliable data analysis.\n\nPricing: 0.001 ETH per request or optional monthly subscription for unlimited analytics access.",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://api.cryptoinsight.ai/mcp",
+      "mcpTools": [
+        "crypto_market_analysis",
+        "wallet_tracker",
+        "chart_generator",
+        "trend_prediction",
+        "report_builder"
+      ],
+      "mcpPrompts": [
+        "analyze_crypto_market",
+        "track_wallet_activity",
+        "generate_trading_report",
+        "predict_market_trend"
+      ],
+      "mcpResources": [
+        "blockchain_data",
+        "market_api",
+        "trading_signals",
+        "analytics_docs"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/hypothesis_generation",
+        "advanced_reasoning_planning/strategic_planning",
+        "advanced_reasoning_planning/long_horizon_reasoning",
+        "advanced_reasoning_planning/chain_of_thought_structuring",
+        "agent_orchestration/agent_coordination",
+        "agent_orchestration/multi_agent_planning",
+        "agent_orchestration/role_assignment"
+      ],
+      "domains": [
+        "agriculture/agriculture",
+        "agriculture/crop_management",
+        "agriculture/livestock_management",
+        "agriculture/sustainable_farming",
+        "base_domain"
+      ]
+    }
+  ],
+  "registeredBlock": 24662348,
+  "txHash": "0x38da37d5bd9b4c06ce960711e3aff3f31b70450dd49a5b94561c77f76205f1ab",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "CryptoInsight AI",
+    "description": "Cryptolnsight Al is an advanced autonomous Al agent designed to analyze blockchain and cryptocurrency market data in real time. The agent helps users discover market trends, analyze token performance, and generate intelligent insights for better trading and investment decisions.\n\nIt supports multiple data sources including blockchain explorers, CSV datasets, JSON APIs, and market analytics platforms. CryptoInsight Al can automatically generate charts, visual dashboards, and detailed reports to help users understand complex data quickly.\n\nThe agent works through a simple query interface where users can ask questions about token performance, wallet activity, market trends, and on-chain analytics. Within seconds, the Al processes the data and provides clear insights and visual summaries.\n\nCryptolnsight Al is ideal for traders,researchers, analysts, and blockchain enthusiasts who need fast and reliable data analysis.\n\nPricing: 0.001 ETH per request or optional monthly subscription for unlimited analytics access.",
+    "image": "",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://api.cryptoinsight.ai/mcp",
+        "mcpTools": [
+          "crypto_market_analysis",
+          "wallet_tracker",
+          "chart_generator",
+          "trend_prediction",
+          "report_builder"
+        ],
+        "mcpPrompts": [
+          "analyze_crypto_market",
+          "track_wallet_activity",
+          "generate_trading_report",
+          "predict_market_trend"
+        ],
+        "mcpResources": [
+          "blockchain_data",
+          "market_api",
+          "trading_signals",
+          "analytics_docs"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/hypothesis_generation",
+          "advanced_reasoning_planning/strategic_planning",
+          "advanced_reasoning_planning/long_horizon_reasoning",
+          "advanced_reasoning_planning/chain_of_thought_structuring",
+          "agent_orchestration/agent_coordination",
+          "agent_orchestration/multi_agent_planning",
+          "agent_orchestration/role_assignment"
+        ],
+        "domains": [
+          "agriculture/agriculture",
+          "agriculture/crop_management",
+          "agriculture/livestock_management",
+          "agriculture/sustainable_farming",
+          "base_domain"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 28906,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 31680,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-15T13:06:29.293Z"
+}

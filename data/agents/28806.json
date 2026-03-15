@@ -1,0 +1,27 @@
+{
+  "id": 28806,
+  "owner": "0xB7Db5465280358250BCF1b11D240dF50B2535030",
+  "chain": "ethereum",
+  "name": "Hi-Nu Fin",
+  "description": "Fin funnel deploys reputation feedback swarm.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661293,
+  "txHash": "0xe702d3806b58d769a070508edddf760a1a3f1011bd5e04a64d2af5b22e076be3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Hi-Nu Fin",
+    "description": "Fin funnel deploys reputation feedback swarm.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.372Z"
+}

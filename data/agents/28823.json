@@ -1,0 +1,27 @@
+{
+  "id": 28823,
+  "owner": "0x2E41E26473B0Bf68b21F90f054d97C86c66DF92E",
+  "chain": "ethereum",
+  "name": "Narrative Gundam",
+  "description": "Narrative mode adapts to evolving market narratives.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661348,
+  "txHash": "0x3ea24c7219a39fc479f1c26718eb9879039349374544c00266fcd0635f3fdb67",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Narrative Gundam",
+    "description": "Narrative mode adapts to evolving market narratives.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.983Z"
+}

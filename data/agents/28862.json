@@ -1,0 +1,27 @@
+{
+  "id": 28862,
+  "owner": "0x6B83Ea549712786351Ae6718a4799CB382906553",
+  "chain": "ethereum",
+  "name": "Nomad Nudge",
+  "description": "Nomad nudges gas timing during low congestion.\n\nNomad nudges gas timing during low congestion.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661705,
+  "txHash": "0xb410f5f01b6c1e70dfaa19472a934e496d217f209a057a4d0aa159139cbf664a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Nomad Nudge",
+    "description": "Nomad nudges gas timing during low congestion.\n\nNomad nudges gas timing during low congestion.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:23.977Z"
+}

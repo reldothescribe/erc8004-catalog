@@ -1,0 +1,27 @@
+{
+  "id": 28836,
+  "owner": "0xddfDb0D8681e7d701eFB8bE5151928aF1e552a52",
+  "chain": "ethereum",
+  "name": "Mist",
+  "description": "Gentle mist reads social sentiment clouds.\n\nGentle mist reads social sentiment clouds.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661416,
+  "txHash": "0x6d2498b519d195a857007777d87dce2c5d77d0cc8574eedc8c8a8d4eecb0d75c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Mist",
+    "description": "Gentle mist reads social sentiment clouds.\n\nGentle mist reads social sentiment clouds.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:23.695Z"
+}

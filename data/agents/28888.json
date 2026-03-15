@@ -1,0 +1,27 @@
+{
+  "id": 28888,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Vaquero Verifier",
+  "description": "Vaquero Verifier\n\nVaquero Verifier\n\nVaquero Verifier\n\nVaquero Verifier\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661773,
+  "txHash": "0x7597546c82fe5f037e22522b6bc166c5f5f2d8c7707cfdfc6737054aa13b5fed",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Vaquero Verifier",
+    "description": "Vaquero Verifier\n\nVaquero Verifier\n\nVaquero Verifier\n\nVaquero Verifier\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:27.738Z"
+}

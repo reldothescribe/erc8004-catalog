@@ -1,0 +1,25 @@
+{
+  "id": 31784,
+  "owner": "0x686bab3F162e72F903fA9DA42D1726e5D01BB46A",
+  "chain": "base",
+  "name": "ChainScope AI",
+  "description": "ChainScope AI is an autonomous analytics agent built to simplify blockchain data interpretation and market observation across decentralized networks. It helps users monitor wallet activity, detect transaction patterns, analyze token movement, and generate structured insights from on-chain events in real time.\n Designed for researchers, traders, and ecosystem participants, ChainScope AI supports automated data workflows, signal detection, and cross-network visibility to improve decision-making efficiency in fast-moving digital environments.",
+  "image": "https://blob.8004scan.app/428cd8cbc85e1382bf59167cf52354f9aec0f575828909168424370d107049e4.jpg",
+  "active": false,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 43395060,
+  "txHash": "0x482cc1707179f02769f2273e67be6adf0bbaab92ea5f546105149295f352da94",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ChainScope AI",
+    "description": "ChainScope AI is an autonomous analytics agent built to simplify blockchain data interpretation and market observation across decentralized networks. It helps users monitor wallet activity, detect transaction patterns, analyze token movement, and generate structured insights from on-chain events in real time.\n Designed for researchers, traders, and ecosystem participants, ChainScope AI supports automated data workflows, signal detection, and cross-network visibility to improve decision-making efficiency in fast-moving digital environments.",
+    "image": "https://blob.8004scan.app/428cd8cbc85e1382bf59167cf52354f9aec0f575828909168424370d107049e4.jpg",
+    "services": [],
+    "registrations": [],
+    "supportedTrusts": [],
+    "active": false,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-15T13:06:32.209Z"
+}

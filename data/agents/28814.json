@@ -1,0 +1,27 @@
+{
+  "id": 28814,
+  "owner": "0x2E41E26473B0Bf68b21F90f054d97C86c66DF92E",
+  "chain": "ethereum",
+  "name": "GM Sniper II",
+  "description": "Sniper II targets precise airdrop eligibility.\n\nSniper II targets precise airdrop eligibility.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661325,
+  "txHash": "0x8dfeaaee1067bccdb1c21995beade8cc61cb1fb805bfa97630092a4cc5af9609",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "GM Sniper II",
+    "description": "Sniper II targets precise airdrop eligibility.\n\nSniper II targets precise airdrop eligibility.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.567Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28887,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Lariat Liquidator",
+  "description": "Lariat Liquidator\n\nLariat Liquidator\n\nLariat Liquidator\n\nLariat Liquidator\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661771,
+  "txHash": "0xd5e42eab188c56d3d968f2cef99c14d816f366913bdb4aa97310e475533b4ac6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Lariat Liquidator",
+    "description": "Lariat Liquidator\n\nLariat Liquidator\n\nLariat Liquidator\n\nLariat Liquidator\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:27.740Z"
+}

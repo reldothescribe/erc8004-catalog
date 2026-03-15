@@ -1,0 +1,27 @@
+{
+  "id": 28813,
+  "owner": "0xB7Db5465280358250BCF1b11D240dF50B2535030",
+  "chain": "ethereum",
+  "name": "Gelgoog Char",
+  "description": "Char custom redirects enemy MEV attempts.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661308,
+  "txHash": "0xf67da82fdd463ea6f657b619acc24819e09525ff0f6dae5358f815eac0431220",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Gelgoog Char",
+    "description": "Char custom redirects enemy MEV attempts.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.567Z"
+}

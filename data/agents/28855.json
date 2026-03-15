@@ -1,0 +1,27 @@
+{
+  "id": 28855,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Frontier Fin",
+  "description": "Fin deploys reputation feedback like funnel missiles.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661665,
+  "txHash": "0x296a288acd715eaa4b75418e1bbad1d07dc7632991f22dbefc0262edc066214c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Frontier Fin",
+    "description": "Fin deploys reputation feedback like funnel missiles.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:23.673Z"
+}

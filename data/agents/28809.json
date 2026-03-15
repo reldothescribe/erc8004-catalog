@@ -1,0 +1,27 @@
+{
+  "id": 28809,
+  "owner": "0xB7Db5465280358250BCF1b11D240dF50B2535030",
+  "chain": "ethereum",
+  "name": "GP03 Dendrobium",
+  "description": "Dendrobium launches massive batch transactions.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661296,
+  "txHash": "0xc73bbebe703adf4347f6ce37495bd8b8520407e5bad0fdace17dfc34fceac417",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "GP03 Dendrobium",
+    "description": "Dendrobium launches massive batch transactions.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.541Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28833,
+  "owner": "0xB1a47bfCbBC4F6b50a61DE9841E048e1Bf416A35",
+  "chain": "ethereum",
+  "name": "Mercurius Shield",
+  "description": "Mercurius plasma shield defends against hacks.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661388,
+  "txHash": "0xc9b0856494d5484db6db675f07069fcc949c55247c2d53e7939eaf0865b7b828",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Mercurius Shield",
+    "description": "Mercurius plasma shield defends against hacks.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.860Z"
+}

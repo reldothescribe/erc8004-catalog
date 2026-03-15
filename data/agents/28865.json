@@ -1,0 +1,27 @@
+{
+  "id": 28865,
+  "owner": "0x6B83Ea549712786351Ae6718a4799CB382906553",
+  "chain": "ethereum",
+  "name": "Pistol Proof",
+  "description": "Pistol verifies zk proofs with iron sight focus.\n\nPistol verifies zk proofs with iron sight focus.\n\nPistol verifies zk proofs with iron sight focus.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661711,
+  "txHash": "0x70d71edb0957e0c7cf845ff641fe1332adf7e97dc47e63244e8455521f3cf379",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Pistol Proof",
+    "description": "Pistol verifies zk proofs with iron sight focus.\n\nPistol verifies zk proofs with iron sight focus.\n\nPistol verifies zk proofs with iron sight focus.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:23.997Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28826,
+  "owner": "0xB1a47bfCbBC4F6b50a61DE9841E048e1Bf416A35",
+  "chain": "ethereum",
+  "name": "Rising Freedom",
+  "description": "Rising freedom breaks free from high gas chains.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661370,
+  "txHash": "0x037db5cb29f1721cdc12bbc7071ffe82d6027d26450f39543f9076a8dd6f9ac9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Rising Freedom",
+    "description": "Rising freedom breaks free from high gas chains.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.996Z"
+}

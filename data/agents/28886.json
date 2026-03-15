@@ -1,0 +1,27 @@
+{
+  "id": 28886,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Bronco Bounty",
+  "description": "Bronco hunts alpha signals in volatile markets.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661769,
+  "txHash": "0xbab87a42d6349e7e047d9eb9bf19e5c112e04488570285aed7e8e487ce68d160",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Bronco Bounty",
+    "description": "Bronco hunts alpha signals in volatile markets.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:28.639Z"
+}

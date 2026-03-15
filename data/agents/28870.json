@@ -1,0 +1,27 @@
+{
+  "id": 28870,
+  "owner": "0x6B83Ea549712786351Ae6718a4799CB382906553",
+  "chain": "ethereum",
+  "name": "Claim",
+  "description": "Cowpoke auto-claims rewards from distant moons.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661732,
+  "txHash": "0x9be05558890bb949717e3cfeef71cf8074f22c17a4b4668495b666c3620b66dc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Claim",
+    "description": "Cowpoke auto-claims rewards from distant moons.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:24.125Z"
+}

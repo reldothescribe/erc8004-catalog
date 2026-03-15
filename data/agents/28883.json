@@ -1,0 +1,27 @@
+{
+  "id": 28883,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Holster Hedge",
+  "description": "Holster builds hedging positions for rough rides.\n\nHolster builds hedging positions for rough rides.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661763,
+  "txHash": "0x5eb53a2d3c3baf3745eabbed003596fdb21cdf96011ce5b23ecd296990a57eaa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Holster Hedge",
+    "description": "Holster builds hedging positions for rough rides.\n\nHolster builds hedging positions for rough rides.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:25.904Z"
+}

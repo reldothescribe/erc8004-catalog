@@ -1,0 +1,27 @@
+{
+  "id": 28822,
+  "owner": "0x2E41E26473B0Bf68b21F90f054d97C86c66DF92E",
+  "chain": "ethereum",
+  "name": "Haman Qubeley",
+  "description": "Haman deploys axis shock for reputation boost.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661345,
+  "txHash": "0xe9d2619adf33d8e09b7d79196d809098855d2103428a36a68f1abec6220a2332",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Haman Qubeley",
+    "description": "Haman deploys axis shock for reputation boost.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:23.006Z"
+}

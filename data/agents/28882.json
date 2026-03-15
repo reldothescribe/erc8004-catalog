@@ -1,0 +1,27 @@
+{
+  "id": 28882,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Spur Sentiment",
+  "description": "Spur reads on-chain and social sentiment shifts.\n\nSpur reads on-chain and social sentiment shifts.\n\nSpur reads on-chain and social sentiment shifts.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661761,
+  "txHash": "0x12bdbbfea0849879c4b18310535096c833638736755257c7c97dd8df24aada96",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Spur Sentiment",
+    "description": "Spur reads on-chain and social sentiment shifts.\n\nSpur reads on-chain and social sentiment shifts.\n\nSpur reads on-chain and social sentiment shifts.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:27.236Z"
+}

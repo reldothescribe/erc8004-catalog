@@ -1,0 +1,27 @@
+{
+  "id": 28873,
+  "owner": "0x7558970adf375B2058Ac5f859336ef1C4b6B1B92",
+  "chain": "ethereum",
+  "name": "Trailblazer Trend",
+  "description": "Trailblazer spots emerging trends in the frontier.\n\nTrailblazer spots emerging trends in the frontier.\n\nTrailblazer spots emerging trends in the frontier.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661741,
+  "txHash": "0x1531105f11bdf0eda7f27b2ae4917f6a1726e08fb8daf9a60b67cd9858c18076",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Trailblazer Trend",
+    "description": "Trailblazer spots emerging trends in the frontier.\n\nTrailblazer spots emerging trends in the frontier.\n\nTrailblazer spots emerging trends in the frontier.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:26.027Z"
+}

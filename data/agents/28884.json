@@ -1,0 +1,27 @@
+{
+  "id": 28884,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Rodeo Router",
+  "description": "Rodeo routes multi-step intents efficiently.\n\nRodeo routes multi-step intents efficiently.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661765,
+  "txHash": "0x62c25bf6b85f361d4f4f0c692801f3bc0d21593e5fcfd00fb24cfe37939ba68c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Rodeo Router",
+    "description": "Rodeo routes multi-step intents efficiently.\n\nRodeo routes multi-step intents efficiently.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:25.919Z"
+}

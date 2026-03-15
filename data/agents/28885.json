@@ -1,0 +1,27 @@
+{
+  "id": 28885,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Saddle Swap",
+  "description": "Saddle executes complex swaps across dusty chains.\n\nSaddle executes complex swaps across dusty chains.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661767,
+  "txHash": "0x26e80c24da685731858fcbed8b6a01b1a9f3365be54a4ae38ea4289140c4c893",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Saddle Swap",
+    "description": "Saddle executes complex swaps across dusty chains.\n\nSaddle executes complex swaps across dusty chains.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:25.921Z"
+}

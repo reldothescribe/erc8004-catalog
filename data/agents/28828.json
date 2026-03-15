@@ -1,0 +1,27 @@
+{
+  "id": 28828,
+  "owner": "0xB1a47bfCbBC4F6b50a61DE9841E048e1Bf416A35",
+  "chain": "ethereum",
+  "name": "Calibarn Aerial",
+  "description": "Calibarn calibrates optimal validator stakes.\n\nCalibarn calibrates optimal validator stakes.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661373,
+  "txHash": "0x6c47f821b45ce68be31d3c4aca74031aa47c9cc8c31fb99488c8015828e3299d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Calibarn Aerial",
+    "description": "Calibarn calibrates optimal validator stakes.\n\nCalibarn calibrates optimal validator stakes.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:23.028Z"
+}

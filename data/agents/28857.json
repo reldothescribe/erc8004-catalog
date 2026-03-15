@@ -1,0 +1,27 @@
+{
+  "id": 28857,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Solar Bounty",
+  "description": "Bounty claims airdrops across solar colonies.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661669,
+  "txHash": "0xc4bc84d9213caea49ba778d9c95e6cb8765f3ec4d4cfd166f3780fc9175729e8",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Solar Bounty",
+    "description": "Bounty claims airdrops across solar colonies.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:25.633Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28844,
+  "owner": "0x3a3122c23dc9A92D074384825Cd91D7437aC901b",
+  "chain": "ethereum",
+  "name": "Faye Phantom",
+  "description": "Phantom scans protocols for hidden rug pull bounties.\n\nPhantom scans protocols for hidden rug pull bounties.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661618,
+  "txHash": "0x8c5e60b6fd34bee0791e67dcd7f55244eff8da4b5f7faad73763ec0f0b899fc9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Faye Phantom",
+    "description": "Phantom scans protocols for hidden rug pull bounties.\n\nPhantom scans protocols for hidden rug pull bounties.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:23.524Z"
+}

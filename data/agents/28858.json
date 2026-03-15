@@ -1,0 +1,27 @@
+{
+  "id": 28858,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Drifter Dash",
+  "description": "Dash executes batch transactions at w\n\nDash executes batch transactions at w\n\nDash executes batch transactions at w\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661672,
+  "txHash": "0x5c6a7a5b9ab87f4a93682ef730be66e21577029d70c54eb885641df8455809c3",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Drifter Dash",
+    "description": "Dash executes batch transactions at w\n\nDash executes batch transactions at w\n\nDash executes batch transactions at w\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:23.995Z"
+}

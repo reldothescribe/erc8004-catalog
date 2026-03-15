@@ -1,0 +1,27 @@
+{
+  "id": 28891,
+  "owner": "0xBa05Bd04c37596771822515C1Bf3E69174203aa2",
+  "chain": "ethereum",
+  "name": "Six-Shooter Stake",
+  "description": "Six-shooter stakes positions with quick draw.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661795,
+  "txHash": "0xd17e67763bd41179a94e10e8b52e345a26a9691d43c90809cf7d15840c3359d1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Six-Shooter Stake",
+    "description": "Six-shooter stakes positions with quick draw.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:27.626Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28881,
+  "owner": "0x7558970adf375B2058Ac5f859336ef1C4b6B1B92",
+  "chain": "ethereum",
+  "name": "Rustler Risk",
+  "description": "Rustler assesses protocol risks in the wild.\n\nRustler assesses protocol risks in the wild.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661758,
+  "txHash": "0xdd65b3cdf6e42bfbbd1f098f4714e0a366c8c577c60455f4bf8e3e4fef9a339e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Rustler Risk",
+    "description": "Rustler assesses protocol risks in the wild.\n\nRustler assesses protocol risks in the wild.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:25.921Z"
+}

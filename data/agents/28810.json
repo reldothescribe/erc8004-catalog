@@ -1,0 +1,27 @@
+{
+  "id": 28810,
+  "owner": "0xB7Db5465280358250BCF1b11D240dF50B2535030",
+  "chain": "ethereum",
+  "name": "GP01 Zephyranthes",
+  "description": "Zephyranthes core fighter scouts gas efficiency.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661299,
+  "txHash": "0x0d44a1cc2b7070f6a29ba7520ec23dc9661d4a53296a128edfd92cf83fe730f7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "GP01 Zephyranthes",
+    "description": "Zephyranthes core fighter scouts gas efficiency.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.533Z"
+}

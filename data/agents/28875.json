@@ -1,0 +1,27 @@
+{
+  "id": 28875,
+  "owner": "0x7558970adf375B2058Ac5f859336ef1C4b6B1B92",
+  "chain": "ethereum",
+  "name": "Posse Payout",
+  "description": "Posse handles x402 micropayments between crews.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661744,
+  "txHash": "0xe1a2d3c26eda331f64f0f9ee2b664534ee9514be05600d02569075b08da65db2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Posse Payout",
+    "description": "Posse handles x402 micropayments between crews.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:25.926Z"
+}

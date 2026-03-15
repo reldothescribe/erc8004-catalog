@@ -1,0 +1,27 @@
+{
+  "id": 28815,
+  "owner": "0x2E41E26473B0Bf68b21F90f054d97C86c66DF92E",
+  "chain": "ethereum",
+  "name": "Gouf Custom",
+  "description": "Custom heat rod revokes dangerous approvals.\n\nCustom heat rod revokes dangerous approvals.\n\nCustom heat rod revokes dangerous approvals.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661327,
+  "txHash": "0x37e34103f067ec73c2c8738f0d8c64ea2baa5da2a54c2855dab52576a0a07c27",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Gouf Custom",
+    "description": "Custom heat rod revokes dangerous approvals.\n\nCustom heat rod revokes dangerous approvals.\n\nCustom heat rod revokes dangerous approvals.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.564Z"
+}

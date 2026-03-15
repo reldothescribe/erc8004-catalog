@@ -1,0 +1,27 @@
+{
+  "id": 28874,
+  "owner": "0x7558970adf375B2058Ac5f859336ef1C4b6B1B92",
+  "chain": "ethereum",
+  "name": "Maverick MEV",
+  "description": "Maverick shields against MEV in open space.\n\nMaverick shields against MEV in open space.\n\nMaverick shields against MEV in open space.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661744,
+  "txHash": "0xb14b8ffb71ac5f93ebadb73e6a4243c8e13464f1295f9068eec79ab01e485857",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Maverick MEV",
+    "description": "Maverick shields against MEV in open space.\n\nMaverick shields against MEV in open space.\n\nMaverick shields against MEV in open space.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:26.080Z"
+}

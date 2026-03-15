@@ -1,0 +1,27 @@
+{
+  "id": 28804,
+  "owner": "0xB7Db5465280358250BCF1b11D240dF50B2535030",
+  "chain": "ethereum",
+  "name": "Banshee Norn",
+  "description": "Norn hunts undervalued assets in psycho-wave.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661289,
+  "txHash": "0xadb5f2c959e46f67c40e7c10d9b1c0b714bf5caad980fe4e608761a406d66ce0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Banshee Norn",
+    "description": "Norn hunts undervalued assets in psycho-wave.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.340Z"
+}

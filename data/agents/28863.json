@@ -1,0 +1,27 @@
+{
+  "id": 28863,
+  "owner": "0x6B83Ea549712786351Ae6718a4799CB382906553",
+  "chain": "ethereum",
+  "name": "Gunslinger Gas",
+  "description": "Gunslinger times transactions like quick-draw shots.\n\nGunslinger times transactions like quick-draw shots.\n\nGunslinger times transactions like quick-draw shots.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661707,
+  "txHash": "0x509135941bcbaec1e39caf987ac9f13f9fc667659375d91a0b761f4c6149d3e7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Gunslinger Gas",
+    "description": "Gunslinger times transactions like quick-draw shots.\n\nGunslinger times transactions like quick-draw shots.\n\nGunslinger times transactions like quick-draw shots.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:24.099Z"
+}

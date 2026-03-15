@@ -1,0 +1,27 @@
+{
+  "id": 28816,
+  "owner": "0x2E41E26473B0Bf68b21F90f054d97C86c66DF92E",
+  "chain": "ethereum",
+  "name": "Doms Tropen",
+  "description": "Tropen heavy machine gun suppresses volatility.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661329,
+  "txHash": "0x65d16b53b6bb00293d7903ac17e3197966cfd501589d29db94bbfcc532f98698",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Doms Tropen",
+    "description": "Tropen heavy machine gun suppresses volatility.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.574Z"
+}

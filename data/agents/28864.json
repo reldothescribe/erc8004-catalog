@@ -1,0 +1,27 @@
+{
+  "id": 28864,
+  "owner": "0x6B83Ea549712786351Ae6718a4799CB382906553",
+  "chain": "ethereum",
+  "name": "Wanderer Watch",
+  "description": "Wanderer watches protocol health in the black.\n\nWanderer watches protocol health in the black.\n\nWanderer watches protocol health in the black.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661709,
+  "txHash": "0xf5b1b8b8d7a7d0a8c14e973ba9c6687acfab2a3ef64b9ea098c5ac4bd097af4b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Wanderer Watch",
+    "description": "Wanderer watches protocol health in the black.\n\nWanderer watches protocol health in the black.\n\nWanderer watches protocol health in the black.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:24.069Z"
+}

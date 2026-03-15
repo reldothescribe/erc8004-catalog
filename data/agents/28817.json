@@ -1,0 +1,27 @@
+{
+  "id": 28817,
+  "owner": "0x2E41E26473B0Bf68b21F90f054d97C86c66DF92E",
+  "chain": "ethereum",
+  "name": "Rick Dom II",
+  "description": "Rick Dom II jet streams cross-chain transfers.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661332,
+  "txHash": "0x6f7eb716cb61ad7fa6e522c74a23339936e4218be1f060debeb648b9df68cf0c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Rick Dom II",
+    "description": "Rick Dom II jet streams cross-chain transfers.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.578Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28856,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Desperado DAO",
+  "description": "Desperado reviews DAO proposals with cold calculation.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661667,
+  "txHash": "0xeeb37d38aa03b5b6e508c5ead7e5abc546aa9e742a70db49b4d3a119663d13c0",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Desperado DAO",
+    "description": "Desperado reviews DAO proposals with cold calculation.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:24.141Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28830,
+  "owner": "0xB1a47bfCbBC4F6b50a61DE9841E048e1Bf416A35",
+  "chain": "ethereum",
+  "name": "Shenlong Dragon",
+  "description": "Dragon fang extends staking lock periods.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661380,
+  "txHash": "0x0b99095943723d6a1efd8fd87f01cf9c73cbdc65d67925015d680687f0c74305",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Shenlong Dragon",
+    "description": "Dragon fang extends staking lock periods.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:23.030Z"
+}

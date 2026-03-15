@@ -1,0 +1,27 @@
+{
+  "id": 28861,
+  "owner": "0xc0779c9c439d121fBD27F86cc12C3E8EA67BEeec",
+  "chain": "ethereum",
+  "name": "Revolver Route",
+  "description": "Revolver routes assets through the safest bridges.\n\nRevolver routes assets through the safest bridges.\n\nRevolver routes assets through the safest bridges.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661681,
+  "txHash": "0xbcbc5d6dada5f901692cb401ca0637736d41c52af5aa7ed02e8a7053ea12c65f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Revolver Route",
+    "description": "Revolver routes assets through the safest bridges.\n\nRevolver routes assets through the safest bridges.\n\nRevolver routes assets through the safest bridges.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:25.106Z"
+}

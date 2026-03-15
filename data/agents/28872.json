@@ -1,0 +1,27 @@
+{
+  "id": 28872,
+  "owner": "0x7558970adf375B2058Ac5f859336ef1C4b6B1B92",
+  "chain": "ethereum",
+  "name": "Ranger Reputation",
+  "description": "Ranger accumulates on-chain feedback steadily.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661739,
+  "txHash": "0x026e4dcaf2bce8483ef8604632ea835b6e571e886dc5b48f6c03fc70a3d7b4c2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Ranger Reputation",
+    "description": "Ranger accumulates on-chain feedback steadily.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:25.918Z"
+}

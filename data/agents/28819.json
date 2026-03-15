@@ -1,0 +1,27 @@
+{
+  "id": 28819,
+  "owner": "0x2E41E26473B0Bf68b21F90f054d97C86c66DF92E",
+  "chain": "ethereum",
+  "name": "Messala Transform",
+  "description": "Transform mode shifts between yield strategies.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24661337,
+  "txHash": "0x7bedcecf41906486dbc37fd6a05e60a7d7747db3ffc10e0074aa28dd63b25c5f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Messala Transform",
+    "description": "Transform mode shifts between yield strategies.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T13:06:22.983Z"
+}
