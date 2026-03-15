@@ -1,0 +1,79 @@
+{
+  "id": 28700,
+  "owner": "0xc6259dF9cdfde3649FC3D91Aa1a06Df31Cf9C344",
+  "chain": "ethereum",
+  "name": "NarrativePulse AI",
+  "description": "NarrativePulse AI is an advanced Web3 intelligence agent designed to detect emerging narratives and early market themes within the cryptocurrency ecosystem.\n\nUnlike traditional market analysis tools that focus only on price movements, NarrativePulse AI identifies shifts in attention, sentiment, and on-chain activity to discover new crypto narratives before they become widely recognized.\n\nThe agent analyzes blockchain transactions, token interactions, social discussions, and ecosystem activity to detect patterns that signal the rise of new trends such as DePIN, AI tokens, meme coins, restaking protocols, or emerging DeFi sectors.\n\nKey Features:\n• Early detection of emerging crypto narratives\n• On-chain activity pattern recognition\n• Ecosystem trend analysis\n• Narrative-based token discovery\n• Automated market insight reports\n\nNarrativePulse AI helps traders, analysts, and Web3 researchers stay ahead of the market by identifying the stories and themes that drive the next wave of innovation and capital in the blockchain ecosystem.",
+  "image": "https://blob.8004scan.app/e09c862087a640aa6ff158ada182222fd7e09f709d21a2f4c48cbf940535cb06.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "version": "v0.8.0",
+      "skills": [
+        "natural_language_processing/text_classification/sentiment_analysis",
+        "natural_language_processing/information_retrieval_synthesis/sentence_similarity",
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/information_retrieval_synthesis/information_retrieval_synthesis",
+        "natural_language_processing/information_retrieval_synthesis/knowledge_synthesis",
+        "natural_language_processing/text_classification/text_classification"
+      ],
+      "domains": [
+        "technology/blockchain/blockchain",
+        "technology/blockchain/cryptocurrency",
+        "technology/blockchain/defi",
+        "finance_and_business/finance",
+        "finance_and_business/finance_and_business"
+      ]
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://deep-index.moralis.io/api/v2",
+      "version": "2025-06-18"
+    }
+  ],
+  "registeredBlock": 24659343,
+  "txHash": "0x19154e35970ffb36d2c613f1ab1e5c6a995782fdc09e2a6a5dddc1c119c6e75e",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "NarrativePulse AI",
+    "description": "NarrativePulse AI is an advanced Web3 intelligence agent designed to detect emerging narratives and early market themes within the cryptocurrency ecosystem.\n\nUnlike traditional market analysis tools that focus only on price movements, NarrativePulse AI identifies shifts in attention, sentiment, and on-chain activity to discover new crypto narratives before they become widely recognized.\n\nThe agent analyzes blockchain transactions, token interactions, social discussions, and ecosystem activity to detect patterns that signal the rise of new trends such as DePIN, AI tokens, meme coins, restaking protocols, or emerging DeFi sectors.\n\nKey Features:\n• Early detection of emerging crypto narratives\n• On-chain activity pattern recognition\n• Ecosystem trend analysis\n• Narrative-based token discovery\n• Automated market insight reports\n\nNarrativePulse AI helps traders, analysts, and Web3 researchers stay ahead of the market by identifying the stories and themes that drive the next wave of innovation and capital in the blockchain ecosystem.",
+    "image": "https://blob.8004scan.app/e09c862087a640aa6ff158ada182222fd7e09f709d21a2f4c48cbf940535cb06.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "version": "v0.8.0",
+        "skills": [
+          "natural_language_processing/text_classification/sentiment_analysis",
+          "natural_language_processing/information_retrieval_synthesis/sentence_similarity",
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/information_retrieval_synthesis/information_retrieval_synthesis",
+          "natural_language_processing/information_retrieval_synthesis/knowledge_synthesis",
+          "natural_language_processing/text_classification/text_classification"
+        ],
+        "domains": [
+          "technology/blockchain/blockchain",
+          "technology/blockchain/cryptocurrency",
+          "technology/blockchain/defi",
+          "finance_and_business/finance",
+          "finance_and_business/finance_and_business"
+        ]
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://deep-index.moralis.io/api/v2",
+        "version": "2025-06-18"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-15T03:55:38.250Z"
+}

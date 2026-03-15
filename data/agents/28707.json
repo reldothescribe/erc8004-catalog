@@ -1,0 +1,27 @@
+{
+  "id": 28707,
+  "owner": "0x5a56703f46BE1459b9B2806968661B6Bd7CE3dee",
+  "chain": "ethereum",
+  "name": "Entangle Hug",
+  "description": "Entangle hug links particles for zk proof cuddles.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24660032,
+  "txHash": "0x1d2015ae998d914b872429c248e0b53d52021e6dbe03d62a7e715aa6348cd1fa",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Entangle Hug",
+    "description": "Entangle hug links particles for zk proof cuddles.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-15T03:55:38.791Z"
+}

@@ -1,0 +1,140 @@
+{
+  "id": 28698,
+  "owner": "0x55442c01885ADC922B315656BdB411afFaAafD75",
+  "chain": "ethereum",
+  "name": "DataAnalyst Pro AI",
+  "description": "DataAnalyst Pro AI is an autonomous analytics agent designed to transform raw data into actionable insights. It performs advanced data analysis, automatic chart generation, trend detection, and structured reporting in seconds.\n\nThe agent supports multiple data sources including CSV, JSON, APIs, and SQL databases. It can analyze business metrics, financial data, market trends, and scientific datasets while generating clear visualizations such as line charts, bar charts, and predictive models.\n\nUsers can interact with the agent through simple queries to generate reports, dashboards, and summaries instantly. Ideal for business intelligence, trading research, startups, and data-driven decision making.\n\nKey Features:\n• Advanced statistical analysis\n• Automated charts and dashboards\n• Market and financial data insights\n• CSV / JSON / SQL data support\n• AI-generated reports and summaries\n\nPricing Model:\n0.001 ETH per analysis request or optional monthly subscription for unlimited usage.",
+  "image": "https://blob.8004scan.app/d30505477a8ecc2ab0c332a9e2e5064e6eb98c97040b20d2d433fbe7127f34bc.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://api.dataanalystpro.ai/mcp",
+      "mcpTools": [
+        "data_analysis",
+        "chart_generation",
+        "report_builder",
+        "trend_detection",
+        "dataset_cleaning",
+        "prediction_model"
+      ],
+      "mcpPrompts": [
+        "analyze_dataset",
+        "generate_chart",
+        "build_report",
+        "detect_market_trends",
+        "summarize_data"
+      ],
+      "mcpResources": [
+        "database_schema",
+        "analytics_models",
+        "api_documentation",
+        "visualization_templates"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "analytical_skills/coding_skills/code_optimization",
+        "advanced_reasoning_planning/hypothesis_generation",
+        "data_engineering/data_cleaning",
+        "devops_mlops/ci_cd_configuration",
+        "images_computer_vision/mask_generation",
+        "natural_language_processing/information_retrieval_synthesis/question_answering",
+        "natural_language_processing/natural_language_generation/text_completion",
+        "natural_language_processing/natural_language_understanding/natural_language_understanding",
+        "natural_language_processing/information_retrieval_synthesis/search",
+        "natural_language_processing/creative_content/poetry_writing",
+        "natural_language_processing/information_retrieval_synthesis/fact_extraction",
+        "retrieval_augmented_generation/retrieval_of_information/retrieval_of_information"
+      ],
+      "domains": [
+        "agriculture/crop_management",
+        "agriculture/agriculture",
+        "agriculture/agricultural_technology",
+        "agriculture/livestock_management",
+        "agriculture/sustainable_farming"
+      ]
+    }
+  ],
+  "registeredBlock": 24658835,
+  "txHash": "0xd8f3d3d5fbd208cf5f41ee6e99088fc9fafcf998d4cd94c27771115f15722b08",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "DataAnalyst Pro AI",
+    "description": "DataAnalyst Pro AI is an autonomous analytics agent designed to transform raw data into actionable insights. It performs advanced data analysis, automatic chart generation, trend detection, and structured reporting in seconds.\n\nThe agent supports multiple data sources including CSV, JSON, APIs, and SQL databases. It can analyze business metrics, financial data, market trends, and scientific datasets while generating clear visualizations such as line charts, bar charts, and predictive models.\n\nUsers can interact with the agent through simple queries to generate reports, dashboards, and summaries instantly. Ideal for business intelligence, trading research, startups, and data-driven decision making.\n\nKey Features:\n• Advanced statistical analysis\n• Automated charts and dashboards\n• Market and financial data insights\n• CSV / JSON / SQL data support\n• AI-generated reports and summaries\n\nPricing Model:\n0.001 ETH per analysis request or optional monthly subscription for unlimited usage.",
+    "image": "https://blob.8004scan.app/d30505477a8ecc2ab0c332a9e2e5064e6eb98c97040b20d2d433fbe7127f34bc.jpg",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://api.dataanalystpro.ai/mcp",
+        "mcpTools": [
+          "data_analysis",
+          "chart_generation",
+          "report_builder",
+          "trend_detection",
+          "dataset_cleaning",
+          "prediction_model"
+        ],
+        "mcpPrompts": [
+          "analyze_dataset",
+          "generate_chart",
+          "build_report",
+          "detect_market_trends",
+          "summarize_data"
+        ],
+        "mcpResources": [
+          "database_schema",
+          "analytics_models",
+          "api_documentation",
+          "visualization_templates"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "analytical_skills/coding_skills/code_optimization",
+          "advanced_reasoning_planning/hypothesis_generation",
+          "data_engineering/data_cleaning",
+          "devops_mlops/ci_cd_configuration",
+          "images_computer_vision/mask_generation",
+          "natural_language_processing/information_retrieval_synthesis/question_answering",
+          "natural_language_processing/natural_language_generation/text_completion",
+          "natural_language_processing/natural_language_understanding/natural_language_understanding",
+          "natural_language_processing/information_retrieval_synthesis/search",
+          "natural_language_processing/creative_content/poetry_writing",
+          "natural_language_processing/information_retrieval_synthesis/fact_extraction",
+          "retrieval_augmented_generation/retrieval_of_information/retrieval_of_information"
+        ],
+        "domains": [
+          "agriculture/crop_management",
+          "agriculture/agriculture",
+          "agriculture/agricultural_technology",
+          "agriculture/livestock_management",
+          "agriculture/sustainable_farming"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 31360,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 28697,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-15T03:55:38.363Z"
+}
