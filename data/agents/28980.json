@@ -1,0 +1,27 @@
+{
+  "id": 28980,
+  "owner": "0xC299795d481a693f9C6f53B8c48B60976539C710",
+  "chain": "ethereum",
+  "name": "Trdelník",
+  "description": "Spiral pastry monitors validator performance.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668965,
+  "txHash": "0x152a72999cf751bb68d1a51d1c642bea0b62d5fa93df448536e819f446ad1c1b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Trdelník",
+    "description": "Spiral pastry monitors validator performance.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.140Z"
+}

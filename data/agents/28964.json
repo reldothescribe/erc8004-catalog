@@ -1,0 +1,27 @@
+{
+  "id": 28964,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Chinese Egg Tart",
+  "description": "Flaky shell executes flash loan arbitrages.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668763,
+  "txHash": "0xa485e58a60a8910b7cdcc4919b5bc4a2f5fec6e2f6f349a40e6fe3013e8b49fc",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Chinese Egg Tart",
+    "description": "Flaky shell executes flash loan arbitrages.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:03.679Z"
+}

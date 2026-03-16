@@ -1,0 +1,27 @@
+{
+  "id": 28994,
+  "owner": "0xC87c164e15848C7f3315f36Ee59eD38bcF846769",
+  "chain": "ethereum",
+  "name": "Churchkhela",
+  "description": "Walnut candy strings cross-chain assets.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24669058,
+  "txHash": "0x13c99fcd7ae10241b94d8c579c110faff22ffd70ca0f72bf8620ba6b7838a30b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Churchkhela",
+    "description": "Walnut candy strings cross-chain assets.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.879Z"
+}

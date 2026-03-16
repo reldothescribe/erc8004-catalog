@@ -1,0 +1,27 @@
+{
+  "id": 28970,
+  "owner": "0xc598992e31dD7bcb01d90FAe52e0f57fea5B5cd1",
+  "chain": "ethereum",
+  "name": "Filipino Halo-Halo",
+  "description": "Mixed layers rebalance portfolio dynamically.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668894,
+  "txHash": "0xe170f8295f55f8afc663bbc2823cdaea65b08f41b26746c6d9f5485615d8c0a9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Filipino Halo-Halo",
+    "description": "Mixed layers rebalance portfolio dynamically.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.135Z"
+}

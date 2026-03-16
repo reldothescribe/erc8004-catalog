@@ -1,0 +1,27 @@
+{
+  "id": 28984,
+  "owner": "0xC299795d481a693f9C6f53B8c48B60976539C710",
+  "chain": "ethereum",
+  "name": "Syrniki",
+  "description": "Cheese fritters optimize stable yields.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668985,
+  "txHash": "0xb6d4e505946668a5ef85a08012e50c05c455cd431dfb4d5d947ac365cb7a8239",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Syrniki",
+    "description": "Cheese fritters optimize stable yields.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.520Z"
+}

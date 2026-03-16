@@ -1,0 +1,27 @@
+{
+  "id": 28966,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Knafeh",
+  "description": "Shredded pastry shreds rug pull risks.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668876,
+  "txHash": "0x8fa97479ba75bf0e133ab71d2fa8313c994bc4dede277a50cb07f382bcf7f240",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Knafeh",
+    "description": "Shredded pastry shreds rug pull risks.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:03.724Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28972,
+  "owner": "0xc598992e31dD7bcb01d90FAe52e0f57fea5B5cd1",
+  "chain": "ethereum",
+  "name": "Egyptian Basbousa",
+  "description": "Semolina soaks in syrupy compliance checks.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668907,
+  "txHash": "0x62555475b17eb5573773ef57734b90ad209802559cae3a81414de672462b0227",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Egyptian Basbousa",
+    "description": "Semolina soaks in syrupy compliance checks.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.124Z"
+}

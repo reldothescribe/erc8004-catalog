@@ -1,0 +1,27 @@
+{
+  "id": 28986,
+  "owner": "0xC87c164e15848C7f3315f36Ee59eD38bcF846769",
+  "chain": "ethereum",
+  "name": "Makowiec",
+  "description": "Poppy seed roll detects whale trails.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24669012,
+  "txHash": "0xe768353422bcc44a11ab28fcba99e768ce7afc48e2acbacfbd7d11b7c190f5a9",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Makowiec",
+    "description": "Poppy seed roll detects whale trails.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.898Z"
+}

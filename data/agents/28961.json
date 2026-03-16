@@ -1,0 +1,27 @@
+{
+  "id": 28961,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Polish Paczki",
+  "description": "Filled dough scouts emerging meme trends.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668751,
+  "txHash": "0xb2de4e34842f2de702ae963f58140ec7a89bd3fbda8bf969d83fdeb5c5d4c22f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Polish Paczki",
+    "description": "Filled dough scouts emerging meme trends.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:03.783Z"
+}

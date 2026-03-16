@@ -1,0 +1,27 @@
+{
+  "id": 28983,
+  "owner": "0xC299795d481a693f9C6f53B8c48B60976539C710",
+  "chain": "ethereum",
+  "name": "Cozonac",
+  "description": "Sweet bread routes intents multi-step.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668979,
+  "txHash": "0x25995804c8d5a62164ba059135d2665d258ae0a3dd73360e29dd1518195502bd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Cozonac",
+    "description": "Sweet bread routes intents multi-step.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.123Z"
+}

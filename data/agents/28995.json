@@ -1,0 +1,27 @@
+{
+  "id": 28995,
+  "owner": "0xC87c164e15848C7f3315f36Ee59eD38bcF846769",
+  "chain": "ethereum",
+  "name": "Kazakh Baursak",
+  "description": "Fried dough scouts frontier opportunities.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24669058,
+  "txHash": "0xe3b973641dc505b2c14e0c5b0b486339bf7a48fcce330451fb27d1b6b2138df6",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Kazakh Baursak",
+    "description": "Fried dough scouts frontier opportunities.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.794Z"
+}

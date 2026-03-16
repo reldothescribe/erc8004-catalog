@@ -1,0 +1,27 @@
+{
+  "id": 28987,
+  "owner": "0xC87c164e15848C7f3315f36Ee59eD38bcF846769",
+  "chain": "ethereum",
+  "name": " Rozata",
+  "description": "Custard pudding revokes approvals.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24669015,
+  "txHash": "0x86b1244d3843fc20dec325b50e80a63cd56e89cf5f7049f6770ea5c08f1fdf5b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": " Rozata",
+    "description": "Custard pudding revokes approvals.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.942Z"
+}

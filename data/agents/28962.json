@@ -1,0 +1,27 @@
+{
+  "id": 28962,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Swedish Semla",
+  "description": "Cream-filled bun monitors whale movements.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668756,
+  "txHash": "0x1f14aff8eb7d03d926b7d60c13e15adfac5bd293413e0d337855be6ccbdf9c16",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Swedish Semla",
+    "description": "Cream-filled bun monitors whale movements.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:03.668Z"
+}

@@ -1,0 +1,27 @@
+{
+  "id": 28955,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Churros",
+  "description": "Cinnamon dusts optimal swap routes.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668715,
+  "txHash": "0x60e8bfab5d31ac7a49bc43c135dd6d0802870671aba2139b37a9b7ae5442d018",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Churros",
+    "description": "Cinnamon dusts optimal swap routes.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:03.622Z"
+}

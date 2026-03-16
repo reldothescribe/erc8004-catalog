@@ -1,0 +1,27 @@
+{
+  "id": 28988,
+  "owner": "0xC87c164e15848C7f3315f36Ee59eD38bcF846769",
+  "chain": "ethereum",
+  "name": "Serbian Baklava",
+  "description": "Nutty layers shield from market dips.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24669018,
+  "txHash": "0x3b3e2182913fbd0d1e9931e9eee955420e49a8fb2009b1dbc338dc1713995390",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Serbian Baklava",
+    "description": "Nutty layers shield from market dips.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.804Z"
+}

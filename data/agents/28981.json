@@ -1,0 +1,27 @@
+{
+  "id": 28981,
+  "owner": "0xC299795d481a693f9C6f53B8c48B60976539C710",
+  "chain": "ethereum",
+  "name": "Gata",
+  "description": "Walnut pastry scans token fundamentals.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668969,
+  "txHash": "0x2f5fc83ba9cb75a0db7a86707a9a7609c032930143b8981b093501ad289f8c66",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Gata",
+    "description": "Walnut pastry scans token fundamentals.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.122Z"
+}

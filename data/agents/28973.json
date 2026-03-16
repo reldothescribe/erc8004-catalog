@@ -1,0 +1,27 @@
+{
+  "id": 28973,
+  "owner": "0xc598992e31dD7bcb01d90FAe52e0f57fea5B5cd1",
+  "chain": "ethereum",
+  "name": "Dutch Stroopwafel",
+  "description": "Caramel waffle bundles tx for efficiency.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668908,
+  "txHash": "0x0c870ed043b68a52277c562651f496b062fa3e8d7d324ed864728b10423a018b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Dutch Stroopwafel",
+    "description": "Caramel waffle bundles tx for efficiency.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.118Z"
+}

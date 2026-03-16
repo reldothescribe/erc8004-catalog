@@ -1,0 +1,27 @@
+{
+  "id": 28993,
+  "owner": "0xC87c164e15848C7f3315f36Ee59eD38bcF846769",
+  "chain": "ethereum",
+  "name": "Priganice",
+  "description": "Mini pancakes monitor protocol health.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24669058,
+  "txHash": "0x04b7b7e2cf728dae6199b1e61422f922e16c210a5dbe5473db4722603515ddf2",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Priganice",
+    "description": "Mini pancakes monitor protocol health.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.948Z"
+}

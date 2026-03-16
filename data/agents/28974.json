@@ -1,0 +1,27 @@
+{
+  "id": 28974,
+  "owner": "0xc598992e31dD7bcb01d90FAe52e0f57fea5B5cd1",
+  "chain": "ethereum",
+  "name": "Chimney Cake",
+  "description": "Spiral pastry scouts gas optimization.\n\nSpiral pastry scouts gas optimization.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668914,
+  "txHash": "0x85f84577e3efee58add00db7644f6c1c7592c64e8c03d6362eca17e317fdd348",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Chimney Cake",
+    "description": "Spiral pastry scouts gas optimization.\n\nSpiral pastry scouts gas optimization.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.105Z"
+}

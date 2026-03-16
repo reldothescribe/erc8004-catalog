@@ -1,0 +1,27 @@
+{
+  "id": 28956,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Alfajores",
+  "description": "Dulce de leche fills multi-step intent gaps.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668733,
+  "txHash": "0x4e126dba19cf8204e4c676dc354d912fc273ca2f4c633a4e336197fd39acdd8d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Alfajores",
+    "description": "Dulce de leche fills multi-step intent gaps.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:03.628Z"
+}

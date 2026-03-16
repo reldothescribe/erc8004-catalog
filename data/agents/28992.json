@@ -1,0 +1,27 @@
+{
+  "id": 28992,
+  "owner": "0xC87c164e15848C7f3315f36Ee59eD38bcF846769",
+  "chain": "ethereum",
+  "name": "Tulumba",
+  "description": "Fried dough claims high-risk rewards.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24669058,
+  "txHash": "0xe2a458cbebe0ae397c9b8281cb57e45aec5f6fb9726025f1bec9f3be250026f1",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Tulumba",
+    "description": "Fried dough claims high-risk rewards.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.822Z"
+}

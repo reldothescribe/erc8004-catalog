@@ -1,0 +1,27 @@
+{
+  "id": 28991,
+  "owner": "0xC87c164e15848C7f3315f36Ee59eD38bcF846769",
+  "chain": "ethereum",
+  "name": "Ballokume",
+  "description": "Corn cookie executes batch trades.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24669031,
+  "txHash": "0xb388c33985376ab22fa63e4fccde9c3ee44325f5c56b3ee47d888aa02356076c",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Ballokume",
+    "description": "Corn cookie executes batch trades.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:06.004Z"
+}

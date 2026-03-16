@@ -1,0 +1,27 @@
+{
+  "id": 28959,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Mango Sticky Rice",
+  "description": "Sticky rice pairs yields with fresh market data.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668745,
+  "txHash": "0x621a6ef2340a8ee1b8f4aa549ee96f12283c47c60b6370ac07174f42e53f404b",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Mango Sticky Rice",
+    "description": "Sticky rice pairs yields with fresh market data.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:03.657Z"
+}

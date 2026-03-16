@@ -1,0 +1,27 @@
+{
+  "id": 28967,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Dadar Gulung",
+  "description": "Rolled crepe routes cross-chain assets smoothly.\n\nRolled crepe routes cross-chain assets smoothly.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668879,
+  "txHash": "0x5185ce4557254f7bfca957b69321fab1250614656ee1a411d1f7a017b425c831",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Dadar Gulung",
+    "description": "Rolled crepe routes cross-chain assets smoothly.\n\nRolled crepe routes cross-chain assets smoothly.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:03.849Z"
+}

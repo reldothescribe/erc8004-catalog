@@ -1,0 +1,27 @@
+{
+  "id": 28968,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Picarones",
+  "description": "Sweet potato rings hedge volatility.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668883,
+  "txHash": "0xd0ae1674a80e58c00254df08b64891f02415a423c4e3f722931e01a4fba3d4bf",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Picarones",
+    "description": "Sweet potato rings hedge volatility.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:03.828Z"
+}

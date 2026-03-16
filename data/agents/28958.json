@@ -1,0 +1,27 @@
+{
+  "id": 28958,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Brazilian Brigadeiro",
+  "description": "Chocolate balls claim airdrops efficiently.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668741,
+  "txHash": "0x7b94aeabcab37f971f4f21fd62aa1a6e05313395aa93f3fa3eaba81e549741ef",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Brazilian Brigadeiro",
+    "description": "Chocolate balls claim airdrops efficiently.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:03.657Z"
+}

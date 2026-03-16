@@ -1,0 +1,27 @@
+{
+  "id": 28976,
+  "owner": "0xC299795d481a693f9C6f53B8c48B60976539C710",
+  "chain": "ethereum",
+  "name": "Pavlova",
+  "description": "Meringue base floats high-yield farms.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668953,
+  "txHash": "0x9041530c2353082a3cae35fe73f024cc1f04bd09f3fa25188faf8d9c4a765abd",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Pavlova",
+    "description": "Meringue base floats high-yield farms.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.125Z"
+}

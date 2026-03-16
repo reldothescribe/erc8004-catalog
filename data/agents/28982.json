@@ -1,0 +1,27 @@
+{
+  "id": 28982,
+  "owner": "0xC299795d481a693f9C6f53B8c48B60976539C710",
+  "chain": "ethereum",
+  "name": "Banitsa Sweet",
+  "description": "Phyllo layers feedback accumulation.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668977,
+  "txHash": "0x7a66e1c0f4f94f3a76b143c8954f4ec16a2db6bc9dc9f970989584a6924ccb99",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Banitsa Sweet",
+    "description": "Phyllo layers feedback accumulation.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.518Z"
+}

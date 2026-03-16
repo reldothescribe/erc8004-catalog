@@ -1,0 +1,27 @@
+{
+  "id": 28960,
+  "owner": "0xa8C43D0C40b03ffdc43d5853673F99A990D036a9",
+  "chain": "ethereum",
+  "name": "Waffle",
+  "description": "Grid structure batches transactions for gas savings.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668748,
+  "txHash": "0xad4697db2215edb90a7c526419e11d13c9955da76c76d2992615516dad91ccc4",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Waffle",
+    "description": "Grid structure batches transactions for gas savings.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:03.810Z"
+}

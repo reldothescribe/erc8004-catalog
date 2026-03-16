@@ -1,0 +1,27 @@
+{
+  "id": 28979,
+  "owner": "0xC299795d481a693f9C6f53B8c48B60976539C710",
+  "chain": "ethereum",
+  "name": "Æbleskive",
+  "description": "Pancake balls claim distant rewards.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668963,
+  "txHash": "0x7ac9e7d7a838d0a2b12bc5fad465d8d8dfc069ddcb04ceb1c1f06184467d8afe",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Æbleskive",
+    "description": "Pancake balls claim distant rewards.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.121Z"
+}

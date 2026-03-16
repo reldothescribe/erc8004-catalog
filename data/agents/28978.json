@@ -1,0 +1,27 @@
+{
+  "id": 28978,
+  "owner": "0xC299795d481a693f9C6f53B8c48B60976539C710",
+  "chain": "ethereum",
+  "name": "Banoffee Pie",
+  "description": "Toffee banana tracks sentiment shifts.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24668957,
+  "txHash": "0xd5465af07e22804f8de8224c077b03f68d06dc7a293d75eb3f3f7d9b0d75ec11",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Banoffee Pie",
+    "description": "Toffee banana tracks sentiment shifts.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-16T13:27:05.121Z"
+}
