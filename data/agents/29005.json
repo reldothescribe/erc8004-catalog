@@ -1,0 +1,153 @@
+{
+  "id": 29005,
+  "owner": "0xDa977767452C5DD021624511f14dF67B6c9c2C1b",
+  "chain": "base",
+  "name": "Venus powered by HeyAnon",
+  "description": "Safe execution layer for Venus lending. Validates collateral ratios, checks borrow limits, verifies approvals before returning pre-validated calldata. Covers borrow, repay, supply, redeem, collateral management, APR queries, balance checks, XVS staking/unstaking/rewards on BSC, Ethereum, and Base.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreia37qhdgil54aiwmfokpc4nkjnt32vwdgd4wnk7hlw7tebcdh3wri",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://erc8004.heyanon.ai/mcp/venus",
+      "version": "2025-06-18",
+      "capabilities": [
+        "tools"
+      ],
+      "tools": [
+        "borrow",
+        "repay",
+        "mintToken",
+        "getVenusBalance",
+        "redeemUnderlying",
+        "enterMarkets",
+        "exitMarket",
+        "getBorrowBalance",
+        "getBorrowAPR",
+        "getSupplyAPR",
+        "getAccountLiquidity",
+        "getEnabledCollateral",
+        "getDescriptionVenus",
+        "getSupportedTokens",
+        "updateToken",
+        "stakeXVS",
+        "requestUnstakeXVS",
+        "getStakeInfoXVS",
+        "claimStakedRewardsXVS",
+        "claimUnstakeXVS",
+        "getAvailableToClaimUnstakeXVS",
+        "getDescriptionXVS",
+        "getLockPeriodXVS",
+        "getSupportedChains"
+      ]
+    },
+    {
+      "name": "x402",
+      "endpoint": "https://erc8004.heyanon.ai/.well-known/x402",
+      "version": "1.0"
+    },
+    {
+      "name": "web",
+      "endpoint": "https://heyanon.ai"
+    },
+    {
+      "name": "twitter",
+      "endpoint": "https://x.com/heyanonai"
+    },
+    {
+      "name": "telegram",
+      "endpoint": "https://t.me/realwagmi"
+    },
+    {
+      "name": "discord",
+      "endpoint": "https://discord.com/invite/realwagmi"
+    }
+  ],
+  "registeredBlock": 24671569,
+  "txHash": "0x601e9cf81e84bc27702500d2e045b6103f52df6ed2f3c406bc432687ac64ad49",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Venus powered by HeyAnon",
+    "description": "Safe execution layer for Venus lending. Validates collateral ratios, checks borrow limits, verifies approvals before returning pre-validated calldata. Covers borrow, repay, supply, redeem, collateral management, APR queries, balance checks, XVS staking/unstaking/rewards on BSC, Ethereum, and Base.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreia37qhdgil54aiwmfokpc4nkjnt32vwdgd4wnk7hlw7tebcdh3wri",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://erc8004.heyanon.ai/mcp/venus",
+        "version": "2025-06-18",
+        "capabilities": [
+          "tools"
+        ],
+        "tools": [
+          "borrow",
+          "repay",
+          "mintToken",
+          "getVenusBalance",
+          "redeemUnderlying",
+          "enterMarkets",
+          "exitMarket",
+          "getBorrowBalance",
+          "getBorrowAPR",
+          "getSupplyAPR",
+          "getAccountLiquidity",
+          "getEnabledCollateral",
+          "getDescriptionVenus",
+          "getSupportedTokens",
+          "updateToken",
+          "stakeXVS",
+          "requestUnstakeXVS",
+          "getStakeInfoXVS",
+          "claimStakedRewardsXVS",
+          "claimUnstakeXVS",
+          "getAvailableToClaimUnstakeXVS",
+          "getDescriptionXVS",
+          "getLockPeriodXVS",
+          "getSupportedChains"
+        ]
+      },
+      {
+        "name": "x402",
+        "endpoint": "https://erc8004.heyanon.ai/.well-known/x402",
+        "version": "1.0"
+      },
+      {
+        "name": "web",
+        "endpoint": "https://heyanon.ai"
+      },
+      {
+        "name": "twitter",
+        "endpoint": "https://x.com/heyanonai"
+      },
+      {
+        "name": "telegram",
+        "endpoint": "https://t.me/realwagmi"
+      },
+      {
+        "name": "discord",
+        "endpoint": "https://discord.com/invite/realwagmi"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "x402Support": true,
+    "active": true,
+    "updatedAt": 1773682971,
+    "registrations": [
+      {
+        "agentId": 43129,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 29005,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 32337,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-03-16T19:13:32.455Z"
+}
