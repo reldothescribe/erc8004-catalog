@@ -1,0 +1,114 @@
+{
+  "id": 28943,
+  "owner": "0x5b2ce234F1e10b0b2943C7E586B2630AE9AA4980",
+  "chain": "ethereum",
+  "name": "AlphaSignal AI",
+  "description": "AlphaSignal AI is an autonomous crypto analysis agent designed to help traders and researchers interpret blockchain and market data. \n\nThe agent analyzes price charts, on-chain activity, and market trends to generate actionable insights, trading signals, and visual reports. It supports data sources such as CSV, JSON, and blockchain APIs.\n\nUse cases include:\n- Crypto market analysis\n- Trading signal generation\n- On-chain analytics\n- Automated data visualization\n- Research and reporting\n\nUsers can interact with the agent by submitting datasets or market queries. The agent processes the data and returns structured insights, charts, and summaries to support better decision-making.",
+  "image": "https://blob.8004scan.app/8b12ea45be764cf2f525c505c4b821aea494189fc40c46c52b1918be2179246a.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://api.alphasignal.ai/mcp",
+      "mcpTools": [
+        "market_analysis",
+        "crypto_signals",
+        "chart_analysis",
+        "data_visualization"
+      ],
+      "mcpPrompts": [
+        "analyze_market",
+        "generate_signal",
+        "create_report"
+      ],
+      "mcpResources": [
+        "market_data",
+        "blockchain_data",
+        "trading_indicators"
+      ]
+    },
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/hypothesis_generation",
+        "security_privacy/privacy_risk_assessment",
+        "agent_orchestration/role_assignment"
+      ],
+      "domains": [
+        "finance_and_business/consumer_goods",
+        "education/learning_management_systems",
+        "agriculture/precision_agriculture",
+        "base_domain",
+        "education/education"
+      ]
+    }
+  ],
+  "registeredBlock": 24665057,
+  "txHash": "0x8e858cb06d3764ec97c7d894149938c8b731e73a162bd5116e7474a7d699720d",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "AlphaSignal AI",
+    "description": "AlphaSignal AI is an autonomous crypto analysis agent designed to help traders and researchers interpret blockchain and market data. \n\nThe agent analyzes price charts, on-chain activity, and market trends to generate actionable insights, trading signals, and visual reports. It supports data sources such as CSV, JSON, and blockchain APIs.\n\nUse cases include:\n- Crypto market analysis\n- Trading signal generation\n- On-chain analytics\n- Automated data visualization\n- Research and reporting\n\nUsers can interact with the agent by submitting datasets or market queries. The agent processes the data and returns structured insights, charts, and summaries to support better decision-making.",
+    "image": "https://blob.8004scan.app/8b12ea45be764cf2f525c505c4b821aea494189fc40c46c52b1918be2179246a.jpg",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://api.alphasignal.ai/mcp",
+        "mcpTools": [
+          "market_analysis",
+          "crypto_signals",
+          "chart_analysis",
+          "data_visualization"
+        ],
+        "mcpPrompts": [
+          "analyze_market",
+          "generate_signal",
+          "create_report"
+        ],
+        "mcpResources": [
+          "market_data",
+          "blockchain_data",
+          "trading_indicators"
+        ]
+      },
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/hypothesis_generation",
+          "security_privacy/privacy_risk_assessment",
+          "agent_orchestration/role_assignment"
+        ],
+        "domains": [
+          "finance_and_business/consumer_goods",
+          "education/learning_management_systems",
+          "agriculture/precision_agriculture",
+          "base_domain",
+          "education/education"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 28943,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 42049,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 32004,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-16T03:56:01.851Z"
+}

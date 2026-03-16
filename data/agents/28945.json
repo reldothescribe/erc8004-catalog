@@ -1,0 +1,82 @@
+{
+  "id": 28945,
+  "owner": "0x5b2ce234F1e10b0b2943C7E586B2630AE9AA4980",
+  "chain": "ethereum",
+  "name": "CryptoSignal AI",
+  "description": "CryptoSignal AI is an autonomous blockchain agent designed to analyze cryptocurrency market data and generate trading insights.\nThe agent monitors price movements, market trends, and on-chain signals to provide actionable analytics for traders and researchers. It supports chart analysis, data visualization, and automated reporting for crypto assets.\nBuilt for the decentralized AI ecosystem, CryptoSignal AI can integrate with blockchain data sources, DeFi protocols, and trading platforms to help users make smarter market decisions.",
+  "image": "https://blob.8004scan.app/795c45f8a62055bf442e92a77a7cd51586ffb5e48058524421b5c64e08d49597.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "OASF",
+      "endpoint": "https://github.com/agntcy/oasf/",
+      "skills": [
+        "advanced_reasoning_planning/hypothesis_generation",
+        "security_privacy/privacy_risk_assessment",
+        "data_engineering/schema_inference",
+        "advanced_reasoning_planning/strategic_planning",
+        "natural_language_processing/information_retrieval_synthesis/sentence_similarity",
+        "data_engineering/data_cleaning",
+        "analytical_skills/coding_skills/coding_skills"
+      ],
+      "domains": [
+        "education/learning_management_systems",
+        "agriculture/precision_agriculture",
+        "finance_and_business/consumer_goods",
+        "agriculture/agricultural_technology",
+        "education/education"
+      ]
+    }
+  ],
+  "registeredBlock": 24665155,
+  "txHash": "0x6342ecc9849eee1b6a4df66ae09551b3b5f9652d93faacbc82111198655db38a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "CryptoSignal AI",
+    "description": "CryptoSignal AI is an autonomous blockchain agent designed to analyze cryptocurrency market data and generate trading insights.\nThe agent monitors price movements, market trends, and on-chain signals to provide actionable analytics for traders and researchers. It supports chart analysis, data visualization, and automated reporting for crypto assets.\nBuilt for the decentralized AI ecosystem, CryptoSignal AI can integrate with blockchain data sources, DeFi protocols, and trading platforms to help users make smarter market decisions.",
+    "image": "https://blob.8004scan.app/795c45f8a62055bf442e92a77a7cd51586ffb5e48058524421b5c64e08d49597.jpg",
+    "services": [
+      {
+        "name": "OASF",
+        "endpoint": "https://github.com/agntcy/oasf/",
+        "skills": [
+          "advanced_reasoning_planning/hypothesis_generation",
+          "security_privacy/privacy_risk_assessment",
+          "data_engineering/schema_inference",
+          "advanced_reasoning_planning/strategic_planning",
+          "natural_language_processing/information_retrieval_synthesis/sentence_similarity",
+          "data_engineering/data_cleaning",
+          "analytical_skills/coding_skills/coding_skills"
+        ],
+        "domains": [
+          "education/learning_management_systems",
+          "agriculture/precision_agriculture",
+          "finance_and_business/consumer_goods",
+          "agriculture/agricultural_technology",
+          "education/education"
+        ]
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": 28945,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 42051,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 32025,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": false
+  },
+  "syncedAt": "2026-03-16T03:56:01.849Z"
+}
