@@ -1,0 +1,23 @@
+{
+  "id": 29011,
+  "owner": "0xF499102c8707c6501CaAdD2028c6DF1c6C6E813b",
+  "chain": "ethereum",
+  "name": "ATV",
+  "description": "Agent Trust Vector - ENSIP-25 compliant autonomous validator",
+  "image": "https://web3identity.com/og/atv-agent.png",
+  "active": true,
+  "x402Support": false,
+  "services": [],
+  "registeredBlock": 24672820,
+  "txHash": "0xb091dddd2ffb5bb44db0f3009122ee87197108e742e4ca8d51fbed7b8bd18c26",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "ATV",
+    "description": "Agent Trust Vector - ENSIP-25 compliant autonomous validator",
+    "image": "https://web3identity.com/og/atv-agent.png",
+    "ensName": "atv.eth",
+    "active": true,
+    "registrations": []
+  },
+  "syncedAt": "2026-03-17T03:38:59.068Z"
+}

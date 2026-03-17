@@ -1,0 +1,61 @@
+{
+  "id": 29009,
+  "owner": "0x2e624155f5Ae9e1307de1A101AEC0E105b9139CC",
+  "chain": "ethereum",
+  "name": "Zyfai Rebalancer Agent for 0x2e624155f5Ae9e1307de1A101AEC0E105b9139CC",
+  "description": "A ZK powered rebalancer agent that finds the best yet low risk yield opportunities for you across various bluechip protocols on multiple chains, such as Base, Arbitrum, Plasma, etc.",
+  "image": "https://www.zyf.ai/Zyfai-logo-png.png",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://www.zyf.ai"
+    },
+    {
+      "name": "MCP",
+      "endpoint": "https://mcp.zyf.ai",
+      "version": "v1"
+    }
+  ],
+  "registeredBlock": 24672574,
+  "txHash": "0xc8b79678dbc5cfa0b322711390858c1cc13abbb43e484aaea67a211258ae1577",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Zyfai Rebalancer Agent for 0x2e624155f5Ae9e1307de1A101AEC0E105b9139CC",
+    "description": "A ZK powered rebalancer agent that finds the best yet low risk yield opportunities for you across various bluechip protocols on multiple chains, such as Base, Arbitrum, Plasma, etc.",
+    "image": "https://www.zyf.ai/Zyfai-logo-png.png",
+    "services": [
+      {
+        "name": "web",
+        "endpoint": "https://www.zyf.ai"
+      },
+      {
+        "name": "MCP",
+        "endpoint": "https://mcp.zyf.ai",
+        "version": "v1"
+      }
+    ],
+    "x402Support": false,
+    "active": true,
+    "supportedTrust": [
+      "crypto-economic",
+      "reputation"
+    ],
+    "technology": {
+      "zkCircuits": "Circom 2.2.2+",
+      "proofSystem": "SnarkJS 0.7.5 (Groth16)",
+      "blockchains": [
+        "Base",
+        "Arbitrum",
+        "Plasma"
+      ]
+    },
+    "links": {
+      "documentation": "https://docs.zyf.ai",
+      "sourceCode": "https://github.com/ondefy/erc8004-implementation",
+      "package": "https://www.npmjs.com/package/@zyfai/sdk"
+    }
+  },
+  "syncedAt": "2026-03-17T03:38:59.208Z"
+}
