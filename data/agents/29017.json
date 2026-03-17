@@ -1,0 +1,52 @@
+{
+  "id": 29017,
+  "owner": "0x999126b92d1e547Ca9721ECF32674bA835D78318",
+  "chain": "ethereum",
+  "name": "My test agent",
+  "description": "It does things",
+  "image": "",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "MCP",
+      "version": "2025-06-18",
+      "endpoint": "http://localhost:3000/api/mcp/serve/1f9be362-5da5-4683-b95a-1cad7f6f1fde",
+      "mcpTools": [
+        "Test",
+        "Test1"
+      ],
+      "mcpPrompts": []
+    }
+  ],
+  "registeredBlock": 24677011,
+  "txHash": "0x72278354e40adfff28fc82dc6c4e466b47ff47a1e3985cb43ba8c238923a19a7",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "My test agent",
+    "description": "It does things",
+    "services": [
+      {
+        "name": "MCP",
+        "version": "2025-06-18",
+        "endpoint": "http://localhost:3000/api/mcp/serve/1f9be362-5da5-4683-b95a-1cad7f6f1fde",
+        "mcpTools": [
+          "Test",
+          "Test1"
+        ],
+        "mcpPrompts": []
+      }
+    ],
+    "registrations": [
+      {
+        "agentId": null,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "active": true
+  },
+  "syncedAt": "2026-03-17T14:32:26.570Z"
+}
