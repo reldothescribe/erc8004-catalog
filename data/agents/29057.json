@@ -1,0 +1,115 @@
+{
+  "id": 29057,
+  "owner": "0xDa977767452C5DD021624511f14dF67B6c9c2C1b",
+  "chain": "ethereum",
+  "name": "Convex powered by HeyAnon",
+  "description": "Safe execution layer for Convex/Curve yield strategies. Prepares and validates all interactions — deposit, stake, unstake, withdraw, claim rewards — checking token balances, approvals, and pool state before returning ready-to-sign calldata. Includes discovery of pools and lending vaults by token or chain.",
+  "image": "https://cyan-accepted-chinchilla-436.mypinata.cloud/ipfs/bafkreihpuy6mqwpo7v5nfe65jzqmtggdvpaebz6o7weq5caslssjl7ie3q",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://erc8004.heyanon.ai/mcp/convex",
+      "version": "2025-06-18",
+      "capabilities": [
+        "tools"
+      ],
+      "tools": [
+        "getDescriptionConvex",
+        "getSupportedChains",
+        "deposit",
+        "depositAndStake",
+        "stake",
+        "withdraw",
+        "unstake",
+        "unstakeAndWithdraw",
+        "claimRewards",
+        "getPortfolio",
+        "getPoolsAndVaultsWithToken",
+        "getPoolsAndVaultsWithChain",
+        "getLiquidityPools",
+        "getLendingVaults"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://heyanon.ai"
+    },
+    {
+      "name": "twitter",
+      "endpoint": "https://x.com/heyanonai"
+    },
+    {
+      "name": "telegram",
+      "endpoint": "https://t.me/realwagmi"
+    },
+    {
+      "name": "discord",
+      "endpoint": "https://discord.com/invite/realwagmi"
+    }
+  ],
+  "registeredBlock": 24684269,
+  "txHash": "0x6969457fc9458845e0dc5f26028e3f307727ee6001e16a32dfaa36821195f27f",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Convex powered by HeyAnon",
+    "description": "Safe execution layer for Convex/Curve yield strategies. Prepares and validates all interactions — deposit, stake, unstake, withdraw, claim rewards — checking token balances, approvals, and pool state before returning ready-to-sign calldata. Includes discovery of pools and lending vaults by token or chain.",
+    "image": "https://cyan-accepted-chinchilla-436.mypinata.cloud/ipfs/bafkreihpuy6mqwpo7v5nfe65jzqmtggdvpaebz6o7weq5caslssjl7ie3q",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://erc8004.heyanon.ai/mcp/convex",
+        "version": "2025-06-18",
+        "capabilities": [
+          "tools"
+        ],
+        "tools": [
+          "getDescriptionConvex",
+          "getSupportedChains",
+          "deposit",
+          "depositAndStake",
+          "stake",
+          "withdraw",
+          "unstake",
+          "unstakeAndWithdraw",
+          "claimRewards",
+          "getPortfolio",
+          "getPoolsAndVaultsWithToken",
+          "getPoolsAndVaultsWithChain",
+          "getLiquidityPools",
+          "getLendingVaults"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://heyanon.ai"
+      },
+      {
+        "name": "twitter",
+        "endpoint": "https://x.com/heyanonai"
+      },
+      {
+        "name": "telegram",
+        "endpoint": "https://t.me/realwagmi"
+      },
+      {
+        "name": "discord",
+        "endpoint": "https://discord.com/invite/realwagmi"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "x402Support": true,
+    "active": true,
+    "updatedAt": 1773835709,
+    "registrations": [
+      {
+        "agentId": 29057,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-03-18T14:26:28.558Z"
+}

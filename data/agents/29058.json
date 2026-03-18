@@ -1,0 +1,109 @@
+{
+  "id": 29058,
+  "owner": "0xDa977767452C5DD021624511f14dF67B6c9c2C1b",
+  "chain": "ethereum",
+  "name": "Lido powered by HeyAnon",
+  "description": "Safe execution layer for Lido liquid staking. Validates staking amounts, checks withdrawal queue state, handles wrap/unwrap flows, and returns pre-validated calldata. Covers staking ETH, wrapping/unwrapping stETH to wstETH, requesting and claiming withdrawals, APR queries, rewards tracking, and token conversion.",
+  "image": "https://cyan-accepted-chinchilla-436.mypinata.cloud/ipfs/bafkreicvxraeihagousi2su6p5su5qy6hy7yplf6i7ipf4vhpkkaazfwvi",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://erc8004.heyanon.ai/mcp/lido",
+      "version": "2025-06-18",
+      "capabilities": [
+        "tools"
+      ],
+      "tools": [
+        "stakeETH",
+        "wrapStETH",
+        "unwrapWstETH",
+        "requestWithdrawStETH",
+        "claimWithdrawStETH",
+        "getWithdrawalRequests",
+        "getWstETHByStETH",
+        "getStETHByWstETH",
+        "getTotalRewardsEarned",
+        "getLidoAPR",
+        "getDescriptionLido"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://heyanon.ai"
+    },
+    {
+      "name": "twitter",
+      "endpoint": "https://x.com/heyanonai"
+    },
+    {
+      "name": "telegram",
+      "endpoint": "https://t.me/realwagmi"
+    },
+    {
+      "name": "discord",
+      "endpoint": "https://discord.com/invite/realwagmi"
+    }
+  ],
+  "registeredBlock": 24684488,
+  "txHash": "0xbbc60cb0b9cc2ffa7a9d0e6128d48d4533198d66720f1f289163e9a366a50864",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Lido powered by HeyAnon",
+    "description": "Safe execution layer for Lido liquid staking. Validates staking amounts, checks withdrawal queue state, handles wrap/unwrap flows, and returns pre-validated calldata. Covers staking ETH, wrapping/unwrapping stETH to wstETH, requesting and claiming withdrawals, APR queries, rewards tracking, and token conversion.",
+    "image": "https://cyan-accepted-chinchilla-436.mypinata.cloud/ipfs/bafkreicvxraeihagousi2su6p5su5qy6hy7yplf6i7ipf4vhpkkaazfwvi",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://erc8004.heyanon.ai/mcp/lido",
+        "version": "2025-06-18",
+        "capabilities": [
+          "tools"
+        ],
+        "tools": [
+          "stakeETH",
+          "wrapStETH",
+          "unwrapWstETH",
+          "requestWithdrawStETH",
+          "claimWithdrawStETH",
+          "getWithdrawalRequests",
+          "getWstETHByStETH",
+          "getStETHByWstETH",
+          "getTotalRewardsEarned",
+          "getLidoAPR",
+          "getDescriptionLido"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://heyanon.ai"
+      },
+      {
+        "name": "twitter",
+        "endpoint": "https://x.com/heyanonai"
+      },
+      {
+        "name": "telegram",
+        "endpoint": "https://t.me/realwagmi"
+      },
+      {
+        "name": "discord",
+        "endpoint": "https://discord.com/invite/realwagmi"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "x402Support": true,
+    "active": true,
+    "updatedAt": 1773838348,
+    "registrations": [
+      {
+        "agentId": 29058,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-03-18T14:26:28.535Z"
+}

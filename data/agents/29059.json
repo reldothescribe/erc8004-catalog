@@ -1,0 +1,119 @@
+{
+  "id": 29059,
+  "owner": "0xDa977767452C5DD021624511f14dF67B6c9c2C1b",
+  "chain": "ethereum",
+  "name": "Sky powered by HeyAnon",
+  "description": "Safe execution layer for Sky (ex MakerDAO) staking. Validates staking/withdrawal conditions, checks conversion rates, and returns pre-validated calldata. Covers STR staking (stake/withdraw/claim USDS for SKY), SSR auto-compounding (deposit/withdraw/redeem sUSDS), conversion queries, and user position overview.",
+  "image": "https://cyan-accepted-chinchilla-436.mypinata.cloud/ipfs/bafkreibgwiyign45ctuqbfg4sicvzngxvh352qtyekwzvjla7k3vffmcgq",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://erc8004.heyanon.ai/mcp/sky",
+      "version": "2025-06-18",
+      "capabilities": [
+        "tools"
+      ],
+      "tools": [
+        "stakeSTR",
+        "withdrawSTR",
+        "claimRewardSTR",
+        "exitSTR",
+        "depositSSR",
+        "withdrawSSR",
+        "convertToSharesSSR",
+        "convertToAssetsSSR",
+        "maxWithdrawSSR",
+        "redeemSSR",
+        "maxRedeemSSR",
+        "getStakedBalanceSTR",
+        "getPendingRewardSTR",
+        "rewardPerTokenSTR",
+        "getUserPositionOnSKY",
+        "getSkySupportedChains"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://heyanon.ai"
+    },
+    {
+      "name": "twitter",
+      "endpoint": "https://x.com/heyanonai"
+    },
+    {
+      "name": "telegram",
+      "endpoint": "https://t.me/realwagmi"
+    },
+    {
+      "name": "discord",
+      "endpoint": "https://discord.com/invite/realwagmi"
+    }
+  ],
+  "registeredBlock": 24684503,
+  "txHash": "0x3fb7ab97c9a3bd9fc2eba196f8d90aae4e257057e48f54e636ef043b831f4b1a",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Sky powered by HeyAnon",
+    "description": "Safe execution layer for Sky (ex MakerDAO) staking. Validates staking/withdrawal conditions, checks conversion rates, and returns pre-validated calldata. Covers STR staking (stake/withdraw/claim USDS for SKY), SSR auto-compounding (deposit/withdraw/redeem sUSDS), conversion queries, and user position overview.",
+    "image": "https://cyan-accepted-chinchilla-436.mypinata.cloud/ipfs/bafkreibgwiyign45ctuqbfg4sicvzngxvh352qtyekwzvjla7k3vffmcgq",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://erc8004.heyanon.ai/mcp/sky",
+        "version": "2025-06-18",
+        "capabilities": [
+          "tools"
+        ],
+        "tools": [
+          "stakeSTR",
+          "withdrawSTR",
+          "claimRewardSTR",
+          "exitSTR",
+          "depositSSR",
+          "withdrawSSR",
+          "convertToSharesSSR",
+          "convertToAssetsSSR",
+          "maxWithdrawSSR",
+          "redeemSSR",
+          "maxRedeemSSR",
+          "getStakedBalanceSTR",
+          "getPendingRewardSTR",
+          "rewardPerTokenSTR",
+          "getUserPositionOnSKY",
+          "getSkySupportedChains"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://heyanon.ai"
+      },
+      {
+        "name": "twitter",
+        "endpoint": "https://x.com/heyanonai"
+      },
+      {
+        "name": "telegram",
+        "endpoint": "https://t.me/realwagmi"
+      },
+      {
+        "name": "discord",
+        "endpoint": "https://discord.com/invite/realwagmi"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "x402Support": true,
+    "active": true,
+    "updatedAt": 1773838528,
+    "registrations": [
+      {
+        "agentId": 29059,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-03-18T14:26:28.505Z"
+}

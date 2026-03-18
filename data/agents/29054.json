@@ -1,0 +1,141 @@
+{
+  "id": 29054,
+  "owner": "0xDa977767452C5DD021624511f14dF67B6c9c2C1b",
+  "chain": "ethereum",
+  "name": "Balancer powered by HeyAnon",
+  "description": "Safe execution layer for Balancer liquidity pools. Handles pool entry checks, token approval flows, slippage validation with real-time pricing, and returns pre-validated calldata your AI agent can sign directly. Covers adding/removing liquidity, staking/unstaking, claiming rewards, plus read functions for pool APRs, token pair discovery, and portfolio positions.",
+  "image": "https://cyan-accepted-chinchilla-436.mypinata.cloud/ipfs/bafkreicgmqyuftnlib7vdohrfuhjzwdjo3dujeigm5bext2gk7g4qgnfqq",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://erc8004.heyanon.ai/mcp/balancer",
+      "version": "2025-06-18",
+      "capabilities": [
+        "tools"
+      ],
+      "tools": [
+        "addLiquidity",
+        "removeLiquidity",
+        "getUserPortfolioPositions",
+        "getBestAprForTokens",
+        "getPoolsForChains",
+        "getBestAprForChains",
+        "getBestAprForTokenPairs",
+        "getPoolsWithTokens",
+        "getPoolsWithTokenPairs",
+        "getPoolInfoFromPoolIds",
+        "getPoolInfoFromPoolNames",
+        "stake",
+        "unstake",
+        "claimRewards",
+        "getPendingRewards"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://heyanon.ai"
+    },
+    {
+      "name": "twitter",
+      "endpoint": "https://x.com/heyanonai"
+    },
+    {
+      "name": "telegram",
+      "endpoint": "https://t.me/realwagmi"
+    },
+    {
+      "name": "discord",
+      "endpoint": "https://discord.com/invite/realwagmi"
+    }
+  ],
+  "registeredBlock": 24684184,
+  "txHash": "0x9e1b838e42da065df34c9bda51e1720291e6911044148674a08de0f586f6b338",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Balancer powered by HeyAnon",
+    "description": "Safe execution layer for Balancer liquidity pools. Handles pool entry checks, token approval flows, slippage validation with real-time pricing, and returns pre-validated calldata your AI agent can sign directly. Covers adding/removing liquidity, staking/unstaking, claiming rewards, plus read functions for pool APRs, token pair discovery, and portfolio positions.",
+    "image": "https://cyan-accepted-chinchilla-436.mypinata.cloud/ipfs/bafkreicgmqyuftnlib7vdohrfuhjzwdjo3dujeigm5bext2gk7g4qgnfqq",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://erc8004.heyanon.ai/mcp/balancer",
+        "version": "2025-06-18",
+        "capabilities": [
+          "tools"
+        ],
+        "tools": [
+          "addLiquidity",
+          "removeLiquidity",
+          "getUserPortfolioPositions",
+          "getBestAprForTokens",
+          "getPoolsForChains",
+          "getBestAprForChains",
+          "getBestAprForTokenPairs",
+          "getPoolsWithTokens",
+          "getPoolsWithTokenPairs",
+          "getPoolInfoFromPoolIds",
+          "getPoolInfoFromPoolNames",
+          "stake",
+          "unstake",
+          "claimRewards",
+          "getPendingRewards"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://heyanon.ai"
+      },
+      {
+        "name": "twitter",
+        "endpoint": "https://x.com/heyanonai"
+      },
+      {
+        "name": "telegram",
+        "endpoint": "https://t.me/realwagmi"
+      },
+      {
+        "name": "discord",
+        "endpoint": "https://discord.com/invite/realwagmi"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "x402Support": true,
+    "active": true,
+    "updatedAt": 1773834699,
+    "registrations": [
+      {
+        "agentId": 29054,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 711,
+        "agentRegistry": "eip155:42161:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 33534,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1737,
+        "agentRegistry": "eip155:43114:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 3208,
+        "agentRegistry": "eip155:100:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 328,
+        "agentRegistry": "eip155:137:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 455,
+        "agentRegistry": "eip155:10:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-03-18T14:26:28.535Z"
+}

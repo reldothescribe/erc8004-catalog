@@ -1,0 +1,121 @@
+{
+  "id": 29056,
+  "owner": "0xDa977767452C5DD021624511f14dF67B6c9c2C1b",
+  "chain": "ethereum",
+  "name": "Beefy powered by HeyAnon",
+  "description": "Safe execution layer for Beefy yield vaults. Validates vault compatibility, checks deposit limits, handles token approvals, and returns pre-validated calldata for your AI agent to execute. Covers deposits, withdrawals, vault discovery by token/protocol/chain, vault details, and portfolio position queries.",
+  "image": "https://cyan-accepted-chinchilla-436.mypinata.cloud/ipfs/bafkreibsvtqhnmrp55n4kbop6blyvmzzyspcr3jfx6xrghwzouauvgspdu",
+  "active": true,
+  "x402Support": true,
+  "services": [
+    {
+      "name": "MCP",
+      "endpoint": "https://erc8004.heyanon.ai/mcp/beefy",
+      "version": "2025-06-18",
+      "capabilities": [
+        "tools"
+      ],
+      "tools": [
+        "getVaultsWithTokens",
+        "getVaultsWithProtocols",
+        "getVaultsWithChains",
+        "getVaultWithIds",
+        "getVaultWithNamesOrSymbols",
+        "getPortfolio",
+        "deposit",
+        "withdraw",
+        "getDescriptionBeefy"
+      ]
+    },
+    {
+      "name": "web",
+      "endpoint": "https://heyanon.ai"
+    },
+    {
+      "name": "twitter",
+      "endpoint": "https://x.com/heyanonai"
+    },
+    {
+      "name": "telegram",
+      "endpoint": "https://t.me/realwagmi"
+    },
+    {
+      "name": "discord",
+      "endpoint": "https://discord.com/invite/realwagmi"
+    }
+  ],
+  "registeredBlock": 24684256,
+  "txHash": "0x056f55a92293c102180972dab2d823aa7454e97cc61d6f134bc30e683017f360",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Beefy powered by HeyAnon",
+    "description": "Safe execution layer for Beefy yield vaults. Validates vault compatibility, checks deposit limits, handles token approvals, and returns pre-validated calldata for your AI agent to execute. Covers deposits, withdrawals, vault discovery by token/protocol/chain, vault details, and portfolio position queries.",
+    "image": "https://cyan-accepted-chinchilla-436.mypinata.cloud/ipfs/bafkreibsvtqhnmrp55n4kbop6blyvmzzyspcr3jfx6xrghwzouauvgspdu",
+    "services": [
+      {
+        "name": "MCP",
+        "endpoint": "https://erc8004.heyanon.ai/mcp/beefy",
+        "version": "2025-06-18",
+        "capabilities": [
+          "tools"
+        ],
+        "tools": [
+          "getVaultsWithTokens",
+          "getVaultsWithProtocols",
+          "getVaultsWithChains",
+          "getVaultWithIds",
+          "getVaultWithNamesOrSymbols",
+          "getPortfolio",
+          "deposit",
+          "withdraw",
+          "getDescriptionBeefy"
+        ]
+      },
+      {
+        "name": "web",
+        "endpoint": "https://heyanon.ai"
+      },
+      {
+        "name": "twitter",
+        "endpoint": "https://x.com/heyanonai"
+      },
+      {
+        "name": "telegram",
+        "endpoint": "https://t.me/realwagmi"
+      },
+      {
+        "name": "discord",
+        "endpoint": "https://discord.com/invite/realwagmi"
+      }
+    ],
+    "supportedTrust": [
+      "reputation"
+    ],
+    "x402Support": true,
+    "active": true,
+    "updatedAt": 1773835570,
+    "registrations": [
+      {
+        "agentId": 29056,
+        "agentRegistry": "eip155:1:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 45422,
+        "agentRegistry": "eip155:56:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 33537,
+        "agentRegistry": "eip155:8453:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 1738,
+        "agentRegistry": "eip155:43114:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      },
+      {
+        "agentId": 712,
+        "agentRegistry": "eip155:42161:0x8004A169FB4a3325136EB29fA0ceB6D2e539a432"
+      }
+    ]
+  },
+  "syncedAt": "2026-03-18T14:26:28.531Z"
+}
