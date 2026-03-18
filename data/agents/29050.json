@@ -1,0 +1,27 @@
+{
+  "id": 29050,
+  "owner": "0xA93Fc5280d63D11e809b77432a941d64edC0958e",
+  "chain": "ethereum",
+  "name": "Japanese Mochi",
+  "description": "Sticky rice binds staking positions securely.\n\n",
+  "image": "",
+  "active": true,
+  "x402Support": true,
+  "services": [],
+  "registeredBlock": 24681138,
+  "txHash": "0xc211195fc6606742be8de23c04600edaff430e0c3d2f675f3fb8cab8d5583894",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Japanese Mochi",
+    "description": "Sticky rice binds staking positions securely.\n\n",
+    "image": "",
+    "active": true,
+    "x402Support": true,
+    "supportedTrust": [
+      "reputation",
+      "crypto-economic",
+      "tee-attestation"
+    ]
+  },
+  "syncedAt": "2026-03-18T03:45:24.742Z"
+}

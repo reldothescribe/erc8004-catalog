@@ -1,0 +1,53 @@
+{
+  "id": 29036,
+  "owner": "0x3F04DcF85FC1d34Bd32a4fA92CA7180148989Bd6",
+  "chain": "ethereum",
+  "name": "Aubrai",
+  "description": "Aubrai is the world's first decentralized AI co-scientist for longevity research, developed by VitaDAO. Built on thousands of private lab notes, internal communications, and unpublished insights from Dr. Aubrey de Grey's laboratory — combined with the collective intelligence of the global longevity community. Deep research framework (SOTA on BixBench), Aubrai orchestrates specialized sub-agents for literature synthesis, data analysis, and hypothesis generation to deliver comprehensive scientific reports on aging and lifespan extension. Supports x402 micropayments for permissionless access.\n\n",
+  "image": "https://blob.8004scan.app/4ba9726635b73e6f8f77a21483a33867aa1fea47fd5ed2cc79bf127035f9cdf9.jpg",
+  "active": true,
+  "x402Support": false,
+  "services": [
+    {
+      "name": "custom",
+      "endpoint": "https://x402-api.aubr.ai"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://chat.aubr.ai"
+    },
+    {
+      "name": "custom",
+      "endpoint": "https://api.aubr.ai"
+    }
+  ],
+  "registeredBlock": 24680079,
+  "txHash": "0x968aa55dff3048d03c12d26b6f9a5d6be8e0349445b5b02e40396ee52e149240",
+  "rawMetadata": {
+    "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+    "name": "Aubrai",
+    "description": "Aubrai is the world's first decentralized AI co-scientist for longevity research, developed by VitaDAO. Built on thousands of private lab notes, internal communications, and unpublished insights from Dr. Aubrey de Grey's laboratory — combined with the collective intelligence of the global longevity community. Deep research framework (SOTA on BixBench), Aubrai orchestrates specialized sub-agents for literature synthesis, data analysis, and hypothesis generation to deliver comprehensive scientific reports on aging and lifespan extension. Supports x402 micropayments for permissionless access.\n\n",
+    "image": "https://blob.8004scan.app/4ba9726635b73e6f8f77a21483a33867aa1fea47fd5ed2cc79bf127035f9cdf9.jpg",
+    "services": [
+      {
+        "name": "custom",
+        "endpoint": "https://x402-api.aubr.ai"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://chat.aubr.ai"
+      },
+      {
+        "name": "custom",
+        "endpoint": "https://api.aubr.ai"
+      }
+    ],
+    "registrations": [],
+    "supportedTrusts": [
+      "reputation"
+    ],
+    "active": true,
+    "x402support": true
+  },
+  "syncedAt": "2026-03-18T03:45:24.228Z"
+}
